@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+pytrends>=4.9.2
+praw>=7.7.1
+google-api-python-client>=2.120.0
+pandas>=2.2.0
