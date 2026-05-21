@@ -47,10 +47,25 @@ NICHOS = {
     },
     "decoracao": {
         "label": "Decoração",
-        "google_kw": ["decoração sala", "decoração quarto", "home decor brasil", "minimalismo", "decoração apartamento"],
+        "google_kw": [
+            # Datas comemorativas (lote 1)
+            "páscoa", "natal", "festa junina", "dia das mães", "dia dos namorados",
+            # Mais datas (lote 2)
+            "dia dos pais", "ano novo", "para namorada", "para namorado", "presentes",
+            # Moldes e crafts (lote 3)
+            "molde", "letras", "etiquetas", "alfabeto", "máscara",
+            # Festa e papelaria (lote 4)
+            "bolo", "cartão", "painel", "festa",
+        ],
         "reddit_subs": ["brasil"],
-        "reddit_queries": ["decoração", "decor apartamento", "sala decorada"],
-        "youtube_queries": ["decoração sala 2025", "decorar apartamento pequeno", "tendências decoração"],
+        "reddit_queries": ["decoração festa", "molde páscoa", "decoração natal"],
+        "youtube_queries": [
+            "molde páscoa para imprimir",
+            "decoração natal faça você mesmo",
+            "como fazer painel de festa",
+            "molde de letras para decoração",
+            "festa junina decoração 2025",
+        ],
     },
     "educacao": {
         "label": "Educação",
@@ -269,15 +284,15 @@ TEMPLATES_NICHO = {
                        "{T} em alta: como aproveitar essa onda agora"],
     },
     "decoracao": {
-        "lista":      ["{n} ideias de {t} para transformar qualquer ambiente",
-                       "{n} truques de {t} que fazem toda a diferença",
-                       "{n} inspirações de {t} para copiar agora"],
-        "como_fazer": ["Como usar {t}: passo a passo completo para iniciantes",
-                       "{T}: como aplicar essa tendência na sua casa",
-                       "Guia de {t}: do básico ao incrível em {ano}"],
-        "tendencia":  ["Por que {t} está dominando a decoração em {ano}",
-                       "{T}: a tendência que vai transformar sua casa",
-                       "{T} em {ano}: o que está em alta nos interiores brasileiros"],
+        "lista":      ["{n} ideias de {t} para fazer em casa (com molde grátis)",
+                       "{n} modelos de {t} para imprimir e usar agora",
+                       "{n} inspirações de {t} que todo mundo está buscando"],
+        "como_fazer": ["Como fazer {t}: passo a passo fácil para iniciantes",
+                       "{T}: como criar em casa sem gastar muito",
+                       "Tudo sobre {t} em {ano}: moldes, ideias e tutoriais"],
+        "tendencia":  ["Por que {t} está entre as buscas mais quentes do Brasil",
+                       "{T}: as tendências que dominam em {ano}",
+                       "{T} em {ano}: o que está em alta e como aproveitar"],
     },
     "educacao": {
         "lista":      ["{n} dicas de {t} que vão mudar sua forma de estudar",
