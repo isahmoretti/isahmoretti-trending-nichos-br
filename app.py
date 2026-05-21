@@ -190,19 +190,6 @@ for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
 
         st.divider()
 
-        # Reddit
-        st.subheader("💬 Reddit — Posts Quentes da Semana")
-        posts = nicho.get("reddit", [])
-        if posts:
-            for post in posts[:8]:
-                with st.expander(f"⬆️ {post['upvotes']:,}  |  {post['titulo'][:90]}"):
-                    st.write(f"**Subreddit:** r/{post['subreddit']}  ·  **Comentários:** {post['comentarios']}")
-                    st.markdown(f"[Abrir no Reddit]({post['url']})")
-        else:
-            st.info("Configure `REDDIT_CLIENT_ID` e `REDDIT_CLIENT_SECRET` para ativar esta fonte.")
-
-        st.divider()
-
         # YouTube
         st.subheader("▶️ YouTube — Vídeos em Alta")
         videos = nicho.get("youtube", [])
