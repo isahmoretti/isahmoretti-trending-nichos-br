@@ -3,14 +3,13 @@ name: Coleta Diária de Tendências
 on:
   schedule:
     - cron: '0 10 * * *'  # 07h BRT (10h UTC)
-    workflow_dispatch:
+  workflow_dispatch:
     inputs:
       force:
         description: 'Sobrescrever dados do dia mesmo que já existam'
         required: false
         default: 'false'
         type: boolean
-
 jobs:
   collect:
     runs-on: ubuntu-latest
