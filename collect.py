@@ -27,10 +27,23 @@ NICHOS = {
     },
     "jardinagem": {
         "label": "Jardinagem",
-        "google_kw": ["jardinagem", "plantas em casa", "horta doméstica", "suculentas", "jardim vertical"],
+        "google_kw": [
+            # Plantas específicas (lote 1)
+            "rosa do deserto", "orquídea", "suculentas", "cactos", "trepadeiras",
+            # Intenções de busca (lote 2)
+            "como plantar", "como fazer muda", "como adubar", "podar", "replantar",
+            # Temas gerais (lote 3)
+            "flores", "jardim", "horta", "adubo", "o que plantar",
+            # Outros (lote 4)
+            "árvores", "plantas que",
+        ],
         "reddit_subs": ["jardinagem", "brasil"],
         "reddit_queries": ["jardinagem", "plantas em casa", "horta"],
-        "youtube_queries": ["jardinagem 2025", "plantas em casa", "horta doméstica"],
+        "youtube_queries": [
+            "rosa do deserto cuidados", "como plantar orquídea",
+            "suculentas para iniciantes", "horta em casa 2025",
+            "como fazer muda de plantas",
+        ],
     },
     "decoracao": {
         "label": "Decoração",
@@ -55,49 +68,78 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
         from pytrends.request import TrendReq
         pt = TrendReq(hl="pt-BR", tz=180)
 
-        # Interesse relativo entre as palavras-chave (mais estável que related_queries)
-        kws = nicho_data["google_kw"][:5]
-        pt.build_payload(kws, geo="BR", timeframe="today 3-m")
-        time.sleep(4)
+        all_kws = nicho_data["google_kw"]
+        interest_scores: dict[str, float] = {}
 
-        iot = pt.interest_over_time()
-        if not iot.empty:
-            media = iot[kws].mean().sort_values(ascending=False)
-            for kw, valor in media.items():
-                result["related_top"].append({
-                    "termo": kw,
-                    "valor": round(float(valor), 1),
-                    "base": "interesse médio 3 meses",
-                })
+        # ── Passo 1: interest_over_time em lotes de 5 ────────────────────────
+        for i in range(0, len(all_kws), 5):
+            lote = all_kws[i:i + 5]
+            try:
+                pt.build_payload(lote, geo="BR", timeframe="today 3-m")
+                time.sleep(5)
+                iot = pt.interest_over_time()
+                if not iot.empty:
+                    for kw in lote:
+                        if kw in iot.columns:
+                            interest_scores[kw] = round(float(iot[kw].mean()), 1)
+                time.sleep(6)
+            except Exception as e:
+                log.warning(f"Google Trends lote {lote} [{nicho_key}]: {e}")
+                time.sleep(10)
 
-        time.sleep(5)
+        # Salva ranking de interesse de todas as keywords
+        for kw, score in sorted(interest_scores.items(), key=lambda x: x[1], reverse=True):
+            result["related_top"].append({
+                "termo": kw,
+                "valor": score,
+                "base": "interesse médio 3 meses",
+            })
 
-        # Related queries para o termo principal do nicho
-        pt.build_payload([kws[0]], geo="BR", timeframe="today 3-m")
-        time.sleep(4)
-        related = pt.related_queries()
+        # ── Passo 2: related_queries para as top 3 keywords com mais volume ──
+        top_kws = [item["termo"] for item in result["related_top"][:3]]
+        seen_queries: set[str] = set()
 
-        data_kw = related.get(kws[0], {})
-        top_df = data_kw.get("top")
-        rising_df = data_kw.get("rising")
+        for kw in top_kws:
+            try:
+                pt.build_payload([kw], geo="BR", timeframe="today 3-m")
+                time.sleep(5)
+                related = pt.related_queries()
+                data_kw = related.get(kw, {})
 
-        if top_df is not None and not top_df.empty:
-            for _, row in top_df.head(15).iterrows():
-                result["trending"].append({
-                    "termo": row["query"],
-                    "valor": int(row["value"]),
-                })
+                top_df = data_kw.get("top")
+                rising_df = data_kw.get("rising")
 
-        if rising_df is not None and not rising_df.empty:
-            for _, row in rising_df.head(10).iterrows():
-                result["related_rising"].append({
-                    "termo": row["query"],
-                    "valor": str(row["value"]),
-                    "base": kws[0],
-                })
+                if top_df is not None and not top_df.empty:
+                    for _, row in top_df.head(15).iterrows():
+                        q = row["query"]
+                        if q not in seen_queries:
+                            seen_queries.add(q)
+                            result["trending"].append({
+                                "termo": q,
+                                "valor": int(row["value"]),
+                                "base": kw,
+                            })
 
-        time.sleep(3)
-        log.info(f"Google Trends [{nicho_key}]: {len(result['related_top'])} kws, {len(result['trending'])} queries, {len(result['related_rising'])} rising")
+                if rising_df is not None and not rising_df.empty:
+                    for _, row in rising_df.head(8).iterrows():
+                        q = row["query"]
+                        if q not in seen_queries:
+                            seen_queries.add(q)
+                            result["related_rising"].append({
+                                "termo": q,
+                                "valor": str(row["value"]),
+                                "base": kw,
+                            })
+
+                time.sleep(7)
+            except Exception as e:
+                log.warning(f"Google Trends related_queries '{kw}' [{nicho_key}]: {e}")
+                time.sleep(12)
+
+        log.info(
+            f"Google Trends [{nicho_key}]: {len(result['related_top'])} keywords, "
+            f"{len(result['trending'])} variações, {len(result['related_rising'])} rising"
+        )
 
     except Exception as e:
         log.error(f"Google Trends [{nicho_key}] falhou: {e}")

@@ -158,13 +158,16 @@ for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
         c1, c2, c3 = st.columns([1, 2, 2])
 
         with c1:
-            st.markdown("**🔥 Trending hoje no Brasil**")
+            st.markdown("**🔍 Variações com volume de busca**")
             trending = gt.get("trending", [])
             if trending:
-                for t in trending[:10]:
-                    st.markdown(f"- {t}")
+                df_t = pd.DataFrame(trending).rename(
+                    columns={"termo": "Variação", "valor": "Score", "base": "Semente"}
+                )
+                cols_show = [c for c in ["Variação", "Score", "Semente"] if c in df_t.columns]
+                st.dataframe(df_t[cols_show].head(15), hide_index=True, use_container_width=True)
             else:
-                st.caption("Nenhum termo capturado")
+                st.caption("Nenhuma variação capturada")
 
         with c2:
             st.markdown("**📈 Mais buscados (7 dias)**")
