@@ -69,10 +69,33 @@ NICHOS = {
     },
     "educacao": {
         "label": "Educação",
-        "google_kw": ["concurso público 2025", "curso online gratuito", "vestibular 2025", "educação infantil", "homeschooling brasil"],
-        "reddit_subs": ["vestibular", "concursospublicos", "brasil"],
-        "reddit_queries": ["concurso público", "vestibular", "educação"],
-        "youtube_queries": ["estudar em casa", "técnicas de estudo", "curso gratuito 2025"],
+        "google_kw": [
+            # Fundamentos (lote 1)
+            "atividades", "alfabetização", "para imprimir", "educação infantil", "plano de aula",
+            # Conteúdo escolar (lote 2)
+            "ditado", "jogo", "matemática", "bncc", "tabuada",
+            # Disciplinas (lote 3)
+            "artes", "divisão", "multiplicação", "pintura", "meio ambiente",
+            # Mais disciplinas (lote 4)
+            "interpretação", "geografia", "ciências", "história", "caligrafia",
+            # Língua portuguesa (lote 5)
+            "alfabeto", "produção de texto", "portugues", "formas geométricas", "leitura",
+            # Materiais e anos (lote 6)
+            "fichas", "vogais", "sílabas", "números", "interpretação de texto",
+            # Anos escolares (lote 7)
+            "alfabetizar", "1 ano", "2 ano", "3 ano", "4 ano",
+            # Extra
+            "5 ano",
+        ],
+        "reddit_subs": ["vestibular", "brasil"],
+        "reddit_queries": ["educação infantil", "atividades para imprimir", "plano de aula"],
+        "youtube_queries": [
+            "atividades alfabetização para imprimir",
+            "plano de aula educação infantil bncc",
+            "tabuada para crianças",
+            "atividades matemática 1 ano",
+            "alfabetização jogos e atividades",
+        ],
     },
 }
 
@@ -295,15 +318,15 @@ TEMPLATES_NICHO = {
                        "{T} em {ano}: o que está em alta e como aproveitar"],
     },
     "educacao": {
-        "lista":      ["{n} dicas de {t} que vão mudar sua forma de estudar",
-                       "{n} estratégias de {t} usadas por quem passa em concursos",
-                       "{n} recursos gratuitos de {t} para usar hoje mesmo"],
-        "como_fazer": ["Como se preparar para {t}: rotina completa para {ano}",
-                       "{T}: o guia definitivo para quem quer resultados",
-                       "Tudo sobre {t}: estratégia, materiais e cronograma"],
-        "tendencia":  ["Por que {t} está em alta entre os brasileiros",
-                       "{T}: a aposta certa para {ano}",
-                       "{T} em {ano}: o que mudou e como se posicionar"],
+        "lista":      ["{n} atividades de {t} para imprimir e usar em sala de aula",
+                       "{n} ideias de {t} alinhadas à BNCC para educação infantil",
+                       "{n} fichas de {t} prontas para baixar e aplicar hoje"],
+        "como_fazer": ["Como trabalhar {t} em sala de aula: passo a passo completo",
+                       "{T}: atividades práticas para educação infantil e fundamental",
+                       "Plano de aula de {t}: modelo completo para {ano}"],
+        "tendencia":  ["Por que {t} está entre as buscas mais quentes de professores",
+                       "{T}: os materiais mais baixados por educadores em {ano}",
+                       "{T} em {ano}: novidades, recursos e atividades atualizadas"],
     },
 }
 
