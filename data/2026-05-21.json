@@ -6,34 +6,117 @@
       "label": "Atividades",
       "google_trends": {
         "trending": [
-          {"termo": "atividades para crianças 3 anos", "valor": 100},
-          {"termo": "atividades para crianças de 3 anos", "valor": 100},
-          {"termo": "atividades para crianças de 4 anos", "valor": 85},
-          {"termo": "atividades para crianças de 2 anos", "valor": 82},
-          {"termo": "atividades para crianças de 5 anos", "valor": 80},
-          {"termo": "atividades para crianças de 6 anos", "valor": 49},
-          {"termo": "atividades para crianças de 1 ano", "valor": 44},
-          {"termo": "atividades para crianças autistas", "valor": 43},
-          {"termo": "atividades para crianças especiais", "valor": 34},
-          {"termo": "atividades para crianças de 7 anos", "valor": 34},
-          {"termo": "atividades para crianças de 8 anos", "valor": 31},
-          {"termo": "atividades para crianças com autismo", "valor": 25},
-          {"termo": "atividades para crianças com tdah", "valor": 16}
+          {
+            "termo": "atividades para crianças 3 anos",
+            "valor": 100
+          },
+          {
+            "termo": "atividades para crianças de 3 anos",
+            "valor": 100
+          },
+          {
+            "termo": "atividades para crianças de 4 anos",
+            "valor": 85
+          },
+          {
+            "termo": "atividades para crianças de 2 anos",
+            "valor": 82
+          },
+          {
+            "termo": "atividades para crianças de 5 anos",
+            "valor": 80
+          },
+          {
+            "termo": "atividades para crianças de 6 anos",
+            "valor": 49
+          },
+          {
+            "termo": "atividades para crianças de 1 ano",
+            "valor": 44
+          },
+          {
+            "termo": "atividades para crianças autistas",
+            "valor": 43
+          },
+          {
+            "termo": "atividades para crianças especiais",
+            "valor": 34
+          },
+          {
+            "termo": "atividades para crianças de 7 anos",
+            "valor": 34
+          },
+          {
+            "termo": "atividades para crianças de 8 anos",
+            "valor": 31
+          },
+          {
+            "termo": "atividades para crianças com autismo",
+            "valor": 25
+          },
+          {
+            "termo": "atividades para crianças com tdah",
+            "valor": 16
+          }
         ],
         "related_top": [
-          {"termo": "atividades para crianças", "valor": 65.2, "base": "interesse médio 3 meses"},
-          {"termo": "atividades pedagógicas", "valor": 43.6, "base": "interesse médio 3 meses"},
-          {"termo": "atividades físicas", "valor": 31.3, "base": "interesse médio 3 meses"},
-          {"termo": "atividades lúdicas", "valor": 14.7, "base": "interesse médio 3 meses"},
-          {"termo": "atividades para idosos", "valor": 14.3, "base": "interesse médio 3 meses"},
-          {"termo": "atividades em casa", "valor": 10.7, "base": "interesse médio 3 meses"},
-          {"termo": "atividades manuais", "valor": 4.8, "base": "interesse médio 3 meses"},
-          {"termo": "atividades educativas", "valor": 3.0, "base": "interesse médio 3 meses"},
-          {"termo": "atividades recreativas", "valor": 2.6, "base": "interesse médio 3 meses"},
-          {"termo": "atividades ao ar livre", "valor": 1.5, "base": "interesse médio 3 meses"}
+          {
+            "termo": "atividades para crianças",
+            "valor": 65.2,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades pedagógicas",
+            "valor": 43.6,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades físicas",
+            "valor": 31.3,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades lúdicas",
+            "valor": 14.7,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades para idosos",
+            "valor": 14.3,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades em casa",
+            "valor": 10.7,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades manuais",
+            "valor": 4.8,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades educativas",
+            "valor": 3.0,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades recreativas",
+            "valor": 2.6,
+            "base": "interesse médio 3 meses"
+          },
+          {
+            "termo": "atividades ao ar livre",
+            "valor": 1.5,
+            "base": "interesse médio 3 meses"
+          }
         ],
         "related_rising": [
-          {"termo": "atividades para crianças de 1 ano", "valor": "+60%", "base": "atividades para crianças"}
+          {
+            "termo": "atividades para crianças de 1 ano",
+            "valor": "+60%",
+            "base": "atividades para crianças"
+          }
         ]
       },
       "reddit": [],
@@ -69,5 +152,177 @@
       "reddit": [],
       "youtube": []
     }
-  }
+  },
+  "pautas": [
+    {
+      "nicho": "Atividades",
+      "nicho_key": "atividades",
+      "termo_base": "atividades para crianças 3 anos",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 atividades para crianças 3 anos para experimentar em casa (sem gastar nada)",
+          "20 atividades para crianças 3 anos que ensinam e divertem ao mesmo tempo",
+          "As 20 melhores atividades para crianças 3 anos para fazer hoje, segundo especialistas"
+        ],
+        "como_fazer": [
+          "Como fazer atividades para crianças 3 anos: guia completo passo a passo",
+          "Atividades para crianças 3 anos: como estimular o desenvolvimento de forma divertida",
+          "Atividades para crianças 3 anos: tudo que você precisa saber em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades para crianças 3 anos está em alta no Brasil agora",
+          "Atividades para crianças 3 anos: a busca que explodiu no Google esta semana",
+          "Atividades para crianças 3 anos em 2026: o que mudou e o que esperar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para crianças 3 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de criança em atividade converte mais que ilustração",
+        "Mencione faixa etária no título — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Atividades",
+      "nicho_key": "atividades",
+      "termo_base": "atividades para crianças de 3 anos",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 atividades para crianças de 3 anos para experimentar em casa (sem gastar nada)",
+          "20 atividades para crianças de 3 anos que ensinam e divertem ao mesmo tempo",
+          "As 20 melhores atividades para crianças de 3 anos para fazer hoje, segundo especialistas"
+        ],
+        "como_fazer": [
+          "Como fazer atividades para crianças de 3 anos: guia completo passo a passo",
+          "Atividades para crianças de 3 anos: como estimular o desenvolvimento de forma divertida",
+          "Atividades para crianças de 3 anos: tudo que você precisa saber em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades para crianças de 3 anos está em alta no Brasil agora",
+          "Atividades para crianças de 3 anos: a busca que explodiu no Google esta semana",
+          "Atividades para crianças de 3 anos em 2026: o que mudou e o que esperar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para crianças de 3 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de criança em atividade converte mais que ilustração",
+        "Mencione faixa etária no título — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Atividades",
+      "nicho_key": "atividades",
+      "termo_base": "atividades para crianças de 4 anos",
+      "score": 85.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 atividades para crianças de 4 anos para experimentar em casa (sem gastar nada)",
+          "20 atividades para crianças de 4 anos que ensinam e divertem ao mesmo tempo",
+          "As 20 melhores atividades para crianças de 4 anos para fazer hoje, segundo especialistas"
+        ],
+        "como_fazer": [
+          "Como fazer atividades para crianças de 4 anos: guia completo passo a passo",
+          "Atividades para crianças de 4 anos: como estimular o desenvolvimento de forma divertida",
+          "Atividades para crianças de 4 anos: tudo que você precisa saber em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades para crianças de 4 anos está em alta no Brasil agora",
+          "Atividades para crianças de 4 anos: a busca que explodiu no Google esta semana",
+          "Atividades para crianças de 4 anos em 2026: o que mudou e o que esperar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para crianças de 4 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de criança em atividade converte mais que ilustração",
+        "Mencione faixa etária no título — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Atividades",
+      "nicho_key": "atividades",
+      "termo_base": "atividades para crianças de 2 anos",
+      "score": 82.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 atividades para crianças de 2 anos para experimentar em casa (sem gastar nada)",
+          "20 atividades para crianças de 2 anos que ensinam e divertem ao mesmo tempo",
+          "As 20 melhores atividades para crianças de 2 anos para fazer hoje, segundo especialistas"
+        ],
+        "como_fazer": [
+          "Como fazer atividades para crianças de 2 anos: guia completo passo a passo",
+          "Atividades para crianças de 2 anos: como estimular o desenvolvimento de forma divertida",
+          "Atividades para crianças de 2 anos: tudo que você precisa saber em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades para crianças de 2 anos está em alta no Brasil agora",
+          "Atividades para crianças de 2 anos: a busca que explodiu no Google esta semana",
+          "Atividades para crianças de 2 anos em 2026: o que mudou e o que esperar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para crianças de 2 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de criança em atividade converte mais que ilustração",
+        "Mencione faixa etária no título — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Atividades",
+      "nicho_key": "atividades",
+      "termo_base": "atividades para crianças de 5 anos",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 atividades para crianças de 5 anos para experimentar em casa (sem gastar nada)",
+          "20 atividades para crianças de 5 anos que ensinam e divertem ao mesmo tempo",
+          "As 20 melhores atividades para crianças de 5 anos para fazer hoje, segundo especialistas"
+        ],
+        "como_fazer": [
+          "Como fazer atividades para crianças de 5 anos: guia completo passo a passo",
+          "Atividades para crianças de 5 anos: como estimular o desenvolvimento de forma divertida",
+          "Atividades para crianças de 5 anos: tudo que você precisa saber em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades para crianças de 5 anos está em alta no Brasil agora",
+          "Atividades para crianças de 5 anos: a busca que explodiu no Google esta semana",
+          "Atividades para crianças de 5 anos em 2026: o que mudou e o que esperar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para crianças de 5 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de criança em atividade converte mais que ilustração",
+        "Mencione faixa etária no título — aumenta clique qualificado"
+      ]
+    }
+  ]
 }

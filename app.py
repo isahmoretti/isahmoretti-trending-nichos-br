@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 st.title("📊 Tendências Diárias — Nichos BR")
-st.caption("Jardinagem · Decoração · Educação")
+st.caption("Jardinagem · Decoração · Educação · Atividades")
 
 
 @st.cache_data(ttl=3600)
@@ -51,22 +51,100 @@ st.caption(f"Coleta realizada em: {data.get('collected_at', '—')} UTC")
 
 # ── Métricas rápidas ──────────────────────────────────────────────────────────
 
-cols = st.columns(3)
+total_pautas = len(data.get("pautas", []))
+cols = st.columns(4)
 for col, (key, cfg) in zip(cols, NICHOS.items()):
     nicho = data["nichos"].get(key, {})
     gt = nicho.get("google_trends", {})
-    total_termos = len(gt.get("related_top", [])) + len(gt.get("related_rising", []))
-    total_reddit = len(nicho.get("reddit", []))
+    total_termos = len(gt.get("related_top", [])) + len(gt.get("trending", []))
     total_yt = len(nicho.get("youtube", []))
-    col.metric(cfg["label"], f"{total_termos} termos", f"{total_reddit} posts · {total_yt} vídeos")
+    col.metric(cfg["label"], f"{total_termos} termos", f"{total_yt} vídeos")
 
 st.divider()
 
+# ── Tabs ──────────────────────────────────────────────────────────────────────
+
+tab_labels = ["📝 Pautas para Discover"] + [cfg["label"] for cfg in NICHOS.values()]
+tabs = st.tabs(tab_labels)
+
+# ── Aba Pautas ────────────────────────────────────────────────────────────────
+
+URGENCIA_COR = {"🔥 Alta": "#e63946", "⬆️ Média": "#f4a261", "📈 Normal": "#2a9d8f"}
+
+with tabs[0]:
+    pautas = data.get("pautas", [])
+    if not pautas:
+        st.info("Pautas serão geradas automaticamente na próxima coleta.")
+    else:
+        st.markdown(f"**{len(pautas)} sugestões de pauta** otimizadas para o Google Discover — ordenadas por potencial.")
+        st.divider()
+
+        filtro_nicho = st.multiselect(
+            "Filtrar por nicho",
+            options=list({p["nicho"] for p in pautas}),
+            default=list({p["nicho"] for p in pautas}),
+        )
+        pautas_filtradas = [p for p in pautas if p["nicho"] in filtro_nicho]
+
+        for p in pautas_filtradas:
+            cor = URGENCIA_COR.get(p["urgencia"], "#888")
+            with st.expander(
+                f"{p['urgencia']}  ·  **{p['nicho']}**  ·  Score {p['score']}  —  _{p['termo_base']}_"
+            ):
+                c1, c2 = st.columns([3, 2])
+
+                with c1:
+                    st.markdown("**Títulos sugeridos — Lista**")
+                    for titulo in p["titulos"].get("lista", []):
+                        st.markdown(f"- {titulo}")
+
+                    st.markdown("**Títulos sugeridos — Como Fazer**")
+                    for titulo in p["titulos"].get("como_fazer", []):
+                        st.markdown(f"- {titulo}")
+
+                    st.markdown("**Títulos — Tendência**")
+                    for titulo in p["titulos"].get("tendencia", []):
+                        st.markdown(f"- {titulo}")
+
+                with c2:
+                    st.markdown("**Detalhes da pauta**")
+                    st.markdown(f"- **Formato:** {p.get('formato_recomendado', '—')}")
+                    st.markdown(f"- **Tamanho:** {p.get('tamanho', '—')}")
+                    st.markdown(f"- **Imagem:** {p.get('imagem', '—')}")
+
+                    st.markdown("**Dicas Google Discover**")
+                    for dica in p.get("dicas_discover", []):
+                        st.markdown(f"- {dica}")
+
+        # Botão para exportar como CSV
+        if pautas_filtradas:
+            import pandas as pd
+            rows = []
+            for p in pautas_filtradas:
+                for fmt, titulos in p["titulos"].items():
+                    for titulo in titulos:
+                        rows.append({
+                            "Nicho": p["nicho"],
+                            "Termo base": p["termo_base"],
+                            "Score": p["score"],
+                            "Urgência": p["urgencia"],
+                            "Formato": fmt,
+                            "Título sugerido": titulo,
+                        })
+            df_export = pd.DataFrame(rows)
+            st.divider()
+            st.download_button(
+                "⬇️ Baixar todas as pautas (.csv)",
+                df_export.to_csv(index=False).encode("utf-8"),
+                file_name=f"pautas-discover-{selected_date}.csv",
+                mime="text/csv",
+            )
+
 # ── Tabs por nicho ────────────────────────────────────────────────────────────
 
-tabs = st.tabs([cfg["label"] for cfg in NICHOS.values()])
+nicho_tabs = tabs[1:]
 
-for tab, (key, cfg) in zip(tabs, NICHOS.items()):
+for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
     with tab:
         nicho = data["nichos"].get(key, {})
         if not nicho:

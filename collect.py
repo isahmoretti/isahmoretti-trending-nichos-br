@@ -203,6 +203,139 @@ def collect_youtube(nicho_key: str, nicho_data: dict) -> list:
         return []
 
 
+TEMPLATES_NICHO = {
+    "atividades": {
+        "lista":      ["{n} {t} para experimentar em casa (sem gastar nada)",
+                       "{n} {t} que ensinam e divertem ao mesmo tempo",
+                       "As {n} melhores {t} para fazer hoje, segundo especialistas"],
+        "como_fazer": ["Como fazer {t}: guia completo passo a passo",
+                       "{T}: como estimular o desenvolvimento de forma divertida",
+                       "{T}: tudo que você precisa saber em {ano}"],
+        "tendencia":  ["Por que {t} está em alta no Brasil agora",
+                       "{T}: a busca que explodiu no Google esta semana",
+                       "{T} em {ano}: o que mudou e o que esperar"],
+    },
+    "jardinagem": {
+        "lista":      ["{n} dicas de {t} para quem está começando do zero",
+                       "{n} erros em {t} que matam suas plantas (evite estes)",
+                       "{n} ideias de {t} baratas para fazer neste fim de semana"],
+        "como_fazer": ["Como fazer {t} em casa: passo a passo para iniciantes",
+                       "{T}: o guia definitivo para {ano}",
+                       "Tudo sobre {t}: dicas, cuidados e erros comuns"],
+        "tendencia":  ["Por que {t} virou febre nas redes sociais",
+                       "{T}: a tendência que domina os jardins em {ano}",
+                       "{T} em alta: como aproveitar essa onda agora"],
+    },
+    "decoracao": {
+        "lista":      ["{n} ideias de {t} para transformar qualquer ambiente",
+                       "{n} truques de {t} que fazem toda a diferença",
+                       "{n} inspirações de {t} para copiar agora"],
+        "como_fazer": ["Como usar {t}: passo a passo completo para iniciantes",
+                       "{T}: como aplicar essa tendência na sua casa",
+                       "Guia de {t}: do básico ao incrível em {ano}"],
+        "tendencia":  ["Por que {t} está dominando a decoração em {ano}",
+                       "{T}: a tendência que vai transformar sua casa",
+                       "{T} em {ano}: o que está em alta nos interiores brasileiros"],
+    },
+    "educacao": {
+        "lista":      ["{n} dicas de {t} que vão mudar sua forma de estudar",
+                       "{n} estratégias de {t} usadas por quem passa em concursos",
+                       "{n} recursos gratuitos de {t} para usar hoje mesmo"],
+        "como_fazer": ["Como se preparar para {t}: rotina completa para {ano}",
+                       "{T}: o guia definitivo para quem quer resultados",
+                       "Tudo sobre {t}: estratégia, materiais e cronograma"],
+        "tendencia":  ["Por que {t} está em alta entre os brasileiros",
+                       "{T}: a aposta certa para {ano}",
+                       "{T} em {ano}: o que mudou e como se posicionar"],
+    },
+}
+
+DICAS_DISCOVER_BASE = [
+    "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+    "Imagem mínima 1200×628 px, sem texto sobreposto",
+    "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+    "Primeiros 2 parágrafos devem responder diretamente à busca",
+    "Inclua a data ou ano no título para sinalizar atualidade",
+]
+
+DICAS_POR_NICHO = {
+    "atividades": ["Foto real de criança em atividade converte mais que ilustração",
+                   "Mencione faixa etária no título — aumenta clique qualificado"],
+    "jardinagem": ["Foto do resultado final (planta/jardim bonito) gera mais cliques",
+                   "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"],
+    "decoracao":  ["Imagem antes/depois tem CTR 40% maior no Discover",
+                   "Mostre ambiente real, não renderização — mais engajamento"],
+    "educacao":   ["Mencione concurso ou vestibular específico para tráfego qualificado",
+                   "Inclua prazo ou data ('em 3 meses', '2026') — aumenta urgência"],
+}
+
+
+def _gera_titulos(termo: str, nicho_key: str, ano: int, n: int) -> dict:
+    t = termo.strip()
+    T = t[0].upper() + t[1:]
+    templates = TEMPLATES_NICHO.get(nicho_key, TEMPLATES_NICHO["educacao"])
+
+    def fill(tpl):
+        return tpl.format(t=t, T=T, n=n, ano=ano)
+
+    return {
+        "lista":      [fill(tpl) for tpl in templates["lista"]],
+        "como_fazer": [fill(tpl) for tpl in templates["como_fazer"]],
+        "tendencia":  [fill(tpl) for tpl in templates["tendencia"]],
+    }
+
+
+def generate_pautas(result: dict) -> list:
+    ano = datetime.utcnow().year
+    pautas = []
+
+    for nicho_key, nicho_data in result.get("nichos", {}).items():
+        gt = nicho_data.get("google_trends", {})
+
+        # Monta pool de termos com score
+        pool = []
+        for item in gt.get("trending", []):
+            if isinstance(item, dict):
+                pool.append({"termo": item["termo"], "score": float(item.get("valor", 50))})
+        for item in gt.get("related_top", []):
+            pool.append({"termo": item["termo"], "score": float(item.get("valor", 10))})
+        for item in gt.get("related_rising", []):
+            pool.append({"termo": item["termo"], "score": 60.0})  # rising = oportunidade
+
+        # Deduplica e ordena
+        seen = set()
+        pool_uniq = []
+        for it in sorted(pool, key=lambda x: x["score"], reverse=True):
+            if it["termo"] not in seen:
+                seen.add(it["termo"])
+                pool_uniq.append(it)
+
+        for item in pool_uniq[:5]:
+            score = item["score"]
+            n_itens = 20 if score >= 70 else 15 if score >= 30 else 10
+            urgencia = "🔥 Alta" if score >= 70 else "⬆️ Média" if score >= 30 else "📈 Normal"
+
+            titulos = _gera_titulos(item["termo"], nicho_key, ano, n_itens)
+            dicas = DICAS_DISCOVER_BASE[:3] + DICAS_POR_NICHO.get(nicho_key, [])
+
+            pautas.append({
+                "nicho": nicho_data.get("label", nicho_key),
+                "nicho_key": nicho_key,
+                "termo_base": item["termo"],
+                "score": score,
+                "urgencia": urgencia,
+                "titulos": titulos,
+                "formato_recomendado": "Lista" if score >= 50 else "Como fazer",
+                "tamanho": "1.800 a 2.500 palavras",
+                "imagem": f"Foto real relacionada a '{item['termo']}' — sem texto, alta resolução",
+                "dicas_discover": dicas,
+            })
+
+    pautas.sort(key=lambda x: x["score"], reverse=True)
+    log.info(f"Pautas geradas: {len(pautas)}")
+    return pautas
+
+
 def main():
     today = date.today().isoformat()
     output_file = DATA_DIR / f"{today}.json"
@@ -228,6 +361,8 @@ def main():
             "youtube": collect_youtube(key, nicho),
         }
         time.sleep(5)
+
+    result["pautas"] = generate_pautas(result)
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
