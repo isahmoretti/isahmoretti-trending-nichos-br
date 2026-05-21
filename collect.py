@@ -69,32 +69,30 @@ NICHOS = {
     },
     "educacao": {
         "label": "Educação",
+        # Seeds com volume comprovado — fonte: SEMrush educador.com.br
         "google_kw": [
-            # Fundamentos (lote 1)
-            "atividades", "alfabetização", "para imprimir", "educação infantil", "plano de aula",
-            # Conteúdo escolar (lote 2)
-            "ditado", "jogo", "matemática", "bncc", "tabuada",
-            # Disciplinas (lote 3)
-            "artes", "divisão", "multiplicação", "pintura", "meio ambiente",
-            # Mais disciplinas (lote 4)
-            "interpretação", "geografia", "ciências", "história", "caligrafia",
-            # Língua portuguesa (lote 5)
-            "alfabeto", "produção de texto", "portugues", "formas geométricas", "leitura",
-            # Materiais e anos (lote 6)
-            "fichas", "vogais", "sílabas", "números", "interpretação de texto",
-            # Anos escolares (lote 7)
-            "alfabetizar", "1 ano", "2 ano", "3 ano", "4 ano",
-            # Extra
-            "5 ano",
+            # Lote 1 — alfabetização (74k–33k)
+            "atividades de alfabetização", "alfabeto para imprimir",
+            "atividades educação infantil", "tabuada para imprimir", "ditado de palavras",
+            # Lote 2 — português e matemática (22k–14k)
+            "atividade de português", "letras para imprimir",
+            "atividade de matemática 1 ano", "plano de aula educação infantil",
+            "interpretação de texto 5 ano",
+            # Lote 3 — conteúdo escolar (14k–12k)
+            "atividades de matemática 3 ano", "contas de divisão",
+            "atividade dia dos pais", "numeros para imprimir", "caligrafia para imprimir",
+            # Lote 4 — materiais visuais (9k)
+            "relatório educação infantil", "atividade alfabeto",
+            "bandeira do brasil para colorir", "vogais para imprimir", "atividade de artes",
         ],
         "reddit_subs": ["vestibular", "brasil"],
         "reddit_queries": ["educação infantil", "atividades para imprimir", "plano de aula"],
         "youtube_queries": [
-            "atividades alfabetização para imprimir",
+            "atividades de alfabetização para imprimir",
+            "tabuada para imprimir completa",
             "plano de aula educação infantil bncc",
-            "tabuada para crianças",
-            "atividades matemática 1 ano",
-            "alfabetização jogos e atividades",
+            "atividades de matemática 1 ano",
+            "ditado de palavras para crianças",
         ],
     },
 }
