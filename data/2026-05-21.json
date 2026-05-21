@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-21",
+  "collected_at": "2026-05-21T14:55:15.736452",
+  "nichos": {
+    "atividades": {
+      "label": "Atividades",
+      "google_trends": {
+        "trending": [
+          {"termo": "atividades para crianças 3 anos", "valor": 100},
+          {"termo": "atividades para crianças de 3 anos", "valor": 100},
+          {"termo": "atividades para crianças de 4 anos", "valor": 85},
+          {"termo": "atividades para crianças de 2 anos", "valor": 82},
+          {"termo": "atividades para crianças de 5 anos", "valor": 80},
+          {"termo": "atividades para crianças de 6 anos", "valor": 49},
+          {"termo": "atividades para crianças de 1 ano", "valor": 44},
+          {"termo": "atividades para crianças autistas", "valor": 43},
+          {"termo": "atividades para crianças especiais", "valor": 34},
+          {"termo": "atividades para crianças de 7 anos", "valor": 34},
+          {"termo": "atividades para crianças de 8 anos", "valor": 31},
+          {"termo": "atividades para crianças com autismo", "valor": 25},
+          {"termo": "atividades para crianças com tdah", "valor": 16}
+        ],
+        "related_top": [
+          {"termo": "atividades para crianças", "valor": 65.2, "base": "interesse médio 3 meses"},
+          {"termo": "atividades pedagógicas", "valor": 43.6, "base": "interesse médio 3 meses"},
+          {"termo": "atividades físicas", "valor": 31.3, "base": "interesse médio 3 meses"},
+          {"termo": "atividades lúdicas", "valor": 14.7, "base": "interesse médio 3 meses"},
+          {"termo": "atividades para idosos", "valor": 14.3, "base": "interesse médio 3 meses"},
+          {"termo": "atividades em casa", "valor": 10.7, "base": "interesse médio 3 meses"},
+          {"termo": "atividades manuais", "valor": 4.8, "base": "interesse médio 3 meses"},
+          {"termo": "atividades educativas", "valor": 3.0, "base": "interesse médio 3 meses"},
+          {"termo": "atividades recreativas", "valor": 2.6, "base": "interesse médio 3 meses"},
+          {"termo": "atividades ao ar livre", "valor": 1.5, "base": "interesse médio 3 meses"}
+        ],
+        "related_rising": [
+          {"termo": "atividades para crianças de 1 ano", "valor": "+60%", "base": "atividades para crianças"}
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Educação",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  }
+}

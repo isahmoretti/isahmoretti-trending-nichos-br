@@ -55,46 +55,49 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
         from pytrends.request import TrendReq
         pt = TrendReq(hl="pt-BR", tz=180)
 
-        # Trending searches gerais no Brasil, filtra por palavras do nicho
-        trending_df = pt.trending_searches(pn="brazil")
-        kw_words = set()
-        for kw in nicho_data["google_kw"]:
-            kw_words.update(w for w in kw.lower().split() if len(w) > 3)
+        # Interesse relativo entre as palavras-chave (mais estável que related_queries)
+        kws = nicho_data["google_kw"][:5]
+        pt.build_payload(kws, geo="BR", timeframe="today 3-m")
+        time.sleep(4)
 
-        for term in trending_df[0].tolist():
-            if any(w in term.lower() for w in kw_words):
-                result["trending"].append(term)
+        iot = pt.interest_over_time()
+        if not iot.empty:
+            media = iot[kws].mean().sort_values(ascending=False)
+            for kw, valor in media.items():
+                result["related_top"].append({
+                    "termo": kw,
+                    "valor": round(float(valor), 1),
+                    "base": "interesse médio 3 meses",
+                })
 
-        time.sleep(2)
+        time.sleep(5)
 
-        # Related queries por palavra-chave base
-        pt.build_payload(nicho_data["google_kw"][:5], geo="BR", timeframe="now 7-d")
+        # Related queries para o termo principal do nicho
+        pt.build_payload([kws[0]], geo="BR", timeframe="today 3-m")
+        time.sleep(4)
         related = pt.related_queries()
 
-        for kw in nicho_data["google_kw"][:5]:
-            if not related.get(kw):
-                continue
-            top_df = related[kw].get("top")
-            rising_df = related[kw].get("rising")
+        data_kw = related.get(kws[0], {})
+        top_df = data_kw.get("top")
+        rising_df = data_kw.get("rising")
 
-            if top_df is not None and not top_df.empty:
-                for _, row in top_df.head(5).iterrows():
-                    result["related_top"].append({
-                        "termo": row["query"],
-                        "valor": int(row["value"]),
-                        "base": kw,
-                    })
+        if top_df is not None and not top_df.empty:
+            for _, row in top_df.head(15).iterrows():
+                result["trending"].append({
+                    "termo": row["query"],
+                    "valor": int(row["value"]),
+                })
 
-            if rising_df is not None and not rising_df.empty:
-                for _, row in rising_df.head(5).iterrows():
-                    result["related_rising"].append({
-                        "termo": row["query"],
-                        "valor": str(row["value"]),
-                        "base": kw,
-                    })
+        if rising_df is not None and not rising_df.empty:
+            for _, row in rising_df.head(10).iterrows():
+                result["related_rising"].append({
+                    "termo": row["query"],
+                    "valor": str(row["value"]),
+                    "base": kws[0],
+                })
 
         time.sleep(3)
-        log.info(f"Google Trends [{nicho_key}]: {len(result['related_top'])} top, {len(result['related_rising'])} rising")
+        log.info(f"Google Trends [{nicho_key}]: {len(result['related_top'])} kws, {len(result['trending'])} queries, {len(result['related_rising'])} rising")
 
     except Exception as e:
         log.error(f"Google Trends [{nicho_key}] falhou: {e}")
