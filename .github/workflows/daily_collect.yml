@@ -3,7 +3,13 @@ name: Coleta Diária de Tendências
 on:
   schedule:
     - cron: '0 10 * * *'  # 07h BRT (10h UTC)
-  workflow_dispatch:       # permite rodar manualmente pelo GitHub
+    workflow_dispatch:
+    inputs:
+      force:
+        description: 'Sobrescrever dados do dia mesmo que já existam'
+        required: false
+        default: 'false'
+        type: boolean
 
 jobs:
   collect:
@@ -31,7 +37,7 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python collect.py
+        run: python collect.py ${{ github.event.inputs.force == 'true' && '--force' || '' }}
 
       - name: Commit dos dados coletados
         run: |
