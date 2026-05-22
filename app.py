@@ -10,6 +10,7 @@ NICHOS = {
     "jardinagem": {"label": "🌱 Jardinagem", "cor": "#2d6a4f"},
     "decoracao":  {"label": "🏡 Decoração",  "cor": "#b5838d"},
     "educacao":   {"label": "📚 Educação",   "cor": "#457b9d"},
+    "pet":        {"label": "🐾 Pet",        "cor": "#f4a261"},
 }
 
 st.set_page_config(
@@ -19,7 +20,7 @@ st.set_page_config(
 )
 
 st.title("📊 Tendências Diárias — Nichos BR")
-st.caption("Jardinagem · Decoração · Educação · Atividades")
+st.caption("Jardinagem · Decoração · Educação · Atividades · Pet")
 
 
 @st.cache_data(ttl=3600)
@@ -52,7 +53,7 @@ st.caption(f"Coleta realizada em: {data.get('collected_at', '—')} UTC")
 # ── Métricas rápidas ──────────────────────────────────────────────────────────
 
 total_pautas = len(data.get("pautas", []))
-cols = st.columns(4)
+cols = st.columns(5)
 for col, (key, cfg) in zip(cols, NICHOS.items()):
     nicho = data["nichos"].get(key, {})
     gt = nicho.get("google_trends", {})
@@ -155,41 +156,37 @@ for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
         st.subheader("🔍 Google Trends")
         gt = nicho.get("google_trends", {})
 
-        c1, c2, c3 = st.columns([1, 2, 2])
+        c1, c2 = st.columns([3, 2])
 
         with c1:
-            st.markdown("**🔍 Variações com volume de busca**")
-            trending = gt.get("trending", [])
-            if trending:
-                df_t = pd.DataFrame(trending).rename(
-                    columns={"termo": "Variação", "valor": "Score", "base": "Semente"}
+            st.markdown("**📈 Variações mais buscadas**")
+            top = gt.get("related_top", [])
+            if top:
+                df = pd.DataFrame(top).rename(
+                    columns={"termo": "Variação", "valor": "Score", "base": "Seed"}
                 )
-                cols_show = [c for c in ["Variação", "Score", "Semente"] if c in df_t.columns]
-                st.dataframe(df_t[cols_show].head(15), hide_index=True, use_container_width=True)
+                cols_show = [c for c in ["Variação", "Score", "Seed"] if c in df.columns]
+                st.dataframe(df[cols_show], hide_index=True, use_container_width=True)
             else:
                 st.caption("Nenhuma variação capturada")
 
         with c2:
-            st.markdown("**📈 Mais buscados (7 dias)**")
-            top = gt.get("related_top", [])
-            if top:
-                df = pd.DataFrame(top).rename(
-                    columns={"termo": "Termo", "valor": "Volume", "base": "Keyword base"}
-                )
-                st.dataframe(df, hide_index=True, use_container_width=True)
-            else:
-                st.caption("Sem dados")
-
-        with c3:
-            st.markdown("**🚀 Subindo agora (Rising)**")
+            st.markdown("**🚀 Subindo agora**")
             rising = gt.get("related_rising", [])
             if rising:
                 df = pd.DataFrame(rising).rename(
-                    columns={"termo": "Termo", "valor": "Crescimento", "base": "Keyword base"}
+                    columns={"termo": "Termo", "valor": "Crescimento", "base": "Seed"}
                 )
-                st.dataframe(df, hide_index=True, use_container_width=True)
+                cols_show = [c for c in ["Termo", "Crescimento", "Seed"] if c in df.columns]
+                st.dataframe(df[cols_show], hide_index=True, use_container_width=True)
             else:
                 st.caption("Sem dados")
+
+            seeds = gt.get("seeds", [])
+            if seeds:
+                st.markdown("**🌱 Seeds (interesse médio 3 meses)**")
+                df_s = pd.DataFrame(seeds).rename(columns={"termo": "Seed", "valor": "Score"})
+                st.dataframe(df_s.head(10), hide_index=True, use_container_width=True)
 
         st.divider()
 
@@ -207,4 +204,4 @@ for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
                     st.markdown(f"[Assistir ↗]({v['url']})")
                     st.markdown("---")
         else:
-            st.info("Configure `YOUTUBE_API_KEY` para ativar esta fonte.")
+            st.info("Nenhum vídeo coletado para esta data. Os vídeos aparecem após a coleta automática diária.")

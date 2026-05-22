@@ -20,42 +20,66 @@ DATA_DIR.mkdir(exist_ok=True)
 NICHOS = {
     "atividades": {
         "label": "Atividades",
-        "google_kw": ["atividades para crianças", "atividades pedagógicas", "atividades físicas", "atividades lúdicas", "atividades para idosos"],
+        "google_kw": [
+            # Lote 1 — faixa etária 0–4 anos
+            "atividades para bebê", "atividades para crianças de 1 ano", "atividades para crianças de 2 anos", "atividades para crianças de 3 anos", "atividades para crianças de 4 anos",
+            # Lote 2 — faixa etária 5–10 anos
+            "atividades para crianças de 5 anos", "atividades para crianças de 6 anos", "atividades para crianças de 7 anos", "atividades para crianças de 8 anos", "atividades para crianças de 10 anos",
+            # Lote 3 — tipos de atividades
+            "atividades pedagógicas", "atividades lúdicas", "atividades manuais", "atividades recreativas", "atividades educativas",
+            # Lote 4 — necessidades especiais e contextos
+            "atividades para crianças autistas", "atividades para crianças com tdah", "atividades em casa", "atividades ao ar livre", "atividades de férias",
+            # Lote 5 — outros públicos e formatos
+            "atividades para idosos", "atividades físicas", "atividades para adolescentes", "brincadeiras para crianças", "jogos educativos",
+        ],
         "reddit_subs": ["brasil", "educacao"],
         "reddit_queries": ["atividades para crianças", "atividades pedagógicas", "atividades físicas"],
-        "youtube_queries": ["atividades para crianças 2025", "atividades pedagógicas educação infantil", "atividades físicas em casa"],
+        "youtube_queries": [
+            "atividades para crianças em casa",
+            "atividades pedagógicas educação infantil",
+            "brincadeiras para crianças autistas",
+            "atividades físicas para idosos",
+            "jogos educativos para crianças",
+        ],
     },
     "jardinagem": {
         "label": "Jardinagem",
+        # Seeds baseadas em tráfego real do Google Discover (jardinagem.casaefesta.com)
         "google_kw": [
-            # Plantas específicas (lote 1)
-            "rosa do deserto", "orquídea", "suculentas", "cactos", "trepadeiras",
-            # Intenções de busca (lote 2)
-            "como plantar", "como fazer muda", "como adubar", "podar", "replantar",
-            # Temas gerais (lote 3)
-            "flores", "jardim", "horta", "adubo", "o que plantar",
-            # Outros (lote 4)
-            "árvores", "plantas que",
+            # Lote 1 — plantas com maior tráfego Discover
+            "rosa do deserto", "orquídea", "suculentas", "cactos", "jabuticaba",
+            # Lote 2 — frutíferas e propagação
+            "árvores frutíferas", "como fazer muda", "como plantar", "ervas e temperos", "plantas que",
+            # Lote 3 — temas gerais
+            "flores", "jardim", "horta", "o que plantar", "vegetais",
+            # Lote 4 — cuidados e jardim
+            "trepadeiras", "como regar", "como adubar", "folhagens", "paisagismo",
+            # Lote 5 — plantas populares adicionais
+            "costela de adão", "antúrio", "bromélias", "babosa", "monstera",
         ],
         "reddit_subs": ["jardinagem", "brasil"],
         "reddit_queries": ["jardinagem", "plantas em casa", "horta"],
         "youtube_queries": [
-            "rosa do deserto cuidados", "como plantar orquídea",
-            "suculentas para iniciantes", "horta em casa 2025",
+            "rosa do deserto cuidados",
+            "como plantar orquídea",
+            "suculentas para iniciantes",
+            "horta em casa",
             "como fazer muda de plantas",
         ],
     },
     "decoracao": {
         "label": "Decoração",
         "google_kw": [
-            # Datas comemorativas (lote 1)
+            # Lote 1 — datas comemorativas principais
             "páscoa", "natal", "festa junina", "dia das mães", "dia dos namorados",
-            # Mais datas (lote 2)
-            "dia dos pais", "ano novo", "para namorada", "para namorado", "presentes",
-            # Moldes e crafts (lote 3)
+            # Lote 2 — mais datas comemorativas
+            "dia dos pais", "ano novo", "halloween", "dia das crianças", "carnaval",
+            # Lote 3 — moldes e papelaria
             "molde", "letras", "etiquetas", "alfabeto", "máscara",
-            # Festa e papelaria (lote 4)
-            "bolo", "cartão", "painel", "festa",
+            # Lote 4 — festa e itens de papelaria
+            "bolo", "painel", "convite", "lembrança", "para imprimir",
+            # Lote 5 — materiais e crafts
+            "feltro", "eva", "cartão", "enfeite", "tag",
         ],
         "reddit_subs": ["brasil"],
         "reddit_queries": ["decoração festa", "molde páscoa", "decoração natal"],
@@ -64,7 +88,31 @@ NICHOS = {
             "decoração natal faça você mesmo",
             "como fazer painel de festa",
             "molde de letras para decoração",
-            "festa junina decoração 2025",
+            "festa junina decoração",
+        ],
+    },
+    "pet": {
+        "label": "Pet",
+        "google_kw": [
+            # Lote 1 — suplementos diretos (intenção de compra)
+            "suplemento para cachorro", "vitamina para cachorro", "ômega 3 para cachorro", "probiótico para cachorro", "colágeno para cachorro",
+            # Lote 2 — problemas que levam à busca por suplemento
+            "cachorro perdendo pelo", "pelo opaco cachorro", "queda de pelo cachorro", "displasia em cachorro", "cachorro sem apetite",
+            # Lote 3 — nutrição e alimentação natural
+            "ração natural para cachorro", "dieta barf cachorro", "nutrição canina", "cálcio para cachorro", "proteína para cachorro",
+            # Lote 4 — fases da vida e perfis específicos
+            "suplemento para cachorro idoso", "suplemento para filhote de cachorro", "cachorro de grande porte alimentação", "como dar suplemento para cachorro", "cachorro pode tomar vitamina humana",
+            # Lote 5 — saúde, imunidade e dúvidas educativas
+            "articulação cachorro", "imunidade cachorro", "pelo bonito cachorro", "suplemento para cachorro vale a pena", "cachorro com diarreia crônica",
+        ],
+        "reddit_subs": ["brasil"],
+        "reddit_queries": ["suplemento cachorro", "ração natural cachorro", "pelo cachorro"],
+        "youtube_queries": [
+            "suplemento para cachorro qual o melhor",
+            "ração natural para cachorro receita completa",
+            "como melhorar o pelo do cachorro",
+            "suplemento para cachorro idoso",
+            "dieta barf para cachorro iniciante",
         ],
     },
     "educacao": {
@@ -72,18 +120,15 @@ NICHOS = {
         # Seeds com volume comprovado — fonte: SEMrush educador.com.br
         "google_kw": [
             # Lote 1 — alfabetização (74k–33k)
-            "atividades de alfabetização", "alfabeto para imprimir",
-            "atividades educação infantil", "tabuada para imprimir", "ditado de palavras",
-            # Lote 2 — português e matemática (22k–14k)
-            "atividade de português", "letras para imprimir",
-            "atividade de matemática 1 ano", "plano de aula educação infantil",
-            "interpretação de texto 5 ano",
-            # Lote 3 — conteúdo escolar (14k–12k)
-            "atividades de matemática 3 ano", "contas de divisão",
-            "atividade dia dos pais", "numeros para imprimir", "caligrafia para imprimir",
-            # Lote 4 — materiais visuais (9k)
-            "relatório educação infantil", "atividade alfabeto",
-            "bandeira do brasil para colorir", "vogais para imprimir", "atividade de artes",
+            "atividades de alfabetização", "alfabeto para imprimir", "atividades educação infantil", "tabuada para imprimir", "ditado de palavras",
+            # Lote 2 — português e matemática
+            "atividade de português", "letras para imprimir", "atividade de matemática 1 ano", "plano de aula educação infantil", "interpretação de texto 5 ano",
+            # Lote 3 — conteúdo escolar
+            "atividades de matemática 3 ano", "contas de divisão", "numeros para imprimir", "caligrafia para imprimir", "atividade de artes",
+            # Lote 4 — materiais visuais e relatórios
+            "relatório educação infantil", "atividade alfabeto", "bandeira do brasil para colorir", "vogais para imprimir", "história para imprimir",
+            # Lote 5 — disciplinas e métodos complementares
+            "jogo educativo", "brincadeiras educação infantil", "ciências para imprimir", "exercícios de matemática", "plano de aula bncc",
         ],
         "reddit_subs": ["vestibular", "brasil"],
         "reddit_queries": ["educação infantil", "atividades para imprimir", "plano de aula"],
@@ -99,7 +144,7 @@ NICHOS = {
 
 
 def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
-    result = {"trending": [], "related_top": [], "related_rising": []}
+    result = {"trending": [], "related_top": [], "related_rising": [], "seeds": []}
     try:
         from pytrends.request import TrendReq
         pt = TrendReq(hl="pt-BR", tz=180)
@@ -123,22 +168,21 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
                 log.warning(f"Google Trends lote {lote} [{nicho_key}]: {e}")
                 time.sleep(10)
 
-        # Salva ranking de interesse de todas as keywords
-        for kw, score in sorted(interest_scores.items(), key=lambda x: x[1], reverse=True):
-            result["related_top"].append({
-                "termo": kw,
-                "valor": score,
-                "base": "interesse médio 3 meses",
-            })
+        # Salva ranking das seeds como referência interna (não exibido como variação)
+        seeds_ranked = sorted(interest_scores.items(), key=lambda x: x[1], reverse=True)
+        for kw, score in seeds_ranked:
+            result["seeds"].append({"termo": kw, "valor": score})
 
-        # ── Passo 2: related_queries para as top 3 keywords com mais volume ──
-        top_kws = [item["termo"] for item in result["related_top"][:3]]
+        # ── Passo 2: related_queries para TODOS os seeds ─────────────────────
+        # Máx 5 resultados por seed → garante variedade entre tópicos
+        # (evita que um único assunto domine, ex: rosa do deserto em jardinagem)
+        seeds_order = [kw for kw, _ in seeds_ranked] if seeds_ranked else all_kws
         seen_queries: set[str] = set()
 
-        for kw in top_kws:
+        for kw in seeds_order:
             try:
                 pt.build_payload([kw], geo="BR", timeframe="today 3-m")
-                time.sleep(5)
+                time.sleep(6)
                 related = pt.related_queries()
                 data_kw = related.get(kw, {})
 
@@ -146,18 +190,18 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
                 rising_df = data_kw.get("rising")
 
                 if top_df is not None and not top_df.empty:
-                    for _, row in top_df.head(15).iterrows():
+                    for _, row in top_df.head(5).iterrows():
                         q = row["query"]
                         if q not in seen_queries:
                             seen_queries.add(q)
-                            result["trending"].append({
+                            result["related_top"].append({
                                 "termo": q,
                                 "valor": int(row["value"]),
                                 "base": kw,
                             })
 
                 if rising_df is not None and not rising_df.empty:
-                    for _, row in rising_df.head(8).iterrows():
+                    for _, row in rising_df.head(3).iterrows():
                         q = row["query"]
                         if q not in seen_queries:
                             seen_queries.add(q)
@@ -167,14 +211,14 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
                                 "base": kw,
                             })
 
-                time.sleep(7)
+                time.sleep(8)
             except Exception as e:
                 log.warning(f"Google Trends related_queries '{kw}' [{nicho_key}]: {e}")
-                time.sleep(12)
+                time.sleep(15)
 
         log.info(
-            f"Google Trends [{nicho_key}]: {len(result['related_top'])} keywords, "
-            f"{len(result['trending'])} variações, {len(result['related_rising'])} rising"
+            f"Google Trends [{nicho_key}]: {len(result['seeds'])} seeds, "
+            f"{len(result['related_top'])} variações, {len(result['related_rising'])} rising"
         )
 
     except Exception as e:
@@ -326,6 +370,17 @@ TEMPLATES_NICHO = {
                        "{T}: os materiais mais baixados por educadores em {ano}",
                        "{T} em {ano}: novidades, recursos e atividades atualizadas"],
     },
+    "pet": {
+        "lista":      ["{n} sinais de que seu cachorro precisa de {t}",
+                       "{n} benefícios de {t} que todo tutor deveria conhecer",
+                       "{n} dúvidas sobre {t} respondidas por veterinários"],
+        "como_fazer": ["Como usar {t} no seu cachorro: guia completo para tutores",
+                       "{T}: o que é, para que serve e como escolher o melhor",
+                       "Tudo sobre {t}: dosagem, benefícios e cuidados em {ano}"],
+        "tendencia":  ["Por que {t} está entre as buscas mais quentes de tutores de pets",
+                       "{T}: o que os veterinários estão recomendando em {ano}",
+                       "{T} em alta: como isso pode transformar a saúde do seu cachorro"],
+    },
 }
 
 DICAS_DISCOVER_BASE = [
@@ -345,6 +400,8 @@ DICAS_POR_NICHO = {
                    "Mostre ambiente real, não renderização — mais engajamento"],
     "educacao":   ["Mencione concurso ou vestibular específico para tráfego qualificado",
                    "Inclua prazo ou data ('em 3 meses', '2026') — aumenta urgência"],
+    "pet":        ["Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+                   "Mencione raça ou porte no título quando possível — aumenta clique qualificado"],
 }
 
 
@@ -372,13 +429,12 @@ def generate_pautas(result: dict) -> list:
 
         # Monta pool de termos com score
         pool = []
-        for item in gt.get("trending", []):
-            if isinstance(item, dict):
-                pool.append({"termo": item["termo"], "score": float(item.get("valor", 50))})
         for item in gt.get("related_top", []):
-            pool.append({"termo": item["termo"], "score": float(item.get("valor", 10))})
+            pool.append({"termo": item["termo"], "score": float(item.get("valor", 50))})
         for item in gt.get("related_rising", []):
-            pool.append({"termo": item["termo"], "score": 60.0})  # rising = oportunidade
+            pool.append({"termo": item["termo"], "score": 65.0})  # rising = oportunidade
+        for item in gt.get("seeds", []):
+            pool.append({"termo": item["termo"], "score": float(item.get("valor", 10))})
 
         # Deduplica e ordena
         seen = set()
