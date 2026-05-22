@@ -19,27 +19,29 @@ DATA_DIR.mkdir(exist_ok=True)
 
 NICHOS = {
     "atividades": {
-        "label": "Atividades",
+        # Cluster #1 em receita — RPM $1,82, 41% do tráfego do site
+        # Prioridade: profundidade por ano escolar + bridge com necessidades especiais (RPM 3–5×)
+        "label": "Alfabetização e Ed. Infantil",
         "google_kw": [
-            # Lote 1 — faixa etária 0–4 anos
-            "atividades para bebê", "atividades para crianças de 1 ano", "atividades para crianças de 2 anos", "atividades para crianças de 3 anos", "atividades para crianças de 4 anos",
-            # Lote 2 — faixa etária 5–10 anos
-            "atividades para crianças de 5 anos", "atividades para crianças de 6 anos", "atividades para crianças de 7 anos", "atividades para crianças de 8 anos", "atividades para crianças de 10 anos",
-            # Lote 3 — tipos de atividades
-            "atividades pedagógicas", "atividades lúdicas", "atividades manuais", "atividades recreativas", "atividades educativas",
-            # Lote 4 — necessidades especiais e contextos
-            "atividades para crianças autistas", "atividades para crianças com tdah", "atividades em casa", "atividades ao ar livre", "atividades de férias",
-            # Lote 5 — outros públicos e formatos
-            "atividades para idosos", "atividades físicas", "atividades para adolescentes", "brincadeiras para crianças", "jogos educativos",
+            # Lote 1 — alfabetização por ano escolar (variações da página #1 em ganho)
+            "atividades de alfabetização 1 ano", "atividades de alfabetização 2 ano", "atividades de alfabetização 3 ano", "fichas de alfabetização para imprimir", "sílabas para imprimir",
+            # Lote 2 — educação infantil por faixa etária (berçário → pré)
+            "atividades para berçário para imprimir", "atividades para maternal 1 para imprimir", "atividades para maternal 2 para imprimir", "atividades para jardim para imprimir", "atividades para pré-escola para imprimir",
+            # Lote 3 — bridge alfabetização + necessidades especiais (CPC alto: anunciantes de terapia)
+            "atividades de alfabetização para crianças com dislexia", "atividades para criança com dificuldade de aprendizagem", "método fônico atividades para imprimir", "como ensinar a ler criança com dificuldade", "atividades de alfabetização para crianças com tdah",
+            # Lote 4 — leitura e escrita complementares
+            "atividades de leitura para imprimir", "atividades de escrita para imprimir", "vogais para imprimir", "alfabeto para imprimir", "caligrafia para imprimir",
+            # Lote 5 — estimulação em casa (público pais — liga com nicho desenvolvimento)
+            "como estimular a leitura em casa", "atividades de alfabetização em casa", "como ensinar a criança a ler em casa", "brincadeiras para alfabetização", "jogos de alfabetização para imprimir",
         ],
         "reddit_subs": ["brasil", "educacao"],
-        "reddit_queries": ["atividades para crianças", "atividades pedagógicas", "atividades físicas"],
+        "reddit_queries": ["alfabetização crianças", "atividades para imprimir", "educação infantil em casa"],
         "youtube_queries": [
-            "atividades para crianças em casa",
-            "atividades pedagógicas educação infantil",
-            "brincadeiras para crianças autistas",
-            "atividades físicas para idosos",
-            "jogos educativos para crianças",
+            "atividades de alfabetização 1 ano para imprimir",
+            "método fônico para crianças em casa",
+            "atividades para maternal para imprimir",
+            "como ensinar criança com dislexia a ler",
+            "atividades de alfabetização para crianças com tdah",
         ],
     },
     "jardinagem": {
@@ -116,28 +118,28 @@ NICHOS = {
         ],
     },
     "educacao": {
-        "label": "Educação",
-        # Seeds com volume comprovado — fonte: SEMrush educador.com.br
+        # Dois clusters: gestão escolar (RPM $6,92 — mais alto do nicho) + matemática por ano
+        "label": "Matemática e Gestão Escolar",
         "google_kw": [
-            # Lote 1 — alfabetização (74k–33k)
-            "atividades de alfabetização", "alfabeto para imprimir", "atividades educação infantil", "tabuada para imprimir", "ditado de palavras",
-            # Lote 2 — português e matemática
-            "atividade de português", "letras para imprimir", "atividade de matemática 1 ano", "plano de aula educação infantil", "interpretação de texto 5 ano",
-            # Lote 3 — conteúdo escolar
-            "atividades de matemática 3 ano", "contas de divisão", "numeros para imprimir", "caligrafia para imprimir", "atividade de artes",
-            # Lote 4 — materiais visuais e relatórios
-            "relatório educação infantil", "atividade alfabeto", "bandeira do brasil para colorir", "vogais para imprimir", "história para imprimir",
-            # Lote 5 — disciplinas e métodos complementares
-            "jogo educativo", "brincadeiras educação infantil", "ciências para imprimir", "exercícios de matemática", "plano de aula bncc",
+            # Lote 1 — gestão escolar (RPM alto: coordenadores compram software/serviços)
+            "boletim escolar para imprimir", "ficha de avaliação educação infantil", "plano de aula pronto para imprimir", "diário de classe para imprimir", "relatório descritivo do aluno",
+            # Lote 2 — documentos pedagógicos (mesmo público de gestão)
+            "ata de reunião de pais e mestres", "plano de aula bncc educação infantil", "ficha de observação do aluno", "portfólio educação infantil", "relatório individual de aluno educação infantil",
+            # Lote 3 — matemática anos iniciais (1°, 2°, 3° — RPM $0,87, alto volume)
+            "atividades de matemática 1 ano para imprimir", "atividades de matemática 2 ano para imprimir", "atividades de matemática 3 ano para imprimir", "tabuada para imprimir", "contas de adição para imprimir",
+            # Lote 4 — matemática anos finais + operações
+            "atividades de matemática 4 ano para imprimir", "atividades de matemática 5 ano para imprimir", "contas de subtração para imprimir", "contas de multiplicação para imprimir", "contas de divisão para imprimir",
+            # Lote 5 — outras disciplinas + projetos escolares
+            "atividades de ciências para imprimir", "atividades de história para imprimir", "maquete do sistema solar como fazer", "projetos escolares ensino fundamental", "atividades de artes para imprimir",
         ],
-        "reddit_subs": ["vestibular", "brasil"],
-        "reddit_queries": ["educação infantil", "atividades para imprimir", "plano de aula"],
+        "reddit_subs": ["brasil", "educacao"],
+        "reddit_queries": ["plano de aula", "atividades de matemática para imprimir", "gestão escolar"],
         "youtube_queries": [
-            "atividades de alfabetização para imprimir",
+            "como fazer boletim escolar online",
             "tabuada para imprimir completa",
-            "plano de aula educação infantil bncc",
-            "atividades de matemática 1 ano",
-            "ditado de palavras para crianças",
+            "atividades de matemática 1 ano para imprimir",
+            "plano de aula bncc educação infantil pronto",
+            "maquete do sistema solar passo a passo",
         ],
     },
     "desenvolvimento": {
@@ -351,15 +353,15 @@ def collect_youtube(nicho_key: str, nicho_data: dict) -> list:
 
 TEMPLATES_NICHO = {
     "atividades": {
-        "lista":      ["{n} {t} para experimentar em casa (sem gastar nada)",
-                       "{n} {t} que ensinam e divertem ao mesmo tempo",
-                       "As {n} melhores {t} para fazer hoje, segundo especialistas"],
-        "como_fazer": ["Como fazer {t}: guia completo passo a passo",
-                       "{T}: como estimular o desenvolvimento de forma divertida",
-                       "{T}: tudo que você precisa saber em {ano}"],
-        "tendencia":  ["Por que {t} está em alta no Brasil agora",
-                       "{T}: a busca que explodiu no Google esta semana",
-                       "{T} em {ano}: o que mudou e o que esperar"],
+        "lista":      ["{T} para imprimir: {n} fichas prontas para usar hoje",
+                       "{n} atividades de {t} por nível — do mais fácil ao mais avançado",
+                       "{n} fichas de {t} alinhadas à BNCC (baixe grátis em PDF)"],
+        "como_fazer": ["Como trabalhar {t} em casa: guia passo a passo para pais e professores",
+                       "{T}: atividades práticas para cada fase do aprendizado",
+                       "Como ajudar a criança com dificuldade em {t}: dicas comprovadas em {ano}"],
+        "tendencia":  ["Por que {t} está entre as buscas mais quentes de pais e professores",
+                       "{T} em {ano}: novos recursos, fichas e o que os especialistas recomendam",
+                       "{T}: o que mudou na abordagem pedagógica e como aplicar hoje"],
     },
     "jardinagem": {
         "lista":      ["{n} dicas de {t} para quem está começando do zero",
@@ -384,15 +386,15 @@ TEMPLATES_NICHO = {
                        "{T} em {ano}: o que está em alta e como aproveitar"],
     },
     "educacao": {
-        "lista":      ["{n} atividades de {t} para imprimir e usar em sala de aula",
-                       "{n} ideias de {t} alinhadas à BNCC para educação infantil",
-                       "{n} fichas de {t} prontas para baixar e aplicar hoje"],
-        "como_fazer": ["Como trabalhar {t} em sala de aula: passo a passo completo",
-                       "{T}: atividades práticas para educação infantil e fundamental",
-                       "Plano de aula de {t}: modelo completo para {ano}"],
-        "tendencia":  ["Por que {t} está entre as buscas mais quentes de professores",
-                       "{T}: os materiais mais baixados por educadores em {ano}",
-                       "{T} em {ano}: novidades, recursos e atividades atualizadas"],
+        "lista":      ["{T} para imprimir: {n} modelos prontos para usar hoje",
+                       "{n} atividades de {t} por ano escolar — do 1° ao 5° ano",
+                       "{n} recursos de {t} que todo professor precisa ter em {ano}"],
+        "como_fazer": ["Como criar {t} do zero: modelo completo e editável",
+                       "{T}: passo a passo para professores e coordenadores",
+                       "Tudo sobre {t} em {ano}: modelos, exemplos e como aplicar na prática"],
+        "tendencia":  ["Por que {t} está entre os materiais mais baixados por educadores",
+                       "{T}: o recurso que escolas inteiras adotaram em {ano}",
+                       "{T} em {ano}: o que mudou e os melhores modelos atualizados"],
     },
     "desenvolvimento": {
         "lista":      ["{n} sinais de {t} que todo pai precisa conhecer",
@@ -427,14 +429,14 @@ DICAS_DISCOVER_BASE = [
 ]
 
 DICAS_POR_NICHO = {
-    "atividades": ["Foto real de criança em atividade converte mais que ilustração",
-                   "Mencione faixa etária no título — aumenta clique qualificado"],
+    "atividades": ["Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+                   "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"],
     "jardinagem": ["Foto do resultado final (planta/jardim bonito) gera mais cliques",
                    "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"],
     "decoracao":  ["Imagem antes/depois tem CTR 40% maior no Discover",
                    "Mostre ambiente real, não renderização — mais engajamento"],
-    "educacao":   ["Mencione concurso ou vestibular específico para tráfego qualificado",
-                   "Inclua prazo ou data ('em 3 meses', '2026') — aumenta urgência"],
+    "educacao":   ["Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+                   "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"],
     "pet":        ["Foto de cachorro real (não ilustração) aumenta CTR significativamente",
                    "Mencione raça ou porte no título quando possível — aumenta clique qualificado"],
     "desenvolvimento": ["Foto real de pai/mãe com filho tem CTR maior que ilustração",

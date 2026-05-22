@@ -6,12 +6,12 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent / "data"
 
 NICHOS = {
-    "atividades":    {"label": "🎯 Atividades",              "cor": "#e76f51"},
-    "jardinagem":    {"label": "🌱 Jardinagem",              "cor": "#2d6a4f"},
-    "decoracao":     {"label": "🏡 Decoração",               "cor": "#b5838d"},
-    "educacao":      {"label": "📚 Educação",                "cor": "#457b9d"},
-    "pet":           {"label": "🐾 Pet",                     "cor": "#f4a261"},
-    "desenvolvimento": {"label": "👶 Desenvolvimento Infantil", "cor": "#6a994e"},
+    "atividades":    {"label": "🔤 Alfabetização e Ed. Infantil", "cor": "#e76f51"},
+    "jardinagem":    {"label": "🌱 Jardinagem",                   "cor": "#2d6a4f"},
+    "decoracao":     {"label": "🏡 Decoração",                    "cor": "#b5838d"},
+    "educacao":      {"label": "🔢 Matemática e Gestão Escolar",  "cor": "#457b9d"},
+    "pet":           {"label": "🐾 Pet",                          "cor": "#f4a261"},
+    "desenvolvimento": {"label": "👶 Desenvolvimento Infantil",   "cor": "#6a994e"},
 }
 
 st.set_page_config(
@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 st.title("📊 Tendências Diárias — Nichos BR")
-st.caption("Jardinagem · Decoração · Educação · Atividades · Pet · Desenvolvimento Infantil")
+st.caption("Alfabetização · Matemática e Gestão · Jardinagem · Decoração · Pet · Desenvolvimento Infantil")
 
 
 @st.cache_data(ttl=3600)
