@@ -6,11 +6,12 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent / "data"
 
 NICHOS = {
-    "atividades": {"label": "🎯 Atividades",  "cor": "#e76f51"},
-    "jardinagem": {"label": "🌱 Jardinagem", "cor": "#2d6a4f"},
-    "decoracao":  {"label": "🏡 Decoração",  "cor": "#b5838d"},
-    "educacao":   {"label": "📚 Educação",   "cor": "#457b9d"},
-    "pet":        {"label": "🐾 Pet",        "cor": "#f4a261"},
+    "atividades":    {"label": "🎯 Atividades",              "cor": "#e76f51"},
+    "jardinagem":    {"label": "🌱 Jardinagem",              "cor": "#2d6a4f"},
+    "decoracao":     {"label": "🏡 Decoração",               "cor": "#b5838d"},
+    "educacao":      {"label": "📚 Educação",                "cor": "#457b9d"},
+    "pet":           {"label": "🐾 Pet",                     "cor": "#f4a261"},
+    "desenvolvimento": {"label": "👶 Desenvolvimento Infantil", "cor": "#6a994e"},
 }
 
 st.set_page_config(
@@ -20,7 +21,7 @@ st.set_page_config(
 )
 
 st.title("📊 Tendências Diárias — Nichos BR")
-st.caption("Jardinagem · Decoração · Educação · Atividades · Pet")
+st.caption("Jardinagem · Decoração · Educação · Atividades · Pet · Desenvolvimento Infantil")
 
 
 @st.cache_data(ttl=3600)
@@ -53,7 +54,7 @@ st.caption(f"Coleta realizada em: {data.get('collected_at', '—')} UTC")
 # ── Métricas rápidas ──────────────────────────────────────────────────────────
 
 total_pautas = len(data.get("pautas", []))
-cols = st.columns(5)
+cols = st.columns(6)
 for col, (key, cfg) in zip(cols, NICHOS.items()):
     nicho = data["nichos"].get(key, {})
     gt = nicho.get("google_trends", {})

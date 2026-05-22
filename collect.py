@@ -140,6 +140,30 @@ NICHOS = {
             "ditado de palavras para crianças",
         ],
     },
+    "desenvolvimento": {
+        "label": "Desenvolvimento Infantil",
+        "google_kw": [
+            # Lote 1 — neurodiversidade (alto CPC: anunciantes de terapia, neuropsicologia)
+            "tdah em crianças", "atividades para criança com tdah", "sinais de autismo em crianças", "como ajudar criança autista em casa", "dislexia em crianças",
+            # Lote 2 — fala e linguagem (fonoaudiologia, apps de fala, terapia)
+            "atraso na fala", "criança não fala 2 anos", "como estimular a fala da criança", "desenvolvimento da linguagem infantil", "fonoaudiologia infantil",
+            # Lote 3 — marcos e estimulação precoce (pediatria, cursos de mãe)
+            "estimulação precoce", "marcos do desenvolvimento infantil", "como estimular bebê em casa", "desenvolvimento motor infantil", "desenvolvimento cognitivo infantil",
+            # Lote 4 — comportamento e criação (terapia comportamental, cursos para pais)
+            "birra infantil como lidar", "ansiedade em crianças", "como colocar limites nos filhos", "criança hiperativa o que fazer", "choro excessivo bebê",
+            # Lote 5 — atividades e recursos para pais (brinquedos, apps, cursos)
+            "brinquedos educativos para crianças", "atividades montessori em casa", "como brincar com bebê", "atividades para estimular criança em casa", "método montessori",
+        ],
+        "reddit_subs": ["brasil", "maternidade"],
+        "reddit_queries": ["desenvolvimento infantil", "tdah crianças", "estimulação bebê"],
+        "youtube_queries": [
+            "atividades para criança com tdah em casa",
+            "estimulação precoce para bebês",
+            "como lidar com birra infantil",
+            "desenvolvimento da fala em crianças",
+            "método montessori em casa para iniciantes",
+        ],
+    },
 }
 
 
@@ -370,6 +394,17 @@ TEMPLATES_NICHO = {
                        "{T}: os materiais mais baixados por educadores em {ano}",
                        "{T} em {ano}: novidades, recursos e atividades atualizadas"],
     },
+    "desenvolvimento": {
+        "lista":      ["{n} sinais de {t} que todo pai precisa conhecer",
+                       "{n} atividades para estimular {t} em casa (sem precisar de terapeuta)",
+                       "{n} formas de ajudar seu filho com {t} a partir de hoje"],
+        "como_fazer": ["Como ajudar seu filho com {t}: guia completo para pais",
+                       "{T}: o que é, como identificar e o que fazer em {ano}",
+                       "Como estimular {t} no seu filho: passo a passo para pais"],
+        "tendencia":  ["Por que cada vez mais pais estão buscando sobre {t}",
+                       "{T}: o que as pesquisas mais recentes dizem em {ano}",
+                       "{T} em {ano}: novas descobertas e como isso afeta seu filho"],
+    },
     "pet": {
         "lista":      ["{n} sinais de que seu cachorro precisa de {t}",
                        "{n} benefícios de {t} que todo tutor deveria conhecer",
@@ -402,6 +437,8 @@ DICAS_POR_NICHO = {
                    "Inclua prazo ou data ('em 3 meses', '2026') — aumenta urgência"],
     "pet":        ["Foto de cachorro real (não ilustração) aumenta CTR significativamente",
                    "Mencione raça ou porte no título quando possível — aumenta clique qualificado"],
+    "desenvolvimento": ["Foto real de pai/mãe com filho tem CTR maior que ilustração",
+                        "Mencione a faixa etária no título — pais buscam por idade específica do filho"],
 }
 
 
