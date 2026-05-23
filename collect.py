@@ -166,6 +166,32 @@ NICHOS = {
             "método montessori em casa para iniciantes",
         ],
     },
+    "concursos": {
+        "label": "Concursos e Formação Docente",
+        # ~50 mil vagas abertas em 2026 — anunciantes: Gran Cursos, Estratégia, TEC, QConcursos (CPC R$5–15)
+        # + cursos EAD gratuitos (Univesp, IFs) — anunciante: EdTech pago que compete com o gratuito
+        "google_kw": [
+            # Lote 1 — editais abertos 2026 (buscas de quem está se inscrevendo agora)
+            "concurso público professor 2026", "edital concurso professor 2026", "concurso professor municipal 2026", "processo seletivo professor 2026", "concurso prefeitura professor",
+            # Lote 2 — preparação e prova didática (liga com conteúdo já existente no site)
+            "plano de aula para concurso professor", "prova didática concurso professor", "como fazer plano de aula para concurso", "BNCC para concurso de professor", "legislação educacional concurso professor",
+            # Lote 3 — estudo e aprovação
+            "como passar em concurso de professor", "questões de concurso professor pedagogia", "apostila concurso professor", "simulado concurso professor pedagogia", "concurso professor educação infantil",
+            # Lote 4 — cursos EAD gratuitos para professores (infoeducacao.com.br — alto volume)
+            "curso EAD gratuito para professores", "especialização gratuita para professores", "curso gratuito com certificado para professores", "pós-graduação gratuita para professores", "especialização EAD gratuita pedagogia",
+            # Lote 5 — formação continuada e desenvolvimento profissional
+            "curso de psicopedagogia gratuito", "formação continuada professores", "curso de especialização em educação infantil", "curso livre para professores online", "como obter certificado horas complementares",
+        ],
+        "reddit_subs": ["brasil", "concursospublicos"],
+        "reddit_queries": ["concurso professor 2026", "curso gratuito professor", "especialização EAD pedagogia"],
+        "youtube_queries": [
+            "como fazer plano de aula para concurso público professor",
+            "prova didática concurso professor passo a passo",
+            "curso EAD gratuito para professores 2026",
+            "BNCC para concurso de professor",
+            "especialização gratuita educação infantil",
+        ],
+    },
 }
 
 
@@ -407,6 +433,17 @@ TEMPLATES_NICHO = {
                        "{T}: o que as pesquisas mais recentes dizem em {ano}",
                        "{T} em {ano}: novas descobertas e como isso afeta seu filho"],
     },
+    "concursos": {
+        "lista":      ["{n} concursos para professores com inscrições abertas em {ano}",
+                       "{n} dicas para passar na prova didática de concurso público",
+                       "{n} editais de concurso professor que você não pode perder em {ano}"],
+        "como_fazer": ["Como montar plano de aula para concurso público: modelo completo {ano}",
+                       "{T}: como se preparar e o que cai na prova em {ano}",
+                       "Como se inscrever em concurso para professor: passo a passo completo"],
+        "tendencia":  ["Por que o concurso de professor em {t} está movimentando educadores em {ano}",
+                       "{T}: edital aberto e o que você precisa saber antes de se inscrever",
+                       "{T} em {ano}: vagas, salário e como se preparar em tempo recorde"],
+    },
     "pet": {
         "lista":      ["{n} sinais de que seu cachorro precisa de {t}",
                        "{n} benefícios de {t} que todo tutor deveria conhecer",
@@ -441,6 +478,9 @@ DICAS_POR_NICHO = {
                    "Mencione raça ou porte no título quando possível — aumenta clique qualificado"],
     "desenvolvimento": ["Foto real de pai/mãe com filho tem CTR maior que ilustração",
                         "Mencione a faixa etária no título — pais buscam por idade específica do filho"],
+    "concursos":    ["Mencione o estado ou cidade no título quando houver edital específico aberto",
+                     "Inclua o ano no título — candidatos buscam informação atualizada",
+                     "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"],
 }
 
 

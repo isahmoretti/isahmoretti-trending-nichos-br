@@ -12,6 +12,7 @@ NICHOS = {
     "educacao":      {"label": "🔢 Matemática e Gestão Escolar",  "cor": "#457b9d"},
     "pet":           {"label": "🐾 Pet",                          "cor": "#f4a261"},
     "desenvolvimento": {"label": "👶 Desenvolvimento Infantil",   "cor": "#6a994e"},
+    "concursos":     {"label": "🎓 Concursos e Formação Docente",  "cor": "#7b2d8b"},
 }
 
 st.set_page_config(
@@ -21,7 +22,7 @@ st.set_page_config(
 )
 
 st.title("📊 Tendências Diárias — Nichos BR")
-st.caption("Alfabetização · Matemática e Gestão · Jardinagem · Decoração · Pet · Desenvolvimento Infantil")
+st.caption("Alfabetização · Matemática e Gestão · Jardinagem · Decoração · Pet · Desenvolvimento Infantil · Concursos para Professores")
 
 
 @st.cache_data(ttl=3600)
@@ -54,7 +55,7 @@ st.caption(f"Coleta realizada em: {data.get('collected_at', '—')} UTC")
 # ── Métricas rápidas ──────────────────────────────────────────────────────────
 
 total_pautas = len(data.get("pautas", []))
-cols = st.columns(6)
+cols = st.columns(7)
 for col, (key, cfg) in zip(cols, NICHOS.items()):
     nicho = data["nichos"].get(key, {})
     gt = nicho.get("google_trends", {})
