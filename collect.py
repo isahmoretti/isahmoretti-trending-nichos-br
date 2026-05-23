@@ -607,10 +607,15 @@ def collect_site_updates() -> list[dict]:
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--force", action="store_true", help="Sobrescreve dados do dia mesmo que já existam")
+    args = parser.parse_args()
+
     today = date.today().isoformat()
     output_file = DATA_DIR / f"{today}.json"
 
-    if output_file.exists():
+    if output_file.exists() and not args.force:
         log.info(f"Dados de {today} já existem. Use --force para sobrescrever.")
         return
 
