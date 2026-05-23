@@ -207,3 +207,42 @@ for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
                     st.markdown("---")
         else:
             st.info("Nenhum vídeo coletado para esta data. Os vídeos aparecem após a coleta automática diária.")
+
+        # ── Sites de referência (apenas aba concursos) ───────────────────────
+        if key == "concursos":
+            st.divider()
+            st.subheader("📰 Publicações Recentes — Sites de Referência")
+            st.caption("InfoEducação e PEBSP — atualizados diariamente junto com a coleta")
+
+            updates = data.get("site_updates", [])
+            if not updates:
+                st.info("Publicações serão exibidas a partir da próxima coleta.")
+            else:
+                fontes = list(dict.fromkeys(u["fonte"] for u in updates))
+                fonte_tabs = st.tabs(fontes)
+                for ftab, fonte in zip(fonte_tabs, fontes):
+                    with ftab:
+                        artigos = [u for u in updates if u["fonte"] == fonte]
+                        if not artigos:
+                            st.caption("Nenhum artigo encontrado.")
+                            continue
+                        for a in artigos:
+                            with st.expander(f"📄 {a['titulo']}", expanded=False):
+                                st.markdown(f"**Fonte:** {a['fonte']}  ·  {a.get('data', '')}")
+                                if a.get("resumo"):
+                                    st.caption(a["resumo"] + "…")
+                                st.markdown(f"[Abrir artigo ↗]({a['url']})")
+                                st.markdown("---")
+                                st.markdown("**💡 Ideias de pauta a partir deste artigo:**")
+                                titulo_lower = a["titulo"].lower()
+                                if any(w in titulo_lower for w in ["concurso", "edital", "seletivo"]):
+                                    st.markdown("- Como se inscrever neste concurso — guia passo a passo")
+                                    st.markdown("- Plano de aula para a prova didática deste edital")
+                                    st.markdown("- Salário e benefícios deste cargo — vale a pena?")
+                                elif any(w in titulo_lower for w in ["curso", "especialização", "formação", "ead", "gratuito"]):
+                                    st.markdown("- Vale a pena fazer este curso? Análise honesta")
+                                    st.markdown("- Como se inscrever neste curso gratuito — passo a passo")
+                                    st.markdown("- Melhores especializações gratuitas para professores em 2026")
+                                else:
+                                    st.markdown("- Artigo de aprofundamento sobre este tema")
+                                    st.markdown("- Guia prático baseado nesta informação")

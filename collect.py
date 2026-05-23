@@ -549,6 +549,63 @@ def generate_pautas(result: dict) -> list:
     return pautas
 
 
+SITES_REFERENCIA = [
+    {
+        "nome": "InfoEducação",
+        "feed": "https://infoeducacao.com.br/feed/",
+        "url":  "https://infoeducacao.com.br",
+        "foco": "Cursos EAD gratuitos e especializações para professores",
+    },
+    {
+        "nome": "PEBSP",
+        "feed": "https://www.pebsp.com/feed/",
+        "url":  "https://www.pebsp.com",
+        "foco": "Concursos e processos seletivos para professores de SP",
+    },
+]
+
+
+def collect_site_updates() -> list[dict]:
+    import urllib.request
+    import xml.etree.ElementTree as ET
+    import re
+
+    articles = []
+    for source in SITES_REFERENCIA:
+        try:
+            req = urllib.request.Request(
+                source["feed"],
+                headers={"User-Agent": "Mozilla/5.0 (compatible; TrendBot/1.0)"},
+            )
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                content = resp.read()
+            root = ET.fromstring(content)
+            channel = root.find("channel")
+            if channel is None:
+                continue
+            for item in channel.findall("item")[:8]:
+                title = (item.findtext("title") or "").strip()
+                link  = (item.findtext("link")  or "").strip()
+                pub   = (item.findtext("pubDate") or "").strip()
+                desc  = (item.findtext("description") or "").strip()
+                desc  = re.sub(r"<[^>]+>", " ", desc)
+                desc  = re.sub(r"\s+", " ", desc).strip()[:200]
+                if title and link:
+                    articles.append({
+                        "fonte": source["nome"],
+                        "foco":  source["foco"],
+                        "titulo": title,
+                        "url":    link,
+                        "data":   pub,
+                        "resumo": desc,
+                    })
+            log.info(f"Site updates [{source['nome']}]: {len([a for a in articles if a['fonte'] == source['nome']])} artigos")
+        except Exception as e:
+            log.warning(f"Site updates [{source['nome']}]: {e}")
+
+    return articles
+
+
 def main():
     today = date.today().isoformat()
     output_file = DATA_DIR / f"{today}.json"
@@ -563,6 +620,7 @@ def main():
         "date": today,
         "collected_at": datetime.utcnow().isoformat(),
         "nichos": {},
+        "site_updates": [],
     }
 
     for key, nicho in NICHOS.items():
@@ -576,6 +634,7 @@ def main():
         time.sleep(5)
 
     result["pautas"] = generate_pautas(result)
+    result["site_updates"] = collect_site_updates()
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
