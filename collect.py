@@ -562,6 +562,12 @@ SITES_REFERENCIA = [
         "url":  "https://www.pebsp.com",
         "foco": "Concursos e processos seletivos para professores de SP",
     },
+    {
+        "nome": "Conecta Professores",
+        "feed": "https://conectaprofessores.com/feed/",
+        "url":  "https://conectaprofessores.com",
+        "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+    },
 ]
 
 
