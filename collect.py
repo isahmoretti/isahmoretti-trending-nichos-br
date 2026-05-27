@@ -208,7 +208,7 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
         for i in range(0, len(all_kws), 5):
             lote = all_kws[i:i + 5]
             try:
-                pt.build_payload(lote, geo="BR", timeframe="today 3-m")
+                pt.build_payload(lote, geo="BR", timeframe="today 1-m")
                 time.sleep(5)
                 iot = pt.interest_over_time()
                 if not iot.empty:
@@ -231,9 +231,11 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
         seeds_order = [kw for kw, _ in seeds_ranked] if seeds_ranked else all_kws
         seen_queries: set[str] = set()
 
+        seeds_set = set(all_kws)
+
         for kw in seeds_order:
             try:
-                pt.build_payload([kw], geo="BR", timeframe="today 3-m")
+                pt.build_payload([kw], geo="BR", timeframe="now 7-d")
                 time.sleep(6)
                 related = pt.related_queries()
                 data_kw = related.get(kw, {})
@@ -244,7 +246,7 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
                 if top_df is not None and not top_df.empty:
                     for _, row in top_df.head(5).iterrows():
                         q = row["query"]
-                        if q not in seen_queries:
+                        if q not in seen_queries and q not in seeds_set:
                             seen_queries.add(q)
                             result["related_top"].append({
                                 "termo": q,
@@ -255,7 +257,7 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
                 if rising_df is not None and not rising_df.empty:
                     for _, row in rising_df.head(3).iterrows():
                         q = row["query"]
-                        if q not in seen_queries:
+                        if q not in seen_queries and q not in seeds_set:
                             seen_queries.add(q)
                             result["related_rising"].append({
                                 "termo": q,
