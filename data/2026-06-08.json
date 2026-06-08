@@ -1,0 +1,1169 @@
+{
+  "date": "2026-06-08",
+  "collected_at": "2026-06-08T13:57:49.948574",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "paisagismo",
+            "valor": 76.3
+          },
+          {
+            "termo": "folhagens",
+            "valor": 14.7
+          },
+          {
+            "termo": "trepadeiras",
+            "valor": 12.6
+          },
+          {
+            "termo": "como adubar",
+            "valor": 6.7
+          },
+          {
+            "termo": "como regar",
+            "valor": 5.4
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "adão e eva",
+            "valor": 100,
+            "base": "eva"
+          },
+          {
+            "termo": "adao e eva",
+            "valor": 51,
+            "base": "eva"
+          },
+          {
+            "termo": "eva preto",
+            "valor": 41,
+            "base": "eva"
+          },
+          {
+            "termo": "eva papel",
+            "valor": 40,
+            "base": "eva"
+          },
+          {
+            "termo": "o que é eva",
+            "valor": 38,
+            "base": "eva"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "eva langwin",
+            "valor": "200",
+            "base": "eva"
+          },
+          {
+            "termo": "rádio táxi eva",
+            "valor": "60",
+            "base": "eva"
+          },
+          {
+            "termo": "yoga with eva",
+            "valor": "60",
+            "base": "eva"
+          }
+        ],
+        "seeds": [
+          {
+            "termo": "cartão",
+            "valor": 81.7
+          },
+          {
+            "termo": "eva",
+            "valor": 12.7
+          },
+          {
+            "termo": "tag",
+            "valor": 12.3
+          },
+          {
+            "termo": "enfeite",
+            "valor": 3.7
+          },
+          {
+            "termo": "feltro",
+            "valor": 1.9
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "para que serve probiótico para cachorro",
+            "valor": 100,
+            "base": "probiótico para cachorro"
+          },
+          {
+            "termo": "como dar probiótico para cachorro",
+            "valor": 37,
+            "base": "probiótico para cachorro"
+          },
+          {
+            "termo": "probiótico para cachorro com diarreia como usar",
+            "valor": 14,
+            "base": "probiótico para cachorro"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "capa de portfólio educação infantil",
+            "valor": 100,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "modelo de portfólio educação infantil",
+            "valor": 87,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "caderno de atividades de matemática 2 ano para imprimir",
+            "valor": 100,
+            "base": "atividades de matemática 2 ano para imprimir"
+          },
+          {
+            "termo": "atividades de matemática 3 ano para imprimir pdf",
+            "valor": 100,
+            "base": "atividades de matemática 3 ano para imprimir"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "como brincar com bebê",
+            "valor": 3.6
+          },
+          {
+            "termo": "atividades montessori em casa",
+            "valor": 3.2
+          },
+          {
+            "termo": "brinquedos educativos para crianças",
+            "valor": 1.9
+          },
+          {
+            "termo": "método montessori",
+            "valor": 1.8
+          },
+          {
+            "termo": "atividades para estimular criança em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito, 100% online, em Inteligência Artificial Aplicada à Educação abre inscrições e oferece certificado",
+      "url": "https://infoeducacao.com.br/curso-gratuito-100-online-em-inteligencia-artificial-aplicada-a-educacao-abre-inscricoes-e-oferece-certificado/",
+      "data": "Mon, 08 Jun 2026 11:54:40 +0000",
+      "resumo": "A Escola de Engenharia de Lorena, da Universidade de São Paulo (USP), abriu inscrições para o curso gratuito, 100% online, The post Curso gratuito, 100% online, em Inteligência Artificial Aplicada à E"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito, totalmente online, sobre IA no Agronegócio, abre 8 mil vagas",
+      "url": "https://infoeducacao.com.br/curso-gratuito-totalmente-online-sobre-ia-no-agronegocio-abre-8-mil-vagas/",
+      "data": "Mon, 08 Jun 2026 11:04:22 +0000",
+      "resumo": "A Escola Superior de Agricultura &#8220;Luiz de Queiroz&#8221;, da Universidade de São Paulo (USP), ofertará, de 21 e 28 de The post Curso gratuito, totalmente online, sobre IA no Agronegócio, abre 8 "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito 100% online sobre Ferramentas de IA, da USP, abre 10 mil vagas para pessoas de todo o Brasil",
+      "url": "https://infoeducacao.com.br/curso-gratuito-100-online-sobre-ferramentas-de-ia-da-usp-abre-10-mil-vagas-para-pessoas-de-todo-o-brasil/",
+      "data": "Mon, 08 Jun 2026 10:11:03 +0000",
+      "resumo": "A Escola Superior de Agricultura &#8220;Luiz de Queiroz&#8221;, da Universidade de São Paulo (USP), abriu 10 mil vagas no curso The post Curso gratuito 100% online sobre Ferramentas de IA, da USP, abr"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFSULDEMINAS abre vagas em cursos técnicos gratuitos subsequentes EAD",
+      "url": "https://infoeducacao.com.br/ifsuldeminas-abre-vagas-em-cursos-tecnicos-gratuitos-subsequentes-ead/",
+      "data": "Mon, 08 Jun 2026 08:38:13 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia Sul de Minas Gerais (IFSULDEMINAS) está selecionando alunos para os cursos técnicos The post IFSULDEMINAS abre vagas em cursos técnicos gratuitos "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "USP abre 8 mil vagas em curso gratuito, 100% online, sobre Growth Intelligence",
+      "url": "https://infoeducacao.com.br/usp-abre-8-mil-vagas-em-curso-gratuito-100-online-sobre-growth-intelligence/",
+      "data": "Sun, 07 Jun 2026 21:46:56 +0000",
+      "resumo": "Estão abertas as inscrições para o curso gratuito, 100% online, sobre Growth Intelligence: Estratégia de Crescimento com Dados, IA e The post USP abre 8 mil vagas em curso gratuito, 100% online, sobre"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para o curso gratuito, 100% online, da USP em Gestão Ágil de Projetos",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-gratuito-100-online-da-usp-em-gestao-agil-de-projetos/",
+      "data": "Sun, 07 Jun 2026 16:21:36 +0000",
+      "resumo": "A Escola Politécnica, da Universidade de São Paulo (USP), abriu 5 mil vagas no curso gratuito, 100% online, em Gestão The post Inscrições abertas para o curso gratuito, 100% online, da USP em Gestão Á"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFAP seleciona alunos para cursos de especialização 100% online, EAD ou presenciais",
+      "url": "https://infoeducacao.com.br/ifap-seleciona-alunos-para-cursos-de-especializacao-100-online-ead-ou-presenciais/",
+      "data": "Sun, 07 Jun 2026 14:00:07 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Amapá (IFPA) abriu vagas nos seguintes cursos de especialização gratuitos: Gestão The post IFAP seleciona alunos para cursos de especialização "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFPE abre mais de mil vagas gratuitas para cursos técnicos e de graduação",
+      "url": "https://infoeducacao.com.br/ifpe-abre-mais-de-mil-vagas-gratuitas-para-cursos-tecnicos-e-de-graduacao/",
+      "data": "Sun, 07 Jun 2026 13:11:52 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) abriu 40 vagas em curso técnico integrado ao ensino The post IFPE abre mais de mil vagas gratuitas para cursos técnicos e de "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Obrigatório por lei e bem pago: Técnico em Segurança do Trabalho EAD abre 580 vagas pelo IFSULDEMINAS",
+      "url": "https://www.pebsp.com/obrigatorio-por-lei-e-bem-pago-tecnico-em-seguranca-do-trabalho-ead-abre-580-vagas-pelo-ifsuldeminas/",
+      "data": "Mon, 08 Jun 2026 13:15:19 +0000",
+      "resumo": "O Brasil registrou 806 mil acidentes de trabalho e 3.644 mortes em 2025 — o maior número da série histórica, segundo estudo do Ministério do Trabalho e Emprego divulgado em 28 de abril de 2026, Dia Mu"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "700 vagas abertas para Curso Técnico em Administração EAD do IFSULDEMINAS",
+      "url": "https://www.pebsp.com/700-vagas-abertas-para-curso-tecnico-em-administracao-ead-do-ifsuldeminas/",
+      "data": "Mon, 08 Jun 2026 10:15:12 +0000",
+      "resumo": "O mercado de trabalho formal brasileiro registrou mais de 700 mil novas vagas com carteira assinada nos primeiros quatro meses de 2026, segundo o Novo CAGED divulgado pelo Ministério do Trabalho em ma"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSULDEMINAS abre vagas em polos de SP e ES: cursos técnicos gratuitos e EAD",
+      "url": "https://www.pebsp.com/ifsuldeminas-abre-vagas-em-polos-de-sp-e-es-cursos-tecnicos-gratuitos-e-ead/",
+      "data": "Mon, 08 Jun 2026 10:00:10 +0000",
+      "resumo": "Candidatos de São Paulo e do Espírito Santo podem se inscrever em cursos técnicos gratuitos do IFSULDEMINAS sem precisar morar em Minas Gerais. O Edital 147/2026 do Instituto Federal do Sul de Minas a"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Petrobras lança 3 cursos profissionalizantes em SJC com pagamento de bolsa de até R$ 858",
+      "url": "https://www.pebsp.com/petrobras-lanca-3-cursos-profissionalizantes-em-sjc-com-pagamento-de-bolsa-de-ate-r-858/",
+      "data": "Mon, 08 Jun 2026 09:00:39 +0000",
+      "resumo": "A indústria de São José dos Campos gerou 339 novos postos de trabalho no primeiro quadrimestre de 2026, impulsionando a abertura de 1.794 empregos na cidade neste período. Acompanhando o forte aquecim"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Os 5 cursos técnicos com maior empregabilidade no Brasil, segundo o SENAI",
+      "url": "https://www.pebsp.com/os-5-cursos-tecnicos-com-maior-empregabilidade-no-brasil-segundo-o-senai/",
+      "data": "Mon, 08 Jun 2026 04:13:18 +0000",
+      "resumo": "9 em cada 10 formados estão empregados. Essa é a taxa de inserção dos egressos de cursos técnicos do SENAI: 85,6% na média nacional — o maior índice desde o início da série histórica, em 2002 — chegan"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Ainda dá tempo de se inscrever no Vestibular FATEC? Sim! 70 Cursos com inscrições até amanhã às 15h",
+      "url": "https://www.pebsp.com/ainda-da-tempo-de-se-inscrever-no-vestibular-fatec-sim-70-cursos-com-inscricoes-ate-amanha-as-15h/",
+      "data": "Mon, 08 Jun 2026 00:00:33 +0000",
+      "resumo": "Amanhã, 8 de junho de 2026, às 15h, encerram as inscrições para o Vestibular FATEC 2º Semestre de 2026. Quem ainda não se inscreveu tem até esse horário para acessar o site vestibular.fatec.sp.gov.br,"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UECE abre seleção para especialização gratuita em Alfabetização e Multiletramentos pela UAB",
+      "url": "https://www.pebsp.com/uece-abre-selecao-para-especializacao-gratuita-em-alfabetizacao-e-multiletramentos-pela-uab/",
+      "data": "Sun, 07 Jun 2026 20:17:16 +0000",
+      "resumo": "A Universidade Estadual do Ceará (UECE) está com inscrições abertas para a especialização gratuita em Alfabetização e Multiletramentos, ofertada pelo sistema Universidade Aberta do Brasil (UAB). São 1"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal Lança Edital Para a Especialização em Informática na Educação! Totalmente Gratuito e EAD!",
+      "url": "https://www.pebsp.com/instituto-federal-lanca-edital-para-a-especializacao-em-informatica-na-educacao-totalmente-gratuito-e-ead-dcs/",
+      "data": "Sun, 07 Jun 2026 19:58:46 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) anunciou a abertura do processo seletivo para o curso de pós-graduação lato sensu gratuita em Informática na Educação, com ofe"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado gratuito pelo MEC em junho de 2026: veja como encontrar editais abertos",
+      "url": "https://conectaprofessores.com/2026/06/07/mestrado-gratuito-pelo-mec-em-junho-de-2026-veja-como-encontrar-editais-abertos/",
+      "data": "Mon, 08 Jun 2026 01:43:31 +0000",
+      "resumo": "Em junho de 2026, o Ministério da Educação lançou o Portal Formação, uma plataforma que centraliza editais e vagas de mestrado gratuito em instituições públicas. Parte do programa Mais Professores, fa"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre 3 mil vagas para curso gratuito de Liderança Escolar com certificado de 90 horas",
+      "url": "https://conectaprofessores.com/2026/06/07/mec-abre-3-mil-vagas-para-curso-gratuito-de-lideranca-escolar-com-certificado-de-90-horas/",
+      "data": "Mon, 08 Jun 2026 01:13:11 +0000",
+      "resumo": "Profissionais da educação podem se inscrever em curso gratuito de Formação em Liderança Escolar, oferecido pelo MEC. Com 3 mil vagas, a capacitação online tem 90 horas de carga horária e aborda prátic"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Fundação Itaú oferece curso gratuito para professores de Língua Portuguesa",
+      "url": "https://conectaprofessores.com/2026/06/07/fundacao-itau-oferece-curso-gratuito-para-professores-de-lingua-portuguesa/",
+      "data": "Mon, 08 Jun 2026 00:44:29 +0000",
+      "resumo": "A Fundação Itaú oferece o curso gratuito Tecnologia Educacional – Formação Docente em Língua Portuguesa, voltado para educadores que buscam aprimorar práticas de ensino da leitura e escrita. Com 20 ho"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal oferece curso gratuito sobre Atendimento Educacional Especializado com certificado",
+      "url": "https://conectaprofessores.com/2026/06/07/instituto-federal-oferece-curso-gratuito-sobre-atendimento-educacional-especializado-com-certificado-2/",
+      "data": "Mon, 08 Jun 2026 00:22:47 +0000",
+      "resumo": "O Instituto Federal de Mato Grosso do Sul (IFMS) oferece gratuitamente o curso online \"Inclusão em Ação: Atendimento Educacional Especializado (AEE)\", com 40 horas de formação. Destinado a profissiona"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal abre inscrições para cursos gratuitos de inglês, espanhol e Libras",
+      "url": "https://conectaprofessores.com/2026/06/07/instituto-federal-abre-inscricoes-para-cursos-gratuitos-de-ingles-espanhol-e-libras/",
+      "data": "Sun, 07 Jun 2026 16:34:36 +0000",
+      "resumo": "O IFRS está com inscrições abertas até 30 de junho para 28 cursos gratuitos e online em áreas como idiomas, literatura e Libras. Os participantes receberão certificados ao concluir as atividades, prom"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal oferece vagas gratuitas em mestrado na área de materiais",
+      "url": "https://conectaprofessores.com/2026/06/07/universidade-federal-oferece-vagas-gratuitas-em-mestrado-na-area-de-materiais/",
+      "data": "Sun, 07 Jun 2026 15:03:00 +0000",
+      "resumo": "A Universidade Federal do Oeste da Bahia (UFOB) está com inscrições abertas para 11 vagas no Programa de Pós-Graduação em Ciência dos Materiais (PROMAT), com início em 2026. As inscrições são gratuita"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre 7 mil vagas para curso gratuito de Recursos Educacionais Digitais com certificado",
+      "url": "https://conectaprofessores.com/2026/06/06/mec-abre-7-mil-vagas-para-curso-gratuito-de-recursos-educacionais-digitais-com-certificado/",
+      "data": "Sun, 07 Jun 2026 02:27:02 +0000",
+      "resumo": "O Ministério da Educação (MEC) abriu 7 mil vagas para o curso gratuito \"Formação de Professores em Uso de Recursos Educacionais Digitais\". Com carga horária de 60 horas, totalmente online, o curso vis"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre 106 vagas para Inteligência Artificial, Psicologia e Medicina em 2026",
+      "url": "https://conectaprofessores.com/2026/06/06/universidade-federal-abre-106-vagas-para-inteligencia-artificial-psicologia-e-medicina-em-2026/",
+      "data": "Sun, 07 Jun 2026 00:32:23 +0000",
+      "resumo": "A Universidade Federal do Piauí (UFPI) abriu um processo seletivo para 106 vagas nos cursos de Psicologia, Inteligência Artificial e Medicina. As inscrições vão de 9 a 23 de junho de 2026, sendo feita"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "adão e eva",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de adão e eva para fazer em casa (com molde grátis)",
+          "20 modelos de adão e eva para imprimir e usar agora",
+          "20 inspirações de adão e eva que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer adão e eva: passo a passo fácil para iniciantes",
+          "Adão e eva: como criar em casa sem gastar muito",
+          "Tudo sobre adão e eva em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que adão e eva está entre as buscas mais quentes do Brasil",
+          "Adão e eva: as tendências que dominam em 2026",
+          "Adão e eva em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'adão e eva' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "para que serve probiótico para cachorro",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de que seu cachorro precisa de para que serve probiótico para cachorro",
+          "20 benefícios de para que serve probiótico para cachorro que todo tutor deveria conhecer",
+          "20 dúvidas sobre para que serve probiótico para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar para que serve probiótico para cachorro no seu cachorro: guia completo para tutores",
+          "Para que serve probiótico para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre para que serve probiótico para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que para que serve probiótico para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Para que serve probiótico para cachorro: o que os veterinários estão recomendando em 2026",
+          "Para que serve probiótico para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'para que serve probiótico para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "capa de portfólio educação infantil",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Capa de portfólio educação infantil para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de capa de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "20 recursos de capa de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar capa de portfólio educação infantil do zero: modelo completo e editável",
+          "Capa de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre capa de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que capa de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Capa de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Capa de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'capa de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "caderno de atividades de matemática 2 ano para imprimir",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caderno de atividades de matemática 2 ano para imprimir para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de caderno de atividades de matemática 2 ano para imprimir por ano escolar — do 1° ao 5° ano",
+          "20 recursos de caderno de atividades de matemática 2 ano para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar caderno de atividades de matemática 2 ano para imprimir do zero: modelo completo e editável",
+          "Caderno de atividades de matemática 2 ano para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre caderno de atividades de matemática 2 ano para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que caderno de atividades de matemática 2 ano para imprimir está entre os materiais mais baixados por educadores",
+          "Caderno de atividades de matemática 2 ano para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Caderno de atividades de matemática 2 ano para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caderno de atividades de matemática 2 ano para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "atividades de matemática 3 ano para imprimir pdf",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Atividades de matemática 3 ano para imprimir pdf para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de atividades de matemática 3 ano para imprimir pdf por ano escolar — do 1° ao 5° ano",
+          "20 recursos de atividades de matemática 3 ano para imprimir pdf que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar atividades de matemática 3 ano para imprimir pdf do zero: modelo completo e editável",
+          "Atividades de matemática 3 ano para imprimir pdf: passo a passo para professores e coordenadores",
+          "Tudo sobre atividades de matemática 3 ano para imprimir pdf em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que atividades de matemática 3 ano para imprimir pdf está entre os materiais mais baixados por educadores",
+          "Atividades de matemática 3 ano para imprimir pdf: o recurso que escolas inteiras adotaram em 2026",
+          "Atividades de matemática 3 ano para imprimir pdf em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de matemática 3 ano para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "modelo de portfólio educação infantil",
+      "score": 87.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Modelo de portfólio educação infantil para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de modelo de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "20 recursos de modelo de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar modelo de portfólio educação infantil do zero: modelo completo e editável",
+          "Modelo de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre modelo de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que modelo de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Modelo de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Modelo de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'modelo de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "cartão",
+      "score": 81.7,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de cartão para fazer em casa (com molde grátis)",
+          "20 modelos de cartão para imprimir e usar agora",
+          "20 inspirações de cartão que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer cartão: passo a passo fácil para iniciantes",
+          "Cartão: como criar em casa sem gastar muito",
+          "Tudo sobre cartão em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que cartão está entre as buscas mais quentes do Brasil",
+          "Cartão: as tendências que dominam em 2026",
+          "Cartão em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cartão' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "paisagismo",
+      "score": 76.3,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de paisagismo para quem está começando do zero",
+          "20 erros em paisagismo que matam suas plantas (evite estes)",
+          "20 ideias de paisagismo baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer paisagismo em casa: passo a passo para iniciantes",
+          "Paisagismo: o guia definitivo para 2026",
+          "Tudo sobre paisagismo: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que paisagismo virou febre nas redes sociais",
+          "Paisagismo: a tendência que domina os jardins em 2026",
+          "Paisagismo em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'paisagismo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "eva langwin",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de eva langwin para fazer em casa (com molde grátis)",
+          "15 modelos de eva langwin para imprimir e usar agora",
+          "15 inspirações de eva langwin que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer eva langwin: passo a passo fácil para iniciantes",
+          "Eva langwin: como criar em casa sem gastar muito",
+          "Tudo sobre eva langwin em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que eva langwin está entre as buscas mais quentes do Brasil",
+          "Eva langwin: as tendências que dominam em 2026",
+          "Eva langwin em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'eva langwin' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "rádio táxi eva",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de rádio táxi eva para fazer em casa (com molde grátis)",
+          "15 modelos de rádio táxi eva para imprimir e usar agora",
+          "15 inspirações de rádio táxi eva que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer rádio táxi eva: passo a passo fácil para iniciantes",
+          "Rádio táxi eva: como criar em casa sem gastar muito",
+          "Tudo sobre rádio táxi eva em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que rádio táxi eva está entre as buscas mais quentes do Brasil",
+          "Rádio táxi eva: as tendências que dominam em 2026",
+          "Rádio táxi eva em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'rádio táxi eva' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "yoga with eva",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de yoga with eva para fazer em casa (com molde grátis)",
+          "15 modelos de yoga with eva para imprimir e usar agora",
+          "15 inspirações de yoga with eva que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer yoga with eva: passo a passo fácil para iniciantes",
+          "Yoga with eva: como criar em casa sem gastar muito",
+          "Tudo sobre yoga with eva em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que yoga with eva está entre as buscas mais quentes do Brasil",
+          "Yoga with eva: as tendências que dominam em 2026",
+          "Yoga with eva em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'yoga with eva' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "como dar probiótico para cachorro",
+      "score": 37.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de como dar probiótico para cachorro",
+          "15 benefícios de como dar probiótico para cachorro que todo tutor deveria conhecer",
+          "15 dúvidas sobre como dar probiótico para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar como dar probiótico para cachorro no seu cachorro: guia completo para tutores",
+          "Como dar probiótico para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre como dar probiótico para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que como dar probiótico para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Como dar probiótico para cachorro: o que os veterinários estão recomendando em 2026",
+          "Como dar probiótico para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como dar probiótico para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "folhagens",
+      "score": 14.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de folhagens para quem está começando do zero",
+          "10 erros em folhagens que matam suas plantas (evite estes)",
+          "10 ideias de folhagens baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer folhagens em casa: passo a passo para iniciantes",
+          "Folhagens: o guia definitivo para 2026",
+          "Tudo sobre folhagens: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que folhagens virou febre nas redes sociais",
+          "Folhagens: a tendência que domina os jardins em 2026",
+          "Folhagens em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'folhagens' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "probiótico para cachorro com diarreia como usar",
+      "score": 14.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de probiótico para cachorro com diarreia como usar",
+          "10 benefícios de probiótico para cachorro com diarreia como usar que todo tutor deveria conhecer",
+          "10 dúvidas sobre probiótico para cachorro com diarreia como usar respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiótico para cachorro com diarreia como usar no seu cachorro: guia completo para tutores",
+          "Probiótico para cachorro com diarreia como usar: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiótico para cachorro com diarreia como usar: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiótico para cachorro com diarreia como usar está entre as buscas mais quentes de tutores de pets",
+          "Probiótico para cachorro com diarreia como usar: o que os veterinários estão recomendando em 2026",
+          "Probiótico para cachorro com diarreia como usar em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiótico para cachorro com diarreia como usar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "trepadeiras",
+      "score": 12.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de trepadeiras para quem está começando do zero",
+          "10 erros em trepadeiras que matam suas plantas (evite estes)",
+          "10 ideias de trepadeiras baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer trepadeiras em casa: passo a passo para iniciantes",
+          "Trepadeiras: o guia definitivo para 2026",
+          "Tudo sobre trepadeiras: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que trepadeiras virou febre nas redes sociais",
+          "Trepadeiras: a tendência que domina os jardins em 2026",
+          "Trepadeiras em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'trepadeiras' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como adubar",
+      "score": 6.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de como adubar para quem está começando do zero",
+          "10 erros em como adubar que matam suas plantas (evite estes)",
+          "10 ideias de como adubar baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como adubar em casa: passo a passo para iniciantes",
+          "Como adubar: o guia definitivo para 2026",
+          "Tudo sobre como adubar: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como adubar virou febre nas redes sociais",
+          "Como adubar: a tendência que domina os jardins em 2026",
+          "Como adubar em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como adubar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como regar",
+      "score": 5.4,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de como regar para quem está começando do zero",
+          "10 erros em como regar que matam suas plantas (evite estes)",
+          "10 ideias de como regar baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como regar em casa: passo a passo para iniciantes",
+          "Como regar: o guia definitivo para 2026",
+          "Tudo sobre como regar: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como regar virou febre nas redes sociais",
+          "Como regar: a tendência que domina os jardins em 2026",
+          "Como regar em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como regar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "como brincar com bebê",
+      "score": 3.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de como brincar com bebê que todo pai precisa conhecer",
+          "10 atividades para estimular como brincar com bebê em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com como brincar com bebê a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com como brincar com bebê: guia completo para pais",
+          "Como brincar com bebê: o que é, como identificar e o que fazer em 2026",
+          "Como estimular como brincar com bebê no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre como brincar com bebê",
+          "Como brincar com bebê: o que as pesquisas mais recentes dizem em 2026",
+          "Como brincar com bebê em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como brincar com bebê' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "atividades montessori em casa",
+      "score": 3.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de atividades montessori em casa que todo pai precisa conhecer",
+          "10 atividades para estimular atividades montessori em casa em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com atividades montessori em casa a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com atividades montessori em casa: guia completo para pais",
+          "Atividades montessori em casa: o que é, como identificar e o que fazer em 2026",
+          "Como estimular atividades montessori em casa no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre atividades montessori em casa",
+          "Atividades montessori em casa: o que as pesquisas mais recentes dizem em 2026",
+          "Atividades montessori em casa em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades montessori em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "brinquedos educativos para crianças",
+      "score": 1.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de brinquedos educativos para crianças que todo pai precisa conhecer",
+          "10 atividades para estimular brinquedos educativos para crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com brinquedos educativos para crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com brinquedos educativos para crianças: guia completo para pais",
+          "Brinquedos educativos para crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular brinquedos educativos para crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre brinquedos educativos para crianças",
+          "Brinquedos educativos para crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Brinquedos educativos para crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'brinquedos educativos para crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "método montessori",
+      "score": 1.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de método montessori que todo pai precisa conhecer",
+          "10 atividades para estimular método montessori em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com método montessori a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com método montessori: guia completo para pais",
+          "Método montessori: o que é, como identificar e o que fazer em 2026",
+          "Como estimular método montessori no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre método montessori",
+          "Método montessori: o que as pesquisas mais recentes dizem em 2026",
+          "Método montessori em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'método montessori' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "atividades para estimular criança em casa",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de atividades para estimular criança em casa que todo pai precisa conhecer",
+          "10 atividades para estimular atividades para estimular criança em casa em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com atividades para estimular criança em casa a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com atividades para estimular criança em casa: guia completo para pais",
+          "Atividades para estimular criança em casa: o que é, como identificar e o que fazer em 2026",
+          "Como estimular atividades para estimular criança em casa no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre atividades para estimular criança em casa",
+          "Atividades para estimular criança em casa: o que as pesquisas mais recentes dizem em 2026",
+          "Atividades para estimular criança em casa em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para estimular criança em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    }
+  ]
+}
