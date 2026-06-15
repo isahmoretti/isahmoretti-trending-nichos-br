@@ -1,0 +1,554 @@
+{
+  "date": "2026-06-15",
+  "collected_at": "2026-06-15T15:36:27.733657",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "receita de bolo",
+            "valor": 100,
+            "base": "bolo"
+          },
+          {
+            "termo": "bolo chocolate",
+            "valor": 80,
+            "base": "bolo"
+          },
+          {
+            "termo": "bolo de chocolate",
+            "valor": 76,
+            "base": "bolo"
+          },
+          {
+            "termo": "bolo de milho",
+            "valor": 68,
+            "base": "bolo"
+          },
+          {
+            "termo": "bolo cenoura",
+            "valor": 54,
+            "base": "bolo"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "bolo de santo antônio",
+            "valor": "250",
+            "base": "bolo"
+          },
+          {
+            "termo": "bolo de santo antonio",
+            "valor": "190",
+            "base": "bolo"
+          },
+          {
+            "termo": "bolo da copa",
+            "valor": "100",
+            "base": "bolo"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "ração natural para cachorro",
+            "valor": 9.8
+          },
+          {
+            "termo": "proteína para cachorro",
+            "valor": 4.9
+          },
+          {
+            "termo": "cálcio para cachorro",
+            "valor": 0.4
+          },
+          {
+            "termo": "dieta barf cachorro",
+            "valor": 0.0
+          },
+          {
+            "termo": "nutrição canina",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre novas vagas para curso gratuito de Gestão Escolar com certificado de 80 horas",
+      "url": "https://conectaprofessores.com/2026/06/14/mec-abre-novas-vagas-para-curso-gratuito-de-gestao-escolar-com-certificado-de-80-horas/",
+      "data": "Mon, 15 Jun 2026 02:51:46 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece um curso gratuito de Gestão Escolar, com 80 horas de certificação, voltado para profissionais da educação básica, especialmente gestores e coordenadores. O curso"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 210 vagas para especialização gratuita em Educação Infantil e Educação Inclusiva",
+      "url": "https://conectaprofessores.com/2026/06/14/universidade-abre-210-vagas-para-especializacao-gratuita-em-educacao-infantil-e-educacao-inclusiva/",
+      "data": "Mon, 15 Jun 2026 01:23:23 +0000",
+      "resumo": "A Universidade Estadual de Maringá (UEM) oferece, em 2026, uma Especialização em Educação Infantil e Desenvolvimento Humano focada na Educação Inclusiva, com 210 vagas gratuitas em 15 polos no Paraná."
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre inscrições com mais de 3,7 mil vagas",
+      "url": "https://conectaprofessores.com/2026/06/14/universidade-abre-inscricoes-com-mais-de-37-mil-vagas/",
+      "data": "Mon, 15 Jun 2026 00:38:09 +0000",
+      "resumo": "A Universidade de Pernambuco (UPE) abriu inscrições para o Sistema Seriado de Avaliação (SSA) 2027 até 10 de julho, oferecendo 3.710 vagas em 61 cursos. A taxa de inscrição é de R$ 130, com isenção di"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal  oferta vagas em mestrado e doutorado em Física",
+      "url": "https://conectaprofessores.com/2026/06/14/universidade-federal-oferta-vagas-em-mestrado-e-doutorado-em-fisica/",
+      "data": "Sun, 14 Jun 2026 18:46:38 +0000",
+      "resumo": "A Universidade Federal de Viçosa (UFV) está selecionando candidatos para o Programa de Pós-Graduação em Física, com inscrições abertas até 3 de julho de 2026 para mestrado e doutorado. O programa abra"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 120 vagas para especialização gratuita em Educação Infantil EaD",
+      "url": "https://conectaprofessores.com/2026/06/14/universidade-abre-120-vagas-para-especializacao-gratuita-em-educacao-infantil-ead/",
+      "data": "Sun, 14 Jun 2026 17:02:14 +0000",
+      "resumo": "A Universidade Estadual de Maringá (UEM) oferece 120 vagas gratuitas para o curso de Especialização em Educação Infantil na modalidade EaD. As inscrições ocorrem entre 12 de junho e 3 de julho de 2026"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 150 vagas para especialização gratuita em Matemática na modalidade EaD",
+      "url": "https://conectaprofessores.com/2026/06/14/universidade-abre-150-vagas-para-especializacao-gratuita-em-matematica-na-modalidade-ead/",
+      "data": "Sun, 14 Jun 2026 15:26:52 +0000",
+      "resumo": "A Universidade Estadual de Maringá (UEM) oferece uma especialização gratuita em Matemática para professores, com 150 vagas em cinco polos no Paraná. O curso de 420 horas é oferecido na modalidade EaD,"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 120 vagas para Especialização gratuita em Atendimento Educacional Especializado EaD",
+      "url": "https://conectaprofessores.com/2026/06/14/universidade-abre-120-vagas-para-especializacao-gratuita-em-atendimento-educacional-especializado-ead/",
+      "data": "Sun, 14 Jun 2026 14:35:38 +0000",
+      "resumo": "Professores e profissionais da educação podem se inscrever na Especialização em Atendimento Educacional Especializado da UEM, oferecida gratuitamente em modalidade EaD, até 3 de julho de 2026. O curso"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC libera 50 mil vagas para formação gratuita em alfabetização dos anos iniciais",
+      "url": "https://conectaprofessores.com/2026/06/13/mec-libera-50-mil-vagas-para-formacao-gratuita-em-alfabetizacao-dos-anos-iniciais/",
+      "data": "Sun, 14 Jun 2026 02:19:58 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece 50 mil vagas para formação continuada de professores e profissionais da educação, com um acervo gratuito na plataforma AVAMEC. O material, focado na alfabetizaçã"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "receita de bolo",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de receita de bolo para fazer em casa (com molde grátis)",
+          "20 modelos de receita de bolo para imprimir e usar agora",
+          "20 inspirações de receita de bolo que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer receita de bolo: passo a passo fácil para iniciantes",
+          "Receita de bolo: como criar em casa sem gastar muito",
+          "Tudo sobre receita de bolo em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que receita de bolo está entre as buscas mais quentes do Brasil",
+          "Receita de bolo: as tendências que dominam em 2026",
+          "Receita de bolo em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'receita de bolo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "bolo chocolate",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de bolo chocolate para fazer em casa (com molde grátis)",
+          "20 modelos de bolo chocolate para imprimir e usar agora",
+          "20 inspirações de bolo chocolate que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer bolo chocolate: passo a passo fácil para iniciantes",
+          "Bolo chocolate: como criar em casa sem gastar muito",
+          "Tudo sobre bolo chocolate em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que bolo chocolate está entre as buscas mais quentes do Brasil",
+          "Bolo chocolate: as tendências que dominam em 2026",
+          "Bolo chocolate em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'bolo chocolate' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "bolo de chocolate",
+      "score": 76.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de bolo de chocolate para fazer em casa (com molde grátis)",
+          "20 modelos de bolo de chocolate para imprimir e usar agora",
+          "20 inspirações de bolo de chocolate que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer bolo de chocolate: passo a passo fácil para iniciantes",
+          "Bolo de chocolate: como criar em casa sem gastar muito",
+          "Tudo sobre bolo de chocolate em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que bolo de chocolate está entre as buscas mais quentes do Brasil",
+          "Bolo de chocolate: as tendências que dominam em 2026",
+          "Bolo de chocolate em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'bolo de chocolate' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "bolo de milho",
+      "score": 68.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de bolo de milho para fazer em casa (com molde grátis)",
+          "15 modelos de bolo de milho para imprimir e usar agora",
+          "15 inspirações de bolo de milho que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer bolo de milho: passo a passo fácil para iniciantes",
+          "Bolo de milho: como criar em casa sem gastar muito",
+          "Tudo sobre bolo de milho em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que bolo de milho está entre as buscas mais quentes do Brasil",
+          "Bolo de milho: as tendências que dominam em 2026",
+          "Bolo de milho em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'bolo de milho' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "bolo de santo antônio",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de bolo de santo antônio para fazer em casa (com molde grátis)",
+          "15 modelos de bolo de santo antônio para imprimir e usar agora",
+          "15 inspirações de bolo de santo antônio que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer bolo de santo antônio: passo a passo fácil para iniciantes",
+          "Bolo de santo antônio: como criar em casa sem gastar muito",
+          "Tudo sobre bolo de santo antônio em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que bolo de santo antônio está entre as buscas mais quentes do Brasil",
+          "Bolo de santo antônio: as tendências que dominam em 2026",
+          "Bolo de santo antônio em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'bolo de santo antônio' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "ração natural para cachorro",
+      "score": 9.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de ração natural para cachorro",
+          "10 benefícios de ração natural para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre ração natural para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar ração natural para cachorro no seu cachorro: guia completo para tutores",
+          "Ração natural para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre ração natural para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que ração natural para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Ração natural para cachorro: o que os veterinários estão recomendando em 2026",
+          "Ração natural para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ração natural para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "proteína para cachorro",
+      "score": 4.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de proteína para cachorro",
+          "10 benefícios de proteína para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre proteína para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar proteína para cachorro no seu cachorro: guia completo para tutores",
+          "Proteína para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre proteína para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que proteína para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Proteína para cachorro: o que os veterinários estão recomendando em 2026",
+          "Proteína para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'proteína para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "cálcio para cachorro",
+      "score": 0.4,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de cálcio para cachorro",
+          "10 benefícios de cálcio para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre cálcio para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar cálcio para cachorro no seu cachorro: guia completo para tutores",
+          "Cálcio para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre cálcio para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que cálcio para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Cálcio para cachorro: o que os veterinários estão recomendando em 2026",
+          "Cálcio para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cálcio para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "dieta barf cachorro",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de dieta barf cachorro",
+          "10 benefícios de dieta barf cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre dieta barf cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar dieta barf cachorro no seu cachorro: guia completo para tutores",
+          "Dieta barf cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre dieta barf cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que dieta barf cachorro está entre as buscas mais quentes de tutores de pets",
+          "Dieta barf cachorro: o que os veterinários estão recomendando em 2026",
+          "Dieta barf cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dieta barf cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "nutrição canina",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de nutrição canina",
+          "10 benefícios de nutrição canina que todo tutor deveria conhecer",
+          "10 dúvidas sobre nutrição canina respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar nutrição canina no seu cachorro: guia completo para tutores",
+          "Nutrição canina: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre nutrição canina: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que nutrição canina está entre as buscas mais quentes de tutores de pets",
+          "Nutrição canina: o que os veterinários estão recomendando em 2026",
+          "Nutrição canina em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'nutrição canina' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    }
+  ]
+}
