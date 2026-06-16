@@ -1,0 +1,658 @@
+{
+  "date": "2026-06-16",
+  "collected_at": "2026-06-16T14:51:32.046965",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "jardim",
+            "valor": 88.6
+          },
+          {
+            "termo": "flores",
+            "valor": 32.0
+          },
+          {
+            "termo": "horta",
+            "valor": 2.5
+          },
+          {
+            "termo": "vegetais",
+            "valor": 1.9
+          },
+          {
+            "termo": "o que plantar",
+            "valor": 1.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "enfeite copa",
+            "valor": 100,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite mesa",
+            "valor": 71,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite de mesa",
+            "valor": 57,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite festa junina",
+            "valor": 55,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite de festa",
+            "valor": 51,
+            "base": "enfeite"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "enfeites para copa do mundo 2026",
+            "valor": "80",
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite copa do mundo 2026",
+            "valor": "70",
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite da copa do mundo",
+            "valor": "60",
+            "base": "enfeite"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "sintomas de ansiedade em crianças",
+            "valor": 100,
+            "base": "ansiedade em crianças"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "10 cursos gratuitos de idiomas no IFRO Calama em 2026: inglês, espanhol, Libras e mais",
+      "url": "https://www.pebsp.com/10-cursos-gratuitos-de-idiomas-no-ifro-calama-em-2026-ingles-espanhol-libras-e-mais/",
+      "data": "Tue, 16 Jun 2026 14:55:33 +0000",
+      "resumo": "O Instituto Federal de Rondônia (IFRO), Campus Porto Velho Calama, abriu processo seletivo para cursos gratuitos de idiomas — inglês, espanhol, Libras e português como língua adicional — no segundo se"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Mercado de Meio Ambiente cresceu 6% nas contratações em um ano — e há 300 vagas no Técnico EAD do IFSULDEMINAS",
+      "url": "https://www.pebsp.com/mercado-de-meio-ambiente-cresceu-6-nas-contratacoes-em-um-ano-e-ha-300-vagas-no-tecnico-ead/",
+      "data": "Tue, 16 Jun 2026 13:15:25 +0000",
+      "resumo": "O licenciamento ambiental no Brasil está exigindo cada vez mais rigor técnico em 2026 — especialistas apontam que as empresas precisam ir além do cumprimento mínimo da legislação e investir em gestão "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP abre inscrições para 2 Graduações EAD em Tecnologia, com demanda de 100 mil profissionais por ano",
+      "url": "https://www.pebsp.com/ifsp-abre-inscricoes-para-2-graduacoes-ead-em-tecnologia-com-demanda-de-100-mil-profissionais-por-ano/",
+      "data": "Tue, 16 Jun 2026 12:39:17 +0000",
+      "resumo": "O Instituto Federal de São Paulo (IFSP) está com inscrições abertas para dois cursos superiores de tecnologia gratuitos na modalidade EaD: Análise e Desenvolvimento de Sistemas e Redes de Computadores"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "ÚLTIMOS DIAS de Inscrição Para Ingresso nos Cursos Técnicos do IFSULDEMINAS Com Seleção Por Sorteio!",
+      "url": "https://www.pebsp.com/ultimos-dias-de-inscricao-para-ingresso-nos-cursos-tecnicos-do-ifsuldeminas-com-selecao-por-sorteio-dcs/",
+      "data": "Tue, 16 Jun 2026 10:09:13 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) formalizou a abertura do processo seletivo unificado para o preenchimento de vagas remanescentes e novas tur"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Prova Nacional Docente 2026: temas prováveis em saúde mental e educação que podem cair na dissertativa",
+      "url": "https://www.pebsp.com/prova-nacional-docente-2026-temas-provaveis-em-saude-mental-e-educacao-que-podem-cair-na-dissertativa/",
+      "data": "Tue, 16 Jun 2026 09:06:12 +0000",
+      "resumo": "Uma pesquisa do IBGE divulgada em março de 2026 revelou que três em cada dez estudantes brasileiros entre 13 e 17 anos se sentem tristes sempre ou na maioria das vezes — e menos da metade frequenta um"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "3 especializações gratuitas em gestão pública com inscrições abertas nesta semana",
+      "url": "https://www.pebsp.com/3-especializacoes-gratuitas-em-gestao-publica-com-inscricoes-abertas-nesta-semana/",
+      "data": "Tue, 16 Jun 2026 08:00:14 +0000",
+      "resumo": "Três universidades federais estão com inscrições abertas para especializações gratuitas em gestão — todas lato sensu, 100% EaD, sem mensalidade e voltadas a servidores públicos, gestores escolares e e"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "No ano da Copa, o Brasil pode ganhar sua primeira universidade federal do esporte",
+      "url": "https://www.pebsp.com/no-ano-da-copa-o-brasil-pode-ganhar-sua-primeira-universidade-federal-do-esporte/",
+      "data": "Tue, 16 Jun 2026 00:48:22 +0000",
+      "resumo": "Em meio à Copa do Mundo de 2026, o Senado Federal pauta para esta terça-feira (16) a votação de um projeto que pode criar a primeira universidade federal dedicada exclusivamente ao esporte no Brasil. "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "4 especializações EAD que encerram inscrições até o fim de junho: veja lista completa",
+      "url": "https://www.pebsp.com/4-especializacoes-ead-que-encerram-inscricoes-ate-o-fim-de-junho-veja-lista-completa/",
+      "data": "Mon, 15 Jun 2026 23:54:15 +0000",
+      "resumo": "Quatro instituições públicas de ensino superior estão com inscrições abertas para especializações gratuitas na modalidade EaD — todas lato sensu, sem mensalidade e com vagas para professores e graduad"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Licenciatura Gratuita Pelo MEC 2026: Confira as Vagas Disponíveis no Portal Formação",
+      "url": "https://conectaprofessores.com/2026/06/16/licenciatura-gratuita-pelo-mec-2026-confira-as-vagas-disponiveis-no-portal-formacao/",
+      "data": "Tue, 16 Jun 2026 15:25:05 +0000",
+      "resumo": "O Portal Formação, uma iniciativa do Programa Mais Professores do MEC, oferece oportunidades de licenciatura gratuitas para futuros docentes em várias regiões do Brasil. A plataforma apresenta um mapa"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Aprenda inglês e espanhol grátis com o novo aplicativo do MEC",
+      "url": "https://conectaprofessores.com/2026/06/16/aprenda-ingles-e-espanhol-gratis-com-o-novo-aplicativo-do-mec/",
+      "data": "Tue, 16 Jun 2026 13:55:46 +0000",
+      "resumo": "O MEC lançou a plataforma MEC Idiomas, oferecendo cursos gratuitos de inglês e espanhol, desde o nível básico até o avançado, com recursos autoinstrucionais e inteligência artificial. A iniciativa faz"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre mais de 4 mil vagas para curso gratuito de Português como Língua de Acolhimento",
+      "url": "https://conectaprofessores.com/2026/06/15/mec-abre-mais-de-4-mil-vagas-para-curso-gratuito-de-portugues-como-lingua-de-acolhimento/",
+      "data": "Tue, 16 Jun 2026 02:31:02 +0000",
+      "resumo": "O Ministério da Educação (MEC) está oferecendo mais de 4 mil vagas para o curso gratuito \"Português como Língua de Acolhimento\". Destinado a educadores, o curso de 120 horas visa capacitar professores"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Atividade para Alfabetizar Alunos Atípicos: PDF Grátis para Baixar",
+      "url": "https://conectaprofessores.com/2026/06/15/atividade-para-alfabetizar-alunos-atipicos-pdf-gratis-para-baixar/",
+      "data": "Tue, 16 Jun 2026 01:19:11 +0000",
+      "resumo": "A alfabetização de alunos atípicos requer estratégias pedagógicas adequadas, como atividades lúdicas que valorizem suas necessidades individuais. Professores podem utilizar um material desenvolvido pa"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre seleção para tutores UAB em curso de Libras EaD com bolsa da CAPES",
+      "url": "https://conectaprofessores.com/2026/06/15/universidade-federal-abre-selecao-para-tutores-uab-em-curso-de-libras-ead-com-bolsa-da-capes/",
+      "data": "Tue, 16 Jun 2026 00:30:14 +0000",
+      "resumo": "A Universidade Federal do Rio Grande (FURG) abre inscrições até 23 de junho de 2026 para a seleção de tutores bolsistas no curso de Tecnólogo em Tradução e Interpretação da Libras na modalidade EaD. O"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade oferece 600 vagas em especializações gratuitas na área da Educação",
+      "url": "https://conectaprofessores.com/2026/06/15/universidade-oferece-600-vagas-em-especializacoes-gratuitas-na-area-da-educacao/",
+      "data": "Mon, 15 Jun 2026 23:37:45 +0000",
+      "resumo": "A Universidade Estadual de Maringá (UEM) oferece 600 vagas gratuitas em quatro cursos de especialização na modalidade Educação a Distância (EaD) para profissionais da educação. As inscrições vão até 3"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre inscrições para o primeiro Sisu+ com mais de 9 mil vagas em universidades públicas",
+      "url": "https://conectaprofessores.com/2026/06/15/mec-abre-inscricoes-para-o-primeiro-sisu-com-mais-de-9-mil-vagas-em-universidades-publicas/",
+      "data": "Mon, 15 Jun 2026 17:47:11 +0000",
+      "resumo": "O Ministério da Educação (MEC) lançou o Sisu+, uma fase complementar do Sistema de Seleção Unificada, com inscrições abertas de 15 a 19 de junho. O programa oferece 9.436 vagas em 532 cursos para cand"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Recife vai usar nota da PND na contratação de professores da rede municipal",
+      "url": "https://conectaprofessores.com/2026/06/15/recife-vai-usar-nota-da-pnd-na-contratacao-de-professores-da-rede-municipal/",
+      "data": "Mon, 15 Jun 2026 17:23:20 +0000",
+      "resumo": "A Prefeitura do Recife aderiu à Prova Nacional Docente (PND) para a seleção de professores em 2026, promovendo a unificação dos critérios de avaliação no Brasil. A prova, organizada pelo Inep, busca q"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite copa",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de enfeite copa para fazer em casa (com molde grátis)",
+          "20 modelos de enfeite copa para imprimir e usar agora",
+          "20 inspirações de enfeite copa que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite copa: passo a passo fácil para iniciantes",
+          "Enfeite copa: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite copa em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite copa está entre as buscas mais quentes do Brasil",
+          "Enfeite copa: as tendências que dominam em 2026",
+          "Enfeite copa em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite copa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "sintomas de ansiedade em crianças",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de sintomas de ansiedade em crianças que todo pai precisa conhecer",
+          "20 atividades para estimular sintomas de ansiedade em crianças em casa (sem precisar de terapeuta)",
+          "20 formas de ajudar seu filho com sintomas de ansiedade em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com sintomas de ansiedade em crianças: guia completo para pais",
+          "Sintomas de ansiedade em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular sintomas de ansiedade em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre sintomas de ansiedade em crianças",
+          "Sintomas de ansiedade em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Sintomas de ansiedade em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sintomas de ansiedade em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "jardim",
+      "score": 88.6,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de jardim para quem está começando do zero",
+          "20 erros em jardim que matam suas plantas (evite estes)",
+          "20 ideias de jardim baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer jardim em casa: passo a passo para iniciantes",
+          "Jardim: o guia definitivo para 2026",
+          "Tudo sobre jardim: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que jardim virou febre nas redes sociais",
+          "Jardim: a tendência que domina os jardins em 2026",
+          "Jardim em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'jardim' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite mesa",
+      "score": 71.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de enfeite mesa para fazer em casa (com molde grátis)",
+          "20 modelos de enfeite mesa para imprimir e usar agora",
+          "20 inspirações de enfeite mesa que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite mesa: passo a passo fácil para iniciantes",
+          "Enfeite mesa: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite mesa em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite mesa está entre as buscas mais quentes do Brasil",
+          "Enfeite mesa: as tendências que dominam em 2026",
+          "Enfeite mesa em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite mesa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeites para copa do mundo 2026",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de enfeites para copa do mundo 2026 para fazer em casa (com molde grátis)",
+          "15 modelos de enfeites para copa do mundo 2026 para imprimir e usar agora",
+          "15 inspirações de enfeites para copa do mundo 2026 que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeites para copa do mundo 2026: passo a passo fácil para iniciantes",
+          "Enfeites para copa do mundo 2026: como criar em casa sem gastar muito",
+          "Tudo sobre enfeites para copa do mundo 2026 em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeites para copa do mundo 2026 está entre as buscas mais quentes do Brasil",
+          "Enfeites para copa do mundo 2026: as tendências que dominam em 2026",
+          "Enfeites para copa do mundo 2026 em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeites para copa do mundo 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite copa do mundo 2026",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de enfeite copa do mundo 2026 para fazer em casa (com molde grátis)",
+          "15 modelos de enfeite copa do mundo 2026 para imprimir e usar agora",
+          "15 inspirações de enfeite copa do mundo 2026 que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite copa do mundo 2026: passo a passo fácil para iniciantes",
+          "Enfeite copa do mundo 2026: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite copa do mundo 2026 em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite copa do mundo 2026 está entre as buscas mais quentes do Brasil",
+          "Enfeite copa do mundo 2026: as tendências que dominam em 2026",
+          "Enfeite copa do mundo 2026 em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite copa do mundo 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite da copa do mundo",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de enfeite da copa do mundo para fazer em casa (com molde grátis)",
+          "15 modelos de enfeite da copa do mundo para imprimir e usar agora",
+          "15 inspirações de enfeite da copa do mundo que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite da copa do mundo: passo a passo fácil para iniciantes",
+          "Enfeite da copa do mundo: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite da copa do mundo em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite da copa do mundo está entre as buscas mais quentes do Brasil",
+          "Enfeite da copa do mundo: as tendências que dominam em 2026",
+          "Enfeite da copa do mundo em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite da copa do mundo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "flores",
+      "score": 32.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 dicas de flores para quem está começando do zero",
+          "15 erros em flores que matam suas plantas (evite estes)",
+          "15 ideias de flores baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer flores em casa: passo a passo para iniciantes",
+          "Flores: o guia definitivo para 2026",
+          "Tudo sobre flores: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que flores virou febre nas redes sociais",
+          "Flores: a tendência que domina os jardins em 2026",
+          "Flores em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'flores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "horta",
+      "score": 2.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de horta para quem está começando do zero",
+          "10 erros em horta que matam suas plantas (evite estes)",
+          "10 ideias de horta baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer horta em casa: passo a passo para iniciantes",
+          "Horta: o guia definitivo para 2026",
+          "Tudo sobre horta: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que horta virou febre nas redes sociais",
+          "Horta: a tendência que domina os jardins em 2026",
+          "Horta em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'horta' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "vegetais",
+      "score": 1.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de vegetais para quem está começando do zero",
+          "10 erros em vegetais que matam suas plantas (evite estes)",
+          "10 ideias de vegetais baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer vegetais em casa: passo a passo para iniciantes",
+          "Vegetais: o guia definitivo para 2026",
+          "Tudo sobre vegetais: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que vegetais virou febre nas redes sociais",
+          "Vegetais: a tendência que domina os jardins em 2026",
+          "Vegetais em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'vegetais' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "o que plantar",
+      "score": 1.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de o que plantar para quem está começando do zero",
+          "10 erros em o que plantar que matam suas plantas (evite estes)",
+          "10 ideias de o que plantar baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer o que plantar em casa: passo a passo para iniciantes",
+          "O que plantar: o guia definitivo para 2026",
+          "Tudo sobre o que plantar: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que o que plantar virou febre nas redes sociais",
+          "O que plantar: a tendência que domina os jardins em 2026",
+          "O que plantar em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'o que plantar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    }
+  ]
+}
