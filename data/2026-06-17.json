@@ -1,0 +1,661 @@
+{
+  "date": "2026-06-17",
+  "collected_at": "2026-06-17T13:35:31.548333",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "brincadeiras para alfabetização",
+            "valor": 9.3
+          },
+          {
+            "termo": "jogos de alfabetização para imprimir",
+            "valor": 4.2
+          },
+          {
+            "termo": "como estimular a leitura em casa",
+            "valor": 1.4
+          },
+          {
+            "termo": "atividades de alfabetização em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "como ensinar a criança a ler em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "jardim",
+            "valor": 86.8
+          },
+          {
+            "termo": "flores",
+            "valor": 31.8
+          },
+          {
+            "termo": "horta",
+            "valor": 2.6
+          },
+          {
+            "termo": "vegetais",
+            "valor": 2.0
+          },
+          {
+            "termo": "o que plantar",
+            "valor": 1.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam hoje as inscrições para os cursos de especialização gratuitos a distância da UFAM",
+      "url": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-a-distancia-da-ufam/",
+      "data": "Wed, 17 Jun 2026 12:23:55 +0000",
+      "resumo": "A Universidade Federal do Amazonas (UFAM) abre hoje (17) as inscrições para o processo seletivo, que visa preencher 300 vagas The post Começam hoje as inscrições para os cursos de especialização gratu"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para a especialização gratuita em Educação Básica",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-educacao-basica/",
+      "data": "Wed, 17 Jun 2026 10:51:24 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) está selecionando alunos para a especialização The post Inscrições abertas para a especialização gratuita em Educação "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFES abre 520 vagas em cursos gratuitos e totalmente a distância",
+      "url": "https://infoeducacao.com.br/ifes-abre-520-vagas-em-cursos-gratuitos-e-totalmente-a-distancia/",
+      "data": "Tue, 16 Jun 2026 16:54:14 +0000",
+      "resumo": "O Instituto Federal de Educação do Espírito Santo (Ifes) está selecionando alunos para cursos gratuitos, totalmente a distância, de formação The post IFES abre 520 vagas em cursos gratuitos e totalmen"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "ETASA lança curso técnico gratuito em Agronegócio no interior de São Paulo",
+      "url": "https://infoeducacao.com.br/etasa-lanca-curso-tecnico-gratuito-em-agronegocio-no-interior-de-sao-paulo/",
+      "data": "Tue, 16 Jun 2026 16:08:49 +0000",
+      "resumo": "Santa Rita do Passa Quatro, junho de 2026 – A Escola Técnica Agropecuária Engenheiro Salvador Arena (ETASA), mantida pela Fundação The post ETASA lança curso técnico gratuito em Agronegócio no interio"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "USP abre mais de 200 vagas em cursos de pós-graduação gratuitos e paga bolsa de R$ 4.106,09",
+      "url": "https://infoeducacao.com.br/usp-abre-mais-de-200-vagas-em-cursos-de-pos-graduacao-gratuitos-e-paga-bolsa-de-r-4-10609/",
+      "data": "Tue, 16 Jun 2026 08:59:15 +0000",
+      "resumo": "A Universidade de São Paulo (USP) abriu mais de 200 vagas em cursos de pós-graduação gratuitos, que ofertaram bolsa mensal The post USP abre mais de 200 vagas em cursos de pós-graduação gratuitos e pa"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Mestrado profissional em Educação Tecnológica recebe inscrições",
+      "url": "https://infoeducacao.com.br/mestrado-profissional-em-educacao-tecnologica-recebe-inscricoes/",
+      "data": "Tue, 16 Jun 2026 08:26:01 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro &#8211; IFTM abriu 17 vagas no mestrado profissional em The post Mestrado profissional em Educação Tecnológica recebe inscriç"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições para o Seriado UFMG e pedidos de isenção da taxa começam hoje",
+      "url": "https://infoeducacao.com.br/inscricoes-para-o-seriado-ufmg-e-pedidos-de-isencao-da-taxa-comecam-hoje/",
+      "data": "Mon, 15 Jun 2026 21:14:12 +0000",
+      "resumo": "Foram abertas nesta segunda-feira, 15 de junho, as inscrições para as provas do Processo Seletivo Seriado da UFMG, marcadas para The post Inscrições para o Seriado UFMG e pedidos de isenção da taxa co"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para a especialização gratuita a distância em Gestão Escolar UAB",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-gestao-escolar-uab/",
+      "data": "Mon, 15 Jun 2026 12:50:40 +0000",
+      "resumo": "A Fundação Universidade do Estado do Rio Grande do Norte (FUERN) abriu 150 vagas na especialização gratuita a distância em The post Inscrições abertas para a especialização gratuita a distância em Ges"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Educação: IFSC Lança Edital de Seleção Para o Curso de Especialização Gratuito e EAD em Mídias Digitais!",
+      "url": "https://www.pebsp.com/educacao-ifsc-lanca-edital-de-selecao-para-o-curso-de-especializacao-gratuito-e-ead-em-midias-digitais-dcs/",
+      "data": "Wed, 17 Jun 2026 13:45:09 +0000",
+      "resumo": "O Instituto Federal de Santa Catarina (IFSC) oficializou a abertura das inscrições para o processo seletivo do curso de pós-graduação Lato Sensu em Especialização em Mídias Integradas na Educação, des"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSULDEMINAS abriu 250 vagas para curso gratuito de Libras — e qualquer pessoa pode participar",
+      "url": "https://www.pebsp.com/ifsuldeminas-abriu-250-vagas-para-curso-gratuito-de-libras-e-qualquer-pessoa-pode-participar/",
+      "data": "Wed, 17 Jun 2026 13:41:53 +0000",
+      "resumo": "O IFSULDEMINAS – Campus Inconfidentes abriu inscrições para o curso gratuito de Língua Brasileira de Sinais (Libras) – Nível A1.3, na modalidade totalmente remota. São 250 vagas disponíveis, sem exigê"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IBGE Abre Processe Seletivo Com 8.238 Vagas Temporárias em Nível Médio e Salários de até R$ 4.000 + Benefícios",
+      "url": "https://www.pebsp.com/ibge-abre-processe-seletivo-com-8-238-vagas-temporarias-em-nivel-medio-e-salarios-de-ate-r-4-000-beneficios-dcs/",
+      "data": "Wed, 17 Jun 2026 12:23:00 +0000",
+      "resumo": "A Fundação Instituto Brasileiro de Geografia e Estatística (IBGE) formalizou a abertura de um novo processo seletivo simplificado para preencher 8.238 vagas temporárias de nível médio. Organizado sob "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "A USP tem 3 cursos gratuitos para você entender sobre TEA, TDAH e deficiência visual",
+      "url": "https://www.pebsp.com/a-usp-tem-3-cursos-gratuitos-para-voce-entender-sobre-tea-tdah-e-deficiencia-visual/",
+      "data": "Wed, 17 Jun 2026 12:02:44 +0000",
+      "resumo": "O 28º Encontro USP-Escola oferece, em julho de 2026, três cursos gratuitos de 30 horas voltados à inclusão escolar, neurodiversidade e acessibilidade — todos presenciais no Campus Butantã da USP, de 1"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Fundaj está com inscrições abertas para 3 especializações gratuitas até amanhã",
+      "url": "https://www.pebsp.com/fundaj-esta-com-inscricoes-abertas-para-3-especializacoes-gratuitas-ate-amanha/",
+      "data": "Wed, 17 Jun 2026 10:02:39 +0000",
+      "resumo": "A Fundação Joaquim Nabuco (Fundaj), vinculada ao Ministério da Educação, abriu inscrições para três cursos de especialização gratuitos em 2026. As vagas são destinadas a servidores públicos, professor"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFES fecha hoje e a UFERSA fecha no domingo: 4 especializações EAD com prazo encerrando agora",
+      "url": "https://www.pebsp.com/ufes-fecha-hoje-e-a-ufersa-fecha-no-domingo-4-especializacoes-ead-com-prazo-encerrando-agora/",
+      "data": "Wed, 17 Jun 2026 08:45:39 +0000",
+      "resumo": "Quatro especializações gratuitas têm inscrições encerrando entre esta terça e a próxima segunda-feira — ou seja, os prazos vão de 17 a 22 de junho de 2026. UFES, UFERSA, UDESC e IFRS ainda têm vagas a"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "MEC e INES Abrem Inscrições Para o Curso de Especialização em Educação de Surdos Totalmente Gratuito e EAD!",
+      "url": "https://www.pebsp.com/mec-e-ines-abrem-inscricoes-para-o-curso-de-especializacao-em-educacao-de-surdos-totalmente-gratuito-e-ead-dcs/",
+      "data": "Wed, 17 Jun 2026 07:05:54 +0000",
+      "resumo": "O Instituto Nacional de Educação de Surdos (INES) publicou o edital para o processo seletivo do curso de Pós-Graduação em Educação de Surdos em uma Perspectiva Bilíngue, que será ofertado na modalidad"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSC abre 200 vagas gratuitas para atualização em Proteção Radiológica exigida pela ANVISA",
+      "url": "https://www.pebsp.com/ifsc-abre-200-vagas-gratuitas-para-atualizacao-em-protecao-radiologica-exigida-pela-anvisa/",
+      "data": "Tue, 16 Jun 2026 23:45:11 +0000",
+      "resumo": "Quem trabalha com radiologia diagnóstica ou diagnóstico por imagem no Brasil está sujeito a uma das normas sanitárias mais exigentes do setor de saúde — e a atualização profissional em proteção radiol"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Senado aprova licença remunerada para professores fazerem pós-graduação, mestrado e doutorado",
+      "url": "https://conectaprofessores.com/2026/06/16/senado-aprova-licenca-remunerada-para-professores-fazerem-pos-graduacao-mestrado-e-doutorado/",
+      "data": "Wed, 17 Jun 2026 02:32:45 +0000",
+      "resumo": "O Senado Federal aprovou o Projeto de Lei nº 96/2024, garantindo aos professores da educação básica da rede pública o direito à licença remunerada para pós-graduação e pesquisa. A proposta visa valori"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal Abre 785 Vagas Gratuitas em Licenciaturas para 2027; Veja Como se Inscrever",
+      "url": "https://conectaprofessores.com/2026/06/16/instituto-federal-abre-785-vagas-gratuitas-em-licenciaturas-para-2027-veja-como-se-inscrever/",
+      "data": "Wed, 17 Jun 2026 01:57:17 +0000",
+      "resumo": "O Instituto Federal do Paraná (IFPR) anunciou 785 vagas gratuitas em cursos de licenciatura para 2027, com inscrições de 15 de junho a 24 de agosto de 2026. A seleção é baseada em notas do Ensino Médi"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre seleção para tutores UAB em 2 cursos com bolsas de R$1.100,00",
+      "url": "https://conectaprofessores.com/2026/06/16/universidade-federal-abre-selecao-para-tutores-uab-em-2-cursos-com-bolsas-de-r1-10000/",
+      "data": "Wed, 17 Jun 2026 00:35:25 +0000",
+      "resumo": "A Universidade Federal do Rio Grande (FURG) está com inscrições abertas para tutores bolsistas da Universidade Aberta do Brasil (UAB) em cursos de Tradução e Interpretação da Libras e Administração Pú"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal seleciona tutores para curso superior a distância em Administração",
+      "url": "https://conectaprofessores.com/2026/06/16/universidade-federal-seleciona-tutores-para-curso-superior-a-distancia-em-administracao/",
+      "data": "Tue, 16 Jun 2026 23:20:24 +0000",
+      "resumo": "A Universidade Federal do Rio Grande (FURG) está recrutando tutores bolsistas para o curso de Administração Pública na modalidade EaD, com inscrições abertas de 15 de junho a 1º de julho de 2026. Os c"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Licenciatura Gratuita Pelo MEC 2026: Confira as Vagas Disponíveis no Portal Formação",
+      "url": "https://conectaprofessores.com/2026/06/16/licenciatura-gratuita-pelo-mec-2026-confira-as-vagas-disponiveis-no-portal-formacao/",
+      "data": "Tue, 16 Jun 2026 15:25:05 +0000",
+      "resumo": "O Portal Formação, uma iniciativa do Programa Mais Professores do MEC, oferece oportunidades de licenciatura gratuitas para futuros docentes em várias regiões do Brasil. A plataforma apresenta um mapa"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Aprenda inglês e espanhol grátis com o novo aplicativo do MEC",
+      "url": "https://conectaprofessores.com/2026/06/16/aprenda-ingles-e-espanhol-gratis-com-o-novo-aplicativo-do-mec/",
+      "data": "Tue, 16 Jun 2026 13:55:46 +0000",
+      "resumo": "O MEC lançou a plataforma MEC Idiomas, oferecendo cursos gratuitos de inglês e espanhol, desde o nível básico até o avançado, com recursos autoinstrucionais e inteligência artificial. A iniciativa faz"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre mais de 4 mil vagas para curso gratuito de Português como Língua de Acolhimento",
+      "url": "https://conectaprofessores.com/2026/06/15/mec-abre-mais-de-4-mil-vagas-para-curso-gratuito-de-portugues-como-lingua-de-acolhimento/",
+      "data": "Tue, 16 Jun 2026 02:31:02 +0000",
+      "resumo": "O Ministério da Educação (MEC) está oferecendo mais de 4 mil vagas para o curso gratuito \"Português como Língua de Acolhimento\". Destinado a educadores, o curso de 120 horas visa capacitar professores"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Atividade para Alfabetizar Alunos Atípicos: PDF Grátis para Baixar",
+      "url": "https://conectaprofessores.com/2026/06/15/atividade-para-alfabetizar-alunos-atipicos-pdf-gratis-para-baixar/",
+      "data": "Tue, 16 Jun 2026 01:19:11 +0000",
+      "resumo": "A alfabetização de alunos atípicos requer estratégias pedagógicas adequadas, como atividades lúdicas que valorizem suas necessidades individuais. Professores podem utilizar um material desenvolvido pa"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "jardim",
+      "score": 86.8,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de jardim para quem está começando do zero",
+          "20 erros em jardim que matam suas plantas (evite estes)",
+          "20 ideias de jardim baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer jardim em casa: passo a passo para iniciantes",
+          "Jardim: o guia definitivo para 2026",
+          "Tudo sobre jardim: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que jardim virou febre nas redes sociais",
+          "Jardim: a tendência que domina os jardins em 2026",
+          "Jardim em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'jardim' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "flores",
+      "score": 31.8,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 dicas de flores para quem está começando do zero",
+          "15 erros em flores que matam suas plantas (evite estes)",
+          "15 ideias de flores baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer flores em casa: passo a passo para iniciantes",
+          "Flores: o guia definitivo para 2026",
+          "Tudo sobre flores: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que flores virou febre nas redes sociais",
+          "Flores: a tendência que domina os jardins em 2026",
+          "Flores em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'flores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "brincadeiras para alfabetização",
+      "score": 9.3,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Brincadeiras para alfabetização para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de brincadeiras para alfabetização por nível — do mais fácil ao mais avançado",
+          "10 fichas de brincadeiras para alfabetização alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar brincadeiras para alfabetização em casa: guia passo a passo para pais e professores",
+          "Brincadeiras para alfabetização: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em brincadeiras para alfabetização: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que brincadeiras para alfabetização está entre as buscas mais quentes de pais e professores",
+          "Brincadeiras para alfabetização em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Brincadeiras para alfabetização: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'brincadeiras para alfabetização' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "jogos de alfabetização para imprimir",
+      "score": 4.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Jogos de alfabetização para imprimir para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de jogos de alfabetização para imprimir por nível — do mais fácil ao mais avançado",
+          "10 fichas de jogos de alfabetização para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar jogos de alfabetização para imprimir em casa: guia passo a passo para pais e professores",
+          "Jogos de alfabetização para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em jogos de alfabetização para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que jogos de alfabetização para imprimir está entre as buscas mais quentes de pais e professores",
+          "Jogos de alfabetização para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Jogos de alfabetização para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'jogos de alfabetização para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "horta",
+      "score": 2.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de horta para quem está começando do zero",
+          "10 erros em horta que matam suas plantas (evite estes)",
+          "10 ideias de horta baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer horta em casa: passo a passo para iniciantes",
+          "Horta: o guia definitivo para 2026",
+          "Tudo sobre horta: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que horta virou febre nas redes sociais",
+          "Horta: a tendência que domina os jardins em 2026",
+          "Horta em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'horta' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "vegetais",
+      "score": 2.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de vegetais para quem está começando do zero",
+          "10 erros em vegetais que matam suas plantas (evite estes)",
+          "10 ideias de vegetais baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer vegetais em casa: passo a passo para iniciantes",
+          "Vegetais: o guia definitivo para 2026",
+          "Tudo sobre vegetais: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que vegetais virou febre nas redes sociais",
+          "Vegetais: a tendência que domina os jardins em 2026",
+          "Vegetais em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'vegetais' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "como estimular a leitura em casa",
+      "score": 1.4,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Como estimular a leitura em casa para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de como estimular a leitura em casa por nível — do mais fácil ao mais avançado",
+          "10 fichas de como estimular a leitura em casa alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar como estimular a leitura em casa em casa: guia passo a passo para pais e professores",
+          "Como estimular a leitura em casa: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em como estimular a leitura em casa: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que como estimular a leitura em casa está entre as buscas mais quentes de pais e professores",
+          "Como estimular a leitura em casa em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Como estimular a leitura em casa: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como estimular a leitura em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "o que plantar",
+      "score": 1.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de o que plantar para quem está começando do zero",
+          "10 erros em o que plantar que matam suas plantas (evite estes)",
+          "10 ideias de o que plantar baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer o que plantar em casa: passo a passo para iniciantes",
+          "O que plantar: o guia definitivo para 2026",
+          "Tudo sobre o que plantar: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que o que plantar virou febre nas redes sociais",
+          "O que plantar: a tendência que domina os jardins em 2026",
+          "O que plantar em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'o que plantar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "atividades de alfabetização em casa",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Atividades de alfabetização em casa para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de atividades de alfabetização em casa por nível — do mais fácil ao mais avançado",
+          "10 fichas de atividades de alfabetização em casa alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades de alfabetização em casa em casa: guia passo a passo para pais e professores",
+          "Atividades de alfabetização em casa: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades de alfabetização em casa: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades de alfabetização em casa está entre as buscas mais quentes de pais e professores",
+          "Atividades de alfabetização em casa em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades de alfabetização em casa: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de alfabetização em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "como ensinar a criança a ler em casa",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Como ensinar a criança a ler em casa para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de como ensinar a criança a ler em casa por nível — do mais fácil ao mais avançado",
+          "10 fichas de como ensinar a criança a ler em casa alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar como ensinar a criança a ler em casa em casa: guia passo a passo para pais e professores",
+          "Como ensinar a criança a ler em casa: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em como ensinar a criança a ler em casa: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que como ensinar a criança a ler em casa está entre as buscas mais quentes de pais e professores",
+          "Como ensinar a criança a ler em casa em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Como ensinar a criança a ler em casa: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como ensinar a criança a ler em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    }
+  ]
+}
