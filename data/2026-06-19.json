@@ -1,0 +1,2008 @@
+{
+  "date": "2026-06-19",
+  "collected_at": "2026-06-19T13:26:20.480149",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "caligrafia para imprimir pdf",
+            "valor": 100,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "caderno de caligrafia para imprimir",
+            "valor": 91,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha caligrafia para imprimir",
+            "valor": 83,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "caligrafia para imprimir letra cursiva",
+            "valor": 79,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha de caligrafia para imprimir",
+            "valor": 62,
+            "base": "caligrafia para imprimir"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "folha de caligrafia para imprimir pdf",
+            "valor": "50",
+            "base": "caligrafia para imprimir"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "flor orquídea",
+            "valor": 100,
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea como cuidar",
+            "valor": 86,
+            "base": "orquídea"
+          },
+          {
+            "termo": "como cuidar de orquídea",
+            "valor": 56,
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea negra",
+            "valor": 51,
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídeas",
+            "valor": 50,
+            "base": "orquídea"
+          },
+          {
+            "termo": "pé de jabuticaba",
+            "valor": 100,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "muda jabuticaba",
+            "valor": 42,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "fruta jabuticaba",
+            "valor": 39,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "pe de jabuticaba",
+            "valor": 37,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "muda de jabuticaba",
+            "valor": 36,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "coletivo de árvores frutíferas",
+            "valor": 100,
+            "base": "árvores frutíferas"
+          },
+          {
+            "termo": "qual o melhor adubo para árvores frutíferas",
+            "valor": 72,
+            "base": "árvores frutíferas"
+          },
+          {
+            "termo": "plantas que gostam de sol",
+            "valor": 100,
+            "base": "plantas que"
+          },
+          {
+            "termo": "plantas que podem ficar dentro de casa",
+            "valor": 28,
+            "base": "plantas que"
+          },
+          {
+            "termo": "buque",
+            "valor": 100,
+            "base": "flores"
+          },
+          {
+            "termo": "buque de flores",
+            "valor": 87,
+            "base": "flores"
+          },
+          {
+            "termo": "floricultura",
+            "valor": 67,
+            "base": "flores"
+          },
+          {
+            "termo": "buquê de flores",
+            "valor": 66,
+            "base": "flores"
+          },
+          {
+            "termo": "flores da cunha",
+            "valor": 63,
+            "base": "flores"
+          },
+          {
+            "termo": "como adubar plantas",
+            "valor": 100,
+            "base": "como adubar"
+          },
+          {
+            "termo": "jardinagem",
+            "valor": 100,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "jardinagem paisagismo",
+            "valor": 99,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "paisagismo e jardinagem",
+            "valor": 89,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "paisagismo jardim",
+            "valor": 64,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "projeto paisagismo",
+            "valor": 46,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "costela de adão planta",
+            "valor": 100,
+            "base": "costela de adão"
+          },
+          {
+            "termo": "folha costela de adão",
+            "valor": 28,
+            "base": "costela de adão"
+          },
+          {
+            "termo": "folha de costela de adão",
+            "valor": 26,
+            "base": "costela de adão"
+          },
+          {
+            "termo": "muda de costela de adão",
+            "valor": 24,
+            "base": "costela de adão"
+          },
+          {
+            "termo": "muda costela de adão",
+            "valor": 24,
+            "base": "costela de adão"
+          },
+          {
+            "termo": "babosa no cabelo",
+            "valor": 100,
+            "base": "babosa"
+          },
+          {
+            "termo": "para que serve babosa",
+            "valor": 95,
+            "base": "babosa"
+          },
+          {
+            "termo": "babosa para cabelo",
+            "valor": 87,
+            "base": "babosa"
+          },
+          {
+            "termo": "suco babosa",
+            "valor": 75,
+            "base": "babosa"
+          },
+          {
+            "termo": "comer babosa",
+            "valor": 58,
+            "base": "babosa"
+          },
+          {
+            "termo": "monstera deliciosa",
+            "valor": 100,
+            "base": "monstera"
+          },
+          {
+            "termo": "planta monstera",
+            "valor": 96,
+            "base": "monstera"
+          },
+          {
+            "termo": "monstera adansonii",
+            "valor": 85,
+            "base": "monstera"
+          },
+          {
+            "termo": "monstera variegata",
+            "valor": 36,
+            "base": "monstera"
+          },
+          {
+            "termo": "monstera obliqua",
+            "valor": 25,
+            "base": "monstera"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "orquídea gosta de água",
+            "valor": "150",
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea shenzhen nongke",
+            "valor": "120",
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea epidendrum",
+            "valor": "120",
+            "base": "orquídea"
+          },
+          {
+            "termo": "receita de licor de jabuticaba",
+            "valor": "140",
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "gravida pode comer jabuticaba",
+            "valor": "130",
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "jabuticaba é bom para quê",
+            "valor": "130",
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "héctor rusthenford guerrero flores",
+            "valor": "4300",
+            "base": "flores"
+          },
+          {
+            "termo": "como eternizar flores",
+            "valor": "350",
+            "base": "flores"
+          },
+          {
+            "termo": "foto de buquê de flores",
+            "valor": "100",
+            "base": "flores"
+          },
+          {
+            "termo": "paisagismo dwg",
+            "valor": "70",
+            "base": "paisagismo"
+          },
+          {
+            "termo": "planta parecida com costela de adão",
+            "valor": "120",
+            "base": "costela de adão"
+          },
+          {
+            "termo": "planta costela de adão natural",
+            "valor": "60",
+            "base": "costela de adão"
+          },
+          {
+            "termo": "fruto da costela de adão",
+            "valor": "60",
+            "base": "costela de adão"
+          },
+          {
+            "termo": "como usar babosa no cabelo para queda",
+            "valor": "130",
+            "base": "babosa"
+          },
+          {
+            "termo": "babosa é bom para machucado",
+            "valor": "100",
+            "base": "babosa"
+          },
+          {
+            "termo": "babosa é bom para queda de cabelo",
+            "valor": "50",
+            "base": "babosa"
+          },
+          {
+            "termo": "dracena",
+            "valor": "160",
+            "base": "monstera"
+          },
+          {
+            "termo": "monstera burle marx flame",
+            "valor": "120",
+            "base": "monstera"
+          },
+          {
+            "termo": "monstera albo variegata",
+            "valor": "110",
+            "base": "monstera"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "natal rn",
+            "valor": 100,
+            "base": "natal"
+          },
+          {
+            "termo": "tempo natal",
+            "valor": 17,
+            "base": "natal"
+          },
+          {
+            "termo": "hotel natal",
+            "valor": 14,
+            "base": "natal"
+          },
+          {
+            "termo": "pre natal",
+            "valor": 12,
+            "base": "natal"
+          },
+          {
+            "termo": "natal rio grande do norte",
+            "valor": 11,
+            "base": "natal"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "free fire 2018 natal",
+            "valor": "90",
+            "base": "natal"
+          }
+        ],
+        "seeds": [
+          {
+            "termo": "dia dos namorados",
+            "valor": 7.0
+          },
+          {
+            "termo": "festa junina",
+            "valor": 5.8
+          },
+          {
+            "termo": "natal",
+            "valor": 4.3
+          },
+          {
+            "termo": "páscoa",
+            "valor": 0.0
+          },
+          {
+            "termo": "dia das mães",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "o que é displasia em cachorro",
+            "valor": 100,
+            "base": "displasia em cachorro"
+          }
+        ],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "vitamina para cachorro",
+            "valor": 34.1
+          },
+          {
+            "termo": "queda de pelo cachorro",
+            "valor": 31.4
+          },
+          {
+            "termo": "cachorro sem apetite",
+            "valor": 24.8
+          },
+          {
+            "termo": "suplemento para cachorro",
+            "valor": 14.6
+          },
+          {
+            "termo": "ração natural para cachorro",
+            "valor": 12.5
+          },
+          {
+            "termo": "displasia em cachorro",
+            "valor": 11.8
+          },
+          {
+            "termo": "probiótico para cachorro",
+            "valor": 11.2
+          },
+          {
+            "termo": "proteína para cachorro",
+            "valor": 3.6
+          },
+          {
+            "termo": "cachorro perdendo pelo",
+            "valor": 3.3
+          },
+          {
+            "termo": "dieta barf cachorro",
+            "valor": 3.1
+          },
+          {
+            "termo": "cachorro de grande porte alimentação",
+            "valor": 3.1
+          },
+          {
+            "termo": "ômega 3 para cachorro",
+            "valor": 2.1
+          },
+          {
+            "termo": "colágeno para cachorro",
+            "valor": 0.5
+          },
+          {
+            "termo": "nutrição canina",
+            "valor": 0.2
+          },
+          {
+            "termo": "suplemento para cachorro idoso",
+            "valor": 0.1
+          },
+          {
+            "termo": "pelo opaco cachorro",
+            "valor": 0.0
+          },
+          {
+            "termo": "cálcio para cachorro",
+            "valor": 0.0
+          },
+          {
+            "termo": "suplemento para filhote de cachorro",
+            "valor": 0.0
+          },
+          {
+            "termo": "como dar suplemento para cachorro",
+            "valor": 0.0
+          },
+          {
+            "termo": "cachorro pode tomar vitamina humana",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "capa de portfólio educação infantil",
+            "valor": 100,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "capa para portfólio educação infantil",
+            "valor": 79,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "modelo de portfólio educação infantil",
+            "valor": 54,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "modelos de portfólio educação infantil",
+            "valor": 34,
+            "base": "portfólio educação infantil"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "sintomas de tdah em crianças",
+            "valor": 100,
+            "base": "tdah em crianças"
+          },
+          {
+            "termo": "o que é tdah em crianças",
+            "valor": 71,
+            "base": "tdah em crianças"
+          },
+          {
+            "termo": "sinais de tdah em crianças",
+            "valor": 36,
+            "base": "tdah em crianças"
+          }
+        ],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "tdah em crianças",
+            "valor": 29.6
+          },
+          {
+            "termo": "dislexia em crianças",
+            "valor": 4.7
+          },
+          {
+            "termo": "sinais de autismo em crianças",
+            "valor": 1.9
+          },
+          {
+            "termo": "atividades para criança com tdah",
+            "valor": 1.3
+          },
+          {
+            "termo": "como ajudar criança autista em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "processo seletivo professor 2026",
+            "valor": 48.8
+          },
+          {
+            "termo": "concurso prefeitura professor",
+            "valor": 36.5
+          },
+          {
+            "termo": "formação continuada professores",
+            "valor": 30.8
+          },
+          {
+            "termo": "edital concurso professor 2026",
+            "valor": 12.9
+          },
+          {
+            "termo": "concurso público professor 2026",
+            "valor": 6.1
+          },
+          {
+            "termo": "concurso professor municipal 2026",
+            "valor": 1.0
+          },
+          {
+            "termo": "curso de psicopedagogia gratuito",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso de especialização em educação infantil",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso livre para professores online",
+            "valor": 0.0
+          },
+          {
+            "termo": "como obter certificado horas complementares",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFSULDEMINAS abre 800 vagas em especialização gratuita e 100% online para graduados em qualquer área",
+      "url": "https://infoeducacao.com.br/ifsuldeminas-abre-800-vagas-em-especializacao-gratuita-e-100-online-para-graduados-em-qualquer-area/",
+      "data": "Fri, 19 Jun 2026 14:06:36 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais – IFSULDEMINAS abriu 800 vagas na especialização The post IFSULDEMINAS abre 800 vagas em especialização gratuita e 100% onl"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Unioeste abre 40 vagas em pós-graduação gratuita em Psicologia na Saúde Pública e oferece bolsa de R$ 3.169",
+      "url": "https://infoeducacao.com.br/unioeste-abre-40-vagas-em-pos-graduacao-gratuita-em-psicologia-na-saude-publica-e-oferece-bolsa-de-r-3-169/",
+      "data": "Fri, 19 Jun 2026 08:45:06 +0000",
+      "resumo": "A Universidade Estadual do Oeste do Paraná &#8211; Unioeste, em parceria com a Prefeitura Municipal de Foz do Iguaçu &#8211; The post Unioeste abre 40 vagas em pós-graduação gratuita em Psicologia na "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "PUC abre 100 vagas gratuitas em Residência em IA e paga bolsa",
+      "url": "https://infoeducacao.com.br/puc-abre-100-vagas-gratuitas-em-residencia-em-ia-e-paga-bolsa/",
+      "data": "Fri, 19 Jun 2026 08:06:03 +0000",
+      "resumo": "A Pontifícia Universidade Católica (PUC &#8211; Campinas) está recebendo inscrições de interessados em concorrer às 100 vagas existentes na Residência The post PUC abre 100 vagas gratuitas em Residênc"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UnB abre 150 vagas em Residência Tecnológica em Inteligência Artificial e paga bolsa de R$ 1.500",
+      "url": "https://infoeducacao.com.br/unb-abre-150-vagas-em-residencia-tecnologica-em-inteligencia-artificial-e-paga-bolsa-de-r-1-500/",
+      "data": "Thu, 18 Jun 2026 15:17:30 +0000",
+      "resumo": "A Universidade de Brasília (UnB), em parceria com o Instituto de Pesquisas Eldorado, abriu 150 vagas na Residência Tecnológica em The post UnB abre 150 vagas em Residência Tecnológica em Inteligência "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UNICAMP abre 227 vagas em cursos gratuitos de mestrado e doutorado",
+      "url": "https://infoeducacao.com.br/unicamp-abre-227-vagas-em-cursos-gratuotos-de-mestrado-e-doutorado/",
+      "data": "Thu, 18 Jun 2026 11:52:03 +0000",
+      "resumo": "O Programa de Pós-Graduação em Educação da Faculdade de Educação da UNICAMP (Universidade de Campinas) abriu 227 vagas para os The post UNICAMP abre 227 vagas em cursos gratuitos de mestrado e doutora"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UEMG abre 150 vagas na especialização gratuita EaD em Educação para as Relações Étnico-raciais",
+      "url": "https://infoeducacao.com.br/uemg-abre-150-vagas-na-especializacao-gratuita-ead-em-educacao-para-as-relacoes-etnico-raciais/",
+      "data": "Thu, 18 Jun 2026 08:19:27 +0000",
+      "resumo": "A Universidade do Estado de Minas Gerais (UEMG) abriu 150 vagas na especialização gratuita EaD em Educação para as Relações The post UEMG abre 150 vagas na especialização gratuita EaD em Educação para"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFRN prorroga as inscrições para as mais de 600 vagas em cursos de pós-graduação gratuitos EAD ou presenciais",
+      "url": "https://infoeducacao.com.br/ifrn-prorroga-as-inscricoes-para-as-mais-de-600-vagas-em-cursos-de-pos-graduacao-gratuitos-ead-ou-presenciais/",
+      "data": "Wed, 17 Jun 2026 14:52:05 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – IFRN prorrogou as inscrições para o The post IFRN prorroga as inscrições para as mais de 600 vagas em cursos de pós-gradu"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam hoje as inscrições para os cursos de especialização gratuitos a distância da UFAM",
+      "url": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-a-distancia-da-ufam/",
+      "data": "Wed, 17 Jun 2026 12:23:55 +0000",
+      "resumo": "A Universidade Federal do Amazonas (UFAM) abre hoje (17) as inscrições para o processo seletivo, que visa preencher 300 vagas The post Começam hoje as inscrições para os cursos de especialização gratu"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "A USP tem 11 cursos gratuitos de matemática para professores — incluindo um que ensina geometria com tranças afro",
+      "url": "https://www.pebsp.com/a-usp-tem-11-cursos-gratuitos-de-matematica-para-professores-em-julho-incluindo-um-que-ensina-geometria-com-trancas-afro/",
+      "data": "Fri, 19 Jun 2026 13:30:47 +0000",
+      "resumo": "O 28º Encontro USP-Escola oferece, em julho de 2026, 11 cursos e minicursos gratuitos voltados ao ensino de Matemática — 5 cursos de 30 horas e 6 minicursos de 4 horas, todos no Campus Butantã da USP,"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Inscrições Abertas Para o Processo Seletivo da Pós-Graduação em Ciência da Computação da UFABC!",
+      "url": "https://www.pebsp.com/inscricoes-abertas-para-o-processo-seletivo-da-pos-graduacao-em-ciencia-da-computacao-da-ufabc-dcs/",
+      "data": "Fri, 19 Jun 2026 10:08:46 +0000",
+      "resumo": "A Universidade Federal do ABC (UFABC) anunciou a abertura das inscrições para o processo seletivo em fluxo contínuo do seu renomado Programa de Pós-Graduação em Ciência da Computação (PPG-CCM). O edit"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "INEP amplia prazo para inscrição de Elaboradores de Questões da EPTNM",
+      "url": "https://www.pebsp.com/inep-amplia-prazo-para-inscricao-de-elaboradores-de-questoes-da-eptnm/",
+      "data": "Fri, 19 Jun 2026 08:55:40 +0000",
+      "resumo": "O Inep prorrogou o prazo de inscrição da seleção para colaboradores que desejam atuar na elaboração e revisão de itens digitais da avaliação de desempenho de estudantes da Educação Profissional Técnic"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Você sabe quando usar “mim” e quando usar “eu”? Confira com exemplos",
+      "url": "https://www.pebsp.com/voce-sabe-quando-usar-mim-e-quando-usar-eu-confira-com-exemplos/",
+      "data": "Fri, 19 Jun 2026 07:11:35 +0000",
+      "resumo": "Poucas dúvidas de português são tão comuns quanto a escolha entre &#8220;mim&#8221; e &#8220;eu&#8221;. A frase &#8220;isso é para mim&#8221; ou &#8220;isso é para eu&#8221;? &#8220;Ele falou de mim&#"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSULDEMINAS fecha inscrições amanhã: 11 cursos técnicos EaD com seleção por sorteio",
+      "url": "https://www.pebsp.com/ifsuldeminas-fecha-inscricoes-amanha-11-cursos-tecnicos-ead-com-selecao-por-sorteio/",
+      "data": "Thu, 18 Jun 2026 16:29:16 +0000",
+      "resumo": "As inscrições para os cursos técnicos gratuitos EaD do IFSULDEMINAS encerram amanhã, 19 de junho de 2026, às 17h59. O Edital 147/2026 oferece 3.755 vagas em 11 cursos técnicos subsequentes na modalida"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Análise e Desenvolvimento de Sistemas lidera buscas por cursos de TI na EAD e tem salário médio de R$ 6.256",
+      "url": "https://www.pebsp.com/analise-e-desenvolvimento-de-sistemas-lidera-buscas-por-cursos-de-ti-na-ead-e-tem-salario-medio-de-r-6-256/",
+      "data": "Thu, 18 Jun 2026 13:55:56 +0000",
+      "resumo": "Ele não é o curso de tecnologia com mais prestígio acadêmico, não aparece nas brochuras das universidades de ponta e raramente é mencionado quando o assunto é inovação tecnológica. Mas Análise e Desen"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Crase: Os 10 casos obrigatórios e os 5 proibidos na língua portuguesa",
+      "url": "https://www.pebsp.com/crase-os-10-casos-obrigatorios-e-os-5-proibidos-na-lingua-portuguesa/",
+      "data": "Thu, 18 Jun 2026 13:52:58 +0000",
+      "resumo": "A crase é um dos temas mais cobrados em provas de concurso público, no ENEM e em avaliações de língua portuguesa do ensino médio. Ao mesmo tempo, é um dos assuntos que mais geram dúvida — tanto entre "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal abre seleção para 16 Cursos de Especialização e Pós-Graduação",
+      "url": "https://www.pebsp.com/instituto-federal-abre-selecao-para-16-cursos-de-especializacao-e-pos-graduacao/",
+      "data": "Thu, 18 Jun 2026 13:36:33 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) abriu inscrições para o processo seletivo de cursos de pós-graduação lato sensu em nível de especialização para o 2º"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrados e Doutorados em Educação Gratuitos: Confira os Editais com Inscrições Abertas",
+      "url": "https://conectaprofessores.com/2026/06/18/mestrados-e-doutorados-em-educacao-gratuitos-confira-os-editais-com-inscricoes-abertas/",
+      "data": "Fri, 19 Jun 2026 02:29:43 +0000",
+      "resumo": "Profissionais da educação e recém-graduados têm diversas oportunidades em universidades públicas brasileiras, como Unicamp, UERJ, UFRGS, UFU e UFV, que oferecem mais de 500 vagas em cursos de mestrado"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC lança licenciatura intercultural indígena com investimento de R$ 1,5 milhão",
+      "url": "https://conectaprofessores.com/2026/06/18/mec-lanca-licenciatura-intercultural-indigena-com-investimento-de-r-15-milhao/",
+      "data": "Fri, 19 Jun 2026 01:46:42 +0000",
+      "resumo": "O Ministério da Educação (MEC) e a UFMT lançaram uma Licenciatura Intercultural Indígena para os povos da Terra Indígena Capoto/Jarina, no Mato Grosso. A iniciativa oferece 60 vagas, respeitando a cul"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Educação inclusiva avança no Senado: projeto obriga escolas a ampliarem ações de inclusão nos projetos pedagógicos",
+      "url": "https://conectaprofessores.com/2026/06/18/educacao-inclusiva-avanca-no-senado-projeto-obriga-escolas-a-ampliarem-acoes-de-inclusao-nos-projetos-pedagogicos/",
+      "data": "Thu, 18 Jun 2026 19:41:51 +0000",
+      "resumo": "A Comissão de Direitos Humanos do Senado aprovou o Projeto de Lei 365/2026, que exige a inclusão de ações para atender estudantes com deficiência nos projetos pedagógicos das escolas. A proposta, que "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Estadual da Paraíba oferece vagas de tutoria em quatro campi",
+      "url": "https://conectaprofessores.com/2026/06/18/universidade-estadual-da-paraiba-oferece-vagas-de-tutoria-em-quatro-campi/",
+      "data": "Thu, 18 Jun 2026 17:00:56 +0000",
+      "resumo": "A Universidade Estadual da Paraíba (UEPB) está com inscrições abertas para o Programa de Tutoria Especial, com nove vagas para estudantes que auxiliam colegas com deficiência e habilidades especiais. "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 150 vagas para especialização gratuita em Educação Inclusiva",
+      "url": "https://conectaprofessores.com/2026/06/18/universidade-abre-150-vagas-para-especializacao-gratuita-em-educacao-inclusiva/",
+      "data": "Thu, 18 Jun 2026 16:01:50 +0000",
+      "resumo": "A Universidade do Estado de Minas Gerais (UEMG) oferece 150 vagas para a especialização gratuita em Educação Inclusiva, com inscrições abertas de 22 de junho a 7 de julho de 2026. O curso, na modalida"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 150 vagas para especialização gratuita em Educação para as Relações Étnico-Raciais",
+      "url": "https://conectaprofessores.com/2026/06/18/universidade-abre-150-vagas-para-especializacao-gratuita-em-educacao-para-as-relacoes-etnico-raciais/",
+      "data": "Thu, 18 Jun 2026 15:37:39 +0000",
+      "resumo": "A Universidade do Estado de Minas Gerais (UEMG) oferece 150 vagas na especialização gratuita em Educação para as Relações Étnico-Raciais, na modalidade EAD. As inscrições ocorrem de 22 de junho a 7 de"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre 1.803 vagas gratuitas em cursos de graduação com seleção pela nota do Enem",
+      "url": "https://conectaprofessores.com/2026/06/17/universidade-federal-abre-1-803-vagas-gratuitas-em-cursos-de-graduacao-com-selecao-pela-nota-do-enem/",
+      "data": "Thu, 18 Jun 2026 00:25:12 +0000",
+      "resumo": "A Universidade Federal de Mato Grosso abriu um processo seletivo para 1.803 vagas remanescentes em cursos de graduação. As inscrições, gratuitas, ocorrerão de 20 a 25 de junho de 2026. Podem participa"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Professores podem ganhar até R$ 864 por dia trabalhando no Enem 2026; inscrições estão abertas",
+      "url": "https://conectaprofessores.com/2026/06/17/professores-podem-ganhar-ate-r-864-por-dia-trabalhando-no-enem-2026-inscricoes-estao-abertas/",
+      "data": "Wed, 17 Jun 2026 23:07:55 +0000",
+      "resumo": "Professores da rede pública e servidores federais podem se inscrever até 28 de junho para atuar como certificadores no Enem 2026, com remuneração de até R$ 864 por dia. O Inep promoverá um curso de ca"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caligrafia para imprimir pdf",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caligrafia para imprimir pdf para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caligrafia para imprimir pdf por nível — do mais fácil ao mais avançado",
+          "20 fichas de caligrafia para imprimir pdf alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caligrafia para imprimir pdf em casa: guia passo a passo para pais e professores",
+          "Caligrafia para imprimir pdf: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caligrafia para imprimir pdf: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caligrafia para imprimir pdf está entre as buscas mais quentes de pais e professores",
+          "Caligrafia para imprimir pdf em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caligrafia para imprimir pdf: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caligrafia para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "flor orquídea",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de flor orquídea para quem está começando do zero",
+          "20 erros em flor orquídea que matam suas plantas (evite estes)",
+          "20 ideias de flor orquídea baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer flor orquídea em casa: passo a passo para iniciantes",
+          "Flor orquídea: o guia definitivo para 2026",
+          "Tudo sobre flor orquídea: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que flor orquídea virou febre nas redes sociais",
+          "Flor orquídea: a tendência que domina os jardins em 2026",
+          "Flor orquídea em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'flor orquídea' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "pé de jabuticaba",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de pé de jabuticaba para quem está começando do zero",
+          "20 erros em pé de jabuticaba que matam suas plantas (evite estes)",
+          "20 ideias de pé de jabuticaba baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer pé de jabuticaba em casa: passo a passo para iniciantes",
+          "Pé de jabuticaba: o guia definitivo para 2026",
+          "Tudo sobre pé de jabuticaba: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que pé de jabuticaba virou febre nas redes sociais",
+          "Pé de jabuticaba: a tendência que domina os jardins em 2026",
+          "Pé de jabuticaba em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'pé de jabuticaba' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "coletivo de árvores frutíferas",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de coletivo de árvores frutíferas para quem está começando do zero",
+          "20 erros em coletivo de árvores frutíferas que matam suas plantas (evite estes)",
+          "20 ideias de coletivo de árvores frutíferas baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer coletivo de árvores frutíferas em casa: passo a passo para iniciantes",
+          "Coletivo de árvores frutíferas: o guia definitivo para 2026",
+          "Tudo sobre coletivo de árvores frutíferas: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que coletivo de árvores frutíferas virou febre nas redes sociais",
+          "Coletivo de árvores frutíferas: a tendência que domina os jardins em 2026",
+          "Coletivo de árvores frutíferas em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'coletivo de árvores frutíferas' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "plantas que gostam de sol",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de plantas que gostam de sol para quem está começando do zero",
+          "20 erros em plantas que gostam de sol que matam suas plantas (evite estes)",
+          "20 ideias de plantas que gostam de sol baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer plantas que gostam de sol em casa: passo a passo para iniciantes",
+          "Plantas que gostam de sol: o guia definitivo para 2026",
+          "Tudo sobre plantas que gostam de sol: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que plantas que gostam de sol virou febre nas redes sociais",
+          "Plantas que gostam de sol: a tendência que domina os jardins em 2026",
+          "Plantas que gostam de sol em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'plantas que gostam de sol' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "buque",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de buque para quem está começando do zero",
+          "20 erros em buque que matam suas plantas (evite estes)",
+          "20 ideias de buque baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer buque em casa: passo a passo para iniciantes",
+          "Buque: o guia definitivo para 2026",
+          "Tudo sobre buque: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que buque virou febre nas redes sociais",
+          "Buque: a tendência que domina os jardins em 2026",
+          "Buque em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'buque' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "natal rn",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de natal rn para fazer em casa (com molde grátis)",
+          "20 modelos de natal rn para imprimir e usar agora",
+          "20 inspirações de natal rn que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer natal rn: passo a passo fácil para iniciantes",
+          "Natal rn: como criar em casa sem gastar muito",
+          "Tudo sobre natal rn em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que natal rn está entre as buscas mais quentes do Brasil",
+          "Natal rn: as tendências que dominam em 2026",
+          "Natal rn em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'natal rn' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "o que é displasia em cachorro",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de que seu cachorro precisa de o que é displasia em cachorro",
+          "20 benefícios de o que é displasia em cachorro que todo tutor deveria conhecer",
+          "20 dúvidas sobre o que é displasia em cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar o que é displasia em cachorro no seu cachorro: guia completo para tutores",
+          "O que é displasia em cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre o que é displasia em cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que o que é displasia em cachorro está entre as buscas mais quentes de tutores de pets",
+          "O que é displasia em cachorro: o que os veterinários estão recomendando em 2026",
+          "O que é displasia em cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'o que é displasia em cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "capa de portfólio educação infantil",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Capa de portfólio educação infantil para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de capa de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "20 recursos de capa de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar capa de portfólio educação infantil do zero: modelo completo e editável",
+          "Capa de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre capa de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que capa de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Capa de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Capa de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'capa de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "sintomas de tdah em crianças",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de sintomas de tdah em crianças que todo pai precisa conhecer",
+          "20 atividades para estimular sintomas de tdah em crianças em casa (sem precisar de terapeuta)",
+          "20 formas de ajudar seu filho com sintomas de tdah em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com sintomas de tdah em crianças: guia completo para pais",
+          "Sintomas de tdah em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular sintomas de tdah em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre sintomas de tdah em crianças",
+          "Sintomas de tdah em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Sintomas de tdah em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sintomas de tdah em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caderno de caligrafia para imprimir",
+      "score": 91.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caderno de caligrafia para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caderno de caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de caderno de caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caderno de caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Caderno de caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caderno de caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caderno de caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Caderno de caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caderno de caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caderno de caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "folha caligrafia para imprimir",
+      "score": 83.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Folha caligrafia para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de folha caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de folha caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar folha caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Folha caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em folha caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que folha caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Folha caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Folha caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'folha caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caligrafia para imprimir letra cursiva",
+      "score": 79.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caligrafia para imprimir letra cursiva para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caligrafia para imprimir letra cursiva por nível — do mais fácil ao mais avançado",
+          "20 fichas de caligrafia para imprimir letra cursiva alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caligrafia para imprimir letra cursiva em casa: guia passo a passo para pais e professores",
+          "Caligrafia para imprimir letra cursiva: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caligrafia para imprimir letra cursiva: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caligrafia para imprimir letra cursiva está entre as buscas mais quentes de pais e professores",
+          "Caligrafia para imprimir letra cursiva em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caligrafia para imprimir letra cursiva: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caligrafia para imprimir letra cursiva' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "capa para portfólio educação infantil",
+      "score": 79.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Capa para portfólio educação infantil para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de capa para portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "20 recursos de capa para portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar capa para portfólio educação infantil do zero: modelo completo e editável",
+          "Capa para portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre capa para portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que capa para portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Capa para portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Capa para portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'capa para portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "o que é tdah em crianças",
+      "score": 71.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de o que é tdah em crianças que todo pai precisa conhecer",
+          "20 atividades para estimular o que é tdah em crianças em casa (sem precisar de terapeuta)",
+          "20 formas de ajudar seu filho com o que é tdah em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com o que é tdah em crianças: guia completo para pais",
+          "O que é tdah em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular o que é tdah em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre o que é tdah em crianças",
+          "O que é tdah em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "O que é tdah em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'o que é tdah em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "folha de caligrafia para imprimir pdf",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Folha de caligrafia para imprimir pdf para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de folha de caligrafia para imprimir pdf por nível — do mais fácil ao mais avançado",
+          "15 fichas de folha de caligrafia para imprimir pdf alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar folha de caligrafia para imprimir pdf em casa: guia passo a passo para pais e professores",
+          "Folha de caligrafia para imprimir pdf: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em folha de caligrafia para imprimir pdf: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que folha de caligrafia para imprimir pdf está entre as buscas mais quentes de pais e professores",
+          "Folha de caligrafia para imprimir pdf em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Folha de caligrafia para imprimir pdf: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'folha de caligrafia para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "free fire 2018 natal",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de free fire 2018 natal para fazer em casa (com molde grátis)",
+          "15 modelos de free fire 2018 natal para imprimir e usar agora",
+          "15 inspirações de free fire 2018 natal que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer free fire 2018 natal: passo a passo fácil para iniciantes",
+          "Free fire 2018 natal: como criar em casa sem gastar muito",
+          "Tudo sobre free fire 2018 natal em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que free fire 2018 natal está entre as buscas mais quentes do Brasil",
+          "Free fire 2018 natal: as tendências que dominam em 2026",
+          "Free fire 2018 natal em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'free fire 2018 natal' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "modelo de portfólio educação infantil",
+      "score": 54.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Modelo de portfólio educação infantil para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de modelo de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "15 recursos de modelo de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar modelo de portfólio educação infantil do zero: modelo completo e editável",
+          "Modelo de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre modelo de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que modelo de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Modelo de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Modelo de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'modelo de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "processo seletivo professor 2026",
+      "score": 48.8,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Processo seletivo professor 2026: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em processo seletivo professor 2026 está movimentando educadores em 2026",
+          "Processo seletivo professor 2026: edital aberto e o que você precisa saber antes de se inscrever",
+          "Processo seletivo professor 2026 em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'processo seletivo professor 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "concurso prefeitura professor",
+      "score": 36.5,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Concurso prefeitura professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em concurso prefeitura professor está movimentando educadores em 2026",
+          "Concurso prefeitura professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "Concurso prefeitura professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'concurso prefeitura professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "sinais de tdah em crianças",
+      "score": 36.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de sinais de tdah em crianças que todo pai precisa conhecer",
+          "15 atividades para estimular sinais de tdah em crianças em casa (sem precisar de terapeuta)",
+          "15 formas de ajudar seu filho com sinais de tdah em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com sinais de tdah em crianças: guia completo para pais",
+          "Sinais de tdah em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular sinais de tdah em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre sinais de tdah em crianças",
+          "Sinais de tdah em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Sinais de tdah em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sinais de tdah em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "vitamina para cachorro",
+      "score": 34.1,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de vitamina para cachorro",
+          "15 benefícios de vitamina para cachorro que todo tutor deveria conhecer",
+          "15 dúvidas sobre vitamina para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar vitamina para cachorro no seu cachorro: guia completo para tutores",
+          "Vitamina para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre vitamina para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que vitamina para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Vitamina para cachorro: o que os veterinários estão recomendando em 2026",
+          "Vitamina para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'vitamina para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "modelos de portfólio educação infantil",
+      "score": 34.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Modelos de portfólio educação infantil para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de modelos de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "15 recursos de modelos de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar modelos de portfólio educação infantil do zero: modelo completo e editável",
+          "Modelos de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre modelos de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que modelos de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Modelos de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Modelos de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'modelos de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "queda de pelo cachorro",
+      "score": 31.4,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de queda de pelo cachorro",
+          "15 benefícios de queda de pelo cachorro que todo tutor deveria conhecer",
+          "15 dúvidas sobre queda de pelo cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar queda de pelo cachorro no seu cachorro: guia completo para tutores",
+          "Queda de pelo cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre queda de pelo cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que queda de pelo cachorro está entre as buscas mais quentes de tutores de pets",
+          "Queda de pelo cachorro: o que os veterinários estão recomendando em 2026",
+          "Queda de pelo cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'queda de pelo cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "formação continuada professores",
+      "score": 30.8,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Formação continuada professores: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em formação continuada professores está movimentando educadores em 2026",
+          "Formação continuada professores: edital aberto e o que você precisa saber antes de se inscrever",
+          "Formação continuada professores em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'formação continuada professores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "tdah em crianças",
+      "score": 29.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de tdah em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular tdah em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com tdah em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com tdah em crianças: guia completo para pais",
+          "Tdah em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular tdah em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre tdah em crianças",
+          "Tdah em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Tdah em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tdah em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "cachorro sem apetite",
+      "score": 24.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de cachorro sem apetite",
+          "10 benefícios de cachorro sem apetite que todo tutor deveria conhecer",
+          "10 dúvidas sobre cachorro sem apetite respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar cachorro sem apetite no seu cachorro: guia completo para tutores",
+          "Cachorro sem apetite: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre cachorro sem apetite: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que cachorro sem apetite está entre as buscas mais quentes de tutores de pets",
+          "Cachorro sem apetite: o que os veterinários estão recomendando em 2026",
+          "Cachorro sem apetite em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cachorro sem apetite' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "tempo natal",
+      "score": 17.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de tempo natal para fazer em casa (com molde grátis)",
+          "10 modelos de tempo natal para imprimir e usar agora",
+          "10 inspirações de tempo natal que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer tempo natal: passo a passo fácil para iniciantes",
+          "Tempo natal: como criar em casa sem gastar muito",
+          "Tudo sobre tempo natal em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que tempo natal está entre as buscas mais quentes do Brasil",
+          "Tempo natal: as tendências que dominam em 2026",
+          "Tempo natal em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tempo natal' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "suplemento para cachorro",
+      "score": 14.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de suplemento para cachorro",
+          "10 benefícios de suplemento para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre suplemento para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar suplemento para cachorro no seu cachorro: guia completo para tutores",
+          "Suplemento para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre suplemento para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que suplemento para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Suplemento para cachorro: o que os veterinários estão recomendando em 2026",
+          "Suplemento para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'suplemento para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "hotel natal",
+      "score": 14.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de hotel natal para fazer em casa (com molde grátis)",
+          "10 modelos de hotel natal para imprimir e usar agora",
+          "10 inspirações de hotel natal que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer hotel natal: passo a passo fácil para iniciantes",
+          "Hotel natal: como criar em casa sem gastar muito",
+          "Tudo sobre hotel natal em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que hotel natal está entre as buscas mais quentes do Brasil",
+          "Hotel natal: as tendências que dominam em 2026",
+          "Hotel natal em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'hotel natal' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "edital concurso professor 2026",
+      "score": 12.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Edital concurso professor 2026: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em edital concurso professor 2026 está movimentando educadores em 2026",
+          "Edital concurso professor 2026: edital aberto e o que você precisa saber antes de se inscrever",
+          "Edital concurso professor 2026 em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'edital concurso professor 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "pre natal",
+      "score": 12.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de pre natal para fazer em casa (com molde grátis)",
+          "10 modelos de pre natal para imprimir e usar agora",
+          "10 inspirações de pre natal que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer pre natal: passo a passo fácil para iniciantes",
+          "Pre natal: como criar em casa sem gastar muito",
+          "Tudo sobre pre natal em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que pre natal está entre as buscas mais quentes do Brasil",
+          "Pre natal: as tendências que dominam em 2026",
+          "Pre natal em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'pre natal' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "concurso público professor 2026",
+      "score": 6.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Concurso público professor 2026: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em concurso público professor 2026 está movimentando educadores em 2026",
+          "Concurso público professor 2026: edital aberto e o que você precisa saber antes de se inscrever",
+          "Concurso público professor 2026 em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'concurso público professor 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "dislexia em crianças",
+      "score": 4.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de dislexia em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular dislexia em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com dislexia em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com dislexia em crianças: guia completo para pais",
+          "Dislexia em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular dislexia em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre dislexia em crianças",
+          "Dislexia em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Dislexia em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dislexia em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    }
+  ]
+}
