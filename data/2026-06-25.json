@@ -1,0 +1,475 @@
+{
+  "date": "2026-06-25",
+  "collected_at": "2026-06-25T12:10:42.907352",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "concurso professor educação infantil",
+            "valor": 35.2
+          },
+          {
+            "termo": "apostila concurso professor",
+            "valor": 13.5
+          },
+          {
+            "termo": "como passar em concurso de professor",
+            "valor": 0.5
+          },
+          {
+            "termo": "questões de concurso professor pedagogia",
+            "valor": 0.0
+          },
+          {
+            "termo": "simulado concurso professor pedagogia",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Fiocruz abre inscrições para especialização gratuita em Ensino em Biociências e Saúde",
+      "url": "https://infoeducacao.com.br/fiocruz-abre-inscricoes-para-especializacao-gratuita-em-ensino-em-biociencias-e-saude/",
+      "data": "Thu, 25 Jun 2026 12:49:05 +0000",
+      "resumo": "O Instituto Oswaldo Cruz, da Fundação Oswaldo Cruz (Fiocruz), está selecionando alunos para a especialização gratuita em Ensino em Biociências The post Fiocruz abre inscrições para especialização grat"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UFERSA abre 300 vagas no curso gratuito e online de Inteligência Artificial na Educação Básica",
+      "url": "https://infoeducacao.com.br/ufersa-abre-300-vagas-no-curso-gratuito-e-online-de-inteligencia-artificial-na-educacao-basica/",
+      "data": "Thu, 25 Jun 2026 12:09:33 +0000",
+      "resumo": "A Universidade Federal Rural do Semi-Árido (UFERSA) abriu 300 vagas no curso gratuito e online de Inteligência Artificial na Educação The post UFERSA abre 300 vagas no curso gratuito e online de Intel"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFPE abre 200 vagas em especialização gratuita a distância de Gestão Pública",
+      "url": "https://infoeducacao.com.br/ifpe-abre-200-vagas-em-especializacao-gratuita-a-distancia-de-gestao-publica/",
+      "data": "Thu, 25 Jun 2026 03:01:24 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) abriu 200 vagas na especialização gratuita a distância de The post IFPE abre 200 vagas em especialização gratuita a distância"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 03/07 as inscrições para a especialização gratuita em Educação Ambiental do IFRS",
+      "url": "https://infoeducacao.com.br/terminam-em-03-07-as-inscricoes-para-a-especializacao-gratuita-em-educacao-ambiental-do-ifrs/",
+      "data": "Wed, 24 Jun 2026 11:19:41 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) abriu 30 vagas na especialização gratuita The post Terminam em 03/07 as inscrições para a especialização gratuita em E"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UFRN seleciona 80 alunos para cursos de graduação gratuitos",
+      "url": "https://infoeducacao.com.br/ufrn-seleciona-80-alunos-para-cursosde-graduacao-gratuitos/",
+      "data": "Wed, 24 Jun 2026 10:32:44 +0000",
+      "resumo": "A Universidade Federal do Rio Grande do Norte (UFRN) está selecionando 80 alunos que preencherão vagas remanescentes, existentes do processo The post UFRN seleciona 80 alunos para cursos de graduação "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso online de Inclusão social e profissional de pessoas com deficiência intelectual ou transtorno do espectro autista abre vagas gratuitas",
+      "url": "https://infoeducacao.com.br/curso-online-de-inclusao-social-e-profissional-de-pessoas-com-deficiencia-intelectual-ou-transtorno-do-espectro-autista-abre-vagas-gratuitas/",
+      "data": "Wed, 24 Jun 2026 08:17:56 +0000",
+      "resumo": "Estão abertas as inscrições para o curso gratuito e totalmente online de Inclusão social e profissional de pessoas com deficiência The post Curso online de Inclusão social e profissional de pessoas co"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito online do IFMG sobre Transtorno do Espectro Autista recebe inscrições",
+      "url": "https://infoeducacao.com.br/curso-gratuito-online-sobre-transtorno-do-espectro-autista-recebe-inscricoes/",
+      "data": "Tue, 23 Jun 2026 20:14:57 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) está recebendo inscrições para o curso gratuito online The post Curso gratuito online do IFMG sobre Transtorno do Espectro "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFSP Capivari abre 200 vagas para especialização gratuita e 100% EaD em Atendimento Educacional Especializado",
+      "url": "https://infoeducacao.com.br/ifsp-capivari-abre-200-vagas-para-especializacao-gratuita-e-100-ead-em-atendimento-educacional-especializado/",
+      "data": "Tue, 23 Jun 2026 14:51:19 +0000",
+      "resumo": "O Instituto Federal de São Paulo (IFSP) Campus Capivari anuncia a abertura do processo seletivo para a Pós-Graduação Lato Sensu The post IFSP Capivari abre 200 vagas para especialização gratuita e 100"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFRS Lança Edital de Especialização Gratuita em Educação Ambiental Com Seleção Por Sorteio!",
+      "url": "https://www.pebsp.com/ifrs-lanca-edital-de-especializacao-gratuita-em-educacao-ambiental-com-selecao-por-sorteio-dcs/",
+      "data": "Thu, 25 Jun 2026 11:45:45 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS), por meio do Campus Viamão, anunciou a abertura oficial de inscrições para o processo seletivo do curso de pós-graduaç"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UnB oferece especialização EAD em contabilidade e gestão fiscal",
+      "url": "https://www.pebsp.com/unb-oferece-especializacao-ead-em-contabilidade-e-gestao-fiscal/",
+      "data": "Thu, 25 Jun 2026 09:00:13 +0000",
+      "resumo": "A Universidade de Brasília (UnB) está com inscrições abertas para o curso de Especialização em Contabilidade e Finanças Públicas Municipais, voltado exclusivamente para servidores e agentes públicos. "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFCE tem inscrições abertas para Cursos Técnicos EAD; Inscrições encerram hoje",
+      "url": "https://www.pebsp.com/ifce-tem-inscricoes-abertas-para-cursos-tecnicos-ead-inscricoes-encerram-hoje/",
+      "data": "Thu, 25 Jun 2026 06:03:47 +0000",
+      "resumo": "O Instituto Federal do Ceará (IFCE) abriu inscrições para o Processo Seletivo 2026.2 de cursos técnicos presenciais e a distância em 27 campi do estado. São centenas de vagas gratuitas distribuídas em"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "MEC e UFPI abrem inscrições para avaliadores da Olimpíada de Língua Portuguesa 2026",
+      "url": "https://www.pebsp.com/mec-e-ufpi-abrem-inscricoes-para-avaliadores-da-olimpiada-de-lingua-portuguesa-2026/",
+      "data": "Thu, 25 Jun 2026 00:59:05 +0000",
+      "resumo": "A Universidade Federal do Piauí (UFPI) publicou o Edital nº 25/2026 para selecionar avaliadores da 8ª edição da Olimpíada para Professores de Língua Portuguesa (OPLP). O processo é aberto a professore"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Prazo acabando: Seduc-SP encerra inscrições para 2 processos seletivos de contratação de professores nesta semana",
+      "url": "https://www.pebsp.com/prazo-acabando-seduc-sp-encerra-inscricoes-para-2-processos-seletivos-de-contratacao-de-professores-nesta-semana/",
+      "data": "Thu, 25 Jun 2026 00:40:57 +0000",
+      "resumo": "As inscrições para os dois processos seletivos da Secretaria da Educação do Estado de São Paulo (Seduc-SP) estão chegando ao fim. O prazo para professores de educação básica encerra amanhã, 25 de junh"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP Abre 200 Vagas no Curso de Especialização em Atendimento Educacional Especializado Totalmente Gratuito e EAD!",
+      "url": "https://www.pebsp.com/ifsp-abre-200-vagas-no-curso-de-especializacao-em-atendimento-educacional-especializado-totalmente-gratuito-e-ead-dcs/",
+      "data": "Thu, 25 Jun 2026 00:24:20 +0000",
+      "resumo": "Com o objetivo de fortalecer a inclusão escolar e capacitar professores para os desafios da educação especial, o Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) anunciou a aber"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Como estudar para a Prova Nacional Docente 2026: esquema por semana de junho até setembro",
+      "url": "https://www.pebsp.com/como-estudar-para-a-prova-nacional-docente-2026-esquema-por-semana-de-junho-ate-setembro/",
+      "data": "Wed, 24 Jun 2026 22:55:04 +0000",
+      "resumo": "A Prova Nacional Docente (PND) 2026 acontece em 20 de setembro. Com as inscrições abertas e o calendário definido, quem quer uma boa nota já precisa de um plano — não basta estudar muito, é preciso es"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFMS Abre Centenas de Vagas em Cursos de Qualificação Profissional Totalmente EAD Com Seleção Por Sorteio!",
+      "url": "https://www.pebsp.com/ifms-abre-centenas-de-vagas-em-cursos-de-qualificacao-profissional-totalmente-ead-com-selecao-por-sorteio-dcs/",
+      "data": "Wed, 24 Jun 2026 17:18:51 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS) abriu um novo processo seletivo público para o preenchimento de vagas em cursos de qualificação profissional totalmen"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC Amplia Benefícios para Professores com Parceria no Setor Hoteleiro",
+      "url": "https://conectaprofessores.com/2026/06/24/mec-amplia-beneficios-para-professores-com-parceria-no-setor-hoteleiro/",
+      "data": "Thu, 25 Jun 2026 02:30:35 +0000",
+      "resumo": "O programa #TôComProf, do MEC, proporciona benefícios para professores brasileiros, incluindo descontos de até 30% em hotéis e pousadas em destinos turísticos. A iniciativa, em parceria com o Ministér"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre inscrições para seleção de tutores em cursos de pós-graduação EaD",
+      "url": "https://conectaprofessores.com/2026/06/24/universidade-abre-inscricoes-para-selecao-de-tutores-em-cursos-de-pos-graduacao-ead/",
+      "data": "Thu, 25 Jun 2026 01:33:18 +0000",
+      "resumo": "A UERN abriu inscrições para mediadores pedagógicos em cursos de especialização a distância, de 24 de junho a 8 de julho de 2026. As vagas são para quatro cursos, e profissionais selecionados apoiarão"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Novo curso do MEC qualifica educadores para atuar com jovens na EJA",
+      "url": "https://conectaprofessores.com/2026/06/24/novo-curso-do-mec-qualifica-educadores-para-atuar-com-jovens-na-eja/",
+      "data": "Wed, 24 Jun 2026 19:50:57 +0000",
+      "resumo": "O MEC está oferecendo o curso gratuito \"Juventudes na EJA\", direcionado a educadores da Educação de Jovens e Adultos. Com 60 horas de duração, a formação visa discutir desafios e práticas pedagógicas "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre vagas em dois cursos gratuitos de Língua Portuguesa e Matemática para professores",
+      "url": "https://conectaprofessores.com/2026/06/24/mec-abre-vagas-em-dois-cursos-gratuitos-de-lingua-portuguesa-e-matematica-para-professores/",
+      "data": "Wed, 24 Jun 2026 19:12:20 +0000",
+      "resumo": "O MEC está oferecendo dois cursos gratuitos de formação continuada para professores da Educação de Jovens e Adultos (EJA) em Matemática e Língua Portuguesa. Com 80 horas de carga horária, as formações"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre inscrições para curso gratuito de Direitos Humanos e Educação Midiática com certificado",
+      "url": "https://conectaprofessores.com/2026/06/24/mec-abre-inscricoes-para-curso-gratuito-de-direitos-humanos-e-educacao-midiatica-com-certificado/",
+      "data": "Wed, 24 Jun 2026 16:16:22 +0000",
+      "resumo": "O Ministério da Educação (MEC) está com inscrições abertas até 30 de junho para a terceira edição do Curso de Aperfeiçoamento em Educação em Direitos Humanos, Diversidades e Educação Midiática, totalm"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Prova Nacional Docente 2026: veja como fazer a inscrição e participar do exame do MEC",
+      "url": "https://conectaprofessores.com/2026/06/24/prova-nacional-docente-2026-veja-como-fazer-a-inscricao-e-participar-do-exame-do-mec/",
+      "data": "Wed, 24 Jun 2026 15:43:57 +0000",
+      "resumo": "Professores e estudantes de licenciatura podem se inscrever na Prova Nacional Docente (PND) 2026 até 3 de julho. A avaliação ocorre em 20 de setembro e será usada em processos seletivos para contrataç"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Professores Ganham Descontos em Telemedicina e Atendimento Psicológico Pelo Programa do MEC",
+      "url": "https://conectaprofessores.com/2026/06/23/professores-ganham-descontos-em-telemedicina-e-atendimento-psicologico-pelo-programa-do-mec/",
+      "data": "Wed, 24 Jun 2026 01:30:54 +0000",
+      "resumo": "O programa #TôComProf, do Ministério da Educação, oferece novos benefícios de saúde física e mental para professores, como telemedicina com até 20% de desconto e atendimento psicológico com 30% de des"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC e Fundação Itaú lançam mais de 20 cursos gratuitos na área da Educação com certificado",
+      "url": "https://conectaprofessores.com/2026/06/23/mec-e-fundacao-itau-lancam-mais-de-20-cursos-gratuitos-na-area-da-educacao-com-certificado/",
+      "data": "Wed, 24 Jun 2026 00:47:08 +0000",
+      "resumo": "O MEC, em parceria com a Fundação Itaú Social, oferece mais de 20 cursos online gratuitos com certificado na plataforma AVAMEC. Voltados para profissionais da educação e estudantes, os cursos abordam "
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "concurso professor educação infantil",
+      "score": 35.2,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Concurso professor educação infantil: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em concurso professor educação infantil está movimentando educadores em 2026",
+          "Concurso professor educação infantil: edital aberto e o que você precisa saber antes de se inscrever",
+          "Concurso professor educação infantil em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'concurso professor educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "apostila concurso professor",
+      "score": 13.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Apostila concurso professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em apostila concurso professor está movimentando educadores em 2026",
+          "Apostila concurso professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "Apostila concurso professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'apostila concurso professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "como passar em concurso de professor",
+      "score": 0.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Como passar em concurso de professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em como passar em concurso de professor está movimentando educadores em 2026",
+          "Como passar em concurso de professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "Como passar em concurso de professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como passar em concurso de professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "questões de concurso professor pedagogia",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Questões de concurso professor pedagogia: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em questões de concurso professor pedagogia está movimentando educadores em 2026",
+          "Questões de concurso professor pedagogia: edital aberto e o que você precisa saber antes de se inscrever",
+          "Questões de concurso professor pedagogia em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'questões de concurso professor pedagogia' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "simulado concurso professor pedagogia",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Simulado concurso professor pedagogia: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em simulado concurso professor pedagogia está movimentando educadores em 2026",
+          "Simulado concurso professor pedagogia: edital aberto e o que você precisa saber antes de se inscrever",
+          "Simulado concurso professor pedagogia em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'simulado concurso professor pedagogia' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    }
+  ]
+}
