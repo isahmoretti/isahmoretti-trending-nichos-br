@@ -1,0 +1,470 @@
+{
+  "date": "2026-06-30",
+  "collected_at": "2026-06-30T12:03:42.434156",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "bolo",
+            "valor": 75.7
+          },
+          {
+            "termo": "painel",
+            "valor": 29.1
+          },
+          {
+            "termo": "para imprimir",
+            "valor": 20.2
+          },
+          {
+            "termo": "convite",
+            "valor": 6.1
+          },
+          {
+            "termo": "lembrança",
+            "valor": 1.1
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para a especialização gratuita a distância em Preceptoria Multiprofissional na Área da Saúde",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-preceptoria-multiprofissional-na-area-da-saude/",
+      "data": "Tue, 30 Jun 2026 10:46:48 +0000",
+      "resumo": "Terminam no dia 08/07/2026 as inscrições para o processo seletivo, que visa preencher 150 vagas na especialização gratuita a distância The post Inscrições abertas para a especialização gratuita a dist"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Unifesp abre 500 vagas em curso gratuito e online sobre Ferramentas de Inteligência Artificial para Todos",
+      "url": "https://infoeducacao.com.br/unifesp-abre-500-vagas-em-curso-gratuito-e-online-sobre-ferramentas-de-inteligencia-artificial-para-todos/",
+      "data": "Tue, 30 Jun 2026 08:18:31 +0000",
+      "resumo": "A Universidade Federal de São Paulo (UNIFESP) abriu 500 vagas no curso gratuito e online sobre FIAT: Ferramentas de Inteligência The post Unifesp abre 500 vagas em curso gratuito e online sobre Ferram"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "ICMBio oferece certificado grátis em 12 cursos online; inscrições abertas",
+      "url": "https://infoeducacao.com.br/icmbio-oferece-certificado-gratis-em-12-cursos-online-inscricoes-abertas/",
+      "data": "Mon, 29 Jun 2026 13:45:03 +0000",
+      "resumo": "O Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) está recebendo inscrições de interessados em participar de cursos gratuitos e The post ICMBio oferece certificado grátis em 12 cursos"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IF Goiano abre vagas em cursos de especialização gratuitos com aulas online ou presenciais",
+      "url": "https://infoeducacao.com.br/if-goiano-abre-vagas-em-cursos-de-especializacao-gratuitos-com-aulas-online-ou-presenciais/",
+      "data": "Mon, 29 Jun 2026 11:04:53 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia Goiano (IF Goiano) está selecionando alunos para dois cursos de especialização gratuitos. The post IF Goiano abre vagas em cursos de especializaçã"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "MEC abre inscrições para o curso gratuito e totalmente online sobre construção dos livros didáticos do PNLD",
+      "url": "https://infoeducacao.com.br/mec-abre-inscricoes-para-o-curso-gratuito-e-totalmente-online-sobre-construcao-dos-livros-didaticos-do-pnld/",
+      "data": "Mon, 29 Jun 2026 10:30:14 +0000",
+      "resumo": "Estão abertas as inscrições para o curso gratuito e totalmente online denominado “A construção dos livros didáticos do PNLD”, que The post MEC abre inscrições para o curso gratuito e totalmente online"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para o curso gratuito online Como produzir cursos de ensino a distância com inteligência artificial generativa",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-gratuito-online-como-produzir-cursos-de-ensino-a-distancia-com-inteligencia-artificial-generativa/",
+      "data": "Sun, 28 Jun 2026 13:49:35 +0000",
+      "resumo": "Estão abertas as inscrições para o curso gratuito e totalmente online sobre Como produzir cursos de ensino a distância com The post Inscrições abertas para o curso gratuito online Como produzir cursos"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Ministério da Cultura abre inscrições para nova turma do curso gratuito e totalmente online sobre Produção de Documentário",
+      "url": "https://infoeducacao.com.br/ministerio-da-cultura-abre-inscricoes-para-nova-turma-do-curso-gratuito-e-totalmente-online-sobre-producao-de-documentario/",
+      "data": "Sun, 28 Jun 2026 12:41:10 +0000",
+      "resumo": "O Ministério da Cultura abriu inscrições para a segunda turma do curso gratuito e totalmente online sobre Produção de Documentário. The post Ministério da Cultura abre inscrições para nova turma do cu"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFSULDEMINAS abre 2 mil vagas gratuitas em Formação de Professores em Alfabetização para a EJA",
+      "url": "https://infoeducacao.com.br/ifsuldeminas-abre-2-mil-vagas-gratuitas-em-formacao-de-professores-em-alfabetizacao-para-a-eja/",
+      "data": "Sat, 27 Jun 2026 16:52:24 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS), Campus Pouso Alegre, abriu 2 mil The post IFSULDEMINAS abre 2 mil vagas gratuitas em Formação de Professore"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFES e UAB Lançam Edital de Seleção Para o Curso de Especialização em Ensino de Dança EAD! Totalmente Gratuito!",
+      "url": "https://www.pebsp.com/ufes-e-uab-lancam-edital-de-selecao-para-o-curso-de-especializacao-em-ensino-de-danca-ead-totalmente-gratuito-dcs/",
+      "data": "Tue, 30 Jun 2026 11:55:12 +0000",
+      "resumo": "A Universidade Federal do Espírito Santo (Ufes), por meio de sua Superintendência de Educação a Distância (Sead), anunciou a abertura de um novo processo seletivo simplificado voltado para a qualifica"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFES Abre Vagas em Curso de Extensão Gratuito em Gestão do 3º Setor e Projetos Sociais!",
+      "url": "https://www.pebsp.com/ufes-abre-vagas-em-curso-de-extensao-gratuito-em-gestao-do-3o-setor-e-projetos-sociais-dcs/",
+      "data": "Tue, 30 Jun 2026 09:45:46 +0000",
+      "resumo": "A Universidade Federal do Espírito Santo (Ufes), por meio da Superintendência de Educação a Distância (Sead), anunciou a abertura do processo seletivo para o curso de extensão em Gestão Contábil e Fin"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Colégio Pedro II Abre Inscrições no Curso de Extensão Gratuito em Libras! Vagas Presenciais e EAD Por Sorteio!",
+      "url": "https://www.pebsp.com/colegio-pedro-ii-abre-inscricoes-no-curso-de-extensao-gratuito-em-libras-vagas-presenciais-e-ead-dcs/",
+      "data": "Tue, 30 Jun 2026 07:00:39 +0000",
+      "resumo": "O Colégio Pedro II anunciou a abertura de um novo processo seletivo público para o preenchimento de 46 vagas no curso gratuito de extensão e Formação Inicial e Continuada (FIC) em Língua Brasileira de"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "3 cursos gratuitos do IFMS com inscrições abertas até julho de 2026 — totalmente a distância",
+      "url": "https://www.pebsp.com/3-cursos-gratuitos-do-ifms-com-inscricoes-abertas-ate-julho-de-2026-totalmente-a-distancia/",
+      "data": "Mon, 29 Jun 2026 23:45:07 +0000",
+      "resumo": "O Instituto Federal de Mato Grosso do Sul (IFMS) está com inscrições abertas para o Processo Seletivo FIC EaD 2026/2, com vagas gratuitas nos cursos de Assistente Administrativo, Operador de Computado"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Inscrições abertas para curso sobre antropologia forense e ditadura militar no Brasil da USP",
+      "url": "https://www.pebsp.com/inscricoes-abertas-para-curso-sobre-antropologia-forense-e-ditadura-militar-no-brasil-da-usp/",
+      "data": "Mon, 29 Jun 2026 21:18:20 +0000",
+      "resumo": "A Reitoria da Universidade de São Paulo (USP) abre inscrições para o curso de difusão gratuito &#8220;Evidências da memória: o trabalho forense sobre a ditadura&#8221;. São 150 vagas para cinco aulas "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UEMG tem 2 editais para especializações EaD gratuitas nesta semana",
+      "url": "https://www.pebsp.com/uemg-tem-2-editais-para-especializacoes-ead-gratuitas-nesta-semana/",
+      "data": "Mon, 29 Jun 2026 17:32:27 +0000",
+      "resumo": "A Universidade do Estado de Minas Gerais (UEMG), por meio do Sistema Universidade Aberta do Brasil (UAB), publicou dois novos editais de processo seletivo para cursos de pós-graduação lato sensu gratu"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSULDEMINAS Abre 2 Mil Vagas em Curso de Formação Gratuito e EAD em Alfabetização Para a EJA!",
+      "url": "https://www.pebsp.com/ifsuldeminas-abre-2-mil-vagas-em-curso-de-formacao-gratuito-e-ead-em-alfabetizacao-para-a-eja-dcs/",
+      "data": "Mon, 29 Jun 2026 14:11:28 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS), por meio do Campus Pouso Alegre, anunciou a abertura de 2.000 vagas para o curso gratuito de Formação de Pr"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFPR oferece formação gratuita sobre Inteligência Artificial para professores",
+      "url": "https://www.pebsp.com/ufpr-oferece-formacao-gratuita-sobre-inteligencia-artificial-para-professores/",
+      "data": "Mon, 29 Jun 2026 11:08:52 +0000",
+      "resumo": "A Universidade Federal do Paraná (UFPR) está com inscrições abertas para um curso de extensão gratuito sobre Inteligência Artificial na Educação, voltado a professores da Educação Básica de todo o Bra"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre inscrições para curso gratuito de leitura e escrita com certificado",
+      "url": "https://conectaprofessores.com/2026/06/29/mec-abre-inscricoes-para-curso-gratuito-de-leitura-e-escrita-com-certificado/",
+      "data": "Tue, 30 Jun 2026 01:34:59 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece um curso gratuito de Formação Docente e Práticas de Leitura e Escrita, com 60 horas de carga horária, visando capacitar educadores na promoção da leitura na educ"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC Oferece Descontos em Bolsas de Até 75% em Pós-Graduações Pelo Programa #TôComProf",
+      "url": "https://conectaprofessores.com/2026/06/29/mec-oferece-descontos-em-bolsas-de-ate-75-em-pos-graduacoes-pelo-programa-tocomprof/",
+      "data": "Tue, 30 Jun 2026 00:41:59 +0000",
+      "resumo": "O programa #TôComProf, do Ministério da Educação, oferece aos professores brasileiros oportunidades de qualificação profissional com descontos de até 75% em cursos de pós-graduação, especializações e "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece curso gratuito de Introdução ao Pensamento Computacional para professores",
+      "url": "https://conectaprofessores.com/2026/06/29/mec-oferece-curso-gratuito-de-introducao-ao-pensamento-computacional-para-professores/",
+      "data": "Tue, 30 Jun 2026 00:02:54 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece um curso gratuito de Introdução ao Pensamento Computacional com 30 horas de carga horária, voltado para professores do Ensino Fundamental e interessados. O curso"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece curso gratuito de Aprendizagem Baseada em Problemas e Projetos para professores",
+      "url": "https://conectaprofessores.com/2026/06/29/mec-oferece-curso-gratuito-de-aprendizagem-baseada-em-problemas-e-projetos-para-professores/",
+      "data": "Mon, 29 Jun 2026 23:01:59 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece um curso online gratuito de Aprendizagem Baseada em Problemas e Projetos (ABP) para professores da Educação Básica. Com carga horária de 120 horas, os educadores"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre vagas para formação em Educação e Tecnologia com certificado de 180 horas",
+      "url": "https://conectaprofessores.com/2026/06/29/mec-abre-vagas-para-formacao-em-educacao-e-tecnologia-com-certificado-de-180-horas/",
+      "data": "Mon, 29 Jun 2026 22:29:28 +0000",
+      "resumo": "Professores da Educação Básica podem ampliar suas competências digitais com o Curso de Aperfeiçoamento em Educação e Tecnologia, oferecido gratuitamente pelo MEC na plataforma AVAMEC. Com 180 horas, o"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece cerca de 280 cursos gratuitos para professores na Plataforma PlaforEdu",
+      "url": "https://conectaprofessores.com/2026/06/29/mec-oferece-cerca-de-280-cursos-gratuitos-para-professores-na-plataforma-plaforedu/",
+      "data": "Mon, 29 Jun 2026 15:36:45 +0000",
+      "resumo": "O Ministério da Educação oferece a Plataforma PlaforEdu, que disponibiliza 280 cursos online gratuitos para a formação continuada de professores e profissionais da educação. Os cursos abordam temas co"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece novas vagas em curso gratuito de Liderança Escolar para gestores e professores",
+      "url": "https://conectaprofessores.com/2026/06/28/mec-oferece-novas-vagas-em-curso-gratuito-de-lideranca-escolar-para-gestores-e-professores/",
+      "data": "Mon, 29 Jun 2026 00:38:45 +0000",
+      "resumo": "O Ministério da Educação (MEC) abriu inscrições para o curso gratuito de Liderança Escolar, voltado a profissionais da educação. Disponível na plataforma AVAMEC, o curso de 90 horas é autoinstrucional"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece vantagens e oportunidades para professores; veja como participar",
+      "url": "https://conectaprofessores.com/2026/06/28/mec-oferece-vantagens-e-oportunidades-para-professores-veja-como-participar/",
+      "data": "Mon, 29 Jun 2026 00:21:38 +0000",
+      "resumo": "O programa Mais Professores para o Brasil, lançado em janeiro de 2025 pelo MEC, visa valorizar a carreira docente e oferecer oportunidades de formação para professores e estudantes de licenciatura. A "
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "bolo",
+      "score": 75.7,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de bolo para fazer em casa (com molde grátis)",
+          "20 modelos de bolo para imprimir e usar agora",
+          "20 inspirações de bolo que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer bolo: passo a passo fácil para iniciantes",
+          "Bolo: como criar em casa sem gastar muito",
+          "Tudo sobre bolo em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que bolo está entre as buscas mais quentes do Brasil",
+          "Bolo: as tendências que dominam em 2026",
+          "Bolo em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'bolo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "painel",
+      "score": 29.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de painel para fazer em casa (com molde grátis)",
+          "10 modelos de painel para imprimir e usar agora",
+          "10 inspirações de painel que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer painel: passo a passo fácil para iniciantes",
+          "Painel: como criar em casa sem gastar muito",
+          "Tudo sobre painel em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que painel está entre as buscas mais quentes do Brasil",
+          "Painel: as tendências que dominam em 2026",
+          "Painel em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'painel' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "para imprimir",
+      "score": 20.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de para imprimir para fazer em casa (com molde grátis)",
+          "10 modelos de para imprimir para imprimir e usar agora",
+          "10 inspirações de para imprimir que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer para imprimir: passo a passo fácil para iniciantes",
+          "Para imprimir: como criar em casa sem gastar muito",
+          "Tudo sobre para imprimir em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que para imprimir está entre as buscas mais quentes do Brasil",
+          "Para imprimir: as tendências que dominam em 2026",
+          "Para imprimir em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "convite",
+      "score": 6.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de convite para fazer em casa (com molde grátis)",
+          "10 modelos de convite para imprimir e usar agora",
+          "10 inspirações de convite que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer convite: passo a passo fácil para iniciantes",
+          "Convite: como criar em casa sem gastar muito",
+          "Tudo sobre convite em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que convite está entre as buscas mais quentes do Brasil",
+          "Convite: as tendências que dominam em 2026",
+          "Convite em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'convite' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "lembrança",
+      "score": 1.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de lembrança para fazer em casa (com molde grátis)",
+          "10 modelos de lembrança para imprimir e usar agora",
+          "10 inspirações de lembrança que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer lembrança: passo a passo fácil para iniciantes",
+          "Lembrança: como criar em casa sem gastar muito",
+          "Tudo sobre lembrança em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que lembrança está entre as buscas mais quentes do Brasil",
+          "Lembrança: as tendências que dominam em 2026",
+          "Lembrança em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'lembrança' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    }
+  ]
+}
