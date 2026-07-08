@@ -1,0 +1,1370 @@
+{
+  "date": "2026-07-08",
+  "collected_at": "2026-07-08T11:40:28.011367",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "letras alfabeto para imprimir",
+            "valor": 100,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras",
+            "valor": 99,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras para imprimir",
+            "valor": 99,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras do alfabeto",
+            "valor": 63,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras do alfabeto para imprimir",
+            "valor": 63,
+            "base": "alfabeto para imprimir"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "ficha do alfabeto para imprimir",
+            "valor": "60",
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "alfabeto cursivo para imprimir",
+            "valor": "40",
+            "base": "alfabeto para imprimir"
+          }
+        ],
+        "seeds": [
+          {
+            "termo": "alfabeto para imprimir",
+            "valor": 60.1
+          },
+          {
+            "termo": "caligrafia para imprimir",
+            "valor": 15.5
+          },
+          {
+            "termo": "vogais para imprimir",
+            "valor": 5.5
+          },
+          {
+            "termo": "como estimular a leitura em casa",
+            "valor": 3.2
+          },
+          {
+            "termo": "atividades de leitura para imprimir",
+            "valor": 1.1
+          },
+          {
+            "termo": "atividades de escrita para imprimir",
+            "valor": 0.2
+          },
+          {
+            "termo": "brincadeiras para alfabetização",
+            "valor": 0.2
+          },
+          {
+            "termo": "jogos de alfabetização para imprimir",
+            "valor": 0.2
+          },
+          {
+            "termo": "atividades de alfabetização em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "como ensinar a criança a ler em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "plantas folhagens",
+            "valor": 100,
+            "base": "folhagens"
+          },
+          {
+            "termo": "folhagens para jardim",
+            "valor": 36,
+            "base": "folhagens"
+          },
+          {
+            "termo": "folhagens artificiais",
+            "valor": 36,
+            "base": "folhagens"
+          },
+          {
+            "termo": "folhagens para dentro de casa",
+            "valor": 17,
+            "base": "folhagens"
+          },
+          {
+            "termo": "folhagens para ambiente interno",
+            "valor": 8,
+            "base": "folhagens"
+          },
+          {
+            "termo": "plantas trepadeiras",
+            "valor": 100,
+            "base": "trepadeiras"
+          },
+          {
+            "termo": "flores trepadeiras",
+            "valor": 50,
+            "base": "trepadeiras"
+          },
+          {
+            "termo": "planta trepadeiras",
+            "valor": 44,
+            "base": "trepadeiras"
+          },
+          {
+            "termo": "rosas trepadeiras",
+            "valor": 26,
+            "base": "trepadeiras"
+          },
+          {
+            "termo": "trepadeiras com flores",
+            "valor": 24,
+            "base": "trepadeiras"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "folhagens para jardim externo",
+            "valor": "53650",
+            "base": "folhagens"
+          },
+          {
+            "termo": "trepadeiras jade",
+            "valor": "120",
+            "base": "trepadeiras"
+          }
+        ],
+        "seeds": [
+          {
+            "termo": "paisagismo",
+            "valor": 70.2
+          },
+          {
+            "termo": "folhagens",
+            "valor": 20.2
+          },
+          {
+            "termo": "trepadeiras",
+            "valor": 10.7
+          },
+          {
+            "termo": "como regar",
+            "valor": 5.2
+          },
+          {
+            "termo": "como adubar",
+            "valor": 4.3
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "cartão",
+            "valor": 70.8
+          },
+          {
+            "termo": "tag",
+            "valor": 11.4
+          },
+          {
+            "termo": "eva",
+            "valor": 10.0
+          },
+          {
+            "termo": "enfeite",
+            "valor": 3.0
+          },
+          {
+            "termo": "feltro",
+            "valor": 1.5
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "queda de pelo cachorro",
+            "valor": 32.3
+          },
+          {
+            "termo": "cachorro sem apetite",
+            "valor": 29.8
+          },
+          {
+            "termo": "ração natural para cachorro",
+            "valor": 16.5
+          },
+          {
+            "termo": "displasia em cachorro",
+            "valor": 10.7
+          },
+          {
+            "termo": "proteína para cachorro",
+            "valor": 6.6
+          },
+          {
+            "termo": "cachorro perdendo pelo",
+            "valor": 5.5
+          },
+          {
+            "termo": "cálcio para cachorro",
+            "valor": 0.3
+          },
+          {
+            "termo": "pelo opaco cachorro",
+            "valor": 0.0
+          },
+          {
+            "termo": "dieta barf cachorro",
+            "valor": 0.0
+          },
+          {
+            "termo": "nutrição canina",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "capa de portfólio educação infantil",
+            "valor": 100,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "capa para portfólio educação infantil",
+            "valor": 84,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "modelo de portfólio educação infantil",
+            "valor": 60,
+            "base": "portfólio educação infantil"
+          },
+          {
+            "termo": "modelos de portfólio educação infantil",
+            "valor": 39,
+            "base": "portfólio educação infantil"
+          }
+        ],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "portfólio educação infantil",
+            "valor": 30.9
+          },
+          {
+            "termo": "plano de aula bncc educação infantil",
+            "valor": 27.4
+          },
+          {
+            "termo": "atividades de artes para imprimir",
+            "valor": 5.0
+          },
+          {
+            "termo": "diário de classe para imprimir",
+            "valor": 3.2
+          },
+          {
+            "termo": "atividades de história para imprimir",
+            "valor": 2.8
+          },
+          {
+            "termo": "projetos escolares ensino fundamental",
+            "valor": 2.6
+          },
+          {
+            "termo": "relatório descritivo do aluno",
+            "valor": 0.6
+          },
+          {
+            "termo": "atividades de ciências para imprimir",
+            "valor": 0.5
+          },
+          {
+            "termo": "maquete do sistema solar como fazer",
+            "valor": 0.2
+          },
+          {
+            "termo": "boletim escolar para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "ficha de avaliação educação infantil",
+            "valor": 0.0
+          },
+          {
+            "termo": "plano de aula pronto para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "ata de reunião de pais e mestres",
+            "valor": 0.0
+          },
+          {
+            "termo": "ficha de observação do aluno",
+            "valor": 0.0
+          },
+          {
+            "termo": "relatório individual de aluno educação infantil",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UAB e UFU Abrem 150 Vagas em Curso de Bacharelado em Administração Pública a Distância em 8 Polos!",
+      "url": "https://www.pebsp.com/uab-e-ufu-abrem-150-vagas-em-curso-de-bacharelado-em-administracao-publica-gratuito-e-a-distancia-dcs/",
+      "data": "Wed, 08 Jul 2026 11:00:53 +0000",
+      "resumo": "A Universidade Federal de Uberlândia (UFU) publicou o edital para o processo seletivo destinado ao curso superior de Bacharelado em Administração Pública, oferecido na modalidade de Educação a Distânc"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Unicamp abre inscrições para mestrado e doutorado em Educação com 227 vagas",
+      "url": "https://www.pebsp.com/unicamp-abre-inscricoes-para-mestrado-e-doutorado-em-educacao-com-227-vagas/",
+      "data": "Wed, 08 Jul 2026 09:00:01 +0000",
+      "resumo": "A Faculdade de Educação da Unicamp (FE) abriu, a partir de 15 de junho de 2026, as inscrições para o Programa de Pós-Graduação em Educação (PPGE) 2027. São 227 vagas para Mestrado e Doutorado, distrib"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Fiocruz reabre inscrições para Especialização EAD Gratuita",
+      "url": "https://www.pebsp.com/fiocruz-reabre-inscricoes-para-especializacao-ead-gratuita/",
+      "data": "Wed, 08 Jul 2026 08:00:48 +0000",
+      "resumo": "A Escola Nacional de Saúde Pública Sérgio Arouca (ENSP/Fiocruz), em parceria com a Universidade Aberta do Brasil (UAB/MEC), prorrogou até 10 de julho de 2026 o prazo de inscrições para o Curso de Espe"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Relatório aponta que 63,9 milhões de brasileiros estão fora da escola sem educação básica completa",
+      "url": "https://www.pebsp.com/relatorio-aponta-que-639-milhoes-de-brasileiros-estao-fora-da-escola-sem-educacao-basica-completa/",
+      "data": "Tue, 07 Jul 2026 22:41:44 +0000",
+      "resumo": "O Brasil tem 63,9 milhões de pessoas com 15 anos ou mais fora da escola sem educação básica completa, o que corresponde a 37,3% da população adulta, segundo o novo relatório da Rede EJA e Inclusão Pro"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Capes abre inscrições para Intercâmbio nos Estados Unidos",
+      "url": "https://www.pebsp.com/capes-abre-inscricoes-para-intercambio-nos-estados-unidos/",
+      "data": "Tue, 07 Jul 2026 21:42:54 +0000",
+      "resumo": "A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) publicou o Edital nº 19/2026 do Programa CAPES/Universidade em Buffalo (CAPES/UB), oferecendo 20 bolsas na modalidade Professor Vi"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Secretaria da Educação abre Concurso Público para Professores Efetivos",
+      "url": "https://www.pebsp.com/secretaria-da-educacao-abre-concurso-publico-para-professores-efetivos/",
+      "data": "Tue, 07 Jul 2026 17:50:25 +0000",
+      "resumo": "A Secretaria de Estado do Planejamento, Gestão e Patrimônio do Estado de Alagoas (SEPLAG/AL), em parceria com a Secretaria de Educação do Estado de Alagoas (SEDUC/AL), mantém aberto o concurso público"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal seleciona candidatos para Mediadores Pedagógicos EAD",
+      "url": "https://www.pebsp.com/instituto-federal-seleciona-candidatos-para-mediadores-pedagogicos-ead/",
+      "data": "Tue, 07 Jul 2026 17:45:26 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) publicou o Edital REI/IFPE nº 26/2026-GR, que abre processo seletivo simplificado para Mediador(a) Pedagógico(a) no Sistema U"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Fundação abre 300 Vagas em curso de extensão gratuito em Audiodescrição na Modalidade EAD",
+      "url": "https://www.pebsp.com/fundacao-cecierj-abre-300-vagas-em-curso-de-extensao-gratuito-em-audiodescricao-na-modalidade-ead-dcs/",
+      "data": "Tue, 07 Jul 2026 16:35:11 +0000",
+      "resumo": "A Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro (Cecierj) publicou o regulamento para o processo seletivo do seu novo Curso de Aperfeiçoamento e Extensão em A"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Doutorado gratuito pelo MEC em julho de 2026: veja como encontrar vagas",
+      "url": "https://conectaprofessores.com/2026/07/07/doutorado-gratuito-pelo-mec-em-julho-de-2026-veja-como-encontrar-vagas/",
+      "data": "Wed, 08 Jul 2026 02:24:26 +0000",
+      "resumo": "Professores podem se candidatar a doutorado gratuito pelo MEC, disponível em julho de 2026, através do Portal Formação. A plataforma facilita a busca por cursos de acordo com critérios como região e m"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre mais de 3 mil vagas para curso gratuito de Gestão Escolar em julho de 2026",
+      "url": "https://conectaprofessores.com/2026/07/07/mec-abre-mais-de-3-mil-vagas-para-curso-gratuito-de-gestao-escolar-em-julho-de-2026/",
+      "data": "Wed, 08 Jul 2026 01:52:55 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece, em julho de 2026, mais de 3 mil vagas para o curso online gratuito de Gestão Escolar, com carga horária de 80 horas. Destinado a profissionais da educação básic"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece 471 mil bolsas no Prouni 2026; veja como se inscrever",
+      "url": "https://conectaprofessores.com/2026/07/07/mec-oferece-471-mil-bolsas-no-prouni-2026-veja-como-se-inscrever/",
+      "data": "Wed, 08 Jul 2026 01:15:47 +0000",
+      "resumo": "O Ministério da Educação (MEC) abriu inscrições para o Programa Universidade para Todos (Prouni) com 471.304 bolsas disponíveis para o segundo semestre de 2026. As inscrições são gratuitas até 10 de j"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre dezenas de seleções de mestrado e doutorado com inscrições em julho de 2026",
+      "url": "https://conectaprofessores.com/2026/07/07/universidade-federal-abre-dezenas-de-selecoes-de-mestrado-e-doutorado-com-inscricoes-em-julho-de-2026/",
+      "data": "Tue, 07 Jul 2026 17:33:23 +0000",
+      "resumo": "A Universidade Federal de Pernambuco (UFPE) oferece diversos processos seletivos para mestrado e doutorado com inscrições abertas até 2026 em áreas como Educação, Direito, Comunicação e Gestão Pública"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre seleção para Mestrado e Doutorado em Relações Étnicas",
+      "url": "https://conectaprofessores.com/2026/07/07/universidade-abre-selecao-para-mestrado-e-doutorado-em-relacoes-etnicas/",
+      "data": "Tue, 07 Jul 2026 15:09:40 +0000",
+      "resumo": "A Uesb lançou o Edital nº 220/2026 para seleção de alunos para o Programa de Pós-Graduação em Relações Étnicas e Contemporaneidade, com inscrições de 3 de agosto a 4 de setembro de 2026. São oferecida"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal abre seleção para mediadores pedagógicos EaD com bolsa de R$ 1.100",
+      "url": "https://conectaprofessores.com/2026/07/07/instituto-federal-abre-selecao-para-mediadores-pedagogicos-ead-com-bolsa-de-r-1-100/",
+      "data": "Tue, 07 Jul 2026 14:09:32 +0000",
+      "resumo": "O Instituto Federal de Pernambuco lançou o Edital nº 26/2026 para selecionar mediadores pedagógicos da Educação a Distância, com inscrições de 7 a 21 de julho de 2026, oferecendo bolsa de R$ 1.100. A "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado e Doutorado em Educação da UFPE estão com inscrições abertas até julho",
+      "url": "https://conectaprofessores.com/2026/07/06/mestrado-e-doutorado-em-educacao-da-ufpe-estao-com-inscricoes-abertas-ate-julho/",
+      "data": "Tue, 07 Jul 2026 01:12:25 +0000",
+      "resumo": "A Universidade Federal de Pernambuco (UFPE) está com inscrições abertas para o Processo Seletivo 2027 do Programa de Pós-Graduação em Educação, oferecendo 54 vagas para Mestrado e 40 para Doutorado. A"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 150 vagas para especialização gratuita em Docência na Educação Infantil",
+      "url": "https://conectaprofessores.com/2026/07/06/universidade-abre-150-vagas-para-especializacao-gratuita-em-docencia-na-educacao-infantil/",
+      "data": "Mon, 06 Jul 2026 23:40:35 +0000",
+      "resumo": "A Universidade Estadual de Ponta Grossa (UEPG) oferece 150 vagas na Especialização em Docência na Educação Infantil, um curso gratuito em Educação a Distância. As inscrições vão até 15 de julho de 202"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "letras alfabeto para imprimir",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Letras alfabeto para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de letras alfabeto para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de letras alfabeto para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar letras alfabeto para imprimir em casa: guia passo a passo para pais e professores",
+          "Letras alfabeto para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em letras alfabeto para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que letras alfabeto para imprimir está entre as buscas mais quentes de pais e professores",
+          "Letras alfabeto para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Letras alfabeto para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras alfabeto para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "plantas folhagens",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de plantas folhagens para quem está começando do zero",
+          "20 erros em plantas folhagens que matam suas plantas (evite estes)",
+          "20 ideias de plantas folhagens baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer plantas folhagens em casa: passo a passo para iniciantes",
+          "Plantas folhagens: o guia definitivo para 2026",
+          "Tudo sobre plantas folhagens: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que plantas folhagens virou febre nas redes sociais",
+          "Plantas folhagens: a tendência que domina os jardins em 2026",
+          "Plantas folhagens em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'plantas folhagens' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "plantas trepadeiras",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de plantas trepadeiras para quem está começando do zero",
+          "20 erros em plantas trepadeiras que matam suas plantas (evite estes)",
+          "20 ideias de plantas trepadeiras baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer plantas trepadeiras em casa: passo a passo para iniciantes",
+          "Plantas trepadeiras: o guia definitivo para 2026",
+          "Tudo sobre plantas trepadeiras: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que plantas trepadeiras virou febre nas redes sociais",
+          "Plantas trepadeiras: a tendência que domina os jardins em 2026",
+          "Plantas trepadeiras em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'plantas trepadeiras' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "capa de portfólio educação infantil",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Capa de portfólio educação infantil para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de capa de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "20 recursos de capa de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar capa de portfólio educação infantil do zero: modelo completo e editável",
+          "Capa de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre capa de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que capa de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Capa de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Capa de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'capa de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "letras",
+      "score": 99.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Letras para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de letras por nível — do mais fácil ao mais avançado",
+          "20 fichas de letras alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar letras em casa: guia passo a passo para pais e professores",
+          "Letras: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em letras: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que letras está entre as buscas mais quentes de pais e professores",
+          "Letras em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Letras: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "letras para imprimir",
+      "score": 99.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Letras para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de letras para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de letras para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar letras para imprimir em casa: guia passo a passo para pais e professores",
+          "Letras para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em letras para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que letras para imprimir está entre as buscas mais quentes de pais e professores",
+          "Letras para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Letras para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "capa para portfólio educação infantil",
+      "score": 84.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Capa para portfólio educação infantil para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de capa para portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "20 recursos de capa para portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar capa para portfólio educação infantil do zero: modelo completo e editável",
+          "Capa para portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre capa para portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que capa para portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Capa para portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Capa para portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'capa para portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "cartão",
+      "score": 70.8,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de cartão para fazer em casa (com molde grátis)",
+          "20 modelos de cartão para imprimir e usar agora",
+          "20 inspirações de cartão que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer cartão: passo a passo fácil para iniciantes",
+          "Cartão: como criar em casa sem gastar muito",
+          "Tudo sobre cartão em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que cartão está entre as buscas mais quentes do Brasil",
+          "Cartão: as tendências que dominam em 2026",
+          "Cartão em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cartão' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "paisagismo",
+      "score": 70.2,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de paisagismo para quem está começando do zero",
+          "20 erros em paisagismo que matam suas plantas (evite estes)",
+          "20 ideias de paisagismo baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer paisagismo em casa: passo a passo para iniciantes",
+          "Paisagismo: o guia definitivo para 2026",
+          "Tudo sobre paisagismo: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que paisagismo virou febre nas redes sociais",
+          "Paisagismo: a tendência que domina os jardins em 2026",
+          "Paisagismo em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'paisagismo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "ficha do alfabeto para imprimir",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Ficha do alfabeto para imprimir para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de ficha do alfabeto para imprimir por nível — do mais fácil ao mais avançado",
+          "15 fichas de ficha do alfabeto para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar ficha do alfabeto para imprimir em casa: guia passo a passo para pais e professores",
+          "Ficha do alfabeto para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em ficha do alfabeto para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que ficha do alfabeto para imprimir está entre as buscas mais quentes de pais e professores",
+          "Ficha do alfabeto para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Ficha do alfabeto para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ficha do alfabeto para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "alfabeto cursivo para imprimir",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Alfabeto cursivo para imprimir para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de alfabeto cursivo para imprimir por nível — do mais fácil ao mais avançado",
+          "15 fichas de alfabeto cursivo para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar alfabeto cursivo para imprimir em casa: guia passo a passo para pais e professores",
+          "Alfabeto cursivo para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em alfabeto cursivo para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que alfabeto cursivo para imprimir está entre as buscas mais quentes de pais e professores",
+          "Alfabeto cursivo para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Alfabeto cursivo para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'alfabeto cursivo para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "folhagens para jardim externo",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 dicas de folhagens para jardim externo para quem está começando do zero",
+          "15 erros em folhagens para jardim externo que matam suas plantas (evite estes)",
+          "15 ideias de folhagens para jardim externo baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer folhagens para jardim externo em casa: passo a passo para iniciantes",
+          "Folhagens para jardim externo: o guia definitivo para 2026",
+          "Tudo sobre folhagens para jardim externo: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que folhagens para jardim externo virou febre nas redes sociais",
+          "Folhagens para jardim externo: a tendência que domina os jardins em 2026",
+          "Folhagens para jardim externo em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'folhagens para jardim externo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "trepadeiras jade",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 dicas de trepadeiras jade para quem está começando do zero",
+          "15 erros em trepadeiras jade que matam suas plantas (evite estes)",
+          "15 ideias de trepadeiras jade baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer trepadeiras jade em casa: passo a passo para iniciantes",
+          "Trepadeiras jade: o guia definitivo para 2026",
+          "Tudo sobre trepadeiras jade: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que trepadeiras jade virou febre nas redes sociais",
+          "Trepadeiras jade: a tendência que domina os jardins em 2026",
+          "Trepadeiras jade em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'trepadeiras jade' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "modelo de portfólio educação infantil",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Modelo de portfólio educação infantil para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de modelo de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "15 recursos de modelo de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar modelo de portfólio educação infantil do zero: modelo completo e editável",
+          "Modelo de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre modelo de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que modelo de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Modelo de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Modelo de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'modelo de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "modelos de portfólio educação infantil",
+      "score": 39.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Modelos de portfólio educação infantil para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de modelos de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "15 recursos de modelos de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar modelos de portfólio educação infantil do zero: modelo completo e editável",
+          "Modelos de portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre modelos de portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que modelos de portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Modelos de portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Modelos de portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'modelos de portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "queda de pelo cachorro",
+      "score": 32.3,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de queda de pelo cachorro",
+          "15 benefícios de queda de pelo cachorro que todo tutor deveria conhecer",
+          "15 dúvidas sobre queda de pelo cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar queda de pelo cachorro no seu cachorro: guia completo para tutores",
+          "Queda de pelo cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre queda de pelo cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que queda de pelo cachorro está entre as buscas mais quentes de tutores de pets",
+          "Queda de pelo cachorro: o que os veterinários estão recomendando em 2026",
+          "Queda de pelo cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'queda de pelo cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "portfólio educação infantil",
+      "score": 30.9,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Portfólio educação infantil para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "15 recursos de portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar portfólio educação infantil do zero: modelo completo e editável",
+          "Portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "cachorro sem apetite",
+      "score": 29.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de cachorro sem apetite",
+          "10 benefícios de cachorro sem apetite que todo tutor deveria conhecer",
+          "10 dúvidas sobre cachorro sem apetite respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar cachorro sem apetite no seu cachorro: guia completo para tutores",
+          "Cachorro sem apetite: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre cachorro sem apetite: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que cachorro sem apetite está entre as buscas mais quentes de tutores de pets",
+          "Cachorro sem apetite: o que os veterinários estão recomendando em 2026",
+          "Cachorro sem apetite em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cachorro sem apetite' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "ração natural para cachorro",
+      "score": 16.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de ração natural para cachorro",
+          "10 benefícios de ração natural para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre ração natural para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar ração natural para cachorro no seu cachorro: guia completo para tutores",
+          "Ração natural para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre ração natural para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que ração natural para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Ração natural para cachorro: o que os veterinários estão recomendando em 2026",
+          "Ração natural para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ração natural para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "tag",
+      "score": 11.4,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de tag para fazer em casa (com molde grátis)",
+          "10 modelos de tag para imprimir e usar agora",
+          "10 inspirações de tag que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer tag: passo a passo fácil para iniciantes",
+          "Tag: como criar em casa sem gastar muito",
+          "Tudo sobre tag em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que tag está entre as buscas mais quentes do Brasil",
+          "Tag: as tendências que dominam em 2026",
+          "Tag em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tag' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "displasia em cachorro",
+      "score": 10.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de displasia em cachorro",
+          "10 benefícios de displasia em cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre displasia em cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar displasia em cachorro no seu cachorro: guia completo para tutores",
+          "Displasia em cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre displasia em cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que displasia em cachorro está entre as buscas mais quentes de tutores de pets",
+          "Displasia em cachorro: o que os veterinários estão recomendando em 2026",
+          "Displasia em cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'displasia em cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "eva",
+      "score": 10.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de eva para fazer em casa (com molde grátis)",
+          "10 modelos de eva para imprimir e usar agora",
+          "10 inspirações de eva que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer eva: passo a passo fácil para iniciantes",
+          "Eva: como criar em casa sem gastar muito",
+          "Tudo sobre eva em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que eva está entre as buscas mais quentes do Brasil",
+          "Eva: as tendências que dominam em 2026",
+          "Eva em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'eva' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "proteína para cachorro",
+      "score": 6.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de proteína para cachorro",
+          "10 benefícios de proteína para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre proteína para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar proteína para cachorro no seu cachorro: guia completo para tutores",
+          "Proteína para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre proteína para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que proteína para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Proteína para cachorro: o que os veterinários estão recomendando em 2026",
+          "Proteína para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'proteína para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite",
+      "score": 3.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de enfeite para fazer em casa (com molde grátis)",
+          "10 modelos de enfeite para imprimir e usar agora",
+          "10 inspirações de enfeite que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite: passo a passo fácil para iniciantes",
+          "Enfeite: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite está entre as buscas mais quentes do Brasil",
+          "Enfeite: as tendências que dominam em 2026",
+          "Enfeite em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "feltro",
+      "score": 1.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de feltro para fazer em casa (com molde grátis)",
+          "10 modelos de feltro para imprimir e usar agora",
+          "10 inspirações de feltro que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer feltro: passo a passo fácil para iniciantes",
+          "Feltro: como criar em casa sem gastar muito",
+          "Tudo sobre feltro em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que feltro está entre as buscas mais quentes do Brasil",
+          "Feltro: as tendências que dominam em 2026",
+          "Feltro em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'feltro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    }
+  ]
+}
