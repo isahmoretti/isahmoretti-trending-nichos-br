@@ -1,0 +1,1319 @@
+{
+  "date": "2026-07-16",
+  "collected_at": "2026-07-16T11:25:10.006941",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "jardim",
+            "valor": 79.7
+          },
+          {
+            "termo": "flores",
+            "valor": 24.1
+          },
+          {
+            "termo": "horta",
+            "valor": 2.0
+          },
+          {
+            "termo": "vegetais",
+            "valor": 1.5
+          },
+          {
+            "termo": "o que plantar",
+            "valor": 1.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "imunidade cachorro",
+            "valor": 31.5
+          },
+          {
+            "termo": "articulação cachorro",
+            "valor": 6.2
+          },
+          {
+            "termo": "pelo bonito cachorro",
+            "valor": 1.5
+          },
+          {
+            "termo": "suplemento para cachorro vale a pena",
+            "valor": 0.0
+          },
+          {
+            "termo": "cachorro com diarreia crônica",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "diário de classe para imprimir",
+            "valor": 3.2
+          },
+          {
+            "termo": "boletim escolar para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "ficha de avaliação educação infantil",
+            "valor": 0.0
+          },
+          {
+            "termo": "plano de aula pronto para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "relatório descritivo do aluno",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "como brincar com bebê",
+            "valor": 19.4
+          },
+          {
+            "termo": "brinquedos educativos para crianças",
+            "valor": 15.2
+          },
+          {
+            "termo": "ansiedade em crianças",
+            "valor": 12.8
+          },
+          {
+            "termo": "criança hiperativa o que fazer",
+            "valor": 2.7
+          },
+          {
+            "termo": "método montessori",
+            "valor": 2.4
+          },
+          {
+            "termo": "birra infantil como lidar",
+            "valor": 0.0
+          },
+          {
+            "termo": "como colocar limites nos filhos",
+            "valor": 0.0
+          },
+          {
+            "termo": "choro excessivo bebê",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades montessori em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades para estimular criança em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "concurso prefeitura professor",
+            "valor": 37.2
+          },
+          {
+            "termo": "processo seletivo professor 2026",
+            "valor": 27.8
+          },
+          {
+            "termo": "formação continuada professores",
+            "valor": 24.3
+          },
+          {
+            "termo": "concurso professor educação infantil",
+            "valor": 18.0
+          },
+          {
+            "termo": "edital concurso professor 2026",
+            "valor": 10.9
+          },
+          {
+            "termo": "concurso público professor 2026",
+            "valor": 5.4
+          },
+          {
+            "termo": "apostila concurso professor",
+            "valor": 5.3
+          },
+          {
+            "termo": "especialização EAD gratuita pedagogia",
+            "valor": 3.2
+          },
+          {
+            "termo": "concurso professor municipal 2026",
+            "valor": 1.1
+          },
+          {
+            "termo": "como passar em concurso de professor",
+            "valor": 0.6
+          },
+          {
+            "termo": "questões de concurso professor pedagogia",
+            "valor": 0.0
+          },
+          {
+            "termo": "simulado concurso professor pedagogia",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso EAD gratuito para professores",
+            "valor": 0.0
+          },
+          {
+            "termo": "especialização gratuita para professores",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso gratuito com certificado para professores",
+            "valor": 0.0
+          },
+          {
+            "termo": "pós-graduação gratuita para professores",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso de psicopedagogia gratuito",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso de especialização em educação infantil",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso livre para professores online",
+            "valor": 0.0
+          },
+          {
+            "termo": "como obter certificado horas complementares",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam hoje as inscrições para as 400 vagas da especialização gratuita 100% online da UFRRJ",
+      "url": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-400-vagas-da-especializacao-gratuita-100-online-da-ufrrj/",
+      "data": "Wed, 15 Jul 2026 18:47:49 +0000",
+      "resumo": "A Universidade Federal Rural do Rio de Janeiro (UFRRJ) abriu 400 vagas na especialização gratuita 100% online em Gestão Estratégica The post Começam hoje as inscrições para as 400 vagas da especializa"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito e 100% de Coreano abre inscrições e oferece certificado",
+      "url": "https://infoeducacao.com.br/curso-gratuito-e-100-de-coreano-abre-inscricoes-e-oferece-certificado/",
+      "data": "Wed, 15 Jul 2026 15:53:32 +0000",
+      "resumo": "A Kultivi está recebendo inscrições para o curso gratuito e 100% de Coreano. Com carga horária de 12 horas, disponibiliza The post Curso gratuito e 100% de Coreano abre inscrições e oferece certificad"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para 3 cursos gratuitos online de Educação Infantil com certificado",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-3-cursos-gratuitos-online-de-educacao-infantil-com-certificado/",
+      "data": "Wed, 15 Jul 2026 15:25:23 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) abriu vagas em três cursos gratuitos The post Inscrições abertas para 3 cursos gratuitos online de Educação Infantil c"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Cecierj abre 7 mil vagas em cursos gratuitos a distância de qualificação profissional",
+      "url": "https://infoeducacao.com.br/cecierj-abre-7-mil-vagas-em-cursos-gratuitos-a-distancia-de-qualificacao-profissional/",
+      "data": "Wed, 15 Jul 2026 13:44:13 +0000",
+      "resumo": "A Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro – Fundação Cecierj abriu The post Cecierj abre 7 mil vagas em cursos gratuitos a distância de qualificação pro"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso online gratuito da USP, sobre Storytelling que Vende, abre 8 mil vagas",
+      "url": "https://infoeducacao.com.br/curso-online-gratuito-da-usp-sobre-storytelling-que-vende-abre-8-mil-vagas/",
+      "data": "Wed, 15 Jul 2026 11:00:12 +0000",
+      "resumo": "A Escola Superior de Agricultura &#8220;Luiz de Queiroz&#8221;, da Universidade de São Paulo (USP), está recebendo inscrições de interessados em The post Curso online gratuito da USP, sobre Storytelli"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "USP abre 1500 vagas em curso gratuito online de Psicologia Anomalística",
+      "url": "https://infoeducacao.com.br/usp-abre-1500-vagas-em-curso-gratuito-online-de-psicologia-anomalistica/",
+      "data": "Wed, 15 Jul 2026 10:05:10 +0000",
+      "resumo": "Estão abertas as inscrições para o curso gratuito e totalmente online de de Introdução à Psicologia Anomalística: As Experiências Anômalas The post USP abre 1500 vagas em curso gratuito online de Psic"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 18/07 as inscrições para a especialização gratuita a distância em Educação Especial Inclusiva",
+      "url": "https://infoeducacao.com.br/terminam-em-18-07-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-educacao-especial-inclusiva/",
+      "data": "Wed, 15 Jul 2026 09:36:39 +0000",
+      "resumo": "A Universidade Federal da Bahia &#8211; UFBA está selecionando alunos para o curso de pós- graduação Lato Sensu de especialização The post Terminam em 18/07 as inscrições para a especialização gratuit"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam em 10/08 as inscrições para a especialização gratuita em Gestão de Projetos Ambientais 2027",
+      "url": "https://infoeducacao.com.br/comecam-em-10-08-as-inscricoes-para-a-especializacao-gratuita-em-gestao-de-projetos-ambientais-2027/",
+      "data": "Wed, 15 Jul 2026 09:21:08 +0000",
+      "resumo": "O campus Nilópolis, do Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro – IFRJ, está selecionando alunos The post Começam em 10/08 as inscrições para a especialização gratuita em "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Universidade Federal abre dezenas de vagas em cursos de graduação gratuitos com seleção sem provas",
+      "url": "https://www.pebsp.com/universidade-federal-abre-dezenas-de-vagas-em-cursos-de-graduacao-gratuitos-com-selecao-sem-provas-dcs/",
+      "data": "Thu, 16 Jul 2026 12:00:39 +0000",
+      "resumo": "A Universidade Federal de Rondonópolis (UFR) anunciou a abertura de um novo processo seletivo para o preenchimento de 275 vagas ociosas em seus cursos de graduação. O processo é regido pelo Edital PRO"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP lança 700 vagas em cursos de extensão gratuitos de Apoio Escolar, Educação Inclusiva e Competência Socioemocionais",
+      "url": "https://www.pebsp.com/ifsp-lanca-700-vagas-em-cursos-de-extensao-gratuitos-de-apoio-escolar-educacao-inclusiva-e-competencia-socioemocionais-dcs/",
+      "data": "Thu, 16 Jul 2026 08:00:32 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), por meio do seu Campus Diadema, está com inscrições abertas para o Edital nº 7/2026, que oferece 700 vagas gratuitas voltadas"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Oportunidade de cursos de extensão gratuitos e EAD da Fundação CECIERJ está com inscrições abertas",
+      "url": "https://www.pebsp.com/oportunidade-de-cursos-de-extensao-gratuitos-e-ead-da-fundacao-cecierj-esta-com-inscricoes-abertas-dcs/",
+      "data": "Thu, 16 Jul 2026 06:03:35 +0000",
+      "resumo": "A Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro (Fundação Cecierj) anunciou a abertura do processo seletivo para cursos de extensão gratuitos de Qualificação "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFPI lança edital de ingresso no Curso Técnico em Administração gratuito com seleção por Histórico Escolar",
+      "url": "https://www.pebsp.com/ifpi-lanca-edital-de-ingresso-no-curso-tecnico-em-administracao-gratuito-com-selecao-por-historico-escolar/",
+      "data": "Wed, 15 Jul 2026 23:40:39 +0000",
+      "resumo": "O Instituto Federal do Piauí (IFPI), por meio da Diretoria Geral do Campus Parnaíba, anunciou a abertura de um novo processo seletivo simplificado para preenchimento de 40 vagas imediatas no curso Téc"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Nova lei torna obrigatória a Educação Política em todas as etapas da educação básica",
+      "url": "https://www.pebsp.com/nova-lei-torna-obrigatoria-a-educacao-politica-em-todas-as-etapas-da-educacao-basica/",
+      "data": "Wed, 15 Jul 2026 23:33:26 +0000",
+      "resumo": "Uma nova lei federal torna obrigatória a inclusão de conteúdos sobre educação política e direitos da cidadania no currículo da educação básica em todo o Brasil. A Lei nº 15.468/2026 foi sancionada sem"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Cursos gratuitos do IFSP em São Paulo: 2 encerram inscrições em poucos dias, veja quais",
+      "url": "https://www.pebsp.com/ifsp-cursos-gratuitos-prazo-inscricao-sao-paulo/",
+      "data": "Wed, 15 Jul 2026 22:15:41 +0000",
+      "resumo": "Refrigeração e Climatização e Técnicas de Serviço de Garçom, do IFSP, encerram inscrições em 21/07. Veja o prazo de cada um dos 10 cursos gratuitos. O post Cursos gratuitos do IFSP em São Paulo: 2 enc"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP Catanduva abre 40 vagas em curso gratuito de Educação Financeira; inscrições vão até 2 de agosto",
+      "url": "https://www.pebsp.com/ifsp-catanduva-abre-40-vagas-em-curso-gratuito-de-educacao-financeira-inscricoes-vao-ate-2-de-agosto/",
+      "data": "Wed, 15 Jul 2026 21:45:46 +0000",
+      "resumo": "IFSP Campus Catanduva abre 40 vagas para curso gratuito e presencial de Introducao a Educacao Financeira, com inscricoes ate 2 de agosto de 2026. O post IFSP Catanduva abre 40 vagas em curso gratuito "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Filtro de carvão feito com planta do semiárido rende US$ 5 mil a estudantes do Ceará na maior feira de ciências do mundo",
+      "url": "https://www.pebsp.com/filtro-de-carvao-feito-com-planta-do-semiarido-rende-us-5-mil-a-estudantes-do-ceara-na-maior-feira-de-ciencias-do-mundo/",
+      "data": "Wed, 15 Jul 2026 21:11:50 +0000",
+      "resumo": "Estudantes da Escola Estadual Antonio Rodrigues de Oliveira, em Pedra Branca (CE), venceram categoria da Regeneron ISEF 2023 com filtro de água feito de jurema-preta. O post Filtro de carvão feito com"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre inscrições para curso gratuito de 360 horas para professores dos anos iniciais com certificado",
+      "url": "https://conectaprofessores.com/2026/07/15/mec-abre-inscricoes-para-curso-gratuito-de-360-horas-para-professores-dos-anos-iniciais-com-certificado/",
+      "data": "Thu, 16 Jul 2026 01:50:51 +0000",
+      "resumo": "O Ministério da Educação (MEC) disponibiliza 2 mil vagas para o curso gratuito online “Formação de Professores dos Anos Iniciais do Ensino Fundamental”, com 360 horas de carga horária. Destinado a doc"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre seleção para especialização gratuita em Biologia e Química no IFRJ",
+      "url": "https://conectaprofessores.com/2026/07/15/mec-abre-selecao-para-especializacao-gratuita-em-biologia-e-quimica-no-ifrj/",
+      "data": "Thu, 16 Jul 2026 01:04:35 +0000",
+      "resumo": "O Instituto Federal do Rio de Janeiro (IFRJ) anunciou o Edital nº 48/2026 para uma Especialização gratuita em Ensino de Ciências, com foco em Biologia e Química. O curso será presencial, com 390 horas"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal abre inscrições para 6 cursos gratuitos online de Educação Infantil com certificado",
+      "url": "https://conectaprofessores.com/2026/07/15/instituto-federal-abre-inscricoes-para-6-cursos-gratuitos-online-de-educacao-infantil-com-certificado/",
+      "data": "Wed, 15 Jul 2026 23:19:35 +0000",
+      "resumo": "O Instituto Federal do Rio Grande do Sul (IFRS) oferece seis cursos online gratuitos na área de Educação Infantil para o segundo semestre de 2026. As formações abrangem temas como cuidado, desenvolvim"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece especialização gratuita em Educação e Diversidade pelo IFRJ",
+      "url": "https://conectaprofessores.com/2026/07/15/mec-oferece-especializacao-gratuita-em-educacao-e-diversidade-pelo-ifrj/",
+      "data": "Wed, 15 Jul 2026 22:25:18 +0000",
+      "resumo": "O IFRJ publicou o Edital nº 46/2026 para a Especialização em Educação e Diversidade, com início em 2027. O curso gratuito, em modalidade híbrida, visa qualificar profissionais em inclusão e diversidad"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre inscrições para formação em neurociência voltada à prática pedagógica",
+      "url": "https://conectaprofessores.com/2026/07/15/mec-abre-inscricoes-para-formacao-em-neurociencia-voltada-a-pratica-pedagogica/",
+      "data": "Wed, 15 Jul 2026 15:27:41 +0000",
+      "resumo": "O MEC oferece 3 mil vagas para o curso gratuito de Formação de Professores em Neuroeducação, voltado a educadores da educação básica. Com 200 horas de carga horária, o curso é online e autodirigido, a"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre seleção para Mestrado em Letras com 36 vagas; inscrições seguem até 12 de agosto",
+      "url": "https://conectaprofessores.com/2026/07/15/universidade-federal-abre-selecao-para-mestrado-em-letras-com-36-vagas-inscricoes-seguem-ate-12-de-agosto/",
+      "data": "Wed, 15 Jul 2026 14:37:55 +0000",
+      "resumo": "A UFMA está com inscrições abertas para o Mestrado Acadêmico em Letras, com 36 vagas disponíveis, de 13 de julho a 12 de agosto de 2026. O processo seletivo inclui prova escrita, defesa de projeto e a"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre seleção para tutores e mediadores pedagógicos da UAB com bolsa de R$ 1.100; inscrições até 17 de julho",
+      "url": "https://conectaprofessores.com/2026/07/14/universidade-federal-abre-selecao-para-tutores-e-mediadores-pedagogicos-da-uab-com-bolsa-de-r-1-100-inscricoes-ate-17-de-julho/",
+      "data": "Tue, 14 Jul 2026 22:56:10 +0000",
+      "resumo": "A Universidade Federal de Pelotas abriu inscrições para seleção de tutores e mediadores pedagógicos para o Curso de Especialização em Gestão Pública a distância. As inscrições ocorrem de 3 a 17 de jul"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC lança especializações em Educação das Relações Étnico-Raciais e Práticas Musicais no Colégio Pedro II",
+      "url": "https://conectaprofessores.com/2026/07/14/mec-lanca-especializacoes-em-educacao-das-relacoes-etnico-raciais-e-praticas-musicais-no-colegio-pedro-ii/",
+      "data": "Tue, 14 Jul 2026 22:16:34 +0000",
+      "resumo": "O Ministério da Educação abriu o edital nº 37/2026 para selecionar 50 vagas nas especializações em Educação das Relações Étnico-Raciais e Práticas Musicais, com início em 2027. Os cursos oferecem form"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "jardim",
+      "score": 79.7,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de jardim para quem está começando do zero",
+          "20 erros em jardim que matam suas plantas (evite estes)",
+          "20 ideias de jardim baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer jardim em casa: passo a passo para iniciantes",
+          "Jardim: o guia definitivo para 2026",
+          "Tudo sobre jardim: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que jardim virou febre nas redes sociais",
+          "Jardim: a tendência que domina os jardins em 2026",
+          "Jardim em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'jardim' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "concurso prefeitura professor",
+      "score": 37.2,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Concurso prefeitura professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em concurso prefeitura professor está movimentando educadores em 2026",
+          "Concurso prefeitura professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "Concurso prefeitura professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'concurso prefeitura professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "imunidade cachorro",
+      "score": 31.5,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de imunidade cachorro",
+          "15 benefícios de imunidade cachorro que todo tutor deveria conhecer",
+          "15 dúvidas sobre imunidade cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar imunidade cachorro no seu cachorro: guia completo para tutores",
+          "Imunidade cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre imunidade cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que imunidade cachorro está entre as buscas mais quentes de tutores de pets",
+          "Imunidade cachorro: o que os veterinários estão recomendando em 2026",
+          "Imunidade cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'imunidade cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "processo seletivo professor 2026",
+      "score": 27.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Processo seletivo professor 2026: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em processo seletivo professor 2026 está movimentando educadores em 2026",
+          "Processo seletivo professor 2026: edital aberto e o que você precisa saber antes de se inscrever",
+          "Processo seletivo professor 2026 em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'processo seletivo professor 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "formação continuada professores",
+      "score": 24.3,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Formação continuada professores: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em formação continuada professores está movimentando educadores em 2026",
+          "Formação continuada professores: edital aberto e o que você precisa saber antes de se inscrever",
+          "Formação continuada professores em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'formação continuada professores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "flores",
+      "score": 24.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de flores para quem está começando do zero",
+          "10 erros em flores que matam suas plantas (evite estes)",
+          "10 ideias de flores baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer flores em casa: passo a passo para iniciantes",
+          "Flores: o guia definitivo para 2026",
+          "Tudo sobre flores: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que flores virou febre nas redes sociais",
+          "Flores: a tendência que domina os jardins em 2026",
+          "Flores em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'flores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "como brincar com bebê",
+      "score": 19.4,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de como brincar com bebê que todo pai precisa conhecer",
+          "10 atividades para estimular como brincar com bebê em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com como brincar com bebê a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com como brincar com bebê: guia completo para pais",
+          "Como brincar com bebê: o que é, como identificar e o que fazer em 2026",
+          "Como estimular como brincar com bebê no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre como brincar com bebê",
+          "Como brincar com bebê: o que as pesquisas mais recentes dizem em 2026",
+          "Como brincar com bebê em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como brincar com bebê' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "concurso professor educação infantil",
+      "score": 18.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Concurso professor educação infantil: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em concurso professor educação infantil está movimentando educadores em 2026",
+          "Concurso professor educação infantil: edital aberto e o que você precisa saber antes de se inscrever",
+          "Concurso professor educação infantil em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'concurso professor educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "brinquedos educativos para crianças",
+      "score": 15.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de brinquedos educativos para crianças que todo pai precisa conhecer",
+          "10 atividades para estimular brinquedos educativos para crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com brinquedos educativos para crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com brinquedos educativos para crianças: guia completo para pais",
+          "Brinquedos educativos para crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular brinquedos educativos para crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre brinquedos educativos para crianças",
+          "Brinquedos educativos para crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Brinquedos educativos para crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'brinquedos educativos para crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "ansiedade em crianças",
+      "score": 12.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de ansiedade em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular ansiedade em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com ansiedade em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com ansiedade em crianças: guia completo para pais",
+          "Ansiedade em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular ansiedade em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre ansiedade em crianças",
+          "Ansiedade em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Ansiedade em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ansiedade em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "edital concurso professor 2026",
+      "score": 10.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Edital concurso professor 2026: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em edital concurso professor 2026 está movimentando educadores em 2026",
+          "Edital concurso professor 2026: edital aberto e o que você precisa saber antes de se inscrever",
+          "Edital concurso professor 2026 em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'edital concurso professor 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "articulação cachorro",
+      "score": 6.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de articulação cachorro",
+          "10 benefícios de articulação cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre articulação cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar articulação cachorro no seu cachorro: guia completo para tutores",
+          "Articulação cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre articulação cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que articulação cachorro está entre as buscas mais quentes de tutores de pets",
+          "Articulação cachorro: o que os veterinários estão recomendando em 2026",
+          "Articulação cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'articulação cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "diário de classe para imprimir",
+      "score": 3.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Diário de classe para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de diário de classe para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de diário de classe para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar diário de classe para imprimir do zero: modelo completo e editável",
+          "Diário de classe para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre diário de classe para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que diário de classe para imprimir está entre os materiais mais baixados por educadores",
+          "Diário de classe para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Diário de classe para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'diário de classe para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "criança hiperativa o que fazer",
+      "score": 2.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de criança hiperativa o que fazer que todo pai precisa conhecer",
+          "10 atividades para estimular criança hiperativa o que fazer em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com criança hiperativa o que fazer a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com criança hiperativa o que fazer: guia completo para pais",
+          "Criança hiperativa o que fazer: o que é, como identificar e o que fazer em 2026",
+          "Como estimular criança hiperativa o que fazer no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre criança hiperativa o que fazer",
+          "Criança hiperativa o que fazer: o que as pesquisas mais recentes dizem em 2026",
+          "Criança hiperativa o que fazer em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'criança hiperativa o que fazer' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "método montessori",
+      "score": 2.4,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de método montessori que todo pai precisa conhecer",
+          "10 atividades para estimular método montessori em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com método montessori a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com método montessori: guia completo para pais",
+          "Método montessori: o que é, como identificar e o que fazer em 2026",
+          "Como estimular método montessori no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre método montessori",
+          "Método montessori: o que as pesquisas mais recentes dizem em 2026",
+          "Método montessori em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'método montessori' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "horta",
+      "score": 2.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de horta para quem está começando do zero",
+          "10 erros em horta que matam suas plantas (evite estes)",
+          "10 ideias de horta baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer horta em casa: passo a passo para iniciantes",
+          "Horta: o guia definitivo para 2026",
+          "Tudo sobre horta: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que horta virou febre nas redes sociais",
+          "Horta: a tendência que domina os jardins em 2026",
+          "Horta em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'horta' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "vegetais",
+      "score": 1.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de vegetais para quem está começando do zero",
+          "10 erros em vegetais que matam suas plantas (evite estes)",
+          "10 ideias de vegetais baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer vegetais em casa: passo a passo para iniciantes",
+          "Vegetais: o guia definitivo para 2026",
+          "Tudo sobre vegetais: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que vegetais virou febre nas redes sociais",
+          "Vegetais: a tendência que domina os jardins em 2026",
+          "Vegetais em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'vegetais' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "pelo bonito cachorro",
+      "score": 1.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de pelo bonito cachorro",
+          "10 benefícios de pelo bonito cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre pelo bonito cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar pelo bonito cachorro no seu cachorro: guia completo para tutores",
+          "Pelo bonito cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre pelo bonito cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que pelo bonito cachorro está entre as buscas mais quentes de tutores de pets",
+          "Pelo bonito cachorro: o que os veterinários estão recomendando em 2026",
+          "Pelo bonito cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'pelo bonito cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "o que plantar",
+      "score": 1.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de o que plantar para quem está começando do zero",
+          "10 erros em o que plantar que matam suas plantas (evite estes)",
+          "10 ideias de o que plantar baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer o que plantar em casa: passo a passo para iniciantes",
+          "O que plantar: o guia definitivo para 2026",
+          "Tudo sobre o que plantar: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que o que plantar virou febre nas redes sociais",
+          "O que plantar: a tendência que domina os jardins em 2026",
+          "O que plantar em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'o que plantar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "suplemento para cachorro vale a pena",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de suplemento para cachorro vale a pena",
+          "10 benefícios de suplemento para cachorro vale a pena que todo tutor deveria conhecer",
+          "10 dúvidas sobre suplemento para cachorro vale a pena respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar suplemento para cachorro vale a pena no seu cachorro: guia completo para tutores",
+          "Suplemento para cachorro vale a pena: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre suplemento para cachorro vale a pena: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que suplemento para cachorro vale a pena está entre as buscas mais quentes de tutores de pets",
+          "Suplemento para cachorro vale a pena: o que os veterinários estão recomendando em 2026",
+          "Suplemento para cachorro vale a pena em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'suplemento para cachorro vale a pena' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "cachorro com diarreia crônica",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de cachorro com diarreia crônica",
+          "10 benefícios de cachorro com diarreia crônica que todo tutor deveria conhecer",
+          "10 dúvidas sobre cachorro com diarreia crônica respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar cachorro com diarreia crônica no seu cachorro: guia completo para tutores",
+          "Cachorro com diarreia crônica: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre cachorro com diarreia crônica: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que cachorro com diarreia crônica está entre as buscas mais quentes de tutores de pets",
+          "Cachorro com diarreia crônica: o que os veterinários estão recomendando em 2026",
+          "Cachorro com diarreia crônica em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cachorro com diarreia crônica' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "boletim escolar para imprimir",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Boletim escolar para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de boletim escolar para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de boletim escolar para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar boletim escolar para imprimir do zero: modelo completo e editável",
+          "Boletim escolar para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre boletim escolar para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que boletim escolar para imprimir está entre os materiais mais baixados por educadores",
+          "Boletim escolar para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Boletim escolar para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'boletim escolar para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "ficha de avaliação educação infantil",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Ficha de avaliação educação infantil para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de ficha de avaliação educação infantil por ano escolar — do 1° ao 5° ano",
+          "10 recursos de ficha de avaliação educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar ficha de avaliação educação infantil do zero: modelo completo e editável",
+          "Ficha de avaliação educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre ficha de avaliação educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que ficha de avaliação educação infantil está entre os materiais mais baixados por educadores",
+          "Ficha de avaliação educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Ficha de avaliação educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ficha de avaliação educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "plano de aula pronto para imprimir",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Plano de aula pronto para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de plano de aula pronto para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de plano de aula pronto para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar plano de aula pronto para imprimir do zero: modelo completo e editável",
+          "Plano de aula pronto para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre plano de aula pronto para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que plano de aula pronto para imprimir está entre os materiais mais baixados por educadores",
+          "Plano de aula pronto para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Plano de aula pronto para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'plano de aula pronto para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "relatório descritivo do aluno",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Relatório descritivo do aluno para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de relatório descritivo do aluno por ano escolar — do 1° ao 5° ano",
+          "10 recursos de relatório descritivo do aluno que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar relatório descritivo do aluno do zero: modelo completo e editável",
+          "Relatório descritivo do aluno: passo a passo para professores e coordenadores",
+          "Tudo sobre relatório descritivo do aluno em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que relatório descritivo do aluno está entre os materiais mais baixados por educadores",
+          "Relatório descritivo do aluno: o recurso que escolas inteiras adotaram em 2026",
+          "Relatório descritivo do aluno em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'relatório descritivo do aluno' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    }
+  ]
+}
