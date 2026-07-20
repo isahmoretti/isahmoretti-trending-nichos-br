@@ -1,0 +1,475 @@
+{
+  "date": "2026-07-20",
+  "collected_at": "2026-07-20T12:07:29.744270",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "formação continuada professores",
+            "valor": 32.8
+          },
+          {
+            "termo": "curso de psicopedagogia gratuito",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso de especialização em educação infantil",
+            "valor": 0.0
+          },
+          {
+            "termo": "curso livre para professores online",
+            "valor": 0.0
+          },
+          {
+            "termo": "como obter certificado horas complementares",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "FAETEC abre 15 mil vagas em cursos gratuitos online com certificado",
+      "url": "https://infoeducacao.com.br/faetec-abre-15-mil-vagas-em-cursos-gratuitos-online-com-certificado/",
+      "data": "Mon, 20 Jul 2026 12:01:56 +0000",
+      "resumo": "A Fundação de Apoio à Escola Técnica &#8211; FAETEC, vinculada à Secretária de Ciência, Tecnologia e Inovação do Estado do The post FAETEC abre 15 mil vagas em cursos gratuitos online com certificado "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para os cursos de extensão gratuitos online do IFSP",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-os-cursos-de-extensao-gratuitos-online-do-ifsp/",
+      "data": "Mon, 20 Jul 2026 11:08:49 +0000",
+      "resumo": "O Campus Capivari, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), está selecionando alunos para os The post Inscrições abertas para os cursos de extensão gratuitos online "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UERGS abre vagas em especialização gratuita para graduados em qualquer área",
+      "url": "https://infoeducacao.com.br/uergs-abre-vagas-em-especializacao-gratuita-para-graduados-em-qualquer-area/",
+      "data": "Mon, 20 Jul 2026 10:48:44 +0000",
+      "resumo": "Já estão abertas as inscrições para o processo seletivo da Universidade Estadual do Rio Grande do Sul (UERGS), que visa The post UERGS abre vagas em especialização gratuita para graduados em qualquer "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Especialização gratuita em Biotecnologia abre vagas para o segundo semestre",
+      "url": "https://infoeducacao.com.br/especializacao-gratuita-em-biotecnologia-abre-vagas-para-o-segundo-semestre/",
+      "data": "Mon, 20 Jul 2026 10:22:34 +0000",
+      "resumo": "A Universidade Estadual do Rio Grande do Sul (UERGS) está selecionando 30 alunos para a especialização gratuita em Biotecnologia, que The post Especialização gratuita em Biotecnologia abre vagas para "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Especialização gratuita em Automação Industrial e Robótica abre vagas para o ano que vem",
+      "url": "https://infoeducacao.com.br/especializacao-gratuita-em-automacao-industrial-e-robotica-abre-vagas-para-o-ano-que-vem/",
+      "data": "Mon, 20 Jul 2026 07:15:53 +0000",
+      "resumo": "Serão ofertadas 24 vagas na especialização gratuita em Automação Industrial e Robótica, que será ofertada pelo &#8211; Campus Volta Redonda The post Especialização gratuita em Automação Industrial e R"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Fundação SOS Mata Atlântica abre inscrições para curso gratuito e 100% online",
+      "url": "https://infoeducacao.com.br/fundacao-sos-mata-atlantica-para-curso-gratuito-e-100-online/",
+      "data": "Sun, 19 Jul 2026 14:58:21 +0000",
+      "resumo": "A Fundação SOS Mata Atlântica está recebendo inscrições de pessoas interessadas em participar do curso gratuito e 100% online denominado The post Fundação SOS Mata Atlântica abre inscrições para curso"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Mestrado em Educação, com área de concentração em Formação de Professores, abre 13 vagas",
+      "url": "https://infoeducacao.com.br/mestrado-em-educacao-com-area-de-concentracao-em-formacao-de-professores-abre-13-vagas/",
+      "data": "Sun, 19 Jul 2026 09:42:05 +0000",
+      "resumo": "A Universidade Estadual do Ceará – UECE está selecionando alunos para o mestrado acadêmico em Educação, com área de concentração The post Mestrado em Educação, com área de concentração em Formação de "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Especialização presencial gratuita em Sistemas Fotovoltaicos abre vagas para 2027",
+      "url": "https://infoeducacao.com.br/especializacao-presencial-gratuita-em-sistemas-fotovoltaicos-abre-vagas-para-2027/",
+      "data": "Sun, 19 Jul 2026 06:53:40 +0000",
+      "resumo": "Ficarão abertas, de 10/08 a 11/09/2026, as inscrições para o processo seletivo da especialização presencial gratuita em Sistemas Fotovoltaicos 2027, The post Especialização presencial gratuita em Sist"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Brasil conquista oito prêmios na ISEF 2026, maior feira de ciências pré-universitária do mundo",
+      "url": "https://www.pebsp.com/brasil-conquista-oito-premios-na-isef-2026-maior-feira-de-ciencias-pre-universitaria-do-mundo/",
+      "data": "Mon, 20 Jul 2026 11:45:45 +0000",
+      "resumo": "Brasil conquista 8 prêmios na ISEF 2026; estudantes brasileiros ganham em categorias de ciências, engenharia e inteligência artificial. O post Brasil conquista oito prêmios na ISEF 2026, maior feira d"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "3 especializações EAD abertas: UFRRJ e UTFPR somam 718 vagas; uma encerra hoje",
+      "url": "https://www.pebsp.com/3-especializacoes-ead-abertas-ufrrj-e-utfpr-somam-718-vagas-uma-encerra-hoje/",
+      "data": "Mon, 20 Jul 2026 09:38:18 +0000",
+      "resumo": "Compare 3 especializações EAD e semipresenciais com 718 vagas abertas em Gestão do Conhecimento, Ensino de Ciências e Gestão Escolar; inscrições até 20 de julho de 2026. O post 3 especializações EAD a"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "2 Universidades Federais abrem 568 Vagas em Especializações EAD na área de Gestão",
+      "url": "https://www.pebsp.com/ufrrj-e-utfpr-abrem-568-vagas-em-especializacoes-ead-na-area-de-gestao/",
+      "data": "Mon, 20 Jul 2026 08:45:26 +0000",
+      "resumo": "UFRRJ e UTFPR somam 568 vagas em especializações EAD na área de Gestão, com inscrições até 5 e 10 de agosto de 2026. O post 2 Universidades Federais abrem 568 Vagas em Especializações EAD na área de G"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFMG Ibirité abre 60 vagas em cursos técnicos gratuitos com bolsa de até R$ 858 pelo Programa Autonomia e Renda Petrobras",
+      "url": "https://www.pebsp.com/ifmg-ibirite-abre-60-vagas-em-cursos-tecnicos-gratuitos-com-bolsa-de-ate-r-858-pelo-programa-autonomia-e-renda-petrobras/",
+      "data": "Mon, 20 Jul 2026 06:15:26 +0000",
+      "resumo": "IFMG Ibirité abre 60 vagas em cursos técnicos gratuitos de Automação Industrial e Eletrotécnica, com bolsa de até R$ 858 da Petrobras. Inscrições até 22/07. O post IFMG Ibirité abre 60 vagas em cursos"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFRRJ abre 150 vagas em Especialização EAD em Ensino de Ciências para professores da rede pública",
+      "url": "https://www.pebsp.com/ufrrj-abre-150-vagas-em-especializacao-ead-em-ensino-de-ciencias-para-professores-da-rede-publica/",
+      "data": "Mon, 20 Jul 2026 04:01:44 +0000",
+      "resumo": "UFRRJ abre 150 vagas na Especialização EAD em Ensino de Ciências para professores da rede pública. Inscrições vão até 20 de julho de 2026. O post UFRRJ abre 150 vagas em Especialização EAD em Ensino d"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Colégio Pedro II do MEC abre inscrições para 7 Especializações a partir desta segunda",
+      "url": "https://www.pebsp.com/colegio-pedro-ii-do-mec-abre-inscricoes-para-7-especializacoes-a-partir-desta-segunda-dcs/",
+      "data": "Sun, 19 Jul 2026 23:58:37 +0000",
+      "resumo": "O Colégio Pedro II lançou o Edital nº 36/2026 &#8211; PROPGPEC, abrindo o processo seletivo para os cursos de pós-graduação lato sensu (Especialização) em educação com ingresso no primeiro semestre de"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFRJ publica Edital para especialização gratuita em Neuroeducação com ingresso em 2027",
+      "url": "https://www.pebsp.com/ifrj-publica-edital-para-especializacao-gratuita-em-neuroeducacao-com-ingresso-em-2027/",
+      "data": "Sun, 19 Jul 2026 23:45:49 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) publicou o Edital nº 38/2026, abrindo processo seletivo para o Curso de Especialização em Neuroeducação, com ingresso pre"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP e UFRRJ Somam 167 Vagas em Especializações Gratuitas com Inscrições até 20 de Julho",
+      "url": "https://www.pebsp.com/ifsp-e-ufrrj-somam-167-vagas-em-especializacoes-gratuitas-com-inscricoes-ate-20-de-julho/",
+      "data": "Sun, 19 Jul 2026 17:03:42 +0000",
+      "resumo": "IFSP e UFRRJ abrem juntos 167 vagas em especializações gratuitas de Educação e Ciências. Inscrições terminam nesta segunda, dia 20/07. Confira os editais. O post IFSP e UFRRJ Somam 167 Vagas em Especi"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrados Gratuitos pelo MEC 2026: Saiba Como Encontrar as Vagas",
+      "url": "https://conectaprofessores.com/2026/07/19/mestrados-gratuitos-pelo-mec-2026-saiba-como-encontrar-as-vagas/",
+      "data": "Mon, 20 Jul 2026 02:14:43 +0000",
+      "resumo": "Professores e profissionais da educação podem consultar mestrados gratuitos no Portal Formação do MEC, que reúne oportunidades de várias instituições. O portal facilita a localização de cursos por reg"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal abre inscrições para Licenciaturas 2027; veja cursos, cronograma e como participar",
+      "url": "https://conectaprofessores.com/2026/07/19/instituto-federal-abre-inscricoes-para-licenciaturas-2027-veja-cursos-cronograma-e-como-participar/",
+      "data": "Mon, 20 Jul 2026 00:56:15 +0000",
+      "resumo": "O Instituto Federal do Paraná (IFPR) está com inscrições abertas para o Processo Seletivo 2027 de cursos de graduação em Licenciatura, com diversas áreas disponíveis. As inscrições ocorrem de 15 de ju"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Graduação gratuita: edital oferece vagas em Pedagogia, Engenharia Mecânica, Agronomia e Sistemas para Internet",
+      "url": "https://conectaprofessores.com/2026/07/19/graduacao-gratuita-edital-oferece-vagas-em-pedagogia-engenharia-mecanica-agronomia-e-sistemas-para-internet/",
+      "data": "Sun, 19 Jul 2026 23:48:38 +0000",
+      "resumo": "O Instituto Federal do Espírito Santo (Ifes) abriu inscrições para o Processo Seletivo Unificado (PSU) 2026, oferecendo 797 vagas em cursos de graduação, com seleção realizada por meio de uma prova de"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "ProfNIT 2027 abre 570 vagas para mestrado profissional gratuito; veja como se inscrever",
+      "url": "https://conectaprofessores.com/2026/07/19/profnit-2027-abre-570-vagas-para-mestrado-profissional-gratuito-veja-como-se-inscrever/",
+      "data": "Sun, 19 Jul 2026 17:52:08 +0000",
+      "resumo": "Estão abertas as inscrições para o Exame Nacional de Acesso (ENA) 2027 do ProfNIT, que oferece 570 vagas para mestrado profissional gratuito em várias instituições de ensino superior no Brasil. O curs"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal lança edital com 120 vagas para Pedagogia e Ciências Biológicas",
+      "url": "https://conectaprofessores.com/2026/07/19/instituto-federal-lanca-edital-com-120-vagas-para-pedagogia-e-ciencias-biologicas/",
+      "data": "Sun, 19 Jul 2026 15:19:41 +0000",
+      "resumo": "O Instituto Federal do Piauí (IFPI) abriu inscrições para um vestibular com 120 vagas em cursos de Licenciatura em Pedagogia e Ciências Biológicas, remarcando a importância do acesso ao ensino superio"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Inscrições abertas para o Mestrado em Educação da UECE; veja como participar",
+      "url": "https://conectaprofessores.com/2026/07/19/inscricoes-abertas-para-o-mestrado-em-educacao-da-uece-veja-como-participar/",
+      "data": "Sun, 19 Jul 2026 14:46:44 +0000",
+      "resumo": "A Universidade Estadual do Ceará (UECE) abre inscrições para 13 vagas no Mestrado Acadêmico em Educação – Turma 2027. As vagas são distribuídas em ampla concorrência, ações afirmativas e servidores da"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Formação Continuada Gratuita pelo MEC em Julho de 2026: Veja Como Encontrar as Vagas",
+      "url": "https://conectaprofessores.com/2026/07/18/formacao-continuada-gratuita-pelo-mec-em-julho-de-2026-veja-como-encontrar-as-vagas/",
+      "data": "Sun, 19 Jul 2026 01:52:40 +0000",
+      "resumo": "Professores da educação básica e técnica podem se atualizar por meio do Portal Formação do MEC, que oferece cursos gratuitos de formação continuada. A plataforma reúne opções de diversas instituições,"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece descontos em smartphones, notebooks e tablets para professores em julho de 2026; veja como aproveitar",
+      "url": "https://conectaprofessores.com/2026/07/18/mec-oferece-descontos-em-smartphones-notebooks-e-tablets-para-professores-em-julho-de-2026-veja-como-aproveitar/",
+      "data": "Sat, 18 Jul 2026 23:18:22 +0000",
+      "resumo": "O programa #TôComProf, do Ministério da Educação, oferece descontos a professores brasileiros em tecnologia, como smartphones e notebooks, a partir de julho de 2026. Os benefícios são acessíveis a doc"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "formação continuada professores",
+      "score": 32.8,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Formação continuada professores: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em formação continuada professores está movimentando educadores em 2026",
+          "Formação continuada professores: edital aberto e o que você precisa saber antes de se inscrever",
+          "Formação continuada professores em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'formação continuada professores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "curso de psicopedagogia gratuito",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Curso de psicopedagogia gratuito: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em curso de psicopedagogia gratuito está movimentando educadores em 2026",
+          "Curso de psicopedagogia gratuito: edital aberto e o que você precisa saber antes de se inscrever",
+          "Curso de psicopedagogia gratuito em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'curso de psicopedagogia gratuito' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "curso de especialização em educação infantil",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Curso de especialização em educação infantil: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em curso de especialização em educação infantil está movimentando educadores em 2026",
+          "Curso de especialização em educação infantil: edital aberto e o que você precisa saber antes de se inscrever",
+          "Curso de especialização em educação infantil em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'curso de especialização em educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "curso livre para professores online",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Curso livre para professores online: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em curso livre para professores online está movimentando educadores em 2026",
+          "Curso livre para professores online: edital aberto e o que você precisa saber antes de se inscrever",
+          "Curso livre para professores online em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'curso livre para professores online' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "como obter certificado horas complementares",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Como obter certificado horas complementares: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em como obter certificado horas complementares está movimentando educadores em 2026",
+          "Como obter certificado horas complementares: edital aberto e o que você precisa saber antes de se inscrever",
+          "Como obter certificado horas complementares em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como obter certificado horas complementares' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    }
+  ]
+}
