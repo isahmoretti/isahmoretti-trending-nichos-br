@@ -1,0 +1,1301 @@
+{
+  "date": "2026-07-25",
+  "collected_at": "2026-07-25T10:59:55.479231",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "caligrafia para imprimir pdf",
+            "valor": 100,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "caderno de caligrafia para imprimir",
+            "valor": 66,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha caligrafia para imprimir",
+            "valor": 59,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "atividades de caligrafia para imprimir",
+            "valor": 54,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha de caligrafia para imprimir",
+            "valor": 42,
+            "base": "caligrafia para imprimir"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "linhas de caligrafia para imprimir",
+            "valor": "250",
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha de caligrafia para imprimir pdf",
+            "valor": "120",
+            "base": "caligrafia para imprimir"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "cactos e suculentas",
+            "valor": 100,
+            "base": "cactos"
+          },
+          {
+            "termo": "flor de cactos",
+            "valor": 41,
+            "base": "cactos"
+          },
+          {
+            "termo": "mini cactos",
+            "valor": 30,
+            "base": "cactos"
+          },
+          {
+            "termo": "tipos de cactos",
+            "valor": 30,
+            "base": "cactos"
+          },
+          {
+            "termo": "cactos flores",
+            "valor": 29,
+            "base": "cactos"
+          },
+          {
+            "termo": "como plantar rosa",
+            "valor": 100,
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar grama",
+            "valor": 90,
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar orquídea",
+            "valor": 89,
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar batata",
+            "valor": 83,
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar morango",
+            "valor": 71,
+            "base": "como plantar"
+          },
+          {
+            "termo": "o que plantar em agosto",
+            "valor": 100,
+            "base": "o que plantar"
+          },
+          {
+            "termo": "o que plantar em julho",
+            "valor": 76,
+            "base": "o que plantar"
+          },
+          {
+            "termo": "o que plantar na lua crescente",
+            "valor": 76,
+            "base": "o que plantar"
+          },
+          {
+            "termo": "o que plantar na horta",
+            "valor": 58,
+            "base": "o que plantar"
+          },
+          {
+            "termo": "o que plantar na lua nova",
+            "valor": 28,
+            "base": "o que plantar"
+          },
+          {
+            "termo": "como adubar plantas",
+            "valor": 100,
+            "base": "como adubar"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "cactos brasil",
+            "valor": "50",
+            "base": "cactos"
+          },
+          {
+            "termo": "como plantar cogumelo no minecraft",
+            "valor": "190",
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar pitaya no chão",
+            "valor": "120",
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar açafrão da terra",
+            "valor": "100",
+            "base": "como plantar"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "enfeite de mesa",
+            "valor": 100,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite para mesa",
+            "valor": 52,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite de festa",
+            "valor": 43,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite parede",
+            "valor": 35,
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite de porta",
+            "valor": 32,
+            "base": "enfeite"
+          },
+          {
+            "termo": "tag heuer",
+            "valor": 100,
+            "base": "tag"
+          },
+          {
+            "termo": "sem parar tag",
+            "valor": 84,
+            "base": "tag"
+          },
+          {
+            "termo": "air tag",
+            "valor": 46,
+            "base": "tag"
+          },
+          {
+            "termo": "google tag",
+            "valor": 43,
+            "base": "tag"
+          },
+          {
+            "termo": "tag pedagio",
+            "valor": 39,
+            "base": "tag"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "enfeite de mesa dia dos pais",
+            "valor": "14900",
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite natalino",
+            "valor": "160",
+            "base": "enfeite"
+          },
+          {
+            "termo": "enfeite de natal para porta",
+            "valor": "70",
+            "base": "enfeite"
+          },
+          {
+            "termo": "tag dia dos avós",
+            "valor": "200",
+            "base": "tag"
+          },
+          {
+            "termo": "tag dia dos avos",
+            "valor": "180",
+            "base": "tag"
+          },
+          {
+            "termo": "tag dia dos pais",
+            "valor": "50",
+            "base": "tag"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "probiótico para cachorro com diarreia como usar",
+            "valor": 100,
+            "base": "probiótico para cachorro"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "fonoaudiologia infantil",
+            "valor": 21.1
+          },
+          {
+            "termo": "atraso na fala",
+            "valor": 14.2
+          },
+          {
+            "termo": "tdah em crianças",
+            "valor": 13.6
+          },
+          {
+            "termo": "ansiedade em crianças",
+            "valor": 10.6
+          },
+          {
+            "termo": "marcos do desenvolvimento infantil",
+            "valor": 7.9
+          },
+          {
+            "termo": "desenvolvimento da linguagem infantil",
+            "valor": 7.2
+          },
+          {
+            "termo": "desenvolvimento motor infantil",
+            "valor": 6.4
+          },
+          {
+            "termo": "criança não fala 2 anos",
+            "valor": 4.8
+          },
+          {
+            "termo": "estimulação precoce",
+            "valor": 4.3
+          },
+          {
+            "termo": "desenvolvimento cognitivo infantil",
+            "valor": 4.0
+          },
+          {
+            "termo": "sinais de autismo em crianças",
+            "valor": 1.0
+          },
+          {
+            "termo": "dislexia em crianças",
+            "valor": 0.5
+          },
+          {
+            "termo": "como estimular a fala da criança",
+            "valor": 0.3
+          },
+          {
+            "termo": "atividades para criança com tdah",
+            "valor": 0.2
+          },
+          {
+            "termo": "como ajudar criança autista em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "como estimular bebê em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "birra infantil como lidar",
+            "valor": 0.0
+          },
+          {
+            "termo": "como colocar limites nos filhos",
+            "valor": 0.0
+          },
+          {
+            "termo": "criança hiperativa o que fazer",
+            "valor": 0.0
+          },
+          {
+            "termo": "choro excessivo bebê",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam em 10/08 as inscrições para a especialização gratuita em Gestão de Negócios 2027",
+      "url": "https://infoeducacao.com.br/comecam-em-10-08-as-inscricoes-para-a-especializacao-gratuita-em-gestao-de-negocios-2027/",
+      "data": "Sat, 25 Jul 2026 11:19:26 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro – IFRJ abriu 20 vagas, na turma de The post Começam em 10/08 as inscrições para a especialização gratuita em Gestão de Negócios "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam em 10/08 as inscrições para a especialização gratuita em Ensino de Ciências 2027",
+      "url": "https://infoeducacao.com.br/comecam-em-10-08-as-inscricoes-para-a-especializacao-gratuita-em-ensino-de-ciencias-2027/",
+      "data": "Sat, 25 Jul 2026 08:05:51 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro &#8211; IFRJ abriu 10 vagas na especialização gratuita The post Começam em 10/08 as inscrições para a especialização gratuita em"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFRJ abre vagas na especialização gratuita em Engenharia de Segurança do Trabalho 2027",
+      "url": "https://infoeducacao.com.br/ifrj-abre-vagas-na-especializacao-gratuita-em-engenharia-de-seguranca-do-trabalho-2027/",
+      "data": "Fri, 24 Jul 2026 07:06:10 +0000",
+      "resumo": "O curso de Engenharia de Segurança do Trabalho &#8211; Campus São Gonçalo (Presencial), do Instituto Federal de Educação, Ciência e The post IFRJ abre vagas na especialização gratuita em Engenharia de"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Instituto de Psicologia da USP seleciona 1500 alunos para curso online gratuito de Psicologia da Religião",
+      "url": "https://infoeducacao.com.br/instituto-de-psicologia-da-usp-seleciona-1500-alunos-para-curso-online-gratuito-de-psicologia-da-religiao/",
+      "data": "Fri, 24 Jul 2026 07:04:41 +0000",
+      "resumo": "O Instituto de Psicologia da Universidade de São Paulo (USP) abriu 1500 vagas no curso gratuito online de Introdução à The post Instituto de Psicologia da USP seleciona 1500 alunos para curso online g"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFRJ abre vagas na especialização gratuita em Desenvolvimento Regional e Sustentabilidade 2027",
+      "url": "https://infoeducacao.com.br/ifrj-abre-vagas-na-especializacao-gratuita-em-desenvolvimento-regional-e-sustentabilidade-2027/",
+      "data": "Fri, 24 Jul 2026 07:02:16 +0000",
+      "resumo": "A especialização gratuita em Desenvolvimento Regional e Sustentabilidade, que é ofertada pelo Campus Pinheiral (Semipresencial), do Instituto Federal de Educação, The post IFRJ abre vagas na especiali"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 05/08 as inscrições para a especialização gratuita online em Educação Matemática",
+      "url": "https://infoeducacao.com.br/terminam-em-05-08-as-inscricoes-para-a-especializacao-gratuita-online-em-educacao-matematica/",
+      "data": "Fri, 24 Jul 2026 07:01:33 +0000",
+      "resumo": "Tiveram início no dia 22 de julho de 2026 as inscrições para a especialização gratuita online em Educação Matemática, que The post Terminam em 05/08 as inscrições para a especialização gratuita online"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFTM abre processo seletivo para o preenchimento de vagas ociosas em cursos técnicos, de graduação e pós-graduação gratuitos",
+      "url": "https://infoeducacao.com.br/iftm-abre-processo-seletivo-para-o-preenchimento-de-vagas-ociosas-em-cursos-tecnicos-de-graduacao-e-pos-graduacao-gratuitos/",
+      "data": "Thu, 23 Jul 2026 14:49:34 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia (IFTM) abre inscrições para o preenchimento de vagas ociosas nos cursos Técnicos The post IFTM abre processo seletivo para o preenchimento de vaga"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFBA abre 300 vagas no curso gratuito EAD de Formação de Professores em Línguas Indígenas de Sinais – LIS",
+      "url": "https://infoeducacao.com.br/ifba-abre-300-vagas-no-curso-gratuito-ead-de-formacao-de-professores-em-linguas-indigenas-de-sinais-lis/",
+      "data": "Thu, 23 Jul 2026 14:36:13 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) abriu 300 vagas no curso gratuito EAD de Formação The post IFBA abre 300 vagas no curso gratuito EAD de Formação de Professores em"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal do Paraná lança edital com 25 opções de Licenciaturas gratuitas em 19 polos",
+      "url": "https://www.pebsp.com/instituto-federal-do-parana-lanca-edital-com-25-cursos-de-licenciatura-gratuitos-em-19-polos-dcs/",
+      "data": "Sat, 25 Jul 2026 11:45:16 +0000",
+      "resumo": "O Instituto Federal do Paraná (IFPR) abriu as inscrições do Processo Seletivo 2027 para os Cursos de Graduação em Licenciatura, com vagas gratuitas e presenciais em 25 opções de curso distribuídas por"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UERGS abre inscrições para a especialização em Gestão Pública para graduados de qualquer área",
+      "url": "https://www.pebsp.com/uergs-abre-inscricoes-para-a-especializacao-em-gestao-publica-para-graduados-de-qualquer-area-dcs/",
+      "data": "Sat, 25 Jul 2026 09:45:35 +0000",
+      "resumo": "A Universidade Estadual do Rio Grande do Sul (UERGS) publicou o Edital ProPPG nº 02/2026, com as normas de seleção para a 3ª edição do Curso de Especialização em Gestão Pública, oferecido pela unidade"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFG abre processo seletivo para o Programa de Pós-graduação em Letras e Linguística com 61 vagas",
+      "url": "https://www.pebsp.com/ufg-abre-inscricoes-para-o-programa-de-pos-graduacao-em-letras-e-linguistica-com-61-vagas-dcs/",
+      "data": "Sat, 25 Jul 2026 07:15:13 +0000",
+      "resumo": "A Universidade Federal de Goiás (UFG) abriu, por meio do Edital Nº 03/2026, as inscrições para o processo seletivo de Mestrado em Letras e Linguística, com ingresso previsto para o primeiro semestre d"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UNESP abre seleção com 29 vagas para professor e tutores em cursos EaD",
+      "url": "https://www.pebsp.com/unesp-abre-selecao-com-29-vagas-para-professor-e-tutor-em-cursos-de-pos-graduacao-ead-inscricoes-ate-5-de-agosto/",
+      "data": "Sat, 25 Jul 2026 05:02:20 +0000",
+      "resumo": "Edital 005/2026-UAB/CDeP3/Unesp abre 29 vagas de bolsa para professor regente e mediador pedagógico em cursos EaD; inscrições até 5 de agosto de 2026. O post UNESP abre seleção com 29 vagas para profe"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "4 cursos técnicos gratuitos com inscrições abertas em julho 2026 e que pagam bolsa de até R$ 858",
+      "url": "https://www.pebsp.com/4-cursos-tecnicos-gratuitos-com-inscricoes-abertas-em-julho-2026-e-que-pagam-bolsa-de-ate-r-858/",
+      "data": "Fri, 24 Jul 2026 22:38:53 +0000",
+      "resumo": "A Petrobras, por meio do Programa Autonomia e Renda, abre inscrições em julho de 2026 para cursos técnicos profissionalizantes em quatro instituições federais de ensino. A iniciativa oferece formação "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Curso gratuito do IFRN prepara profissionais para o mercado de veículos elétricos",
+      "url": "https://www.pebsp.com/ifrn-abre-45-vagas-para-curso-gratuito-de-manutencao-de-veiculos-eletricos-leves-em-natal/",
+      "data": "Fri, 24 Jul 2026 20:18:07 +0000",
+      "resumo": "IFRN abre 45 vagas para curso gratuito de manutenção de veículos elétricos leves em Natal. Inscrições até 05/08/2026; exige 18 anos e ensino fundamental completo. O post Curso gratuito do IFRN prepara"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal abre 100 vagas para curso de espanhol a distância",
+      "url": "https://www.pebsp.com/instituto-federal-abre-100-vagas-para-curso-de-espanhol-a-distancia/",
+      "data": "Fri, 24 Jul 2026 18:15:56 +0000",
+      "resumo": "Inscrições abertas para curso de espanhol EAD do IFSP Campus Diadema — 100 vagas, 70 horas, até 31 de julho. O post Instituto Federal abre 100 vagas para curso de espanhol a distância apareceu primeir"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Edital do Colégio Pedro II oferece especialização gratuita em Música e Relações Étnico-Raciais",
+      "url": "https://www.pebsp.com/edital-do-colegio-pedro-ii-oferece-especializacao-gratuita-em-musica-e-relacoes-etnico-raciais-dcs/",
+      "data": "Fri, 24 Jul 2026 14:08:38 +0000",
+      "resumo": "O Colégio Pedro II abriu inscrições para dois cursos de pós-graduação lato sensu com início previsto para o primeiro semestre de 2027. São 50 vagas distribuídas entre a Especialização em Educação das "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Especialização gratuita pelo MEC: Portal Formação reúne novas vagas em julho de 2026",
+      "url": "https://conectaprofessores.com/2026/07/24/especializacao-gratuita-pelo-mec-portal-formacao-reune-novas-vagas-em-julho-de-2026/",
+      "data": "Sat, 25 Jul 2026 01:35:01 +0000",
+      "resumo": "Professores da educação básica podem se inscrever em especializações gratuitas a partir de 2026, através do Portal Formação do MEC. A plataforma reúne vagas em cursos oferecidos por universidades e in"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "IFMG abre 100 vagas para especialização EaD em Matemática para professores",
+      "url": "https://conectaprofessores.com/2026/07/24/ifmg-abre-100-vagas-para-especializacao-ead-em-matematica-para-professores/",
+      "data": "Sat, 25 Jul 2026 01:02:53 +0000",
+      "resumo": "O Campus Formiga do IFMG está com inscrições abertas para a especialização \"Matemática para o Ensino nos Anos Iniciais da Educação Básica\". O curso, na modalidade EaD, oferece 100 vagas para graduados"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "IFRJ oferece vagas em especializações, mestrado e doutorado; inscrições já estão abertas",
+      "url": "https://conectaprofessores.com/2026/07/24/ifrj-oferece-vagas-em-especializacoes-mestrado-e-doutorado-inscricoes-ja-estao-abertas/",
+      "data": "Fri, 24 Jul 2026 23:21:38 +0000",
+      "resumo": "O Instituto Federal do Rio de Janeiro (IFRJ) abriu processos seletivos para cursos de pós-graduação em 2027, oferecendo 26 especializações e programas de mestrado e doutorado gratuitos, com taxas de i"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC e CAIXA oferecem benefícios exclusivos para professores; veja como aproveitar as vantagens",
+      "url": "https://conectaprofessores.com/2026/07/24/mec-e-caixa-oferecem-beneficios-exclusivos-para-professores-veja-como-aproveitar-as-vantagens/",
+      "data": "Fri, 24 Jul 2026 17:19:37 +0000",
+      "resumo": "O Programa Mais Professores para o Brasil, uma parceria entre o MEC e a CAIXA, oferece benefícios financeiros e culturais para docentes. Entre os destaques estão cartões de crédito sem anuidade, empré"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC e Banco do Brasil oferecem benefícios exclusivos para professores; veja como aproveitar",
+      "url": "https://conectaprofessores.com/2026/07/24/mec-e-banco-do-brasil-oferecem-beneficios-exclusivos-para-professores-veja-como-aproveitar/",
+      "data": "Fri, 24 Jul 2026 16:16:40 +0000",
+      "resumo": "O Ministério da Educação (MEC) e o Banco do Brasil firmaram parceria para oferecer benefícios exclusivos aos professores da rede pública e privada, como isenção de anuidade em cartões de crédito, linh"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "CNPq abre inscrições para quase 5 mil bolsas de mestrado e doutorado; prazo termina em 5 de agosto",
+      "url": "https://conectaprofessores.com/2026/07/24/cnpq-abre-inscricoes-para-quase-5-mil-bolsas-de-mestrado-e-doutorado-prazo-termina-em-5-de-agosto/",
+      "data": "Fri, 24 Jul 2026 15:11:50 +0000",
+      "resumo": "O CNPq abriu inscrições para o Programa Institucional de Bolsas de Pós-Graduação (PIBPG) 2026, oferecendo 4.977 bolsas de mestrado e doutorado. As instituições podem se inscrever até 5 de agosto de 20"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "15 cursos gratuitos de Libras estão disponíveis para professores e estudantes de licenciatura",
+      "url": "https://conectaprofessores.com/2026/07/23/15-cursos-gratuitos-de-libras-estao-disponiveis-para-professores-e-estudantes-de-licenciatura/",
+      "data": "Fri, 24 Jul 2026 01:30:10 +0000",
+      "resumo": "O Instituto Federal do Rio Grande do Sul oferece 15 cursos gratuitos sobre inclusão escolar e Língua Brasileira de Sinais (Libras), visando capacitar educadores para se comunicarem com estudantes surd"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre inscrições para pós-graduação em Educação Ambiental na modalidade EaD; veja como participar",
+      "url": "https://conectaprofessores.com/2026/07/23/universidade-abre-inscricoes-para-pos-graduacao-em-educacao-ambiental-na-modalidade-ead-veja-como-participar/",
+      "data": "Fri, 24 Jul 2026 01:09:55 +0000",
+      "resumo": "A Universidade Estadual Paulista (Unesp) abre inscrições para a Especialização em Educação Ambiental em modalidade EaD, com 150 vagas para o segundo semestre de 2026. As inscrições ocorrem de 22 de ju"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caligrafia para imprimir pdf",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caligrafia para imprimir pdf para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caligrafia para imprimir pdf por nível — do mais fácil ao mais avançado",
+          "20 fichas de caligrafia para imprimir pdf alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caligrafia para imprimir pdf em casa: guia passo a passo para pais e professores",
+          "Caligrafia para imprimir pdf: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caligrafia para imprimir pdf: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caligrafia para imprimir pdf está entre as buscas mais quentes de pais e professores",
+          "Caligrafia para imprimir pdf em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caligrafia para imprimir pdf: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caligrafia para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "cactos e suculentas",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de cactos e suculentas para quem está começando do zero",
+          "20 erros em cactos e suculentas que matam suas plantas (evite estes)",
+          "20 ideias de cactos e suculentas baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer cactos e suculentas em casa: passo a passo para iniciantes",
+          "Cactos e suculentas: o guia definitivo para 2026",
+          "Tudo sobre cactos e suculentas: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que cactos e suculentas virou febre nas redes sociais",
+          "Cactos e suculentas: a tendência que domina os jardins em 2026",
+          "Cactos e suculentas em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cactos e suculentas' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como plantar rosa",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de como plantar rosa para quem está começando do zero",
+          "20 erros em como plantar rosa que matam suas plantas (evite estes)",
+          "20 ideias de como plantar rosa baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como plantar rosa em casa: passo a passo para iniciantes",
+          "Como plantar rosa: o guia definitivo para 2026",
+          "Tudo sobre como plantar rosa: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como plantar rosa virou febre nas redes sociais",
+          "Como plantar rosa: a tendência que domina os jardins em 2026",
+          "Como plantar rosa em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como plantar rosa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "o que plantar em agosto",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de o que plantar em agosto para quem está começando do zero",
+          "20 erros em o que plantar em agosto que matam suas plantas (evite estes)",
+          "20 ideias de o que plantar em agosto baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer o que plantar em agosto em casa: passo a passo para iniciantes",
+          "O que plantar em agosto: o guia definitivo para 2026",
+          "Tudo sobre o que plantar em agosto: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que o que plantar em agosto virou febre nas redes sociais",
+          "O que plantar em agosto: a tendência que domina os jardins em 2026",
+          "O que plantar em agosto em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'o que plantar em agosto' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como adubar plantas",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de como adubar plantas para quem está começando do zero",
+          "20 erros em como adubar plantas que matam suas plantas (evite estes)",
+          "20 ideias de como adubar plantas baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como adubar plantas em casa: passo a passo para iniciantes",
+          "Como adubar plantas: o guia definitivo para 2026",
+          "Tudo sobre como adubar plantas: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como adubar plantas virou febre nas redes sociais",
+          "Como adubar plantas: a tendência que domina os jardins em 2026",
+          "Como adubar plantas em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como adubar plantas' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite de mesa",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de enfeite de mesa para fazer em casa (com molde grátis)",
+          "20 modelos de enfeite de mesa para imprimir e usar agora",
+          "20 inspirações de enfeite de mesa que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite de mesa: passo a passo fácil para iniciantes",
+          "Enfeite de mesa: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite de mesa em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite de mesa está entre as buscas mais quentes do Brasil",
+          "Enfeite de mesa: as tendências que dominam em 2026",
+          "Enfeite de mesa em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite de mesa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "tag heuer",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de tag heuer para fazer em casa (com molde grátis)",
+          "20 modelos de tag heuer para imprimir e usar agora",
+          "20 inspirações de tag heuer que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer tag heuer: passo a passo fácil para iniciantes",
+          "Tag heuer: como criar em casa sem gastar muito",
+          "Tudo sobre tag heuer em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que tag heuer está entre as buscas mais quentes do Brasil",
+          "Tag heuer: as tendências que dominam em 2026",
+          "Tag heuer em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tag heuer' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "probiótico para cachorro com diarreia como usar",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de que seu cachorro precisa de probiótico para cachorro com diarreia como usar",
+          "20 benefícios de probiótico para cachorro com diarreia como usar que todo tutor deveria conhecer",
+          "20 dúvidas sobre probiótico para cachorro com diarreia como usar respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiótico para cachorro com diarreia como usar no seu cachorro: guia completo para tutores",
+          "Probiótico para cachorro com diarreia como usar: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiótico para cachorro com diarreia como usar: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiótico para cachorro com diarreia como usar está entre as buscas mais quentes de tutores de pets",
+          "Probiótico para cachorro com diarreia como usar: o que os veterinários estão recomendando em 2026",
+          "Probiótico para cachorro com diarreia como usar em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiótico para cachorro com diarreia como usar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como plantar grama",
+      "score": 90.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de como plantar grama para quem está começando do zero",
+          "20 erros em como plantar grama que matam suas plantas (evite estes)",
+          "20 ideias de como plantar grama baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como plantar grama em casa: passo a passo para iniciantes",
+          "Como plantar grama: o guia definitivo para 2026",
+          "Tudo sobre como plantar grama: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como plantar grama virou febre nas redes sociais",
+          "Como plantar grama: a tendência que domina os jardins em 2026",
+          "Como plantar grama em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como plantar grama' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "sem parar tag",
+      "score": 84.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de sem parar tag para fazer em casa (com molde grátis)",
+          "20 modelos de sem parar tag para imprimir e usar agora",
+          "20 inspirações de sem parar tag que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer sem parar tag: passo a passo fácil para iniciantes",
+          "Sem parar tag: como criar em casa sem gastar muito",
+          "Tudo sobre sem parar tag em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que sem parar tag está entre as buscas mais quentes do Brasil",
+          "Sem parar tag: as tendências que dominam em 2026",
+          "Sem parar tag em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sem parar tag' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caderno de caligrafia para imprimir",
+      "score": 66.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Caderno de caligrafia para imprimir para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de caderno de caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "15 fichas de caderno de caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caderno de caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Caderno de caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caderno de caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caderno de caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Caderno de caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caderno de caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caderno de caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "linhas de caligrafia para imprimir",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Linhas de caligrafia para imprimir para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de linhas de caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "15 fichas de linhas de caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar linhas de caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Linhas de caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em linhas de caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que linhas de caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Linhas de caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Linhas de caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'linhas de caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "folha de caligrafia para imprimir pdf",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Folha de caligrafia para imprimir pdf para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de folha de caligrafia para imprimir pdf por nível — do mais fácil ao mais avançado",
+          "15 fichas de folha de caligrafia para imprimir pdf alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar folha de caligrafia para imprimir pdf em casa: guia passo a passo para pais e professores",
+          "Folha de caligrafia para imprimir pdf: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em folha de caligrafia para imprimir pdf: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que folha de caligrafia para imprimir pdf está entre as buscas mais quentes de pais e professores",
+          "Folha de caligrafia para imprimir pdf em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Folha de caligrafia para imprimir pdf: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'folha de caligrafia para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite de mesa dia dos pais",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de enfeite de mesa dia dos pais para fazer em casa (com molde grátis)",
+          "15 modelos de enfeite de mesa dia dos pais para imprimir e usar agora",
+          "15 inspirações de enfeite de mesa dia dos pais que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite de mesa dia dos pais: passo a passo fácil para iniciantes",
+          "Enfeite de mesa dia dos pais: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite de mesa dia dos pais em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite de mesa dia dos pais está entre as buscas mais quentes do Brasil",
+          "Enfeite de mesa dia dos pais: as tendências que dominam em 2026",
+          "Enfeite de mesa dia dos pais em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite de mesa dia dos pais' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "enfeite natalino",
+      "score": 65.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de enfeite natalino para fazer em casa (com molde grátis)",
+          "15 modelos de enfeite natalino para imprimir e usar agora",
+          "15 inspirações de enfeite natalino que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer enfeite natalino: passo a passo fácil para iniciantes",
+          "Enfeite natalino: como criar em casa sem gastar muito",
+          "Tudo sobre enfeite natalino em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que enfeite natalino está entre as buscas mais quentes do Brasil",
+          "Enfeite natalino: as tendências que dominam em 2026",
+          "Enfeite natalino em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'enfeite natalino' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "folha caligrafia para imprimir",
+      "score": 59.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Folha caligrafia para imprimir para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de folha caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "15 fichas de folha caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar folha caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Folha caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em folha caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que folha caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Folha caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Folha caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'folha caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "fonoaudiologia infantil",
+      "score": 21.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de fonoaudiologia infantil que todo pai precisa conhecer",
+          "10 atividades para estimular fonoaudiologia infantil em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com fonoaudiologia infantil a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com fonoaudiologia infantil: guia completo para pais",
+          "Fonoaudiologia infantil: o que é, como identificar e o que fazer em 2026",
+          "Como estimular fonoaudiologia infantil no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre fonoaudiologia infantil",
+          "Fonoaudiologia infantil: o que as pesquisas mais recentes dizem em 2026",
+          "Fonoaudiologia infantil em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'fonoaudiologia infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "atraso na fala",
+      "score": 14.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de atraso na fala que todo pai precisa conhecer",
+          "10 atividades para estimular atraso na fala em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com atraso na fala a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com atraso na fala: guia completo para pais",
+          "Atraso na fala: o que é, como identificar e o que fazer em 2026",
+          "Como estimular atraso na fala no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre atraso na fala",
+          "Atraso na fala: o que as pesquisas mais recentes dizem em 2026",
+          "Atraso na fala em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atraso na fala' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "tdah em crianças",
+      "score": 13.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de tdah em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular tdah em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com tdah em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com tdah em crianças: guia completo para pais",
+          "Tdah em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular tdah em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre tdah em crianças",
+          "Tdah em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Tdah em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tdah em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "ansiedade em crianças",
+      "score": 10.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de ansiedade em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular ansiedade em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com ansiedade em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com ansiedade em crianças: guia completo para pais",
+          "Ansiedade em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular ansiedade em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre ansiedade em crianças",
+          "Ansiedade em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Ansiedade em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ansiedade em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "marcos do desenvolvimento infantil",
+      "score": 7.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de marcos do desenvolvimento infantil que todo pai precisa conhecer",
+          "10 atividades para estimular marcos do desenvolvimento infantil em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com marcos do desenvolvimento infantil a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com marcos do desenvolvimento infantil: guia completo para pais",
+          "Marcos do desenvolvimento infantil: o que é, como identificar e o que fazer em 2026",
+          "Como estimular marcos do desenvolvimento infantil no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre marcos do desenvolvimento infantil",
+          "Marcos do desenvolvimento infantil: o que as pesquisas mais recentes dizem em 2026",
+          "Marcos do desenvolvimento infantil em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'marcos do desenvolvimento infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    }
+  ]
+}
