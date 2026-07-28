@@ -1,0 +1,1180 @@
+{
+  "date": "2026-07-28",
+  "collected_at": "2026-07-28T11:48:56.018439",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "letras para imprimir",
+            "valor": 100,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras alfabeto para imprimir",
+            "valor": 98,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras do alfabeto",
+            "valor": 64,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras do alfabeto para imprimir",
+            "valor": 63,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "alfabeto para imprimir pdf",
+            "valor": 41,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "caligrafia para imprimir pdf",
+            "valor": 100,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "caligrafia para imprimir letra cursiva",
+            "valor": 77,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "caderno de caligrafia para imprimir",
+            "valor": 74,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha de caligrafia para imprimir",
+            "valor": 49,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "atividade de caligrafia para imprimir",
+            "valor": 48,
+            "base": "caligrafia para imprimir"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "bingo do alfabeto para imprimir",
+            "valor": "120",
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "folha de caligrafia para imprimir pdf",
+            "valor": "80",
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "exercícios de caligrafia para imprimir",
+            "valor": "60",
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folhas de caligrafia para imprimir",
+            "valor": "40",
+            "base": "caligrafia para imprimir"
+          }
+        ],
+        "seeds": [
+          {
+            "termo": "alfabeto para imprimir",
+            "valor": 67.5
+          },
+          {
+            "termo": "caligrafia para imprimir",
+            "valor": 13.0
+          },
+          {
+            "termo": "atividades para criança com dificuldade de aprendizagem",
+            "valor": 12.9
+          },
+          {
+            "termo": "vogais para imprimir",
+            "valor": 5.5
+          },
+          {
+            "termo": "brincadeiras para alfabetização",
+            "valor": 3.7
+          },
+          {
+            "termo": "atividades de leitura para imprimir",
+            "valor": 0.9
+          },
+          {
+            "termo": "jogos de alfabetização para imprimir",
+            "valor": 0.3
+          },
+          {
+            "termo": "atividades de escrita para imprimir",
+            "valor": 0.1
+          },
+          {
+            "termo": "atividades de alfabetização para crianças com dislexia",
+            "valor": 0.0
+          },
+          {
+            "termo": "método fônico atividades para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "como ensinar a ler criança com dificuldade",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades de alfabetização para crianças com tdah",
+            "valor": 0.0
+          },
+          {
+            "termo": "como estimular a leitura em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades de alfabetização em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "como ensinar a criança a ler em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "jardim",
+            "valor": 84.7
+          },
+          {
+            "termo": "como plantar",
+            "valor": 78.4
+          },
+          {
+            "termo": "plantas que",
+            "valor": 69.0
+          },
+          {
+            "termo": "como fazer muda",
+            "valor": 26.6
+          },
+          {
+            "termo": "flores",
+            "valor": 25.8
+          },
+          {
+            "termo": "horta",
+            "valor": 2.1
+          },
+          {
+            "termo": "vegetais",
+            "valor": 1.5
+          },
+          {
+            "termo": "árvores frutíferas",
+            "valor": 1.0
+          },
+          {
+            "termo": "o que plantar",
+            "valor": 1.0
+          },
+          {
+            "termo": "ervas e temperos",
+            "valor": 0.3
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "dia dos pais",
+            "valor": 34.6
+          },
+          {
+            "termo": "carnaval",
+            "valor": 15.1
+          },
+          {
+            "termo": "halloween",
+            "valor": 5.5
+          },
+          {
+            "termo": "ano novo",
+            "valor": 5.0
+          },
+          {
+            "termo": "dia das crianças",
+            "valor": 1.7
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "para que serve probiótico para cachorro",
+            "valor": 100,
+            "base": "probiótico para cachorro"
+          },
+          {
+            "termo": "probiótico para cachorro com diarreia",
+            "valor": 73,
+            "base": "probiótico para cachorro"
+          },
+          {
+            "termo": "probiotico cachorro",
+            "valor": 64,
+            "base": "probiótico para cachorro"
+          },
+          {
+            "termo": "probiotico para diarreia",
+            "valor": 14,
+            "base": "probiótico para cachorro"
+          },
+          {
+            "termo": "probiótico para cachorro com diarreia como usar",
+            "valor": 11,
+            "base": "probiótico para cachorro"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Especialização gratuita online em Pedagogia e Formação Docente abre 150 vagas",
+      "url": "https://infoeducacao.com.br/especializacao-gratuita-online-em-pedagogia-e-formacao-docente-abre-150-vagas/",
+      "data": "Tue, 28 Jul 2026 12:35:57 +0000",
+      "resumo": "A Universidade Federal do Triângulo Mineiro – UFTM abriu 150 vagas na especialização gratuita online em Pedagogia e Formação Docente, The post Especialização gratuita online em Pedagogia e Formação Do"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Uesb anuncia os filmes que serão cobrados no Vestibular 2027",
+      "url": "https://infoeducacao.com.br/uesb-anuncia-os-filmes-que-serao-cobrados-no-vestibular-2027/",
+      "data": "Tue, 28 Jul 2026 11:22:38 +0000",
+      "resumo": "Estudar para o Vestibular vai muito além de acumular páginas de livros e apostilas. Muitas vezes, a preparação para as The post Uesb anuncia os filmes que serão cobrados no Vestibular 2027 appeared fi"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UFRPE abre 2 mil vagas em curso gratuito e online de Formação Continuada",
+      "url": "https://infoeducacao.com.br/ufrpe-abre-2-mil-vagas-em-curso-gratuito-e-online-de-formacao-continuada/",
+      "data": "Tue, 28 Jul 2026 08:57:08 +0000",
+      "resumo": "A Universidade Federal Rural de Pernambuco (UFRPE) abriu 2 mil vagas no curso gratuito e online de Formação Continuada &#8220;Direito The post UFRPE abre 2 mil vagas em curso gratuito e online de Form"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Cursos gratuitos de Formação Inicial e Continuada do IFTM abrem 375 vagas",
+      "url": "https://infoeducacao.com.br/cursos-gratuitos-de-formacao-inicial-e-continuada-do-iftm-abrem-375-vagas/",
+      "data": "Tue, 28 Jul 2026 07:46:48 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro (IFTM) está selecionando estudantes para os cursos gratuitos de The post Cursos gratuitos de Formação Inicial e Continuada do"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 31/07 as inscrições para a especialização gratuita EAD do IFCE",
+      "url": "https://infoeducacao.com.br/terminam-em-31-07-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifce/",
+      "data": "Tue, 28 Jul 2026 07:06:03 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) está selecionando 200 alunos para a especialização gratuita EAD The post Terminam em 31/07 as inscrições para a especialização gra"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UFSCar abre 150 vagas em especialização gratuita",
+      "url": "https://infoeducacao.com.br/ufscar-abre-150-vagas-em-especializacao-gratuita/",
+      "data": "Mon, 27 Jul 2026 21:28:25 +0000",
+      "resumo": "A Universidade Federal de São Carlos (UFSCar) abriu 150 vagas na especialização gratuita em Gestão Escolar, que será ofertada pelo The post UFSCar abre 150 vagas em especialização gratuita appeared fi"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "65 cursos de especialização gratuitos online, EAD ou presenciais com vagas abertas hoje para 2026 ou 2027",
+      "url": "https://infoeducacao.com.br/65-cursos-de-especializacao-gratuitos-online-ead-ou-presenciais-com-vagas-abertas-hoje-para-2026-ou-2027/",
+      "data": "Mon, 27 Jul 2026 16:17:19 +0000",
+      "resumo": "Estão abertas vagas em 65 cursos de especialização gratuitos online, EAD ou presenciais, ofertados por instituições públicas de diversas regiões The post 65 cursos de especialização gratuitos online, "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UFSJ abre 300 vagas em curso gratuito online de Educação Bilíngue de Surdos",
+      "url": "https://infoeducacao.com.br/ufsj-abre-300-vagas-em-curso-gratuito-online-de-educacao-bilingue-de-surdos/",
+      "data": "Mon, 27 Jul 2026 13:43:11 +0000",
+      "resumo": "A Universidade Federal de São João Del-Rei (UFSJ) abriu 300 vagas no curso gratuito online de Educação Bilíngue de Surdos: The post UFSJ abre 300 vagas em curso gratuito online de Educação Bilíngue de"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Inscrições para a especialização em Direitos Humanos EAD da FUNDAJ encerram nesta semana",
+      "url": "https://www.pebsp.com/inscricoes-para-a-especializacao-em-direitos-humanos-ead-da-fundaj-encerram-nesta-semana/",
+      "data": "Tue, 28 Jul 2026 11:06:17 +0000",
+      "resumo": "A Fundação Joaquim Nabuco (Fundaj), órgão vinculado ao Ministério da Educação, está com inscrições abertas no período de 02 a 30 de julho de 2026 para o processo seletivo do Curso de Especialização em"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP Catanduva abre 40 vagas em curso gratuito de Matemática Básica com prioridade para meninas do 9º ano",
+      "url": "https://www.pebsp.com/ifsp-catanduva-abre-40-vagas-em-curso-gratuito-de-matematica-basica-com-prioridade-para-meninas-do-9o-ano/",
+      "data": "Tue, 28 Jul 2026 08:06:24 +0000",
+      "resumo": "IFSP Catanduva abre 40 vagas gratuitas em curso de extensao de Matematica Basica, com prioridade para candidatas do 9 ano do ensino fundamental. Inscricoes gratuitas ate 2 de agosto de 2026, pelo form"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Universidade Federal abre 150 vagas para especialização EAD sem taxa de inscrição",
+      "url": "https://www.pebsp.com/universidade-federal-abre-150-vagas-para-especializacao-ead-sem-taxa-de-inscricao/",
+      "data": "Tue, 28 Jul 2026 06:03:57 +0000",
+      "resumo": "UFPB abre 150 vagas na especialização EAD em Controladoria e Finanças; inscrições gratuitas até 24 de agosto de 2026. Confira polos e cronograma. O post Universidade Federal abre 150 vagas para especi"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFSCar publica edital para Especialização em Gestão Escolar EAD; veja como se inscrever",
+      "url": "https://www.pebsp.com/ufscar-publica-edital-para-especializacao-em-gestao-escolar-ead-veja-como-se-inscrever/",
+      "data": "Mon, 27 Jul 2026 23:56:30 +0000",
+      "resumo": "UFSCar abre 165 vagas para Especialização em Gestão Escolar, EAD e gratuita; inscrições até 6 de agosto de 2026. Veja como se inscrever. O post UFSCar publica edital para Especialização em Gestão Esco"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Claude cria planos de aula alinhados à BNCC em minutos; veja como usar",
+      "url": "https://www.pebsp.com/claude-cria-planos-de-aula-alinhados-a-bncc-em-minutos-veja-como-usar/",
+      "data": "Mon, 27 Jul 2026 23:02:28 +0000",
+      "resumo": "Primeiro artigo de uma série de 20 dias mostra como o Claude, da Anthropic, ajuda professores a criar planos de aula alinhados à BNCC em minutos, em vez de horas. O post Claude cria planos de aula ali"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFTO abre 1.735 vagas para Cursos Técnicos integrados ao Ensino Médio em diversas áreas",
+      "url": "https://www.pebsp.com/ifto-abre-1-735-vagas-para-cursos-tecnicos-integrados-ao-ensino-medio-em-diversas-areas-dcs/",
+      "data": "Mon, 27 Jul 2026 21:28:25 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) publicou o Edital Nº 70/2026/REI/IFTO, com a abertura do Processo Seletivo para os cursos do Ensino Médio Integrado 2027 (PS I"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "5 Cursos de Inverno da FFLCH-USP sobre Política, História e Sociedade com Inscrições Abertas",
+      "url": "https://www.pebsp.com/5-cursos-de-inverno-da-fflch-usp-sobre-politica-historia-e-sociedade/",
+      "data": "Mon, 27 Jul 2026 21:13:32 +0000",
+      "resumo": "Cinco cursos gratuitos e on-line do Grupo 4 dos Cursos de Inverno da FFLCH-USP reunem historia, ciencia politica e estudos de genero, com inscricoes ate 28 de julho de 2026. O post 5 Cursos de Inverno"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Qual estado paga melhor? Ranking mostra salário de professores estaduais",
+      "url": "https://www.pebsp.com/qual-estado-paga-melhor-ranking-mostra-salario-de-professores-estaduais/",
+      "data": "Mon, 27 Jul 2026 20:53:38 +0000",
+      "resumo": "Um novo levantamento do Movimento Profissão Docente, divulgado em janeiro de 2026, traz o retrato mais atual da remuneração docente nas 26 redes estaduais e no Distrito Federal. Os dados, válidos até "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre novas vagas para curso gratuito de Português como Língua de Acolhimento na Educação Básica com certificado de 120 horas",
+      "url": "https://conectaprofessores.com/2026/07/27/mec-abre-novas-vagas-para-curso-gratuito-de-portugues-como-lingua-de-acolhimento-na-educacao-basica-com-certificado-de-120-horas/",
+      "data": "Tue, 28 Jul 2026 01:26:14 +0000",
+      "resumo": "O MEC lançou um curso gratuito de Português como Língua de Acolhimento, voltado para profissionais da educação que desejam melhorar a inclusão de estudantes migrantes e refugiados. Com 120 horas onlin"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Enap oferece curso gratuito de Inovações em Tecnologia Educacional com certificado",
+      "url": "https://conectaprofessores.com/2026/07/27/enap-oferece-curso-gratuito-de-inovacoes-em-tecnologia-educacional-com-certificado/",
+      "data": "Tue, 28 Jul 2026 01:11:54 +0000",
+      "resumo": "A Escola Nacional de Administração Pública (Enap) oferece um curso gratuito online de 25 horas sobre Inovações em Tecnologia Educacional, voltado para professores e profissionais da educação. O curso "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC e Itaú Social lançam curso gratuito com mais de 500 mil vagas sobre organização de ambientes na Educação Infantil",
+      "url": "https://conectaprofessores.com/2026/07/27/mec-e-itau-social-lancam-curso-gratuito-com-mais-de-500-mil-vagas-sobre-organizacao-de-ambientes-na-educacao-infantil/",
+      "data": "Tue, 28 Jul 2026 00:22:01 +0000",
+      "resumo": "O Ministério da Educação, em parceria com o Itaú Social, oferece 500 mil vagas para o curso gratuito \"Organização de Ambientes na Educação Infantil\" na plataforma AVAMEC. Com 10 horas de carga horária"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC e Itaú Social abrem mais de 500 mil vagas para curso gratuito sobre avaliação da qualidade na Educação Infantil",
+      "url": "https://conectaprofessores.com/2026/07/27/mec-e-itau-social-abrem-mais-de-500-mil-vagas-para-curso-gratuito-sobre-avaliacao-da-qualidade-na-educacao-infantil/",
+      "data": "Mon, 27 Jul 2026 23:41:13 +0000",
+      "resumo": "O Ministério da Educação, em parceria com o Itaú Social, oferece 500 mil vagas para o curso gratuito sobre Avaliação da Qualidade na Educação Infantil, voltado para diretores e gestores. Com 30 horas "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC e Itaú Social abrem mais de 500 mil vagas em curso gratuito para professores da Educação Infantil",
+      "url": "https://conectaprofessores.com/2026/07/27/mec-e-itau-social-abrem-mais-de-500-mil-vagas-em-curso-gratuito-para-professores-da-educacao-infantil/",
+      "data": "Mon, 27 Jul 2026 23:14:59 +0000",
+      "resumo": "O Ministério da Educação, em parceria com o Itaú Social, oferece 500 mil vagas em um curso gratuito para profissionais da Educação Infantil, focado no acompanhamento pedagógico. Com 30 horas de carga "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC abre novas vagas em julho para curso gratuito de Educação e Tecnologia com certificado de 180 horas",
+      "url": "https://conectaprofessores.com/2026/07/27/mec-abre-novas-vagas-em-julho-para-curso-gratuito-de-educacao-e-tecnologia-com-certificado-de-180-horas/",
+      "data": "Mon, 27 Jul 2026 20:35:51 +0000",
+      "resumo": "O Ministério da Educação (MEC) abriu novas vagas para o Curso de Aperfeiçoamento em Educação e Tecnologia, gratuito e online, voltado a professores da Educação Básica. Com 180 horas, o curso visa capa"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC amplia oportunidades para professores com cursos gratuitos e benefícios em julho de 2026",
+      "url": "https://conectaprofessores.com/2026/07/26/mec-amplia-oportunidades-para-professores-com-cursos-gratuitos-e-beneficios-em-julho-de-2026/",
+      "data": "Mon, 27 Jul 2026 02:07:57 +0000",
+      "resumo": "Em julho de 2026, o Programa Mais Professores, do MEC, oferece diversas oportunidades de qualificação para educadores e estudantes de licenciatura. Por meio do Portal Formação, é possível acessar curs"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal abre seleção para Mediador Pedagógico da UAB com bolsa de R$ 1.100",
+      "url": "https://conectaprofessores.com/2026/07/26/instituto-federal-abre-selecao-para-mediador-pedagogico-da-uab-com-bolsa-de-r-1-100/",
+      "data": "Mon, 27 Jul 2026 01:25:39 +0000",
+      "resumo": "O IFRN está com inscrições abertas até 3 de agosto de 2026 para um Processo Seletivo Simplificado visando formar cadastro de reserva de Mediadores Pedagógicos da UAB, oferecendo bolsa mensal de R$ 1.1"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "letras para imprimir",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Letras para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de letras para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de letras para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar letras para imprimir em casa: guia passo a passo para pais e professores",
+          "Letras para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em letras para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que letras para imprimir está entre as buscas mais quentes de pais e professores",
+          "Letras para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Letras para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caligrafia para imprimir pdf",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caligrafia para imprimir pdf para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caligrafia para imprimir pdf por nível — do mais fácil ao mais avançado",
+          "20 fichas de caligrafia para imprimir pdf alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caligrafia para imprimir pdf em casa: guia passo a passo para pais e professores",
+          "Caligrafia para imprimir pdf: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caligrafia para imprimir pdf: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caligrafia para imprimir pdf está entre as buscas mais quentes de pais e professores",
+          "Caligrafia para imprimir pdf em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caligrafia para imprimir pdf: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caligrafia para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "para que serve probiótico para cachorro",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de que seu cachorro precisa de para que serve probiótico para cachorro",
+          "20 benefícios de para que serve probiótico para cachorro que todo tutor deveria conhecer",
+          "20 dúvidas sobre para que serve probiótico para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar para que serve probiótico para cachorro no seu cachorro: guia completo para tutores",
+          "Para que serve probiótico para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre para que serve probiótico para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que para que serve probiótico para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Para que serve probiótico para cachorro: o que os veterinários estão recomendando em 2026",
+          "Para que serve probiótico para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'para que serve probiótico para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "letras alfabeto para imprimir",
+      "score": 98.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Letras alfabeto para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de letras alfabeto para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de letras alfabeto para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar letras alfabeto para imprimir em casa: guia passo a passo para pais e professores",
+          "Letras alfabeto para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em letras alfabeto para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que letras alfabeto para imprimir está entre as buscas mais quentes de pais e professores",
+          "Letras alfabeto para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Letras alfabeto para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras alfabeto para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "jardim",
+      "score": 84.7,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de jardim para quem está começando do zero",
+          "20 erros em jardim que matam suas plantas (evite estes)",
+          "20 ideias de jardim baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer jardim em casa: passo a passo para iniciantes",
+          "Jardim: o guia definitivo para 2026",
+          "Tudo sobre jardim: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que jardim virou febre nas redes sociais",
+          "Jardim: a tendência que domina os jardins em 2026",
+          "Jardim em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'jardim' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como plantar",
+      "score": 78.4,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de como plantar para quem está começando do zero",
+          "20 erros em como plantar que matam suas plantas (evite estes)",
+          "20 ideias de como plantar baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como plantar em casa: passo a passo para iniciantes",
+          "Como plantar: o guia definitivo para 2026",
+          "Tudo sobre como plantar: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como plantar virou febre nas redes sociais",
+          "Como plantar: a tendência que domina os jardins em 2026",
+          "Como plantar em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como plantar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caligrafia para imprimir letra cursiva",
+      "score": 77.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caligrafia para imprimir letra cursiva para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caligrafia para imprimir letra cursiva por nível — do mais fácil ao mais avançado",
+          "20 fichas de caligrafia para imprimir letra cursiva alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caligrafia para imprimir letra cursiva em casa: guia passo a passo para pais e professores",
+          "Caligrafia para imprimir letra cursiva: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caligrafia para imprimir letra cursiva: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caligrafia para imprimir letra cursiva está entre as buscas mais quentes de pais e professores",
+          "Caligrafia para imprimir letra cursiva em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caligrafia para imprimir letra cursiva: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caligrafia para imprimir letra cursiva' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caderno de caligrafia para imprimir",
+      "score": 74.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caderno de caligrafia para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caderno de caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de caderno de caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caderno de caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Caderno de caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caderno de caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caderno de caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Caderno de caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caderno de caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caderno de caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "probiótico para cachorro com diarreia",
+      "score": 73.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de que seu cachorro precisa de probiótico para cachorro com diarreia",
+          "20 benefícios de probiótico para cachorro com diarreia que todo tutor deveria conhecer",
+          "20 dúvidas sobre probiótico para cachorro com diarreia respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiótico para cachorro com diarreia no seu cachorro: guia completo para tutores",
+          "Probiótico para cachorro com diarreia: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiótico para cachorro com diarreia: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiótico para cachorro com diarreia está entre as buscas mais quentes de tutores de pets",
+          "Probiótico para cachorro com diarreia: o que os veterinários estão recomendando em 2026",
+          "Probiótico para cachorro com diarreia em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiótico para cachorro com diarreia' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "plantas que",
+      "score": 69.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 dicas de plantas que para quem está começando do zero",
+          "15 erros em plantas que que matam suas plantas (evite estes)",
+          "15 ideias de plantas que baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer plantas que em casa: passo a passo para iniciantes",
+          "Plantas que: o guia definitivo para 2026",
+          "Tudo sobre plantas que: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que plantas que virou febre nas redes sociais",
+          "Plantas que: a tendência que domina os jardins em 2026",
+          "Plantas que em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'plantas que' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "probiotico cachorro",
+      "score": 64.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de probiotico cachorro",
+          "15 benefícios de probiotico cachorro que todo tutor deveria conhecer",
+          "15 dúvidas sobre probiotico cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiotico cachorro no seu cachorro: guia completo para tutores",
+          "Probiotico cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiotico cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiotico cachorro está entre as buscas mais quentes de tutores de pets",
+          "Probiotico cachorro: o que os veterinários estão recomendando em 2026",
+          "Probiotico cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiotico cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "dia dos pais",
+      "score": 34.6,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de dia dos pais para fazer em casa (com molde grátis)",
+          "15 modelos de dia dos pais para imprimir e usar agora",
+          "15 inspirações de dia dos pais que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer dia dos pais: passo a passo fácil para iniciantes",
+          "Dia dos pais: como criar em casa sem gastar muito",
+          "Tudo sobre dia dos pais em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que dia dos pais está entre as buscas mais quentes do Brasil",
+          "Dia dos pais: as tendências que dominam em 2026",
+          "Dia dos pais em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dia dos pais' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como fazer muda",
+      "score": 26.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de como fazer muda para quem está começando do zero",
+          "10 erros em como fazer muda que matam suas plantas (evite estes)",
+          "10 ideias de como fazer muda baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como fazer muda em casa: passo a passo para iniciantes",
+          "Como fazer muda: o guia definitivo para 2026",
+          "Tudo sobre como fazer muda: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como fazer muda virou febre nas redes sociais",
+          "Como fazer muda: a tendência que domina os jardins em 2026",
+          "Como fazer muda em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como fazer muda' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "flores",
+      "score": 25.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de flores para quem está começando do zero",
+          "10 erros em flores que matam suas plantas (evite estes)",
+          "10 ideias de flores baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer flores em casa: passo a passo para iniciantes",
+          "Flores: o guia definitivo para 2026",
+          "Tudo sobre flores: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que flores virou febre nas redes sociais",
+          "Flores: a tendência que domina os jardins em 2026",
+          "Flores em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'flores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "carnaval",
+      "score": 15.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de carnaval para fazer em casa (com molde grátis)",
+          "10 modelos de carnaval para imprimir e usar agora",
+          "10 inspirações de carnaval que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer carnaval: passo a passo fácil para iniciantes",
+          "Carnaval: como criar em casa sem gastar muito",
+          "Tudo sobre carnaval em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que carnaval está entre as buscas mais quentes do Brasil",
+          "Carnaval: as tendências que dominam em 2026",
+          "Carnaval em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'carnaval' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "probiotico para diarreia",
+      "score": 14.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de probiotico para diarreia",
+          "10 benefícios de probiotico para diarreia que todo tutor deveria conhecer",
+          "10 dúvidas sobre probiotico para diarreia respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiotico para diarreia no seu cachorro: guia completo para tutores",
+          "Probiotico para diarreia: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiotico para diarreia: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiotico para diarreia está entre as buscas mais quentes de tutores de pets",
+          "Probiotico para diarreia: o que os veterinários estão recomendando em 2026",
+          "Probiotico para diarreia em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiotico para diarreia' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "probiótico para cachorro com diarreia como usar",
+      "score": 11.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de probiótico para cachorro com diarreia como usar",
+          "10 benefícios de probiótico para cachorro com diarreia como usar que todo tutor deveria conhecer",
+          "10 dúvidas sobre probiótico para cachorro com diarreia como usar respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiótico para cachorro com diarreia como usar no seu cachorro: guia completo para tutores",
+          "Probiótico para cachorro com diarreia como usar: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiótico para cachorro com diarreia como usar: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiótico para cachorro com diarreia como usar está entre as buscas mais quentes de tutores de pets",
+          "Probiótico para cachorro com diarreia como usar: o que os veterinários estão recomendando em 2026",
+          "Probiótico para cachorro com diarreia como usar em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiótico para cachorro com diarreia como usar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "halloween",
+      "score": 5.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de halloween para fazer em casa (com molde grátis)",
+          "10 modelos de halloween para imprimir e usar agora",
+          "10 inspirações de halloween que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer halloween: passo a passo fácil para iniciantes",
+          "Halloween: como criar em casa sem gastar muito",
+          "Tudo sobre halloween em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que halloween está entre as buscas mais quentes do Brasil",
+          "Halloween: as tendências que dominam em 2026",
+          "Halloween em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'halloween' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "ano novo",
+      "score": 5.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de ano novo para fazer em casa (com molde grátis)",
+          "10 modelos de ano novo para imprimir e usar agora",
+          "10 inspirações de ano novo que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer ano novo: passo a passo fácil para iniciantes",
+          "Ano novo: como criar em casa sem gastar muito",
+          "Tudo sobre ano novo em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que ano novo está entre as buscas mais quentes do Brasil",
+          "Ano novo: as tendências que dominam em 2026",
+          "Ano novo em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ano novo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "dia das crianças",
+      "score": 1.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de dia das crianças para fazer em casa (com molde grátis)",
+          "10 modelos de dia das crianças para imprimir e usar agora",
+          "10 inspirações de dia das crianças que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer dia das crianças: passo a passo fácil para iniciantes",
+          "Dia das crianças: como criar em casa sem gastar muito",
+          "Tudo sobre dia das crianças em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que dia das crianças está entre as buscas mais quentes do Brasil",
+          "Dia das crianças: as tendências que dominam em 2026",
+          "Dia das crianças em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dia das crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    }
+  ]
+}
