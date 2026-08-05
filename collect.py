@@ -195,8 +195,9 @@ NICHOS = {
 }
 
 
-def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
+def collect_google_trends(nicho_key: str, nicho_data: dict, termos_recentes: set | None = None) -> dict:
     result = {"trending": [], "related_top": [], "related_rising": [], "seeds": []}
+    termos_recentes = termos_recentes or set()
     try:
         from pytrends.request import TrendReq
         pt = TrendReq(hl="pt-BR", tz=180)
@@ -243,27 +244,39 @@ def collect_google_trends(nicho_key: str, nicho_data: dict) -> dict:
                 top_df = data_kw.get("top")
                 rising_df = data_kw.get("rising")
 
+                # Desce no ranking do Google Trends (já vem ordenado por valor/crescimento)
+                # até achar termos ainda não usados nos últimos 4 dias para este nicho.
                 if top_df is not None and not top_df.empty:
-                    for _, row in top_df.head(5).iterrows():
+                    adicionados = 0
+                    for _, row in top_df.iterrows():
+                        if adicionados >= 5:
+                            break
                         q = row["query"]
-                        if q not in seen_queries and q not in seeds_set:
-                            seen_queries.add(q)
-                            result["related_top"].append({
-                                "termo": q,
-                                "valor": int(row["value"]),
-                                "base": kw,
-                            })
+                        if q in seen_queries or q in seeds_set or q in termos_recentes:
+                            continue
+                        seen_queries.add(q)
+                        result["related_top"].append({
+                            "termo": q,
+                            "valor": int(row["value"]),
+                            "base": kw,
+                        })
+                        adicionados += 1
 
                 if rising_df is not None and not rising_df.empty:
-                    for _, row in rising_df.head(3).iterrows():
+                    adicionados = 0
+                    for _, row in rising_df.iterrows():
+                        if adicionados >= 3:
+                            break
                         q = row["query"]
-                        if q not in seen_queries and q not in seeds_set:
-                            seen_queries.add(q)
-                            result["related_rising"].append({
-                                "termo": q,
-                                "valor": str(row["value"]),
-                                "base": kw,
-                            })
+                        if q in seen_queries or q in seeds_set or q in termos_recentes:
+                            continue
+                        seen_queries.add(q)
+                        result["related_rising"].append({
+                            "termo": q,
+                            "valor": str(row["value"]),
+                            "base": kw,
+                        })
+                        adicionados += 1
 
                 time.sleep(8)
             except Exception as e:
@@ -501,9 +514,8 @@ def _gera_titulos(termo: str, nicho_key: str, ano: int, n: int) -> dict:
     }
 
 
-def _termos_recentes(dias: int = 4) -> dict[str, set]:
-    """Termos usados como pauta em cada nicho nos últimos `dias` dias (não conta hoje)."""
-    usados: dict[str, set] = {}
+def _dados_recentes(dias: int):
+    """Gera os JSONs de coleta dos últimos `dias` dias que existirem (não conta hoje)."""
     hoje = date.today()
     for i in range(1, dias + 1):
         arquivo = DATA_DIR / f"{(hoje - timedelta(days=i)).isoformat()}.json"
@@ -511,18 +523,38 @@ def _termos_recentes(dias: int = 4) -> dict[str, set]:
             continue
         try:
             with open(arquivo, encoding="utf-8") as f:
-                dados = json.load(f)
+                yield json.load(f)
         except (json.JSONDecodeError, OSError):
             continue
+
+
+def _termos_pautas_recentes(dias: int = 4) -> dict[str, set]:
+    """Termos usados como pauta em cada nicho nos últimos `dias` dias."""
+    usados: dict[str, set] = {}
+    for dados in _dados_recentes(dias):
         for p in dados.get("pautas", []):
             usados.setdefault(p["nicho_key"], set()).add(p["termo_base"])
+    return usados
+
+
+def _termos_gt_recentes(dias: int = 4) -> dict[str, set]:
+    """Termos já mostrados em Variações/Subindo agora por nicho nos últimos `dias` dias."""
+    usados: dict[str, set] = {}
+    for dados in _dados_recentes(dias):
+        for nicho_key, nicho_data in dados.get("nichos", {}).items():
+            gt = nicho_data.get("google_trends", {})
+            termos = usados.setdefault(nicho_key, set())
+            for item in gt.get("related_top", []):
+                termos.add(item["termo"])
+            for item in gt.get("related_rising", []):
+                termos.add(item["termo"])
     return usados
 
 
 def generate_pautas(result: dict) -> list:
     ano = datetime.utcnow().year
     pautas = []
-    termos_recentes = _termos_recentes(dias=4)
+    termos_recentes = _termos_pautas_recentes(dias=4)
 
     for nicho_key, nicho_data in result.get("nichos", {}).items():
         gt = nicho_data.get("google_trends", {})
@@ -659,11 +691,13 @@ def main():
         "site_updates": [],
     }
 
+    termos_gt_recentes = _termos_gt_recentes(dias=4)
+
     for key, nicho in NICHOS.items():
         log.info(f"── {nicho['label']} ──")
         result["nichos"][key] = {
             "label": nicho["label"],
-            "google_trends": collect_google_trends(key, nicho),
+            "google_trends": collect_google_trends(key, nicho, termos_gt_recentes.get(key, set())),
             "reddit": collect_reddit(key, nicho),
             "youtube": collect_youtube(key, nicho),
         }
