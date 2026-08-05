@@ -501,12 +501,32 @@ def _gera_titulos(termo: str, nicho_key: str, ano: int, n: int) -> dict:
     }
 
 
+def _termos_recentes(dias: int = 4) -> dict[str, set]:
+    """Termos usados como pauta em cada nicho nos últimos `dias` dias (não conta hoje)."""
+    usados: dict[str, set] = {}
+    hoje = date.today()
+    for i in range(1, dias + 1):
+        arquivo = DATA_DIR / f"{(hoje - timedelta(days=i)).isoformat()}.json"
+        if not arquivo.exists():
+            continue
+        try:
+            with open(arquivo, encoding="utf-8") as f:
+                dados = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+        for p in dados.get("pautas", []):
+            usados.setdefault(p["nicho_key"], set()).add(p["termo_base"])
+    return usados
+
+
 def generate_pautas(result: dict) -> list:
     ano = datetime.utcnow().year
     pautas = []
+    termos_recentes = _termos_recentes(dias=4)
 
     for nicho_key, nicho_data in result.get("nichos", {}).items():
         gt = nicho_data.get("google_trends", {})
+        usados_nicho = termos_recentes.get(nicho_key, set())
 
         # Monta pool de termos com score
         pool = []
@@ -517,11 +537,14 @@ def generate_pautas(result: dict) -> list:
         for item in gt.get("seeds", []):
             pool.append({"termo": item["termo"], "score": float(item.get("valor", 10))})
 
-        # Deduplica e ordena
+        # Deduplica e ordena, pulando termos já sugeridos nos últimos 4 dias
+        # (desce no ranking até achar o próximo termo com volume ainda não usado).
+        # Não há fallback para reintroduzir termos usados: alguns nichos podem
+        # gerar menos de 5 pautas em dias com pool pequeno — preferível a repetir.
         seen = set()
         pool_uniq = []
         for it in sorted(pool, key=lambda x: x["score"], reverse=True):
-            if it["termo"] not in seen:
+            if it["termo"] not in seen and it["termo"] not in usados_nicho:
                 seen.add(it["termo"])
                 pool_uniq.append(it)
 
