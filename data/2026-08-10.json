@@ -1,0 +1,1159 @@
+{
+  "date": "2026-08-10",
+  "collected_at": "2026-08-10T10:55:36.787516",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "alfabeto para imprimir",
+            "valor": 61.5
+          },
+          {
+            "termo": "atividades de alfabetização 1 ano",
+            "valor": 24.0
+          },
+          {
+            "termo": "caligrafia para imprimir",
+            "valor": 11.1
+          },
+          {
+            "termo": "atividades de alfabetização 2 ano",
+            "valor": 10.6
+          },
+          {
+            "termo": "sílabas para imprimir",
+            "valor": 9.2
+          },
+          {
+            "termo": "atividades de alfabetização 3 ano",
+            "valor": 7.5
+          },
+          {
+            "termo": "vogais para imprimir",
+            "valor": 5.8
+          },
+          {
+            "termo": "atividades para maternal 2 para imprimir",
+            "valor": 3.1
+          },
+          {
+            "termo": "atividades de alfabetização para crianças com tdah",
+            "valor": 3.1
+          },
+          {
+            "termo": "atividades de leitura para imprimir",
+            "valor": 1.2
+          },
+          {
+            "termo": "atividades de escrita para imprimir",
+            "valor": 0.5
+          },
+          {
+            "termo": "fichas de alfabetização para imprimir",
+            "valor": 0.2
+          },
+          {
+            "termo": "atividades para criança com dificuldade de aprendizagem",
+            "valor": 0.1
+          },
+          {
+            "termo": "atividades para berçário para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades para maternal 1 para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades para jardim para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades para pré-escola para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades de alfabetização para crianças com dislexia",
+            "valor": 0.0
+          },
+          {
+            "termo": "método fônico atividades para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "como ensinar a ler criança com dificuldade",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "capa para portfólio educação infantil",
+            "valor": 100,
+            "base": "portfólio educação infantil"
+          }
+        ],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "plano de aula bncc educação infantil",
+            "valor": 32.8
+          },
+          {
+            "termo": "atividades de história para imprimir",
+            "valor": 21.2
+          },
+          {
+            "termo": "atividades de artes para imprimir",
+            "valor": 16.3
+          },
+          {
+            "termo": "portfólio educação infantil",
+            "valor": 13.7
+          },
+          {
+            "termo": "atividades de matemática 5 ano para imprimir",
+            "valor": 8.6
+          },
+          {
+            "termo": "atividades de ciências para imprimir",
+            "valor": 7.9
+          },
+          {
+            "termo": "atividades de matemática 4 ano para imprimir",
+            "valor": 4.4
+          },
+          {
+            "termo": "contas de multiplicação para imprimir",
+            "valor": 4.2
+          },
+          {
+            "termo": "contas de subtração para imprimir",
+            "valor": 3.6
+          },
+          {
+            "termo": "maquete do sistema solar como fazer",
+            "valor": 1.4
+          },
+          {
+            "termo": "ata de reunião de pais e mestres",
+            "valor": 0.0
+          },
+          {
+            "termo": "ficha de observação do aluno",
+            "valor": 0.0
+          },
+          {
+            "termo": "relatório individual de aluno educação infantil",
+            "valor": 0.0
+          },
+          {
+            "termo": "contas de divisão para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "projetos escolares ensino fundamental",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "como brincar com bebê",
+            "valor": 21.4
+          },
+          {
+            "termo": "brinquedos educativos para crianças",
+            "valor": 15.9
+          },
+          {
+            "termo": "método montessori",
+            "valor": 12.1
+          },
+          {
+            "termo": "marcos do desenvolvimento infantil",
+            "valor": 9.7
+          },
+          {
+            "termo": "ansiedade em crianças",
+            "valor": 6.2
+          },
+          {
+            "termo": "desenvolvimento cognitivo infantil",
+            "valor": 4.2
+          },
+          {
+            "termo": "estimulação precoce",
+            "valor": 4.0
+          },
+          {
+            "termo": "desenvolvimento motor infantil",
+            "valor": 3.5
+          },
+          {
+            "termo": "criança hiperativa o que fazer",
+            "valor": 3.3
+          },
+          {
+            "termo": "choro excessivo bebê",
+            "valor": 2.0
+          },
+          {
+            "termo": "como colocar limites nos filhos",
+            "valor": 0.1
+          },
+          {
+            "termo": "como estimular bebê em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "birra infantil como lidar",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades montessori em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades para estimular criança em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "BNCC para concurso de professor",
+            "valor": 3.1
+          },
+          {
+            "termo": "plano de aula para concurso professor",
+            "valor": 0.0
+          },
+          {
+            "termo": "prova didática concurso professor",
+            "valor": 0.0
+          },
+          {
+            "termo": "como fazer plano de aula para concurso",
+            "valor": 0.0
+          },
+          {
+            "termo": "legislação educacional concurso professor",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 13/08 as inscrições para a especialização gratuita a distância em Gestão Escolar da Uneal",
+      "url": "https://infoeducacao.com.br/terminam-em-13-08-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-escolar-da-uneal/",
+      "data": "Mon, 10 Aug 2026 08:24:37 +0000",
+      "resumo": "A Universidade Estadual de Alagoas (Uneal) abriu 150 vagas na especialização gratuita a distância em Gestão Escolar, que será ofertada The post Terminam em 13/08 as inscrições para a especialização gr"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam hoje as inscrições para os 26 cursos de especialização gratuitos online, híbridos ou presenciais do IFRJ",
+      "url": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-os-26-cursos-de-especializacao-gratuitos-online-hibridos-ou-presenciais-do-ifrj/",
+      "data": "Mon, 10 Aug 2026 08:10:22 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro &#8211; IFRJ abre hoje as inscrições para 26 The post Começam hoje as inscrições para os 26 cursos de especialização gratuitos o"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Cursos de mestrado profissional gratuitos abrem 3.789 vagas para 2027",
+      "url": "https://infoeducacao.com.br/cursos-de-mestrado-profissional-gratuitos-abrem-3-789-vagas-para-2027/",
+      "data": "Sun, 09 Aug 2026 14:51:35 +0000",
+      "resumo": "As pessoas interessadas em realizar um mestrado profissional gratuito em 2027 contam com oportunidades em cinco cursos, que serão ofertados The post Cursos de mestrado profissional gratuitos abrem 3.7"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Uneal abre 150 vagas na especialização gratuita a distância em Educação Inclusiva",
+      "url": "https://infoeducacao.com.br/uneal-abre-150-vagas-na-especializacao-gratuita-a-distancia-em-educacao-inclusiva/",
+      "data": "Sun, 09 Aug 2026 14:17:04 +0000",
+      "resumo": "A Universidade Estadual de Alagoas (Uneal) abriu 150 vagas na especialização gratuita a distância em Educação Inclusiva, que será ofertada The post Uneal abre 150 vagas na especialização gratuita a di"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Instituto Oceanográfico da USP abre 200 vagas em curso gratuito 100% online 2026",
+      "url": "https://infoeducacao.com.br/instituto-oceanografico-da-usp-abre-200-vagas-em-curso-gratuito-100-online-2026/",
+      "data": "Sun, 09 Aug 2026 08:57:20 +0000",
+      "resumo": "As pessoas interessadas em concorrer às 200 vagas existentes no curso gratuito online, que será ofertado pelo Instituto Oceanográfico da The post Instituto Oceanográfico da USP abre 200 vagas em curso"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "ProfEducatec 2027: Mestrado Profissional gratuito em Processos e Tecnologias Educacionais abre 130 vagas",
+      "url": "https://infoeducacao.com.br/profeducatec-2027-mestrado-profissional-gratuito-em-processos-e-tecnologias-educacionais-abre-130-vagas/",
+      "data": "Sat, 08 Aug 2026 13:01:17 +0000",
+      "resumo": "O Mestrado Profissional gratuito em Processos e Tecnologias Educacionais (ProfEducatec) abriu 130 vagas para o ano de 2027, que serão The post ProfEducatec 2027: Mestrado Profissional gratuito em Proc"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "PROFMAT 2027: inscrições abertas para 1848 vagas em mestrado profissional gratuito",
+      "url": "https://infoeducacao.com.br/profmat-2027-inscricoes-abertas-para-1848-vagas-em-mestrado-profissional-gratuito/",
+      "data": "Sat, 08 Aug 2026 11:58:56 +0000",
+      "resumo": "Estão abertas as inscrições para o Profmat 2027, o Mestrado Profissional gratuito em Matemática em Rede Nacional, que ofertará 1848 The post PROFMAT 2027: inscrições abertas para 1848 vagas em mestrad"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para o curso superior gratuito a distância de Tecnologia em Gestão Pública",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-superior-gratuito-a-distancia-de-tecnologia-em-gestao-publica/",
+      "data": "Sat, 08 Aug 2026 08:53:36 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – IFRN abriu inscrições para o processo The post Inscrições abertas para o curso superior gratuito a distância de Tecnologi"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFPR abre centenas de vagas gratuitas nos Cursos Técnicos para 2027",
+      "url": "https://www.pebsp.com/ifpr-abre-centenas-de-vagas-gratuitas-nos-cursos-tecnicos-integrados-ao-ensino-medio-dcs/",
+      "data": "Mon, 10 Aug 2026 11:11:10 +0000",
+      "resumo": "O Instituto Federal do Paraná (IFPR) recebe inscrições para o Processo Seletivo 2027 com vagas em cursos técnicos integrados ao ensino médio, destinados a estudantes que já concluíram ou estão finaliz"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Mestrado em Computação do MEC abre 340 vagas em 16 instituições – PROFCOMP",
+      "url": "https://www.pebsp.com/mestrado-em-computacao-do-mec-abre-340-vagas-em-16-instituicoes-profcomp/",
+      "data": "Mon, 10 Aug 2026 09:00:32 +0000",
+      "resumo": "PROFCOMP abre inscrições de mestrado para professores de Computação até 18/08/2026. Prova em 13/09, coordenação da SBC. Veja o cronograma completo. O post Mestrado em Computação do MEC abre 340 vagas "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal abre 120 Vagas para MBA em Gestão de Instituições Públicas EAD",
+      "url": "https://www.pebsp.com/instituto-federal-abre-120-vagas-para-mba-em-gestao-de-instituicoes-publicas-ead/",
+      "data": "Mon, 10 Aug 2026 06:45:50 +0000",
+      "resumo": "IFRO retifica edital do MBA EaD em Gestão de Instituições Públicas. Agora aceita certificado ou declaração além do diploma. Inscrições até 12/08/2026. O post Instituto Federal abre 120 Vagas para MBA "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Escolas particulares preveem reajuste de até 11% nas mensalidades em 2027",
+      "url": "https://www.pebsp.com/escolas-particulares-preveem-reajuste-de-ate-11-nas-mensalidades-em-2027/",
+      "data": "Mon, 10 Aug 2026 03:05:06 +0000",
+      "resumo": "Mensalidades de escolas particulares de educação básica podem ter reajustes entre 7% e 11% em 2027. É o que aponta pesquisa da consultoria Meira Fernandes, especializada em gestão de instituições de e"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "2 Secretarias de Educação abrem seleções para professores em agosto de 2026",
+      "url": "https://www.pebsp.com/2-secretarias-de-educacao-abrem-selecoes-para-professores-em-agosto-de-2026/",
+      "data": "Mon, 10 Aug 2026 00:37:11 +0000",
+      "resumo": "SEDU-ES e SEED-PR abrem processos seletivos simplificados para professores com inscrições convergindo em agosto de 2026. Compare cargos, remuneração, forma de seleção e prazos dos dois editais. O post"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Secretaria da Educação abre seleção para Professores com Salários de até R$ 7 Mil",
+      "url": "https://www.pebsp.com/secretaria-da-educacao-abre-selecao-para-professores-com-salarios-de-ate-r-7-mil/",
+      "data": "Sun, 09 Aug 2026 19:20:56 +0000",
+      "resumo": "A Secretaria de Estado da Educação do Espírito Santo (SEDU) publicou o Edital de Processo Seletivo Simplificado nº 24/2026, destinado à contratação temporária de professores habilitados para atuação n"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "2 Universidades abrem 400 vagas para Especialização em Inteligência Artificial EAD",
+      "url": "https://www.pebsp.com/uem-e-unicentro-abrem-400-vagas-em-especializacao-gratuita-de-ia-para-servidores-do-parana/",
+      "data": "Sun, 09 Aug 2026 19:11:09 +0000",
+      "resumo": "Edital Conjunto 14/2026: UEM e Unicentro abrem 400 vagas em especialização gratuita em IA para servidores efetivos do Paraná. Inscrições até 18/08/2026. O post 2 Universidades abrem 400 vagas para Esp"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IF Baiano abre 1.568 vagas em cursos técnicos gratuitos e a distância em quatro polos",
+      "url": "https://www.pebsp.com/if-baiano-abre-1-568-vagas-em-cursos-tecnicos-gratuitos-e-a-distancia-em-quatro-polos-dcs/",
+      "data": "Sun, 09 Aug 2026 17:49:23 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia Baiano (IF Baiano) abriu inscrições em quatro campi para o processo seletivo de cursos técnicos subsequentes na modalidade EaD, com 1.568 vagas di"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece 1.000 vagas em curso gratuito de Formação de Professores em Neuroeducação EAD",
+      "url": "https://conectaprofessores.com/2026/08/09/mec-oferece-1-000-vagas-em-curso-gratuito-de-formacao-de-professores-em-neuroeducacao-ead/",
+      "data": "Mon, 10 Aug 2026 02:26:38 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece 1.000 vagas gratuitas para o curso de Formação de Professores em Neuroeducação, com 200 horas de carga horária em formato EAD. O curso é autodirigido, sem tutori"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado e doutorado em Geografia da UFPE recebem inscrições até 18 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/09/mestrado-e-doutorado-em-geografia-da-ufpe-recebem-inscricoes-ate-18-de-agosto/",
+      "data": "Mon, 10 Aug 2026 01:55:50 +0000",
+      "resumo": "A Universidade Federal de Pernambuco (UFPE) abriu o edital para seleção de 60 vagas em Mestrado e Doutorado em Geografia, com inscrições de 3 a 18 de agosto de 2026. O processo inclui ações afirmativa"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Especialização gratuita em Educação Inclusiva recebe inscrições até 13 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/09/especializacao-gratuita-em-educacao-inclusiva-recebe-inscricoes-ate-13-de-agosto/",
+      "data": "Mon, 10 Aug 2026 01:34:24 +0000",
+      "resumo": "A Universidade Estadual de Alagoas (Uneal) está com inscrições abertas para a Pós-Graduação Lato Sensu em Educação Inclusiva, disponível gratuitamente na modalidade EAD. São 150 vagas para qualificar "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "UFPE abre inscrições para mestrados e doutorados com vagas em diversas áreas",
+      "url": "https://conectaprofessores.com/2026/08/09/ufpe-abre-inscricoes-para-mestrados-e-doutorados-com-vagas-em-diversas-areas/",
+      "data": "Sun, 09 Aug 2026 15:59:36 +0000",
+      "resumo": "A Universidade Federal de Pernambuco (UFPE) está com inscrições abertas para mestrado e doutorado em diversas áreas, como Geografia, Sociologia e Engenharia de Produção. As inscrições têm prazos varia"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "IF abre seleção para Assistente Pedagógico EaD com bolsa de R$ 1.550; inscrições são gratuitas",
+      "url": "https://conectaprofessores.com/2026/08/09/if-abre-selecao-para-assistente-pedagogico-ead-com-bolsa-de-r-1-550-inscricoes-sao-gratuitas/",
+      "data": "Sun, 09 Aug 2026 15:08:27 +0000",
+      "resumo": "O Instituto Federal Baiano está com um processo seletivo aberto para o cargo de Assistente Pedagógico do Sistema UAB, oferecendo uma vaga e cadastro de reserva. O candidato deve ter graduação e experi"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "IF abre 200 novas vagas para curso gratuito de Aperfeiçoamento em Educação em Direitos Humanos; inscrições vão até 10 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/09/if-abre-200-novas-vagas-para-curso-gratuito-de-aperfeicoamento-em-educacao-em-direitos-humanos-inscricoes-vao-ate-10-de-agosto/",
+      "data": "Sun, 09 Aug 2026 14:38:43 +0000",
+      "resumo": "O Instituto Federal de Alagoas (IFAL) oferece 200 vagas gratuitas para o Curso de Aperfeiçoamento em Educação em Direitos Humanos e Prevenção das Violências, destinado a profissionais da educação bási"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Especialização EAD gratuita: 900 vagas em pós-graduação a distância com inscrições até 9 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/08/especializacao-ead-gratuita-900-vagas-em-pos-graduacao-a-distancia-com-inscricoes-ate-9-de-agosto/",
+      "data": "Sun, 09 Aug 2026 01:15:40 +0000",
+      "resumo": "A Universidade Federal do Vale do São Francisco (Univasf) oferece 900 vagas em cursos de pós-graduação lato sensu gratuitos na modalidade EAD. As inscrições vão até 9 de agosto, com cursos focados em "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Pé-de-Meia Licenciaturas 2026: Saiba Como Receber a Bolsa de R$ 1.050 por Mês",
+      "url": "https://conectaprofessores.com/2026/08/08/pe-de-meia-licenciaturas-2026-saiba-como-receber-a-bolsa-de-r-1-050-por-mes/",
+      "data": "Sun, 09 Aug 2026 00:09:24 +0000",
+      "resumo": "O Pé-de-Meia Licenciaturas 2026 oferece uma bolsa mensal de R$ 1.050 para estudantes de licenciatura com média igual ou superior a 650 no Enem, ingressando via Sisu, Prouni ou Fies. O programa visa au"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "capa para portfólio educação infantil",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Capa para portfólio educação infantil para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de capa para portfólio educação infantil por ano escolar — do 1° ao 5° ano",
+          "20 recursos de capa para portfólio educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar capa para portfólio educação infantil do zero: modelo completo e editável",
+          "Capa para portfólio educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre capa para portfólio educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que capa para portfólio educação infantil está entre os materiais mais baixados por educadores",
+          "Capa para portfólio educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Capa para portfólio educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'capa para portfólio educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "método montessori",
+      "score": 12.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de método montessori que todo pai precisa conhecer",
+          "10 atividades para estimular método montessori em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com método montessori a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com método montessori: guia completo para pais",
+          "Método montessori: o que é, como identificar e o que fazer em 2026",
+          "Como estimular método montessori no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre método montessori",
+          "Método montessori: o que as pesquisas mais recentes dizem em 2026",
+          "Método montessori em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'método montessori' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "atividades de alfabetização 2 ano",
+      "score": 10.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Atividades de alfabetização 2 ano para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de atividades de alfabetização 2 ano por nível — do mais fácil ao mais avançado",
+          "10 fichas de atividades de alfabetização 2 ano alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades de alfabetização 2 ano em casa: guia passo a passo para pais e professores",
+          "Atividades de alfabetização 2 ano: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades de alfabetização 2 ano: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades de alfabetização 2 ano está entre as buscas mais quentes de pais e professores",
+          "Atividades de alfabetização 2 ano em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades de alfabetização 2 ano: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de alfabetização 2 ano' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "sílabas para imprimir",
+      "score": 9.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Sílabas para imprimir para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de sílabas para imprimir por nível — do mais fácil ao mais avançado",
+          "10 fichas de sílabas para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar sílabas para imprimir em casa: guia passo a passo para pais e professores",
+          "Sílabas para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em sílabas para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que sílabas para imprimir está entre as buscas mais quentes de pais e professores",
+          "Sílabas para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Sílabas para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sílabas para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "atividades de alfabetização 3 ano",
+      "score": 7.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Atividades de alfabetização 3 ano para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de atividades de alfabetização 3 ano por nível — do mais fácil ao mais avançado",
+          "10 fichas de atividades de alfabetização 3 ano alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades de alfabetização 3 ano em casa: guia passo a passo para pais e professores",
+          "Atividades de alfabetização 3 ano: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades de alfabetização 3 ano: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades de alfabetização 3 ano está entre as buscas mais quentes de pais e professores",
+          "Atividades de alfabetização 3 ano em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades de alfabetização 3 ano: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de alfabetização 3 ano' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "criança hiperativa o que fazer",
+      "score": 3.3,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de criança hiperativa o que fazer que todo pai precisa conhecer",
+          "10 atividades para estimular criança hiperativa o que fazer em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com criança hiperativa o que fazer a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com criança hiperativa o que fazer: guia completo para pais",
+          "Criança hiperativa o que fazer: o que é, como identificar e o que fazer em 2026",
+          "Como estimular criança hiperativa o que fazer no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre criança hiperativa o que fazer",
+          "Criança hiperativa o que fazer: o que as pesquisas mais recentes dizem em 2026",
+          "Criança hiperativa o que fazer em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'criança hiperativa o que fazer' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "atividades para maternal 2 para imprimir",
+      "score": 3.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Atividades para maternal 2 para imprimir para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de atividades para maternal 2 para imprimir por nível — do mais fácil ao mais avançado",
+          "10 fichas de atividades para maternal 2 para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades para maternal 2 para imprimir em casa: guia passo a passo para pais e professores",
+          "Atividades para maternal 2 para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades para maternal 2 para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades para maternal 2 para imprimir está entre as buscas mais quentes de pais e professores",
+          "Atividades para maternal 2 para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades para maternal 2 para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para maternal 2 para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "atividades de alfabetização para crianças com tdah",
+      "score": 3.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Atividades de alfabetização para crianças com tdah para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de atividades de alfabetização para crianças com tdah por nível — do mais fácil ao mais avançado",
+          "10 fichas de atividades de alfabetização para crianças com tdah alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades de alfabetização para crianças com tdah em casa: guia passo a passo para pais e professores",
+          "Atividades de alfabetização para crianças com tdah: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades de alfabetização para crianças com tdah: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades de alfabetização para crianças com tdah está entre as buscas mais quentes de pais e professores",
+          "Atividades de alfabetização para crianças com tdah em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades de alfabetização para crianças com tdah: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de alfabetização para crianças com tdah' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "BNCC para concurso de professor",
+      "score": 3.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "BNCC para concurso de professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em BNCC para concurso de professor está movimentando educadores em 2026",
+          "BNCC para concurso de professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "BNCC para concurso de professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'BNCC para concurso de professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "choro excessivo bebê",
+      "score": 2.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de choro excessivo bebê que todo pai precisa conhecer",
+          "10 atividades para estimular choro excessivo bebê em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com choro excessivo bebê a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com choro excessivo bebê: guia completo para pais",
+          "Choro excessivo bebê: o que é, como identificar e o que fazer em 2026",
+          "Como estimular choro excessivo bebê no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre choro excessivo bebê",
+          "Choro excessivo bebê: o que as pesquisas mais recentes dizem em 2026",
+          "Choro excessivo bebê em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'choro excessivo bebê' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "como colocar limites nos filhos",
+      "score": 0.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de como colocar limites nos filhos que todo pai precisa conhecer",
+          "10 atividades para estimular como colocar limites nos filhos em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com como colocar limites nos filhos a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com como colocar limites nos filhos: guia completo para pais",
+          "Como colocar limites nos filhos: o que é, como identificar e o que fazer em 2026",
+          "Como estimular como colocar limites nos filhos no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre como colocar limites nos filhos",
+          "Como colocar limites nos filhos: o que as pesquisas mais recentes dizem em 2026",
+          "Como colocar limites nos filhos em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como colocar limites nos filhos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "ata de reunião de pais e mestres",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Ata de reunião de pais e mestres para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de ata de reunião de pais e mestres por ano escolar — do 1° ao 5° ano",
+          "10 recursos de ata de reunião de pais e mestres que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar ata de reunião de pais e mestres do zero: modelo completo e editável",
+          "Ata de reunião de pais e mestres: passo a passo para professores e coordenadores",
+          "Tudo sobre ata de reunião de pais e mestres em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que ata de reunião de pais e mestres está entre os materiais mais baixados por educadores",
+          "Ata de reunião de pais e mestres: o recurso que escolas inteiras adotaram em 2026",
+          "Ata de reunião de pais e mestres em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ata de reunião de pais e mestres' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "ficha de observação do aluno",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Ficha de observação do aluno para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de ficha de observação do aluno por ano escolar — do 1° ao 5° ano",
+          "10 recursos de ficha de observação do aluno que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar ficha de observação do aluno do zero: modelo completo e editável",
+          "Ficha de observação do aluno: passo a passo para professores e coordenadores",
+          "Tudo sobre ficha de observação do aluno em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que ficha de observação do aluno está entre os materiais mais baixados por educadores",
+          "Ficha de observação do aluno: o recurso que escolas inteiras adotaram em 2026",
+          "Ficha de observação do aluno em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ficha de observação do aluno' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "relatório individual de aluno educação infantil",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Relatório individual de aluno educação infantil para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de relatório individual de aluno educação infantil por ano escolar — do 1° ao 5° ano",
+          "10 recursos de relatório individual de aluno educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar relatório individual de aluno educação infantil do zero: modelo completo e editável",
+          "Relatório individual de aluno educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre relatório individual de aluno educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que relatório individual de aluno educação infantil está entre os materiais mais baixados por educadores",
+          "Relatório individual de aluno educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Relatório individual de aluno educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'relatório individual de aluno educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "contas de divisão para imprimir",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Contas de divisão para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de contas de divisão para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de contas de divisão para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar contas de divisão para imprimir do zero: modelo completo e editável",
+          "Contas de divisão para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre contas de divisão para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que contas de divisão para imprimir está entre os materiais mais baixados por educadores",
+          "Contas de divisão para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Contas de divisão para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'contas de divisão para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "como estimular bebê em casa",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de como estimular bebê em casa que todo pai precisa conhecer",
+          "10 atividades para estimular como estimular bebê em casa em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com como estimular bebê em casa a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com como estimular bebê em casa: guia completo para pais",
+          "Como estimular bebê em casa: o que é, como identificar e o que fazer em 2026",
+          "Como estimular como estimular bebê em casa no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre como estimular bebê em casa",
+          "Como estimular bebê em casa: o que as pesquisas mais recentes dizem em 2026",
+          "Como estimular bebê em casa em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como estimular bebê em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "plano de aula para concurso professor",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Plano de aula para concurso professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em plano de aula para concurso professor está movimentando educadores em 2026",
+          "Plano de aula para concurso professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "Plano de aula para concurso professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'plano de aula para concurso professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "prova didática concurso professor",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Prova didática concurso professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em prova didática concurso professor está movimentando educadores em 2026",
+          "Prova didática concurso professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "Prova didática concurso professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'prova didática concurso professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "termo_base": "legislação educacional concurso professor",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 concursos para professores com inscrições abertas em 2026",
+          "10 dicas para passar na prova didática de concurso público",
+          "10 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Legislação educacional concurso professor: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em legislação educacional concurso professor está movimentando educadores em 2026",
+          "Legislação educacional concurso professor: edital aberto e o que você precisa saber antes de se inscrever",
+          "Legislação educacional concurso professor em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'legislação educacional concurso professor' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    }
+  ]
+}
