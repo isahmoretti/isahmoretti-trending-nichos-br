@@ -1,0 +1,436 @@
+{
+  "date": "2026-08-11",
+  "collected_at": "2026-08-11T10:39:51.164059",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "jardim",
+            "valor": 83.3
+          },
+          {
+            "termo": "flores",
+            "valor": 25.6
+          },
+          {
+            "termo": "horta",
+            "valor": 2.1
+          },
+          {
+            "termo": "vegetais",
+            "valor": 1.5
+          },
+          {
+            "termo": "o que plantar",
+            "valor": 1.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Cursos gratuitos de mestrado e de doutorado em Educação Profissional abrem vagas para 2027",
+      "url": "https://infoeducacao.com.br/cursos-gratuitos-de-mestrado-e-de-doutorado-em-educacao-profissional-abrem-vagas-para-2027/",
+      "data": "Tue, 11 Aug 2026 09:45:30 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) está selecionando alunos para os cursos The post Cursos gratuitos de mestrado e de doutorado em Educação Profissiona"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam hoje as inscrições para a seleção de portadores de diploma da UFPR",
+      "url": "https://infoeducacao.com.br/terminam-hoja-as-inscricoes-para-a-selecao-de-portadores-de-diploma-da-ufpr/",
+      "data": "Tue, 11 Aug 2026 09:05:28 +0000",
+      "resumo": "A Universidade Federal do Paraná (UFPR) está recebendo inscrições de interessados em ocupar vagas remanescentes em cursos de graduação gratuitos, The post Terminam hoje as inscrições para a seleção de"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 12/08 as inscrições para os cursos gratuitos a distância ou presenciais do IFSP",
+      "url": "https://infoeducacao.com.br/terminam-em-12-08-as-inscricoes-para-os-cursos-gratuitos-a-distancia-ou-presenciais-do-ifsp/",
+      "data": "Mon, 10 Aug 2026 14:48:09 +0000",
+      "resumo": "Terminam no dia 12 de agosto de 2026 as inscrições para o processo seletivo, que visa preencher vagas nos cursos The post Terminam em 12/08 as inscrições para os cursos gratuitos a distância ou presen"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito online de Acessibilização Pedagógica e Metodológica seleciona alunos para vagas remanescentes",
+      "url": "https://infoeducacao.com.br/curso-gratuito-online-de-acessibilizacao-pedagogica-e-metodologica-seleciona-alunos-para-vagas-remanescentes/",
+      "data": "Mon, 10 Aug 2026 13:25:53 +0000",
+      "resumo": "O Instituto Federal de Educação do Espírito Santo (Ifes) está selecionando alunos para as vagas remanescentes do curso gratuito a The post Curso gratuito online de Acessibilização Pedagógica e Metodol"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Rede de Museus UFMG abre inscrições para curso gratuito a distância",
+      "url": "https://infoeducacao.com.br/rede-de-museus-ufmg-abre-inscricoes-para-curso-gratuito-a-distancia/",
+      "data": "Mon, 10 Aug 2026 13:00:14 +0000",
+      "resumo": "Estão abertas as inscrições para o curso gratuito a distância denominado &#8220;Educação museal e comunicação pública da ciência: interfaces e The post Rede de Museus UFMG abre inscrições para curso g"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Mestrado Profissional gratuito em Ensino de Computação em Rede Nacional abre 340 vagas",
+      "url": "https://infoeducacao.com.br/mestrado-profissional-gratuito-em-ensino-de-computacao-em-rede-nacional-abre-340-vagas/",
+      "data": "Mon, 10 Aug 2026 12:25:31 +0000",
+      "resumo": "Estão abertas as inscrições para a seleção do Mestrado Profissional gratuito em Ensino de Computação em Rede Nacional, que ofertará The post Mestrado Profissional gratuito em Ensino de Computação em R"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 13/08 as inscrições para a especialização gratuita a distância em Gestão Escolar da Uneal",
+      "url": "https://infoeducacao.com.br/terminam-em-13-08-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-escolar-da-uneal/",
+      "data": "Mon, 10 Aug 2026 08:24:37 +0000",
+      "resumo": "A Universidade Estadual de Alagoas (Uneal) abriu 150 vagas na especialização gratuita a distância em Gestão Escolar, que será ofertada The post Terminam em 13/08 as inscrições para a especialização gr"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam hoje as inscrições para os 26 cursos de especialização gratuitos online, híbridos ou presenciais do IFRJ",
+      "url": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-os-26-cursos-de-especializacao-gratuitos-online-hibridos-ou-presenciais-do-ifrj/",
+      "data": "Mon, 10 Aug 2026 08:10:22 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro &#8211; IFRJ abre hoje as inscrições para 26 The post Começam hoje as inscrições para os 26 cursos de especialização gratuitos o"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP abre inscrições para 2 cursos de metodologia científica e produção textual",
+      "url": "https://www.pebsp.com/ifsp-abre-inscricoes-para-cursos-de-metodologia-cientifica-e-producao-textual/",
+      "data": "Tue, 11 Aug 2026 10:58:25 +0000",
+      "resumo": "Conheça dois cursos gratuitos e complementares do IFSP: metodologia científica e produção textual, 180 vagas ao todo. Inscrições até 12/08/2026. O post IFSP abre inscrições para 2 cursos de metodologi"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFRN abre inscrições para especialização EAD em Alfabetização e Letramento com vagas limitadas",
+      "url": "https://www.pebsp.com/ifrn-abre-150-vagas-gratuitas-em-especializacao-ead-em-alfabetizacao-e-letramento-dcs/",
+      "data": "Tue, 11 Aug 2026 09:18:21 +0000",
+      "resumo": "O Instituto Federal do Rio Grande do Norte (IFRN) abriu inscrições para 150 vagas em curso de Especialização em Alfabetização e Letramentos na Educação Básica, na modalidade a distância (EAD), com ing"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Professor do sertão faz história e conquista o Oscar da Educação no Brasil",
+      "url": "https://www.pebsp.com/professor-do-sertao-faz-historia-e-conquista-o-oscar-da-educacao-no-brasil/",
+      "data": "Tue, 11 Aug 2026 09:11:42 +0000",
+      "resumo": "Um professor de Química e Física da rede estadual de Pernambuco entrou para a história da educação básica brasileira. Gustavo Santos Bezerra, da Escola Técnica Estadual (ETE) Professor Paulo Freire, e"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP de São José do Rio Preto oferece 14 turmas presenciais gratuitas de extensão",
+      "url": "https://www.pebsp.com/ifsp-de-sao-jose-do-rio-preto-oferece-14-turmas-presenciais-gratuitas-de-extensao/",
+      "data": "Tue, 11 Aug 2026 06:45:59 +0000",
+      "resumo": "IFSP de São José do Rio Preto oferece 14 turmas presenciais de extensão gratuitas, com 267 vagas; inscrições vão até 12 de agosto de 2026. Veja as turmas. O post IFSP de São José do Rio Preto oferece "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal recruta professores interessados em atuar em Cursos Técnicos EAD",
+      "url": "https://www.pebsp.com/instituto-federal-recruta-professores-interessados-em-atuar-em-cursos-tecnicos-ead/",
+      "data": "Mon, 10 Aug 2026 21:45:00 +0000",
+      "resumo": "IFSertãoPE abre 16 vagas de professor regente do Profuncionário, bolsa de R$ 50 por hora-aula. Inscrições até 12/08. Confira as disciplinas. O post Instituto Federal recruta professores interessados e"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UNIVASF reabre inscrições para 900 vagas de especialização EAD até 16/08",
+      "url": "https://www.pebsp.com/univasf-reabre-inscricoes-para-900-vagas-de-especializacao-ead-ate-16-08/",
+      "data": "Mon, 10 Aug 2026 21:16:24 +0000",
+      "resumo": "A Universidade Federal do Vale do São Francisco (UNIVASF) PRORROGOU o prazo de inscrições para seleção de estudantes em seis cursos de especialização (pós-graduação lato sensu) gratuitos, na modalidad"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFRN abre mais de 4 mil vagas em cursos técnicos gratuitos integrados ao Ensino Médio",
+      "url": "https://www.pebsp.com/ifrn-abre-mais-de-4-mil-vagas-em-cursos-tecnicos-gratuitos-integrados-ao-ensino-medio-dcs/",
+      "data": "Mon, 10 Aug 2026 19:01:40 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) abriu, no dia 7 de agosto de 2026, as inscrições do Edital nº 42/2026-PROEN/IFRN para os cursos técnicos na forma in"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP abre 80 vagas para curso gratuito sobre uso de IA na elaboração de TCC",
+      "url": "https://www.pebsp.com/ifsp-abre-80-vagas-para-curso-gratuito-sobre-uso-de-ia-na-elaboracao-de-tcc/",
+      "data": "Mon, 10 Aug 2026 16:18:59 +0000",
+      "resumo": "Confira curso gratuito de 80 vagas do IFSP sobre metodologia científica e IA para elaboração de projetos de pesquisa. Inscrições até 12 de agosto. O post IFSP abre 80 vagas para curso gratuito sobre u"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Carteira Nacional Docente: veja o passo a passo para solicitar o documento em agosto de 2026",
+      "url": "https://conectaprofessores.com/2026/08/10/carteira-nacional-docente-veja-o-passo-a-passo-para-solicitar-o-documento-em-agosto-de-2026/",
+      "data": "Tue, 11 Aug 2026 02:17:13 +0000",
+      "resumo": "Professores de todo o Brasil poderão solicitar gratuitamente a Carteira Nacional Docente do Brasil (CNDB) em agosto de 2026. Criada pelo MEC, a CNDB facilita a identificação profissional e o acesso a "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Instituto Federal abre 1.544 vagas para cursos superiores gratuitos em 2027; veja como se inscrever",
+      "url": "https://conectaprofessores.com/2026/08/10/instituto-federal-abre-1-544-vagas-para-cursos-superiores-gratuitos-em-2027-veja-como-se-inscrever/",
+      "data": "Tue, 11 Aug 2026 01:32:21 +0000",
+      "resumo": "O Instituto Federal de Mato Grosso (IFMT) anunciou 1.544 vagas em cursos superiores para o primeiro semestre de 2027, com inscrições gratuitas de 10 de agosto a 13 de setembro de 2026. Os candidatos p"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre seleção para tutores com bolsa de R$ 765; inscrições vão até 11 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/10/universidade-federal-abre-selecao-para-tutores-com-bolsa-de-r-765-inscricoes-vao-ate-11-de-agosto/",
+      "data": "Mon, 10 Aug 2026 21:48:41 +0000",
+      "resumo": "A Universidade Federal do Sul da Bahia está com inscrições abertas até 11 de agosto de 2026 para a seleção de 11 tutores para o Curso de Formação em Educação em Direitos Humanos. Os selecionados receb"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece 1.000 vagas em curso gratuito de Formação para Profissionais da Educação Infantil",
+      "url": "https://conectaprofessores.com/2026/08/10/mec-oferece-1-000-vagas-em-curso-gratuito-de-formacao-para-profissionais-da-educacao-infantil/",
+      "data": "Mon, 10 Aug 2026 21:08:04 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece 1.000 vagas para um curso gratuito de Formação para Profissionais da Educação Infantil, com 200 horas de carga horária. A capacitação, realizada a distância, vis"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Inscrições abertas para PROFMAT, PROFNIT, ProfEducatec, PROF-FILO e PROFCOMP; confira prazos e vagas",
+      "url": "https://conectaprofessores.com/2026/08/10/inscricoes-abertas-para-profmat-profnit-profeducatec-prof-filo-e-profcomp-confira-prazos-e-vagas/",
+      "data": "Mon, 10 Aug 2026 15:40:05 +0000",
+      "resumo": "Vários mestrados profissionais abrem inscrições em 2026 para seleção em 2027, incluindo PROFMAT, PROFNIT, ProfEducatec, PROF-FILO e PROFCOMP, com ênfase na qualificação de professores e profissionais."
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado em Ensino de Computação com 340 vagas: inscrições até 18 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/10/mestrado-em-ensino-de-computacao-com-340-vagas-inscricoes-ate-18-de-agosto/",
+      "data": "Mon, 10 Aug 2026 14:47:03 +0000",
+      "resumo": "O Mestrado Profissional em Ensino de Computação (PROFCOMP) está com inscrições abertas para 340 vagas em 2027, com prazo até 18 de agosto de 2026. O processo seletivo inclui ações afirmativas e duas e"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece 1.000 vagas em curso gratuito de Formação de Professores em Neuroeducação EAD",
+      "url": "https://conectaprofessores.com/2026/08/09/mec-oferece-1-000-vagas-em-curso-gratuito-de-formacao-de-professores-em-neuroeducacao-ead/",
+      "data": "Mon, 10 Aug 2026 02:26:38 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece 1.000 vagas gratuitas para o curso de Formação de Professores em Neuroeducação, com 200 horas de carga horária em formato EAD. O curso é autodirigido, sem tutori"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado e doutorado em Geografia da UFPE recebem inscrições até 18 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/09/mestrado-e-doutorado-em-geografia-da-ufpe-recebem-inscricoes-ate-18-de-agosto/",
+      "data": "Mon, 10 Aug 2026 01:55:50 +0000",
+      "resumo": "A Universidade Federal de Pernambuco (UFPE) abriu o edital para seleção de 60 vagas em Mestrado e Doutorado em Geografia, com inscrições de 3 a 18 de agosto de 2026. O processo inclui ações afirmativa"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "flores",
+      "score": 25.6,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de flores para quem está começando do zero",
+          "10 erros em flores que matam suas plantas (evite estes)",
+          "10 ideias de flores baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer flores em casa: passo a passo para iniciantes",
+          "Flores: o guia definitivo para 2026",
+          "Tudo sobre flores: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que flores virou febre nas redes sociais",
+          "Flores: a tendência que domina os jardins em 2026",
+          "Flores em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'flores' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "horta",
+      "score": 2.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de horta para quem está começando do zero",
+          "10 erros em horta que matam suas plantas (evite estes)",
+          "10 ideias de horta baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer horta em casa: passo a passo para iniciantes",
+          "Horta: o guia definitivo para 2026",
+          "Tudo sobre horta: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que horta virou febre nas redes sociais",
+          "Horta: a tendência que domina os jardins em 2026",
+          "Horta em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'horta' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "vegetais",
+      "score": 1.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de vegetais para quem está começando do zero",
+          "10 erros em vegetais que matam suas plantas (evite estes)",
+          "10 ideias de vegetais baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer vegetais em casa: passo a passo para iniciantes",
+          "Vegetais: o guia definitivo para 2026",
+          "Tudo sobre vegetais: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que vegetais virou febre nas redes sociais",
+          "Vegetais: a tendência que domina os jardins em 2026",
+          "Vegetais em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'vegetais' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "o que plantar",
+      "score": 1.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 dicas de o que plantar para quem está começando do zero",
+          "10 erros em o que plantar que matam suas plantas (evite estes)",
+          "10 ideias de o que plantar baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer o que plantar em casa: passo a passo para iniciantes",
+          "O que plantar: o guia definitivo para 2026",
+          "Tudo sobre o que plantar: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que o que plantar virou febre nas redes sociais",
+          "O que plantar: a tendência que domina os jardins em 2026",
+          "O que plantar em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'o que plantar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    }
+  ]
+}
