@@ -1,0 +1,1414 @@
+{
+  "date": "2026-08-12",
+  "collected_at": "2026-08-12T10:48:53.566882",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "letras alfabeto para imprimir",
+            "valor": 100,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras para imprimir",
+            "valor": 100,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras do alfabeto",
+            "valor": 66,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letras do alfabeto para imprimir",
+            "valor": 64,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "letra alfabeto para imprimir",
+            "valor": 59,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "caligrafia para imprimir pdf",
+            "valor": 100,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "caderno de caligrafia para imprimir",
+            "valor": 93,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha caligrafia para imprimir",
+            "valor": 79,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "folha de caligrafia para imprimir",
+            "valor": 69,
+            "base": "caligrafia para imprimir"
+          },
+          {
+            "termo": "atividades de caligrafia para imprimir",
+            "valor": 64,
+            "base": "caligrafia para imprimir"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "letras do alfabeto para imprimir e recortar",
+            "valor": "170",
+            "base": "alfabeto para imprimir"
+          }
+        ],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "cidade jardim",
+            "valor": 86,
+            "base": "jardim"
+          },
+          {
+            "termo": "bom jardim",
+            "valor": 52,
+            "base": "jardim"
+          },
+          {
+            "termo": "vila jardim",
+            "valor": 50,
+            "base": "jardim"
+          },
+          {
+            "termo": "jardim paulista",
+            "valor": 44,
+            "base": "jardim"
+          },
+          {
+            "termo": "jardim botanico",
+            "valor": 39,
+            "base": "jardim"
+          },
+          {
+            "termo": "babosa no cabelo",
+            "valor": 100,
+            "base": "babosa"
+          },
+          {
+            "termo": "para que serve babosa",
+            "valor": 88,
+            "base": "babosa"
+          },
+          {
+            "termo": "babosa para cabelo",
+            "valor": 81,
+            "base": "babosa"
+          },
+          {
+            "termo": "o que é babosa",
+            "valor": 55,
+            "base": "babosa"
+          },
+          {
+            "termo": "babosa no rosto",
+            "valor": 52,
+            "base": "babosa"
+          },
+          {
+            "termo": "pé de jabuticaba",
+            "valor": 100,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "jabuticaba branca",
+            "valor": 59,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "muda de jabuticaba",
+            "valor": 46,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "geleia jabuticaba",
+            "valor": 42,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "pe de jabuticaba",
+            "valor": 42,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "como regar orquídeas",
+            "valor": 100,
+            "base": "como regar"
+          },
+          {
+            "termo": "como regar samambaia",
+            "valor": 55,
+            "base": "como regar"
+          },
+          {
+            "termo": "como regar lirio da paz",
+            "valor": 31,
+            "base": "como regar"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "previsão do tempo silva jardim",
+            "valor": "50",
+            "base": "jardim"
+          },
+          {
+            "termo": "makoto cidade jardim",
+            "valor": "50",
+            "base": "jardim"
+          },
+          {
+            "termo": "flor da babosa para que serve",
+            "valor": "350",
+            "base": "babosa"
+          },
+          {
+            "termo": "babosa em ingles",
+            "valor": "120",
+            "base": "babosa"
+          },
+          {
+            "termo": "como fazer hidratação no cabelo com babosa",
+            "valor": "100",
+            "base": "babosa"
+          },
+          {
+            "termo": "existe jabuticaba branca?",
+            "valor": "1000",
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "gestante pode comer jabuticaba",
+            "valor": "200",
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "hotel jabuticaba",
+            "valor": "80",
+            "base": "jabuticaba"
+          }
+        ],
+        "seeds": [
+          {
+            "termo": "jardim",
+            "valor": 88.2
+          },
+          {
+            "termo": "babosa",
+            "valor": 79.3
+          },
+          {
+            "termo": "como plantar",
+            "valor": 76.0
+          },
+          {
+            "termo": "orquídea",
+            "valor": 73.4
+          },
+          {
+            "termo": "jabuticaba",
+            "valor": 72.4
+          },
+          {
+            "termo": "paisagismo",
+            "valor": 68.6
+          },
+          {
+            "termo": "plantas que",
+            "valor": 67.5
+          },
+          {
+            "termo": "rosa do deserto",
+            "valor": 52.2
+          },
+          {
+            "termo": "como fazer muda",
+            "valor": 28.6
+          },
+          {
+            "termo": "flores",
+            "valor": 27.0
+          },
+          {
+            "termo": "suculentas",
+            "valor": 21.2
+          },
+          {
+            "termo": "folhagens",
+            "valor": 20.1
+          },
+          {
+            "termo": "cactos",
+            "valor": 17.0
+          },
+          {
+            "termo": "costela de adão",
+            "valor": 11.5
+          },
+          {
+            "termo": "trepadeiras",
+            "valor": 9.9
+          },
+          {
+            "termo": "como regar",
+            "valor": 5.3
+          },
+          {
+            "termo": "como adubar",
+            "valor": 5.3
+          },
+          {
+            "termo": "antúrio",
+            "valor": 4.9
+          },
+          {
+            "termo": "monstera",
+            "valor": 2.6
+          },
+          {
+            "termo": "horta",
+            "valor": 2.4
+          },
+          {
+            "termo": "bromélias",
+            "valor": 2.0
+          },
+          {
+            "termo": "vegetais",
+            "valor": 1.6
+          },
+          {
+            "termo": "árvores frutíferas",
+            "valor": 1.1
+          },
+          {
+            "termo": "o que plantar",
+            "valor": 1.0
+          },
+          {
+            "termo": "ervas e temperos",
+            "valor": 0.3
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "natal",
+            "valor": 87.1
+          },
+          {
+            "termo": "festa junina",
+            "valor": 17.1
+          },
+          {
+            "termo": "dia dos namorados",
+            "valor": 2.9
+          },
+          {
+            "termo": "dia das mães",
+            "valor": 2.8
+          },
+          {
+            "termo": "páscoa",
+            "valor": 2.2
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "tabuada para imprimir",
+            "valor": 42.3
+          },
+          {
+            "termo": "atividades de matemática 2 ano para imprimir",
+            "valor": 0.8
+          },
+          {
+            "termo": "atividades de matemática 3 ano para imprimir",
+            "valor": 0.7
+          },
+          {
+            "termo": "atividades de matemática 1 ano para imprimir",
+            "valor": 0.3
+          },
+          {
+            "termo": "contas de adição para imprimir",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "tdah em crianças",
+            "valor": 12.7
+          },
+          {
+            "termo": "sinais de autismo em crianças",
+            "valor": 0.7
+          },
+          {
+            "termo": "dislexia em crianças",
+            "valor": 0.5
+          },
+          {
+            "termo": "atividades para criança com tdah",
+            "valor": 0.3
+          },
+          {
+            "termo": "como ajudar criança autista em casa",
+            "valor": 0.1
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Cursos gratuitos de mestrado e de doutorado em Educação Profissional abrem vagas para 2027",
+      "url": "https://infoeducacao.com.br/cursos-gratuitos-de-mestrado-e-de-doutorado-em-educacao-profissional-abrem-vagas-para-2027/",
+      "data": "Tue, 11 Aug 2026 09:45:30 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) está selecionando alunos para os cursos The post Cursos gratuitos de mestrado e de doutorado em Educação Profissiona"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam hoje as inscrições para a seleção de portadores de diploma da UFPR",
+      "url": "https://infoeducacao.com.br/terminam-hoja-as-inscricoes-para-a-selecao-de-portadores-de-diploma-da-ufpr/",
+      "data": "Tue, 11 Aug 2026 09:05:28 +0000",
+      "resumo": "A Universidade Federal do Paraná (UFPR) está recebendo inscrições de interessados em ocupar vagas remanescentes em cursos de graduação gratuitos, The post Terminam hoje as inscrições para a seleção de"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 12/08 as inscrições para os cursos gratuitos a distância ou presenciais do IFSP",
+      "url": "https://infoeducacao.com.br/terminam-em-12-08-as-inscricoes-para-os-cursos-gratuitos-a-distancia-ou-presenciais-do-ifsp/",
+      "data": "Mon, 10 Aug 2026 14:48:09 +0000",
+      "resumo": "Terminam no dia 12 de agosto de 2026 as inscrições para o processo seletivo, que visa preencher vagas nos cursos The post Terminam em 12/08 as inscrições para os cursos gratuitos a distância ou presen"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito online de Acessibilização Pedagógica e Metodológica seleciona alunos para vagas remanescentes",
+      "url": "https://infoeducacao.com.br/curso-gratuito-online-de-acessibilizacao-pedagogica-e-metodologica-seleciona-alunos-para-vagas-remanescentes/",
+      "data": "Mon, 10 Aug 2026 13:25:53 +0000",
+      "resumo": "O Instituto Federal de Educação do Espírito Santo (Ifes) está selecionando alunos para as vagas remanescentes do curso gratuito a The post Curso gratuito online de Acessibilização Pedagógica e Metodol"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Rede de Museus UFMG abre inscrições para curso gratuito a distância",
+      "url": "https://infoeducacao.com.br/rede-de-museus-ufmg-abre-inscricoes-para-curso-gratuito-a-distancia/",
+      "data": "Mon, 10 Aug 2026 13:00:14 +0000",
+      "resumo": "Estão abertas as inscrições para o curso gratuito a distância denominado &#8220;Educação museal e comunicação pública da ciência: interfaces e The post Rede de Museus UFMG abre inscrições para curso g"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Mestrado Profissional gratuito em Ensino de Computação em Rede Nacional abre 340 vagas",
+      "url": "https://infoeducacao.com.br/mestrado-profissional-gratuito-em-ensino-de-computacao-em-rede-nacional-abre-340-vagas/",
+      "data": "Mon, 10 Aug 2026 12:25:31 +0000",
+      "resumo": "Estão abertas as inscrições para a seleção do Mestrado Profissional gratuito em Ensino de Computação em Rede Nacional, que ofertará The post Mestrado Profissional gratuito em Ensino de Computação em R"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Terminam em 13/08 as inscrições para a especialização gratuita a distância em Gestão Escolar da Uneal",
+      "url": "https://infoeducacao.com.br/terminam-em-13-08-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-escolar-da-uneal/",
+      "data": "Mon, 10 Aug 2026 08:24:37 +0000",
+      "resumo": "A Universidade Estadual de Alagoas (Uneal) abriu 150 vagas na especialização gratuita a distância em Gestão Escolar, que será ofertada The post Terminam em 13/08 as inscrições para a especialização gr"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Começam hoje as inscrições para os 26 cursos de especialização gratuitos online, híbridos ou presenciais do IFRJ",
+      "url": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-os-26-cursos-de-especializacao-gratuitos-online-hibridos-ou-presenciais-do-ifrj/",
+      "data": "Mon, 10 Aug 2026 08:10:22 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro &#8211; IFRJ abre hoje as inscrições para 26 The post Começam hoje as inscrições para os 26 cursos de especialização gratuitos o"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFMG oferece 20 vagas para Conteudista, Professor e Tutor em curso de Administração Pública EaD; veja bolsas, requisitos e prazos",
+      "url": "https://www.pebsp.com/ifmg-abre-20-vagas-em-3-funcoes-para-pos-graduacao-em-administracao-publica-ead/",
+      "data": "Wed, 12 Aug 2026 11:02:07 +0000",
+      "resumo": "IFMG abre 20 vagas para professor conteudista, regente e mediador pedagógico em curso de pós-graduação em Administração Pública a distância, pela UAB. Inscrições até 24 de agosto de 2026. O post IFMG "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Quer fazer um Mestrado Profissional? ProfEducatec do MEC oferece 130 vagas para professores da rede pública e inscrições terminam em setembro",
+      "url": "https://www.pebsp.com/quer-fazer-um-mestrado-profissional-profeducatec-do-mec-oferece-130-vagas-para-professores-da-rede-publica-e-inscricoes-terminam-em-setembro/",
+      "data": "Wed, 12 Aug 2026 09:11:03 +0000",
+      "resumo": "Inscrições para o ProfEducatec 2027 terminam em 6 de setembro. Mestrado profissional oferece 130 vagas em rede nacional de 9 universidades públicas. O post Quer fazer um Mestrado Profissional? ProfEdu"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal abre 582 vagas gratuitas em cursos de qualificação profissional; inscrição é gratuita e seleção não terá prova",
+      "url": "https://www.pebsp.com/ifsc-abre-582-vagas-gratuitas-em-10-cursos-de-extensao-e-qualificacao-profissional-dcs/",
+      "data": "Wed, 12 Aug 2026 07:11:55 +0000",
+      "resumo": "O Instituto Federal de Santa Catarina (IFSC) abriu inscrições para 582 vagas gratuitas em 10 cursos de extensão e qualificação profissional, distribuídos por nove câmpus do estado. As inscrições vão a"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFPB abre 34 vagas gratuitas para Mestrado e Doutorado em Administração; seleção terá prova, análise de currículo e apresentação de proposta",
+      "url": "https://www.pebsp.com/ufpb-abre-34-vagas-gratuitas-para-mestrado-e-doutorado-em-administracao-selecao-tera-prova-analise-de-curriculo-e-apresentacao-de-proposta-dcs/",
+      "data": "Wed, 12 Aug 2026 05:15:43 +0000",
+      "resumo": "O Programa de Pós-Graduação em Administração da Universidade Federal da Paraíba publicou o Edital de Seleção nº 03/2026 para os cursos gratuitos de mestrado acadêmico e doutorado da Turma 2027. O proc"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UERGS abre 105 vagas gratuitas para Bacharelado em Administração EaD pelo sistema UAB; inscrições terminam hoje",
+      "url": "https://www.pebsp.com/uergs-abre-105-vagas-gratuitas-para-bacharelado-em-administracao-ead-pelo-sistema-uab-inscricoes-terminam-hoje/",
+      "data": "Wed, 12 Aug 2026 03:28:21 +0000",
+      "resumo": "Bacharelado em Administração EaD pela UERGS/UAB abre 105 vagas em 3 polos gaúchos com seleção via Enem. Inscrições 3-12 de agosto de 2026. O post UERGS abre 105 vagas gratuitas para Bacharelado em Adm"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UNICENTRO abre 150 vagas em especialização gratuita e EaD de Gestão da Inovação; curso tem 420 horas e inscrições até 26 de agosto",
+      "url": "https://www.pebsp.com/especializacao-ead-unicentro-gestao-da-inovacao/",
+      "data": "Tue, 11 Aug 2026 22:12:31 +0000",
+      "resumo": "UNICENTRO abre 150 vagas em especialização EaD gratuita em Gestão de Inovação. Inscrições até 26/08/2026. Confira seleção, cronograma e documentos exigidos. O post UNICENTRO abre 150 vagas em especial"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Especialização em Gestão Escolar: UEPG abre 150 vagas gratuitas para professores da Educação Básica que desejam se preparar para atuar na gestão de escolas",
+      "url": "https://www.pebsp.com/especializacao-em-gestao-escolar-uepg-abre-150-vagas-gratuitas-para-professores-da-educacao-basica-que-desejam-se-preparar-para-atuar-na-gestao-de-escolas/",
+      "data": "Tue, 11 Aug 2026 20:39:54 +0000",
+      "resumo": "UEPG abre 150 vagas na Especialização em Gestão Escolar EAD, gratuita, via UAB, para professores. Inscrições até 21/08/2026, veja como participar. O post Especialização em Gestão Escolar: UEPG abre 15"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Com 251 vagas remanescentes, IFRN oferece 13 cursos de especialização gratuitos em educação",
+      "url": "https://www.pebsp.com/com-251-vagas-remanescentes-ifrn-oferece-13-cursos-de-especializacao-gratuitos-em-educacao-dcs/",
+      "data": "Tue, 11 Aug 2026 17:15:38 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) abriu inscrições para preencher 251 vagas remanescentes em 14 cursos superiores de pós-graduação lato sensu, em níve"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre 249 vagas para mestrado e doutorado gratuitos em 2027; confira os editais",
+      "url": "https://conectaprofessores.com/2026/08/11/universidade-federal-abre-249-vagas-para-mestrado-e-doutorado-gratuitos-em-2027-confira-os-editais/",
+      "data": "Tue, 11 Aug 2026 22:44:38 +0000",
+      "resumo": "A Universidade Federal do Maranhão (UFMA) oferece 249 vagas em programas de pós-graduação stricto sensu para 2027, abrangendo áreas como Educação, Cultura, Saúde, Matemática e Letras. As inscrições ac"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre cursos gratuitos de Libras, Educação Especial e Acessibilidade",
+      "url": "https://conectaprofessores.com/2026/08/11/universidade-federal-abre-cursos-gratuitos-de-libras-educacao-especial-e-acessibilidade/",
+      "data": "Tue, 11 Aug 2026 21:43:39 +0000",
+      "resumo": "A Universidade Federal de São Carlos (UFSCar) oferece cursos online e gratuitos sobre inclusão e acessibilidade pelo Portal de Cursos Abertos (PoCA). Destinados a educadores e interessados, os cursos "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Ideb 2025 por escola: confira como consultar o resultado da sua unidade escolar",
+      "url": "https://conectaprofessores.com/2026/08/11/ideb-2025-por-escola-confira-como-consultar-o-resultado-da-sua-unidade-escolar/",
+      "data": "Tue, 11 Aug 2026 19:15:13 +0000",
+      "resumo": "Os resultados do Ideb 2025 por escola podem ser consultados gratuitamente na plataforma do Inep, permitindo que professores, gestores, estudantes e pais verifiquem o desempenho das instituições. O Ide"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece aplicativo grátis para aprender inglês e espanhol pelo celular",
+      "url": "https://conectaprofessores.com/2026/08/11/mec-oferece-aplicativo-gratis-para-aprender-ingles-e-espanhol-pelo-celular/",
+      "data": "Tue, 11 Aug 2026 18:48:15 +0000",
+      "resumo": "O MEC Idiomas é uma plataforma gratuita do Ministério da Educação que oferece cursos online de inglês e espanhol, do nível iniciante ao avançado. Com cerca de 800 aulas, recursos de inteligência artif"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 115 vagas para mestrado e doutorado em 2027; veja os editais e como se inscrever",
+      "url": "https://conectaprofessores.com/2026/08/11/universidade-abre-115-vagas-para-mestrado-e-doutorado-em-2027-veja-os-editais-e-como-se-inscrever/",
+      "data": "Tue, 11 Aug 2026 18:24:00 +0000",
+      "resumo": "A Universidade do Estado da Bahia (UNEB) oferece diversas vagas para pós-graduação stricto sensu em 2027, totalizando 115 oportunidades. Os programas incluem mestrado em Educação, Cultura e Território"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece descontos e benefícios para professores em bancos, lojas de calçados e farmácias",
+      "url": "https://conectaprofessores.com/2026/08/11/mec-oferece-descontos-e-beneficios-para-professores-em-bancos-lojas-de-calcados-e-farmacias/",
+      "data": "Tue, 11 Aug 2026 14:30:53 +0000",
+      "resumo": "O programa Mais Professores para o Brasil, do MEC, oferece descontos e condições especiais para professores da rede pública e privada em bancos, lojas de calçados e farmácias, entre outros. Os docente"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC Enem, MEC Livros e MEC Idiomas: veja como estudar de graça para o Enem 2026",
+      "url": "https://conectaprofessores.com/2026/08/11/mec-enem-mec-livros-e-mec-idiomas-veja-como-estudar-de-graca-para-o-enem-2026/",
+      "data": "Tue, 11 Aug 2026 13:48:06 +0000",
+      "resumo": "Com a aproximação do Enem 2026, o MEC oferece ferramentas digitais gratuitas para auxiliar os estudantes. As plataformas MEC Enem, MEC Livros e MEC Idiomas disponibilizam recursos como simulados, livr"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Carteira Nacional Docente: veja o passo a passo para solicitar o documento em agosto de 2026",
+      "url": "https://conectaprofessores.com/2026/08/10/carteira-nacional-docente-veja-o-passo-a-passo-para-solicitar-o-documento-em-agosto-de-2026/",
+      "data": "Tue, 11 Aug 2026 02:17:13 +0000",
+      "resumo": "Professores de todo o Brasil poderão solicitar gratuitamente a Carteira Nacional Docente do Brasil (CNDB) em agosto de 2026. Criada pelo MEC, a CNDB facilita a identificação profissional e o acesso a "
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "letras alfabeto para imprimir",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Letras alfabeto para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de letras alfabeto para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de letras alfabeto para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar letras alfabeto para imprimir em casa: guia passo a passo para pais e professores",
+          "Letras alfabeto para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em letras alfabeto para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que letras alfabeto para imprimir está entre as buscas mais quentes de pais e professores",
+          "Letras alfabeto para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Letras alfabeto para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras alfabeto para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "letras para imprimir",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Letras para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de letras para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de letras para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar letras para imprimir em casa: guia passo a passo para pais e professores",
+          "Letras para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em letras para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que letras para imprimir está entre as buscas mais quentes de pais e professores",
+          "Letras para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Letras para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caligrafia para imprimir pdf",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caligrafia para imprimir pdf para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caligrafia para imprimir pdf por nível — do mais fácil ao mais avançado",
+          "20 fichas de caligrafia para imprimir pdf alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caligrafia para imprimir pdf em casa: guia passo a passo para pais e professores",
+          "Caligrafia para imprimir pdf: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caligrafia para imprimir pdf: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caligrafia para imprimir pdf está entre as buscas mais quentes de pais e professores",
+          "Caligrafia para imprimir pdf em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caligrafia para imprimir pdf: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caligrafia para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "babosa no cabelo",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de babosa no cabelo para quem está começando do zero",
+          "20 erros em babosa no cabelo que matam suas plantas (evite estes)",
+          "20 ideias de babosa no cabelo baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer babosa no cabelo em casa: passo a passo para iniciantes",
+          "Babosa no cabelo: o guia definitivo para 2026",
+          "Tudo sobre babosa no cabelo: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que babosa no cabelo virou febre nas redes sociais",
+          "Babosa no cabelo: a tendência que domina os jardins em 2026",
+          "Babosa no cabelo em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'babosa no cabelo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "pé de jabuticaba",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de pé de jabuticaba para quem está começando do zero",
+          "20 erros em pé de jabuticaba que matam suas plantas (evite estes)",
+          "20 ideias de pé de jabuticaba baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer pé de jabuticaba em casa: passo a passo para iniciantes",
+          "Pé de jabuticaba: o guia definitivo para 2026",
+          "Tudo sobre pé de jabuticaba: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que pé de jabuticaba virou febre nas redes sociais",
+          "Pé de jabuticaba: a tendência que domina os jardins em 2026",
+          "Pé de jabuticaba em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'pé de jabuticaba' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "como regar orquídeas",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de como regar orquídeas para quem está começando do zero",
+          "20 erros em como regar orquídeas que matam suas plantas (evite estes)",
+          "20 ideias de como regar orquídeas baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como regar orquídeas em casa: passo a passo para iniciantes",
+          "Como regar orquídeas: o guia definitivo para 2026",
+          "Tudo sobre como regar orquídeas: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como regar orquídeas virou febre nas redes sociais",
+          "Como regar orquídeas: a tendência que domina os jardins em 2026",
+          "Como regar orquídeas em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como regar orquídeas' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "caderno de caligrafia para imprimir",
+      "score": 93.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Caderno de caligrafia para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de caderno de caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de caderno de caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar caderno de caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Caderno de caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em caderno de caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que caderno de caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Caderno de caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Caderno de caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'caderno de caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "para que serve babosa",
+      "score": 88.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de para que serve babosa para quem está começando do zero",
+          "20 erros em para que serve babosa que matam suas plantas (evite estes)",
+          "20 ideias de para que serve babosa baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer para que serve babosa em casa: passo a passo para iniciantes",
+          "Para que serve babosa: o guia definitivo para 2026",
+          "Tudo sobre para que serve babosa: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que para que serve babosa virou febre nas redes sociais",
+          "Para que serve babosa: a tendência que domina os jardins em 2026",
+          "Para que serve babosa em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'para que serve babosa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "natal",
+      "score": 87.1,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de natal para fazer em casa (com molde grátis)",
+          "20 modelos de natal para imprimir e usar agora",
+          "20 inspirações de natal que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer natal: passo a passo fácil para iniciantes",
+          "Natal: como criar em casa sem gastar muito",
+          "Tudo sobre natal em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que natal está entre as buscas mais quentes do Brasil",
+          "Natal: as tendências que dominam em 2026",
+          "Natal em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'natal' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "termo_base": "cidade jardim",
+      "score": 86.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de cidade jardim para quem está começando do zero",
+          "20 erros em cidade jardim que matam suas plantas (evite estes)",
+          "20 ideias de cidade jardim baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer cidade jardim em casa: passo a passo para iniciantes",
+          "Cidade jardim: o guia definitivo para 2026",
+          "Tudo sobre cidade jardim: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que cidade jardim virou febre nas redes sociais",
+          "Cidade jardim: a tendência que domina os jardins em 2026",
+          "Cidade jardim em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cidade jardim' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "folha caligrafia para imprimir",
+      "score": 79.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Folha caligrafia para imprimir para imprimir: 20 fichas prontas para usar hoje",
+          "20 atividades de folha caligrafia para imprimir por nível — do mais fácil ao mais avançado",
+          "20 fichas de folha caligrafia para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar folha caligrafia para imprimir em casa: guia passo a passo para pais e professores",
+          "Folha caligrafia para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em folha caligrafia para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que folha caligrafia para imprimir está entre as buscas mais quentes de pais e professores",
+          "Folha caligrafia para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Folha caligrafia para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'folha caligrafia para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "tabuada para imprimir",
+      "score": 42.3,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Tabuada para imprimir para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de tabuada para imprimir por ano escolar — do 1° ao 5° ano",
+          "15 recursos de tabuada para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar tabuada para imprimir do zero: modelo completo e editável",
+          "Tabuada para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre tabuada para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que tabuada para imprimir está entre os materiais mais baixados por educadores",
+          "Tabuada para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Tabuada para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tabuada para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "festa junina",
+      "score": 17.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de festa junina para fazer em casa (com molde grátis)",
+          "10 modelos de festa junina para imprimir e usar agora",
+          "10 inspirações de festa junina que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer festa junina: passo a passo fácil para iniciantes",
+          "Festa junina: como criar em casa sem gastar muito",
+          "Tudo sobre festa junina em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que festa junina está entre as buscas mais quentes do Brasil",
+          "Festa junina: as tendências que dominam em 2026",
+          "Festa junina em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'festa junina' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "dia dos namorados",
+      "score": 2.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de dia dos namorados para fazer em casa (com molde grátis)",
+          "10 modelos de dia dos namorados para imprimir e usar agora",
+          "10 inspirações de dia dos namorados que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer dia dos namorados: passo a passo fácil para iniciantes",
+          "Dia dos namorados: como criar em casa sem gastar muito",
+          "Tudo sobre dia dos namorados em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que dia dos namorados está entre as buscas mais quentes do Brasil",
+          "Dia dos namorados: as tendências que dominam em 2026",
+          "Dia dos namorados em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dia dos namorados' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "dia das mães",
+      "score": 2.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de dia das mães para fazer em casa (com molde grátis)",
+          "10 modelos de dia das mães para imprimir e usar agora",
+          "10 inspirações de dia das mães que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer dia das mães: passo a passo fácil para iniciantes",
+          "Dia das mães: como criar em casa sem gastar muito",
+          "Tudo sobre dia das mães em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que dia das mães está entre as buscas mais quentes do Brasil",
+          "Dia das mães: as tendências que dominam em 2026",
+          "Dia das mães em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dia das mães' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "páscoa",
+      "score": 2.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 ideias de páscoa para fazer em casa (com molde grátis)",
+          "10 modelos de páscoa para imprimir e usar agora",
+          "10 inspirações de páscoa que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer páscoa: passo a passo fácil para iniciantes",
+          "Páscoa: como criar em casa sem gastar muito",
+          "Tudo sobre páscoa em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que páscoa está entre as buscas mais quentes do Brasil",
+          "Páscoa: as tendências que dominam em 2026",
+          "Páscoa em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'páscoa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "atividades de matemática 2 ano para imprimir",
+      "score": 0.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Atividades de matemática 2 ano para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de atividades de matemática 2 ano para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de atividades de matemática 2 ano para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar atividades de matemática 2 ano para imprimir do zero: modelo completo e editável",
+          "Atividades de matemática 2 ano para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre atividades de matemática 2 ano para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que atividades de matemática 2 ano para imprimir está entre os materiais mais baixados por educadores",
+          "Atividades de matemática 2 ano para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Atividades de matemática 2 ano para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de matemática 2 ano para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "atividades de matemática 3 ano para imprimir",
+      "score": 0.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Atividades de matemática 3 ano para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de atividades de matemática 3 ano para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de atividades de matemática 3 ano para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar atividades de matemática 3 ano para imprimir do zero: modelo completo e editável",
+          "Atividades de matemática 3 ano para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre atividades de matemática 3 ano para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que atividades de matemática 3 ano para imprimir está entre os materiais mais baixados por educadores",
+          "Atividades de matemática 3 ano para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Atividades de matemática 3 ano para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de matemática 3 ano para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "sinais de autismo em crianças",
+      "score": 0.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de sinais de autismo em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular sinais de autismo em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com sinais de autismo em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com sinais de autismo em crianças: guia completo para pais",
+          "Sinais de autismo em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular sinais de autismo em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre sinais de autismo em crianças",
+          "Sinais de autismo em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Sinais de autismo em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sinais de autismo em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "dislexia em crianças",
+      "score": 0.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de dislexia em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular dislexia em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com dislexia em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com dislexia em crianças: guia completo para pais",
+          "Dislexia em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular dislexia em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre dislexia em crianças",
+          "Dislexia em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Dislexia em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dislexia em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "atividades para criança com tdah",
+      "score": 0.3,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de atividades para criança com tdah que todo pai precisa conhecer",
+          "10 atividades para estimular atividades para criança com tdah em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com atividades para criança com tdah a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com atividades para criança com tdah: guia completo para pais",
+          "Atividades para criança com tdah: o que é, como identificar e o que fazer em 2026",
+          "Como estimular atividades para criança com tdah no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre atividades para criança com tdah",
+          "Atividades para criança com tdah: o que as pesquisas mais recentes dizem em 2026",
+          "Atividades para criança com tdah em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para criança com tdah' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "como ajudar criança autista em casa",
+      "score": 0.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de como ajudar criança autista em casa que todo pai precisa conhecer",
+          "10 atividades para estimular como ajudar criança autista em casa em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com como ajudar criança autista em casa a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com como ajudar criança autista em casa: guia completo para pais",
+          "Como ajudar criança autista em casa: o que é, como identificar e o que fazer em 2026",
+          "Como estimular como ajudar criança autista em casa no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre como ajudar criança autista em casa",
+          "Como ajudar criança autista em casa: o que as pesquisas mais recentes dizem em 2026",
+          "Como ajudar criança autista em casa em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como ajudar criança autista em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "contas de adição para imprimir",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Contas de adição para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de contas de adição para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de contas de adição para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar contas de adição para imprimir do zero: modelo completo e editável",
+          "Contas de adição para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre contas de adição para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que contas de adição para imprimir está entre os materiais mais baixados por educadores",
+          "Contas de adição para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Contas de adição para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'contas de adição para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    }
+  ]
+}
