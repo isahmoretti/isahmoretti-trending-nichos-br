@@ -1,0 +1,1987 @@
+{
+  "date": "2026-08-18",
+  "collected_at": "2026-08-18T10:16:03.928509",
+  "nichos": {
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "alfabeto educação infantil para imprimir",
+            "valor": 25,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "alfabeto cursivo para imprimir",
+            "valor": 20,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "alfabeto colorido",
+            "valor": 20,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "alfabeto para imprimir e recortar",
+            "valor": 16,
+            "base": "alfabeto para imprimir"
+          },
+          {
+            "termo": "alfabeto grande para imprimir",
+            "valor": 15,
+            "base": "alfabeto para imprimir"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "letras de musicas",
+            "valor": 13,
+            "base": "letras"
+          },
+          {
+            "termo": "são thomé das letras",
+            "valor": 11,
+            "base": "letras"
+          },
+          {
+            "termo": "letras personalizadas",
+            "valor": 11,
+            "base": "letras"
+          },
+          {
+            "termo": "sao thomé das letras",
+            "valor": 10,
+            "base": "letras"
+          },
+          {
+            "termo": "letras de música",
+            "valor": 10,
+            "base": "letras"
+          },
+          {
+            "termo": "árvore de natal",
+            "valor": 7,
+            "base": "natal"
+          },
+          {
+            "termo": "natal luz",
+            "valor": 5,
+            "base": "natal"
+          },
+          {
+            "termo": "pré natal",
+            "valor": 5,
+            "base": "natal"
+          },
+          {
+            "termo": "aeroporto natal",
+            "valor": 5,
+            "base": "natal"
+          },
+          {
+            "termo": "hotel em natal",
+            "valor": 4,
+            "base": "natal"
+          },
+          {
+            "termo": "painel tv",
+            "valor": 100,
+            "base": "painel"
+          },
+          {
+            "termo": "painel led",
+            "valor": 88,
+            "base": "painel"
+          },
+          {
+            "termo": "painel ripado",
+            "valor": 71,
+            "base": "painel"
+          },
+          {
+            "termo": "painel de led",
+            "valor": 56,
+            "base": "painel"
+          },
+          {
+            "termo": "painel para tv",
+            "valor": 52,
+            "base": "painel"
+          },
+          {
+            "termo": "molde de squishy",
+            "valor": 2,
+            "base": "molde"
+          },
+          {
+            "termo": "molde f1 unha",
+            "valor": 2,
+            "base": "molde"
+          },
+          {
+            "termo": "molde de letras",
+            "valor": 2,
+            "base": "molde"
+          },
+          {
+            "termo": "molde folha",
+            "valor": 2,
+            "base": "molde"
+          },
+          {
+            "termo": "coração molde",
+            "valor": 2,
+            "base": "molde"
+          },
+          {
+            "termo": "comidas de festa junina",
+            "valor": 4,
+            "base": "festa junina"
+          },
+          {
+            "termo": "penteado festa junina",
+            "valor": 4,
+            "base": "festa junina"
+          },
+          {
+            "termo": "saia de festa junina",
+            "valor": 4,
+            "base": "festa junina"
+          },
+          {
+            "termo": "maquiagem festa junina",
+            "valor": 4,
+            "base": "festa junina"
+          },
+          {
+            "termo": "música de festa junina",
+            "valor": 4,
+            "base": "festa junina"
+          },
+          {
+            "termo": "o convite assistir",
+            "valor": 30,
+            "base": "convite"
+          },
+          {
+            "termo": "onde assistir o convite",
+            "valor": 24,
+            "base": "convite"
+          },
+          {
+            "termo": "o convite cinema",
+            "valor": 18,
+            "base": "convite"
+          },
+          {
+            "termo": "convite de aniversario",
+            "valor": 17,
+            "base": "convite"
+          },
+          {
+            "termo": "convite filme 2026",
+            "valor": 17,
+            "base": "convite"
+          },
+          {
+            "termo": "que dia e o dia dos pais",
+            "valor": 54,
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "música dia dos pais",
+            "valor": 51,
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "qual o dia dos pais",
+            "valor": 51,
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "que dia foi dia dos pais",
+            "valor": 41,
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "presente dia dos pais",
+            "valor": 39,
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "fazer etiquetas",
+            "valor": 27,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "etiquetas pimaco",
+            "valor": 23,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "etiquetas correios",
+            "valor": 15,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "impressão de etiquetas",
+            "valor": 12,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "etiquetas de roupas",
+            "valor": 11,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "que dia é dia das mães",
+            "valor": 73,
+            "base": "dia das mães"
+          },
+          {
+            "termo": "dia das mães é quando",
+            "valor": 33,
+            "base": "dia das mães"
+          },
+          {
+            "termo": "que dia e o dia das mães",
+            "valor": 33,
+            "base": "dia das mães"
+          },
+          {
+            "termo": "que dia foi dia das mães",
+            "valor": 26,
+            "base": "dia das mães"
+          },
+          {
+            "termo": "dia das mães de 2026",
+            "valor": 26,
+            "base": "dia das mães"
+          },
+          {
+            "termo": "que dia é dia dos namorados",
+            "valor": 100,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "que dia é o dia dos namorados",
+            "valor": 69,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "que dia que é o dia dos namorados",
+            "valor": 67,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "presente dia dos namorados",
+            "valor": 64,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "dia dos namorados e que dia",
+            "valor": 56,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "lembrança letra",
+            "valor": 29,
+            "base": "lembrança"
+          },
+          {
+            "termo": "lembrança boa henrique e juliano",
+            "valor": 22,
+            "base": "lembrança"
+          },
+          {
+            "termo": "lembrança para casamento",
+            "valor": 19,
+            "base": "lembrança"
+          },
+          {
+            "termo": "lembrança batizado",
+            "valor": 17,
+            "base": "lembrança"
+          },
+          {
+            "termo": "lembrança de formatura",
+            "valor": 17,
+            "base": "lembrança"
+          },
+          {
+            "termo": "rio carnaval",
+            "valor": 10,
+            "base": "carnaval"
+          },
+          {
+            "termo": "carnaval rio 2027",
+            "valor": 4,
+            "base": "carnaval"
+          },
+          {
+            "termo": "capa carnaval para baixinhos xuxa",
+            "valor": 3,
+            "base": "carnaval"
+          },
+          {
+            "termo": "carnaval 2025",
+            "valor": 3,
+            "base": "carnaval"
+          },
+          {
+            "termo": "feriado carnaval 2027",
+            "valor": 3,
+            "base": "carnaval"
+          },
+          {
+            "termo": "pacote ano novo",
+            "valor": 19,
+            "base": "ano novo"
+          },
+          {
+            "termo": "viagem ano novo",
+            "valor": 14,
+            "base": "ano novo"
+          },
+          {
+            "termo": "roupa ano novo",
+            "valor": 13,
+            "base": "ano novo"
+          },
+          {
+            "termo": "resort ano novo",
+            "valor": 10,
+            "base": "ano novo"
+          },
+          {
+            "termo": "noite de ano novo",
+            "valor": 10,
+            "base": "ano novo"
+          },
+          {
+            "termo": "quando é dia das crianças",
+            "valor": 49,
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "quando é o dia das crianças",
+            "valor": 39,
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "qual dia é o dia das crianças",
+            "valor": 37,
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "qual é o dia das crianças",
+            "valor": 37,
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "quantos dias para o dia das crianças",
+            "valor": 30,
+            "base": "dia das crianças"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "5 tabeliao de protesto de letras e titulos",
+            "valor": "50",
+            "base": "letras"
+          },
+          {
+            "termo": "arvore de natal grande",
+            "valor": "50",
+            "base": "natal"
+          },
+          {
+            "termo": "painel folclore para imprimir",
+            "valor": "250",
+            "base": "painel"
+          },
+          {
+            "termo": "painel do folclore",
+            "valor": "150",
+            "base": "painel"
+          },
+          {
+            "termo": "painel folclore",
+            "valor": "140",
+            "base": "painel"
+          },
+          {
+            "termo": "molde curupira",
+            "valor": "500",
+            "base": "molde"
+          },
+          {
+            "termo": "molde do pé do curupira",
+            "valor": "400",
+            "base": "molde"
+          },
+          {
+            "termo": "molde gorro do saci",
+            "valor": "250",
+            "base": "molde"
+          },
+          {
+            "termo": "penteados para festa junina infantil",
+            "valor": "100",
+            "base": "festa junina"
+          },
+          {
+            "termo": "brinquedos festa junina",
+            "valor": "80",
+            "base": "festa junina"
+          },
+          {
+            "termo": "origem da festa junina no brasil",
+            "valor": "80",
+            "base": "festa junina"
+          },
+          {
+            "termo": "estendo o convite",
+            "valor": "70",
+            "base": "convite"
+          },
+          {
+            "termo": "pai mata duas filhas no dia dos pais",
+            "valor": "3700",
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "saidinha dia dos pais",
+            "valor": "1900",
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "resultado tele sena dia dos pais",
+            "valor": "1200",
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "impressora para etiquetas adesivas personalizadas",
+            "valor": "60",
+            "base": "etiquetas"
+          },
+          {
+            "termo": "adegraf etiquetas",
+            "valor": "50",
+            "base": "etiquetas"
+          },
+          {
+            "termo": "impressora de etiquetas portátil",
+            "valor": "50",
+            "base": "etiquetas"
+          },
+          {
+            "termo": "presente dia das mães criativo",
+            "valor": "400",
+            "base": "dia das mães"
+          },
+          {
+            "termo": "dia das mães 2022",
+            "valor": "350",
+            "base": "dia das mães"
+          },
+          {
+            "termo": "kit lily dia das mães",
+            "valor": "300",
+            "base": "dia das mães"
+          },
+          {
+            "termo": "dia dos namorados c&a",
+            "valor": "9150",
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "presente criativo dia dos namorados",
+            "valor": "200",
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "dia dos namorados kopenhagen",
+            "valor": "180",
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "em uma de suas viagens um turista comprou uma lembrança de um dos monumentos que visitou",
+            "valor": "1650",
+            "base": "lembrança"
+          },
+          {
+            "termo": "lembrança dia do soldado",
+            "valor": "400",
+            "base": "lembrança"
+          },
+          {
+            "termo": "lembrança cha revelação",
+            "valor": "150",
+            "base": "lembrança"
+          },
+          {
+            "termo": "tse lula carnaval",
+            "valor": "2550",
+            "base": "carnaval"
+          },
+          {
+            "termo": "lula carnaval",
+            "valor": "250",
+            "base": "carnaval"
+          },
+          {
+            "termo": "estou me guardando para quando o carnaval chegar",
+            "valor": "70",
+            "base": "carnaval"
+          },
+          {
+            "termo": "lugares para passar o ano novo barato",
+            "valor": "200",
+            "base": "ano novo"
+          },
+          {
+            "termo": "dia das crianças é feriado nacional",
+            "valor": "50",
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "lembrança dia das crianças",
+            "valor": "50",
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "kit dia das crianças",
+            "valor": "40",
+            "base": "dia das crianças"
+          }
+        ],
+        "seeds": [
+          {
+            "termo": "letras",
+            "valor": 91.6
+          },
+          {
+            "termo": "natal",
+            "valor": 87.9
+          },
+          {
+            "termo": "bolo",
+            "valor": 79.1
+          },
+          {
+            "termo": "painel",
+            "valor": 32.3
+          },
+          {
+            "termo": "molde",
+            "valor": 28.9
+          },
+          {
+            "termo": "máscara",
+            "valor": 26.4
+          },
+          {
+            "termo": "alfabeto",
+            "valor": 22.1
+          },
+          {
+            "termo": "para imprimir",
+            "valor": 18.7
+          },
+          {
+            "termo": "festa junina",
+            "valor": 11.6
+          },
+          {
+            "termo": "convite",
+            "valor": 9.3
+          },
+          {
+            "termo": "dia dos pais",
+            "valor": 8.6
+          },
+          {
+            "termo": "etiquetas",
+            "valor": 6.1
+          },
+          {
+            "termo": "dia das mães",
+            "valor": 2.7
+          },
+          {
+            "termo": "dia dos namorados",
+            "valor": 2.7
+          },
+          {
+            "termo": "páscoa",
+            "valor": 2.1
+          },
+          {
+            "termo": "lembrança",
+            "valor": 1.8
+          },
+          {
+            "termo": "carnaval",
+            "valor": 1.1
+          },
+          {
+            "termo": "halloween",
+            "valor": 0.1
+          },
+          {
+            "termo": "ano novo",
+            "valor": 0.0
+          },
+          {
+            "termo": "dia das crianças",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "vitamina para cachorro",
+            "valor": 46.8
+          },
+          {
+            "termo": "queda de pelo cachorro",
+            "valor": 32.9
+          },
+          {
+            "termo": "cachorro sem apetite",
+            "valor": 29.9
+          },
+          {
+            "termo": "suplemento para cachorro",
+            "valor": 19.9
+          },
+          {
+            "termo": "probiótico para cachorro",
+            "valor": 14.0
+          },
+          {
+            "termo": "displasia em cachorro",
+            "valor": 10.3
+          },
+          {
+            "termo": "cachorro perdendo pelo",
+            "valor": 6.2
+          },
+          {
+            "termo": "ômega 3 para cachorro",
+            "valor": 2.1
+          },
+          {
+            "termo": "colágeno para cachorro",
+            "valor": 0.3
+          },
+          {
+            "termo": "pelo opaco cachorro",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "tabuada para imprimir",
+            "valor": 43.0
+          },
+          {
+            "termo": "atividades de história para imprimir",
+            "valor": 20.6
+          },
+          {
+            "termo": "atividades de artes para imprimir",
+            "valor": 16.1
+          },
+          {
+            "termo": "atividades de matemática 4 ano para imprimir",
+            "valor": 11.4
+          },
+          {
+            "termo": "atividades de matemática 5 ano para imprimir",
+            "valor": 11.0
+          },
+          {
+            "termo": "atividades de ciências para imprimir",
+            "valor": 4.6
+          },
+          {
+            "termo": "maquete do sistema solar como fazer",
+            "valor": 3.8
+          },
+          {
+            "termo": "contas de multiplicação para imprimir",
+            "valor": 3.4
+          },
+          {
+            "termo": "plano de aula pronto para imprimir",
+            "valor": 3.1
+          },
+          {
+            "termo": "projetos escolares ensino fundamental",
+            "valor": 1.7
+          },
+          {
+            "termo": "atividades de matemática 2 ano para imprimir",
+            "valor": 0.7
+          },
+          {
+            "termo": "atividades de matemática 3 ano para imprimir",
+            "valor": 0.5
+          },
+          {
+            "termo": "atividades de matemática 1 ano para imprimir",
+            "valor": 0.2
+          },
+          {
+            "termo": "boletim escolar para imprimir",
+            "valor": 0.1
+          },
+          {
+            "termo": "ficha de avaliação educação infantil",
+            "valor": 0.0
+          },
+          {
+            "termo": "diário de classe para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "relatório descritivo do aluno",
+            "valor": 0.0
+          },
+          {
+            "termo": "contas de adição para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "contas de subtração para imprimir",
+            "valor": 0.0
+          },
+          {
+            "termo": "contas de divisão para imprimir",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "sintomas de ansiedade em crianças",
+            "valor": 100,
+            "base": "ansiedade em crianças"
+          }
+        ],
+        "related_rising": [],
+        "seeds": [
+          {
+            "termo": "ansiedade em crianças",
+            "valor": 34.5
+          },
+          {
+            "termo": "atraso na fala",
+            "valor": 13.8
+          },
+          {
+            "termo": "fonoaudiologia infantil",
+            "valor": 13.4
+          },
+          {
+            "termo": "tdah em crianças",
+            "valor": 12.3
+          },
+          {
+            "termo": "marcos do desenvolvimento infantil",
+            "valor": 10.2
+          },
+          {
+            "termo": "desenvolvimento da linguagem infantil",
+            "valor": 8.8
+          },
+          {
+            "termo": "estimulação precoce",
+            "valor": 8.6
+          },
+          {
+            "termo": "desenvolvimento cognitivo infantil",
+            "valor": 8.2
+          },
+          {
+            "termo": "criança não fala 2 anos",
+            "valor": 7.7
+          },
+          {
+            "termo": "desenvolvimento motor infantil",
+            "valor": 5.4
+          },
+          {
+            "termo": "brinquedos educativos para crianças",
+            "valor": 5.4
+          },
+          {
+            "termo": "sinais de autismo em crianças",
+            "valor": 3.5
+          },
+          {
+            "termo": "como estimular bebê em casa",
+            "valor": 3.1
+          },
+          {
+            "termo": "como brincar com bebê",
+            "valor": 1.8
+          },
+          {
+            "termo": "método montessori",
+            "valor": 1.3
+          },
+          {
+            "termo": "dislexia em crianças",
+            "valor": 0.8
+          },
+          {
+            "termo": "criança hiperativa o que fazer",
+            "valor": 0.8
+          },
+          {
+            "termo": "atividades para criança com tdah",
+            "valor": 0.4
+          },
+          {
+            "termo": "como ajudar criança autista em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "como estimular a fala da criança",
+            "valor": 0.0
+          },
+          {
+            "termo": "birra infantil como lidar",
+            "valor": 0.0
+          },
+          {
+            "termo": "como colocar limites nos filhos",
+            "valor": 0.0
+          },
+          {
+            "termo": "choro excessivo bebê",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades montessori em casa",
+            "valor": 0.0
+          },
+          {
+            "termo": "atividades para estimular criança em casa",
+            "valor": 0.0
+          }
+        ]
+      },
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFSP abre inscrições para a especialização gratuita em Docência na Educação Superior 2027",
+      "url": "https://infoeducacao.com.br/ifsp-abre-inscricoes-para-a-especializacao-gratuita-em-docencia-na-educacao-superior-2027/",
+      "data": "Tue, 18 Aug 2026 07:13:58 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) abriu 25 vagas na especialização gratuita em Docência The post IFSP abre inscrições para a especialização gratuita em Docência"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Especialização gratuita EaD em Energias Renováveis e Mobilidade Elétrica abre 150 vagas",
+      "url": "https://infoeducacao.com.br/especializacao-gratuita-ead-em-energias-renovaveis-e-mobilidade-eletrica-abre-150-vagas/",
+      "data": "Mon, 17 Aug 2026 14:32:37 +0000",
+      "resumo": "O Instituto Federal de Educação Ciência e Tecnologia da Bahia &#8211; IFBA abriu 150 vagas na especialização gratuita EaD em The post Especialização gratuita EaD em Energias Renováveis e Mobilidade El"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "UnB abre 300 vagas em cursos de graduação gratuitos a distância",
+      "url": "https://infoeducacao.com.br/unb-abre-300-vagas-em-cursos-de-graduacao-gratuitos-a-distancia/",
+      "data": "Mon, 17 Aug 2026 11:58:12 +0000",
+      "resumo": "A Universidade de Brasília (UnB) está selecionando 300 alunos para os cursos de graduação gratuitos, na modalidade de educação a The post UnB abre 300 vagas em cursos de graduação gratuitos a distânci"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para o curso superior gratuito a distância de tecnologia em Mídias Sociais Digitais",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-superior-gratuito-a-distancia-de-tecnologia-em-midias-sociais-digitais/",
+      "data": "Mon, 17 Aug 2026 11:19:22 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Alagoas (IFAL) abriu 150 vagas no curso superior gratuito a distância The post Inscrições abertas para o curso superior gratuito a distância de"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso gratuito de Literatura, história e cultura afro-brasileira na sala de aula recebe inscrições e oferece certificado",
+      "url": "https://infoeducacao.com.br/curso-gratuito-de-literatura-historia-e-cultura-afro-brasileira-na-sala-de-aula-recebe-inscricoes-e-oferece-certificado/",
+      "data": "Sun, 16 Aug 2026 15:58:27 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Rondônia &#8211; IFRO está recebendo inscrições de interessados em participar do The post Curso gratuito de Literatura, história e cultura afro"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Cursos online sobre Inclusão e Acessibilidade abrem vagas gratuitas e oferecem certificado",
+      "url": "https://infoeducacao.com.br/cursos-online-sobre-inclusao-e-acessibilidade-abrem-vagas-gratuitas-e-oferecem-certificado/",
+      "data": "Sun, 16 Aug 2026 12:03:35 +0000",
+      "resumo": "A Universidade Federal de São Carlos (UFSCar) está recebendo inscrições de interessados em participar de um ou mais cursos gratuitos The post Cursos online sobre Inclusão e Acessibilidade abrem vagas "
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Inscrições abertas para a especialização gratuita a distância em Saúde e Segurança do Trabalho 2026",
+      "url": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-saude-e-seguranca-do-trabalho-2026/",
+      "data": "Sun, 16 Aug 2026 08:20:27 +0000",
+      "resumo": "A Universidade Federal do Amapá (Unifap) abriu 140 vagas na especialização gratuita a distância em Saúde e Segurança do Trabalho, The post Inscrições abertas para a especialização gratuita a distância"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "23 cursos gratuitos e 100% online da UFSCar com inscrições abertas hoje e certificado grátis",
+      "url": "https://infoeducacao.com.br/23-cursos-gratuitos-e-100-online-da-ufscar-com-inscricoes-abertas-hoje-e-certificado-gratis/",
+      "data": "Sat, 15 Aug 2026 22:45:39 +0000",
+      "resumo": "A Universidade Federal de São Carlos (UFSCar) está recebendo inscrições e oferecendo certificado gratuito para os matriculados e aprovados em The post 23 cursos gratuitos e 100% online da UFSCar com i"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Universidade Federal oferece mais de 4 mil vagas em 89 opções de curso de graduação no Vestibular Unificado 2027",
+      "url": "https://www.pebsp.com/universidade-federal-oferece-mais-de-4-mil-vagas-em-89-opcoes-de-curso-de-graduacao-no-vestibular-unificado-2027-dcs/",
+      "data": "Tue, 18 Aug 2026 10:45:47 +0000",
+      "resumo": "A Universidade Federal de Santa Catarina (UFSC) oferece 4.553 vagas em 89 opções de curso de graduação, distribuídas em cinco campi catarinenses, no Vestibular Unificado UFSC/IFC 2027. As inscrições, "
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UERGS mantém inscrições abertas para 4 cursos de especialização até sexta-feira; veja as opções",
+      "url": "https://www.pebsp.com/uergs-abre-4-especializacoes-com-inscricoes-ate-21-de-agosto-de-2026/",
+      "data": "Tue, 18 Aug 2026 09:45:00 +0000",
+      "resumo": "UERGS mantém abertas as inscrições para 4 especializações lato sensu — Biotecnologia, Gestão Pública, Gestão Ambiental e EJA — até 21 de agosto de 2026. O post UERGS mantém inscrições abertas para 4 c"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UFAC abre inscrições para 757 vagas remanescentes em 36 cursos de graduação de cursos de graduação gratuitos",
+      "url": "https://www.pebsp.com/ufac-abre-inscricoes-para-757-vagas-remanescentes-em-36-cursos-de-graduacao-de-cursos-de-graduacao-gratuitos-dcs/",
+      "data": "Tue, 18 Aug 2026 09:05:12 +0000",
+      "resumo": "A Universidade Federal do Acre (UFAC) abriu inscrições para 757 vagas residuais em cursos de graduação nos campi de Rio Branco e Cruzeiro do Sul, distribuídas entre transferência externa, remanejament"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Universidade Federal abre vagas para Bacharelado em Tecnologia da Informação EAD; inscrições vão até 31 de agosto",
+      "url": "https://www.pebsp.com/ufmt-abre-60-vagas-para-tecnologia-da-informacao-semipresencial-inscricoes-vao-ate-31-de-agosto/",
+      "data": "Mon, 17 Aug 2026 22:55:56 +0000",
+      "resumo": "UFMT abre 60 vagas para o bacharelado semipresencial em Tecnologia da Informação, em Várzea Grande (MT). Inscrições vão até 31 de agosto de 2026. O post Universidade Federal abre vagas para Bacharelad"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal lança edital de ingresso em cursos técnicos integrados ao Ensino Médio com seleção pelo Histórico Escolar",
+      "url": "https://www.pebsp.com/instituto-federal-lanca-edital-de-ingresso-em-cursos-tecnicos-integrados-ao-ensino-medio-com-selecao-pelo-historico-escolar-dcs/",
+      "data": "Mon, 17 Aug 2026 22:51:28 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) publicou o Edital nº 136/2026, abrindo as inscrições para o Processo Seletivo 2027/1 dos cursos técnicos presenciais integra"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "MEC abre seleção para quem quer trabalhar no ENEM 2026 e oferece auxílio de R$ 510 por dia",
+      "url": "https://www.pebsp.com/mec-abre-selecao-para-quem-quer-trabalhar-no-enem-2026-e-oferece-auxilio-de-r-510-por-dia/",
+      "data": "Mon, 17 Aug 2026 21:20:02 +0000",
+      "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) vinculado ao Ministério da Educação (MEC) confirmou, nesta segunda-feira (17), a Rede de Interlocutores Escolares (RIE)."
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Última semana de inscrições para Processo Seletivo da Secretaria da Educação – SEED-PR",
+      "url": "https://www.pebsp.com/ultima-semana-de-inscricoes-para-processo-seletivo-da-secretaria-da-educacao-seed-pr/",
+      "data": "Mon, 17 Aug 2026 17:14:41 +0000",
+      "resumo": "A Secretaria de Estado da Educação do Paraná (SEED/PR) publicou o Edital n.º 52/2026 – GS/SEED, que abre Processo Seletivo Simplificado (PSS) para contratação temporária de Professor e Professor Pedag"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Instituto Federal abre mais de 500 vagas com seleção pela nota das últimas edições do ENEM",
+      "url": "https://www.pebsp.com/instituto-federal-abre-mais-de-500-vagas-com-selecao-pela-nota-das-ultimas-edicoes-do-enem/",
+      "data": "Mon, 17 Aug 2026 15:45:23 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) publicou o Edital nº 133/2026, abrindo 559 vagas gratuitas para cursos presenciais de graduação no primeiro semestre letivo "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal oferece bolsa de R$ 1.100 para mediador pedagógico; inscrições até 19 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/17/universidade-federal-oferece-bolsa-de-r-1-100-para-mediador-pedagogico-inscricoes-ate-19-de-agosto/",
+      "data": "Tue, 18 Aug 2026 01:30:56 +0000",
+      "resumo": "A UFRN está com inscrições abertas até 19 de agosto de 2026 para um processo seletivo visando a formação de cadastro de reserva para mediador pedagógico. Os candidatos devem ter graduação e pós-gradua"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Educação básica terá novas diretrizes para o ensino de Arte; veja o que muda",
+      "url": "https://conectaprofessores.com/2026/08/17/educacao-basica-tera-novas-diretrizes-para-o-ensino-de-arte-veja-o-que-muda/",
+      "data": "Tue, 18 Aug 2026 01:01:57 +0000",
+      "resumo": "O Ministério da Educação homologou novas diretrizes para o ensino de Arte na educação básica, enfatizando sua importância na formação integral dos estudantes. As diretrizes, que abrangem artes visuais"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "MEC oferece 9 cursos gratuitos de Inteligência Artificial para professores; veja como se inscrever",
+      "url": "https://conectaprofessores.com/2026/08/17/mec-oferece-9-cursos-gratuitos-de-inteligencia-artificial-para-professores-veja-como-se-inscrever/",
+      "data": "Mon, 17 Aug 2026 23:28:27 +0000",
+      "resumo": "O Ministério da Educação (MEC) oferece nove cursos gratuitos de inteligência artificial para professores da educação básica, disponíveis no Ambiente Virtual de Aprendizagem (Avamec). As formações auto"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Professor pode receber até R$ 1.020 trabalhando no Enem 2026; saiba como participar",
+      "url": "https://conectaprofessores.com/2026/08/17/professor-pode-receber-ate-r-1-020-trabalhando-no-enem-2026-saiba-como-participar/",
+      "data": "Mon, 17 Aug 2026 15:33:09 +0000",
+      "resumo": "Professores efetivos das redes públicas estaduais e do Distrito Federal podem atuar no Enem 2026, recebendo R$ 510 por dia. A participação é exclusiva para docentes ativos, indicado pelas Secretarias "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado em Educação Matemática: inscrições para terceira turma terminam em 17 de agosto",
+      "url": "https://conectaprofessores.com/2026/08/17/mestrado-em-educacao-matematica-inscricoes-para-terceira-turma-terminam-em-17-de-agosto/",
+      "data": "Mon, 17 Aug 2026 14:45:14 +0000",
+      "resumo": "As inscrições para o Programa de Pós-Graduação em Educação Matemática no Tocantins (PPGEMaT) terminam em 17 de agosto de 2026. O mestrado, oferecido em parceria entre várias universidades, é presencia"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre 60 vagas gratuitas para Licenciatura em Educação do Campo em 2027",
+      "url": "https://conectaprofessores.com/2026/08/17/universidade-abre-60-vagas-gratuitas-para-licenciatura-em-educacao-do-campo-em-2027/",
+      "data": "Mon, 17 Aug 2026 13:46:23 +0000",
+      "resumo": "A Universidade Federal da Grande Dourados (UFGD) abriu inscrições para o processo seletivo da Licenciatura em Educação do Campo 2027, com 60 vagas gratuitas prioritárias para pessoas do meio rural. As"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade abre inscrições para Mestrado Profissional em Ensino de Física",
+      "url": "https://conectaprofessores.com/2026/08/16/universidade-abre-inscricoes-para-mestrado-profissional-em-ensino-de-fisica/",
+      "data": "Mon, 17 Aug 2026 01:00:41 +0000",
+      "resumo": "A Universidade Federal da Grande Dourados (UFGD) abrirá inscrições para o Mestrado Nacional Profissional em Ensino de Física (MNPEF) de 24 de agosto a 23 de setembro de 2026, com 9 vagas disponíveis. "
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade Federal abre vagas para Licenciatura em Letras Libras com ingresso em 2027",
+      "url": "https://conectaprofessores.com/2026/08/16/universidade-federal-abre-vagas-para-licenciatura-em-letras-libras-com-ingresso-em-2027/",
+      "data": "Mon, 17 Aug 2026 00:27:20 +0000",
+      "resumo": "A Universidade Federal do Paraná (UFPR) abriu inscrições para 30 vagas no curso de Licenciatura em Letras Libras, destinadas à formação de professores de Língua Brasileira de Sinais. As inscrições vão"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "painel tv",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de painel tv para fazer em casa (com molde grátis)",
+          "20 modelos de painel tv para imprimir e usar agora",
+          "20 inspirações de painel tv que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer painel tv: passo a passo fácil para iniciantes",
+          "Painel tv: como criar em casa sem gastar muito",
+          "Tudo sobre painel tv em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que painel tv está entre as buscas mais quentes do Brasil",
+          "Painel tv: as tendências que dominam em 2026",
+          "Painel tv em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'painel tv' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "que dia é dia dos namorados",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de que dia é dia dos namorados para fazer em casa (com molde grátis)",
+          "20 modelos de que dia é dia dos namorados para imprimir e usar agora",
+          "20 inspirações de que dia é dia dos namorados que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer que dia é dia dos namorados: passo a passo fácil para iniciantes",
+          "Que dia é dia dos namorados: como criar em casa sem gastar muito",
+          "Tudo sobre que dia é dia dos namorados em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que que dia é dia dos namorados está entre as buscas mais quentes do Brasil",
+          "Que dia é dia dos namorados: as tendências que dominam em 2026",
+          "Que dia é dia dos namorados em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'que dia é dia dos namorados' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "sintomas de ansiedade em crianças",
+      "score": 100.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 sinais de sintomas de ansiedade em crianças que todo pai precisa conhecer",
+          "20 atividades para estimular sintomas de ansiedade em crianças em casa (sem precisar de terapeuta)",
+          "20 formas de ajudar seu filho com sintomas de ansiedade em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com sintomas de ansiedade em crianças: guia completo para pais",
+          "Sintomas de ansiedade em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular sintomas de ansiedade em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre sintomas de ansiedade em crianças",
+          "Sintomas de ansiedade em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Sintomas de ansiedade em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sintomas de ansiedade em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "letras",
+      "score": 91.6,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de letras para fazer em casa (com molde grátis)",
+          "20 modelos de letras para imprimir e usar agora",
+          "20 inspirações de letras que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer letras: passo a passo fácil para iniciantes",
+          "Letras: como criar em casa sem gastar muito",
+          "Tudo sobre letras em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que letras está entre as buscas mais quentes do Brasil",
+          "Letras: as tendências que dominam em 2026",
+          "Letras em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'letras' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "painel led",
+      "score": 88.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de painel led para fazer em casa (com molde grátis)",
+          "20 modelos de painel led para imprimir e usar agora",
+          "20 inspirações de painel led que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer painel led: passo a passo fácil para iniciantes",
+          "Painel led: como criar em casa sem gastar muito",
+          "Tudo sobre painel led em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que painel led está entre as buscas mais quentes do Brasil",
+          "Painel led: as tendências que dominam em 2026",
+          "Painel led em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'painel led' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "termo_base": "que dia é dia das mães",
+      "score": 73.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de que dia é dia das mães para fazer em casa (com molde grátis)",
+          "20 modelos de que dia é dia das mães para imprimir e usar agora",
+          "20 inspirações de que dia é dia das mães que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer que dia é dia das mães: passo a passo fácil para iniciantes",
+          "Que dia é dia das mães: como criar em casa sem gastar muito",
+          "Tudo sobre que dia é dia das mães em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que que dia é dia das mães está entre as buscas mais quentes do Brasil",
+          "Que dia é dia das mães: as tendências que dominam em 2026",
+          "Que dia é dia das mães em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'que dia é dia das mães' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "alfabeto educação infantil para imprimir",
+      "score": 25.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Alfabeto educação infantil para imprimir para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de alfabeto educação infantil para imprimir por nível — do mais fácil ao mais avançado",
+          "10 fichas de alfabeto educação infantil para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar alfabeto educação infantil para imprimir em casa: guia passo a passo para pais e professores",
+          "Alfabeto educação infantil para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em alfabeto educação infantil para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que alfabeto educação infantil para imprimir está entre as buscas mais quentes de pais e professores",
+          "Alfabeto educação infantil para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Alfabeto educação infantil para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'alfabeto educação infantil para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "alfabeto cursivo para imprimir",
+      "score": 20.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Alfabeto cursivo para imprimir para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de alfabeto cursivo para imprimir por nível — do mais fácil ao mais avançado",
+          "10 fichas de alfabeto cursivo para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar alfabeto cursivo para imprimir em casa: guia passo a passo para pais e professores",
+          "Alfabeto cursivo para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em alfabeto cursivo para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que alfabeto cursivo para imprimir está entre as buscas mais quentes de pais e professores",
+          "Alfabeto cursivo para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Alfabeto cursivo para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'alfabeto cursivo para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "alfabeto colorido",
+      "score": 20.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Alfabeto colorido para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de alfabeto colorido por nível — do mais fácil ao mais avançado",
+          "10 fichas de alfabeto colorido alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar alfabeto colorido em casa: guia passo a passo para pais e professores",
+          "Alfabeto colorido: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em alfabeto colorido: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que alfabeto colorido está entre as buscas mais quentes de pais e professores",
+          "Alfabeto colorido em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Alfabeto colorido: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'alfabeto colorido' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "suplemento para cachorro",
+      "score": 19.9,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de suplemento para cachorro",
+          "10 benefícios de suplemento para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre suplemento para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar suplemento para cachorro no seu cachorro: guia completo para tutores",
+          "Suplemento para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre suplemento para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que suplemento para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Suplemento para cachorro: o que os veterinários estão recomendando em 2026",
+          "Suplemento para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'suplemento para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "alfabeto para imprimir e recortar",
+      "score": 16.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Alfabeto para imprimir e recortar para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de alfabeto para imprimir e recortar por nível — do mais fácil ao mais avançado",
+          "10 fichas de alfabeto para imprimir e recortar alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar alfabeto para imprimir e recortar em casa: guia passo a passo para pais e professores",
+          "Alfabeto para imprimir e recortar: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em alfabeto para imprimir e recortar: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que alfabeto para imprimir e recortar está entre as buscas mais quentes de pais e professores",
+          "Alfabeto para imprimir e recortar em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Alfabeto para imprimir e recortar: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'alfabeto para imprimir e recortar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "termo_base": "alfabeto grande para imprimir",
+      "score": 15.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Alfabeto grande para imprimir para imprimir: 10 fichas prontas para usar hoje",
+          "10 atividades de alfabeto grande para imprimir por nível — do mais fácil ao mais avançado",
+          "10 fichas de alfabeto grande para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar alfabeto grande para imprimir em casa: guia passo a passo para pais e professores",
+          "Alfabeto grande para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em alfabeto grande para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que alfabeto grande para imprimir está entre as buscas mais quentes de pais e professores",
+          "Alfabeto grande para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Alfabeto grande para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'alfabeto grande para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "probiótico para cachorro",
+      "score": 14.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de probiótico para cachorro",
+          "10 benefícios de probiótico para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre probiótico para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiótico para cachorro no seu cachorro: guia completo para tutores",
+          "Probiótico para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiótico para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiótico para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Probiótico para cachorro: o que os veterinários estão recomendando em 2026",
+          "Probiótico para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiótico para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "cachorro perdendo pelo",
+      "score": 6.2,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de cachorro perdendo pelo",
+          "10 benefícios de cachorro perdendo pelo que todo tutor deveria conhecer",
+          "10 dúvidas sobre cachorro perdendo pelo respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar cachorro perdendo pelo no seu cachorro: guia completo para tutores",
+          "Cachorro perdendo pelo: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre cachorro perdendo pelo: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que cachorro perdendo pelo está entre as buscas mais quentes de tutores de pets",
+          "Cachorro perdendo pelo: o que os veterinários estão recomendando em 2026",
+          "Cachorro perdendo pelo em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cachorro perdendo pelo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "maquete do sistema solar como fazer",
+      "score": 3.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Maquete do sistema solar como fazer para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de maquete do sistema solar como fazer por ano escolar — do 1° ao 5° ano",
+          "10 recursos de maquete do sistema solar como fazer que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar maquete do sistema solar como fazer do zero: modelo completo e editável",
+          "Maquete do sistema solar como fazer: passo a passo para professores e coordenadores",
+          "Tudo sobre maquete do sistema solar como fazer em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que maquete do sistema solar como fazer está entre os materiais mais baixados por educadores",
+          "Maquete do sistema solar como fazer: o recurso que escolas inteiras adotaram em 2026",
+          "Maquete do sistema solar como fazer em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'maquete do sistema solar como fazer' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "sinais de autismo em crianças",
+      "score": 3.5,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de sinais de autismo em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular sinais de autismo em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com sinais de autismo em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com sinais de autismo em crianças: guia completo para pais",
+          "Sinais de autismo em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular sinais de autismo em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre sinais de autismo em crianças",
+          "Sinais de autismo em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Sinais de autismo em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sinais de autismo em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "como estimular bebê em casa",
+      "score": 3.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de como estimular bebê em casa que todo pai precisa conhecer",
+          "10 atividades para estimular como estimular bebê em casa em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com como estimular bebê em casa a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com como estimular bebê em casa: guia completo para pais",
+          "Como estimular bebê em casa: o que é, como identificar e o que fazer em 2026",
+          "Como estimular como estimular bebê em casa no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre como estimular bebê em casa",
+          "Como estimular bebê em casa: o que as pesquisas mais recentes dizem em 2026",
+          "Como estimular bebê em casa em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como estimular bebê em casa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "ômega 3 para cachorro",
+      "score": 2.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de ômega 3 para cachorro",
+          "10 benefícios de ômega 3 para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre ômega 3 para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar ômega 3 para cachorro no seu cachorro: guia completo para tutores",
+          "Ômega 3 para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre ômega 3 para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que ômega 3 para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Ômega 3 para cachorro: o que os veterinários estão recomendando em 2026",
+          "Ômega 3 para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ômega 3 para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "projetos escolares ensino fundamental",
+      "score": 1.7,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Projetos escolares ensino fundamental para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de projetos escolares ensino fundamental por ano escolar — do 1° ao 5° ano",
+          "10 recursos de projetos escolares ensino fundamental que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar projetos escolares ensino fundamental do zero: modelo completo e editável",
+          "Projetos escolares ensino fundamental: passo a passo para professores e coordenadores",
+          "Tudo sobre projetos escolares ensino fundamental em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que projetos escolares ensino fundamental está entre os materiais mais baixados por educadores",
+          "Projetos escolares ensino fundamental: o recurso que escolas inteiras adotaram em 2026",
+          "Projetos escolares ensino fundamental em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'projetos escolares ensino fundamental' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "dislexia em crianças",
+      "score": 0.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de dislexia em crianças que todo pai precisa conhecer",
+          "10 atividades para estimular dislexia em crianças em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com dislexia em crianças a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com dislexia em crianças: guia completo para pais",
+          "Dislexia em crianças: o que é, como identificar e o que fazer em 2026",
+          "Como estimular dislexia em crianças no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre dislexia em crianças",
+          "Dislexia em crianças: o que as pesquisas mais recentes dizem em 2026",
+          "Dislexia em crianças em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dislexia em crianças' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "termo_base": "criança hiperativa o que fazer",
+      "score": 0.8,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de criança hiperativa o que fazer que todo pai precisa conhecer",
+          "10 atividades para estimular criança hiperativa o que fazer em casa (sem precisar de terapeuta)",
+          "10 formas de ajudar seu filho com criança hiperativa o que fazer a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com criança hiperativa o que fazer: guia completo para pais",
+          "Criança hiperativa o que fazer: o que é, como identificar e o que fazer em 2026",
+          "Como estimular criança hiperativa o que fazer no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre criança hiperativa o que fazer",
+          "Criança hiperativa o que fazer: o que as pesquisas mais recentes dizem em 2026",
+          "Criança hiperativa o que fazer em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'criança hiperativa o que fazer' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "termo_base": "colágeno para cachorro",
+      "score": 0.3,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "10 sinais de que seu cachorro precisa de colágeno para cachorro",
+          "10 benefícios de colágeno para cachorro que todo tutor deveria conhecer",
+          "10 dúvidas sobre colágeno para cachorro respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar colágeno para cachorro no seu cachorro: guia completo para tutores",
+          "Colágeno para cachorro: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre colágeno para cachorro: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que colágeno para cachorro está entre as buscas mais quentes de tutores de pets",
+          "Colágeno para cachorro: o que os veterinários estão recomendando em 2026",
+          "Colágeno para cachorro em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'colágeno para cachorro' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "boletim escolar para imprimir",
+      "score": 0.1,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Boletim escolar para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de boletim escolar para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de boletim escolar para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar boletim escolar para imprimir do zero: modelo completo e editável",
+          "Boletim escolar para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre boletim escolar para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que boletim escolar para imprimir está entre os materiais mais baixados por educadores",
+          "Boletim escolar para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Boletim escolar para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'boletim escolar para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "ficha de avaliação educação infantil",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Ficha de avaliação educação infantil para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de ficha de avaliação educação infantil por ano escolar — do 1° ao 5° ano",
+          "10 recursos de ficha de avaliação educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar ficha de avaliação educação infantil do zero: modelo completo e editável",
+          "Ficha de avaliação educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre ficha de avaliação educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que ficha de avaliação educação infantil está entre os materiais mais baixados por educadores",
+          "Ficha de avaliação educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Ficha de avaliação educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ficha de avaliação educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "termo_base": "diário de classe para imprimir",
+      "score": 0.0,
+      "urgencia": "📈 Normal",
+      "titulos": {
+        "lista": [
+          "Diário de classe para imprimir para imprimir: 10 modelos prontos para usar hoje",
+          "10 atividades de diário de classe para imprimir por ano escolar — do 1° ao 5° ano",
+          "10 recursos de diário de classe para imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar diário de classe para imprimir do zero: modelo completo e editável",
+          "Diário de classe para imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre diário de classe para imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que diário de classe para imprimir está entre os materiais mais baixados por educadores",
+          "Diário de classe para imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Diário de classe para imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Como fazer",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'diário de classe para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    }
+  ]
+}
