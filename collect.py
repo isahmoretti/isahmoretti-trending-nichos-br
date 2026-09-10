@@ -195,97 +195,202 @@ NICHOS = {
 }
 
 
+# Allowlist para filtrar as buscas em alta NACIONAIS (trending do dia) por nicho.
+# Só entram termos que contenham uma destas raízes → evita ruído (futebol, celebridade…).
+EDU_ALLOWLIST = {
+    "atividades": ["atividade", "alfabetiz", "silab", "sílab", "vogais", "caligrafia", "leitura",
+                   "escrita", "alfabeto", "letra", "educação infantil", "maternal", "pré-escola",
+                   "berçário", "fônico", "fonico", "para imprimir", "dislexia", "tdah"],
+    "educacao":   ["atividade", "matemática", "matematica", "multiplicação", "divisão", "fração",
+                   "tabuada", "geometria", "problema", "situações-problema", "gestão escolar",
+                   "plano de aula", "bncc", "para imprimir", "3 ano", "4 ano", "5 ano"],
+    "desenvolvimento": ["desenvolvimento infantil", "coordenação motora", "fala", "linguagem",
+                        "autismo", "tea", "tdah", "birra", "psicomotric", "estimul", "brincadeira",
+                        "criança", "bebê", "primeira infância"],
+    "concursos":  ["concurso", "edital", "seduc", "see", "prova", "professor", "pedagogia",
+                   "magistério", "magisterio", "apostila", "simulado", "banca", "prefeitura",
+                   "processo seletivo", "formação continuada", "pós-graduação", "ead"],
+}
+
+
+def _norm_termo(s: str) -> str:
+    import re, unicodedata
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
+    s = re.sub(r"[^a-z0-9 ]", " ", s.lower())
+    return re.sub(r"\s+", " ", s).strip()
+
+
+# Sufixos/prefixos que só geram variação morfológica da mesma busca.
+_RUIDO_FAMILIA = (
+    "para imprimir", "pra imprimir", "em pdf", "pdf", "gratis", "gratuito", "gratuita",
+    "para baixar", "download", "com gabarito", "molde", "moldes", "modelo", "modelos",
+    "completo", "completa", "grande", "pequeno", "atividades de", "atividade de",
+    "ficha de", "fichas de", "exercicios de", "exercicio de", "folha de", "folhas de",
+)
+
+
+def _familia_termo(s: str) -> str:
+    """Reduz o termo ao seu 'miolo' para deduplicar variantes (letra/letras/para imprimir…)."""
+    t = _norm_termo(s)
+    for _ in range(3):
+        for r in _RUIDO_FAMILIA:
+            if t.startswith(r + " "):
+                t = t[len(r) + 1:]
+            if t.endswith(" " + r):
+                t = t[: -(len(r) + 1)]
+    # remove conectivos soltos nas pontas
+    _stop = {"de", "do", "da", "dos", "das", "para", "pra", "com", "e", "em", "a", "o"}
+    palavras = [w for w in t.split()]
+    while palavras and palavras[0] in _stop:
+        palavras.pop(0)
+    while palavras and palavras[-1] in _stop:
+        palavras.pop()
+    # singular/plural simples
+    t = " ".join(w[:-1] if len(w) > 4 and w.endswith("s") else w for w in palavras)
+    return t.strip() or _norm_termo(s)
+
+
+def _rotacao(seq: list, n: int) -> list:
+    """Janela rotativa de `n` itens sobre `seq`, deslocando 1 posição por dia."""
+    if len(seq) <= n:
+        return list(seq)
+    off = date.today().toordinal() % len(seq)
+    dobro = list(seq) + list(seq)
+    return dobro[off:off + n]
+
+
+def _trendreq():
+    from pytrends.request import TrendReq
+    return TrendReq(
+        hl="pt-BR", tz=180, timeout=(10, 25), retries=3, backoff_factor=1.2,
+        requests_args={"headers": {
+            "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36"),
+            "Accept-Language": "pt-BR,pt;q=0.9",
+        }},
+    )
+
+
+def _pausa(base: float):
+    import random
+    time.sleep(base + random.uniform(0, base * 0.6))
+
+
 def collect_google_trends(nicho_key: str, nicho_data: dict, termos_recentes: set | None = None) -> dict:
-    result = {"trending": [], "related_top": [], "related_rising": [], "seeds": []}
+    # termos_recentes = FAMÍLIAS já mostradas nos últimos 30 dias (dedupe forte p/ maximizar novidade)
+    result = {"trending": [], "related_top": [], "related_rising": [], "seeds": [], "stale": False}
     termos_recentes = termos_recentes or set()
     try:
-        from pytrends.request import TrendReq
-        pt = TrendReq(hl="pt-BR", tz=180)
+        pt = _trendreq()
 
         all_kws = nicho_data["google_kw"]
+        rot_kws = _rotacao(all_kws, 12)           # varre um pedaço diferente do grafo a cada dia
+        seeds_set = {_familia_termo(k) for k in all_kws}
+        familias_vistas: set[str] = set()
+        allow = EDU_ALLOWLIST.get(nicho_key, [])
+
+        def _aceita(q: str) -> bool:
+            fam = _familia_termo(q)
+            if not fam or fam in seeds_set or fam in familias_vistas or fam in termos_recentes:
+                return False
+            familias_vistas.add(fam)
+            return True
+
         interest_scores: dict[str, float] = {}
 
-        # ── Passo 1: interest_over_time em lotes de 5 ────────────────────────
-        for i in range(0, len(all_kws), 5):
-            lote = all_kws[i:i + 5]
+        # ── Passo 1: interesse das seeds rotacionadas (lotes de 5) ──────────
+        for i in range(0, len(rot_kws), 5):
+            lote = rot_kws[i:i + 5]
             try:
                 pt.build_payload(lote, geo="BR", timeframe="today 1-m")
-                time.sleep(5)
+                _pausa(5)
                 iot = pt.interest_over_time()
                 if not iot.empty:
                     for kw in lote:
                         if kw in iot.columns:
                             interest_scores[kw] = round(float(iot[kw].mean()), 1)
-                time.sleep(6)
+                _pausa(6)
             except Exception as e:
                 log.warning(f"Google Trends lote {lote} [{nicho_key}]: {e}")
-                time.sleep(10)
+                _pausa(12)
 
-        # Salva ranking das seeds como referência interna (não exibido como variação)
         seeds_ranked = sorted(interest_scores.items(), key=lambda x: x[1], reverse=True)
-        for kw, score in seeds_ranked:
-            result["seeds"].append({"termo": kw, "valor": score})
+        result["seeds"] = [{"termo": kw, "valor": s} for kw, s in seeds_ranked]
 
-        # ── Passo 2: related_queries para TODOS os seeds ─────────────────────
-        # Máx 5 resultados por seed → garante variedade entre tópicos
-        # (evita que um único assunto domine, ex: rosa do deserto em jardinagem)
-        seeds_order = [kw for kw, _ in seeds_ranked] if seeds_ranked else all_kws
-        seen_queries: set[str] = set()
-
-        seeds_set = set(all_kws)
-
+        # ── Passo 2: related_queries — RISING primeiro (janela 3 meses) ─────
+        seeds_order = [kw for kw, _ in seeds_ranked] or rot_kws
         for kw in seeds_order:
             try:
-                pt.build_payload([kw], geo="BR", timeframe="now 7-d")
-                time.sleep(6)
-                related = pt.related_queries()
-                data_kw = related.get(kw, {})
-
-                top_df = data_kw.get("top")
-                rising_df = data_kw.get("rising")
-
-                # Desce no ranking do Google Trends (já vem ordenado por valor/crescimento)
-                # até achar termos ainda não usados nos últimos 4 dias para este nicho.
-                if top_df is not None and not top_df.empty:
-                    adicionados = 0
-                    for _, row in top_df.iterrows():
-                        if adicionados >= 5:
-                            break
-                        q = row["query"]
-                        if q in seen_queries or q in seeds_set or q in termos_recentes:
-                            continue
-                        seen_queries.add(q)
-                        result["related_top"].append({
-                            "termo": q,
-                            "valor": int(row["value"]),
-                            "base": kw,
-                        })
-                        adicionados += 1
+                pt.build_payload([kw], geo="BR", timeframe="today 3-m")
+                _pausa(6)
+                data_kw = pt.related_queries().get(kw, {})
+                rising_df, top_df = data_kw.get("rising"), data_kw.get("top")
 
                 if rising_df is not None and not rising_df.empty:
-                    adicionados = 0
+                    add = 0
                     for _, row in rising_df.iterrows():
-                        if adicionados >= 3:
+                        if add >= 4:
                             break
-                        q = row["query"]
-                        if q in seen_queries or q in seeds_set or q in termos_recentes:
-                            continue
-                        seen_queries.add(q)
-                        result["related_rising"].append({
-                            "termo": q,
-                            "valor": str(row["value"]),
-                            "base": kw,
-                        })
-                        adicionados += 1
+                        if _aceita(row["query"]):
+                            result["related_rising"].append(
+                                {"termo": row["query"], "valor": str(row["value"]), "base": kw, "novo": True})
+                            add += 1
 
-                time.sleep(8)
+                # top é agregado de ~5 anos → só como reforço, no máx 2 por seed
+                if top_df is not None and not top_df.empty:
+                    add = 0
+                    for _, row in top_df.iterrows():
+                        if add >= 2:
+                            break
+                        if _aceita(row["query"]):
+                            result["related_top"].append(
+                                {"termo": row["query"], "valor": int(row["value"]), "base": kw})
+                            add += 1
+                _pausa(8)
             except Exception as e:
                 log.warning(f"Google Trends related_queries '{kw}' [{nicho_key}]: {e}")
-                time.sleep(15)
+                _pausa(15)
 
+        # ── Passo 3: buscas em ALTA no Brasil hoje, filtradas pelo nicho ───
+        for fn, arg in (("today_searches", {"pn": "BR"}), ("trending_searches", {"pn": "brazil"})):
+            try:
+                serie = getattr(pt, fn)(**arg)
+                if hasattr(serie, "columns"):        # DataFrame (trending_searches)
+                    termos = serie.iloc[:, 0].tolist()
+                elif hasattr(serie, "tolist"):       # Series (today_searches)
+                    termos = serie.tolist()
+                else:
+                    termos = list(serie)
+                for q in termos:
+                    qn = _norm_termo(q)
+                    if allow and not any(a in qn for a in allow):
+                        continue
+                    if _aceita(q):
+                        result["trending"].append({"termo": q, "fonte": fn, "novo": True})
+                _pausa(4)
+            except Exception as e:
+                log.warning(f"Google Trends {fn} [{nicho_key}]: {e}")
+
+        # ── Passo 4: sugestões de autocomplete p/ as 4 seeds mais fortes ───
+        for kw in seeds_order[:4]:
+            try:
+                for sug in pt.suggestions(kw):
+                    titulo = sug.get("title", "")
+                    qn = _norm_termo(titulo)
+                    if allow and not any(a in qn for a in allow):
+                        continue
+                    if _aceita(titulo):
+                        result["related_rising"].append(
+                            {"termo": titulo, "valor": "sugestão", "base": kw, "novo": True})
+                _pausa(3)
+            except Exception as e:
+                log.warning(f"Google Trends suggestions '{kw}' [{nicho_key}]: {e}")
+
+        total = len(result["related_rising"]) + len(result["related_top"]) + len(result["trending"])
         log.info(
             f"Google Trends [{nicho_key}]: {len(result['seeds'])} seeds, "
-            f"{len(result['related_top'])} variações, {len(result['related_rising'])} rising"
+            f"{len(result['related_rising'])} rising/sugestão, {len(result['related_top'])} top, "
+            f"{len(result['trending'])} em alta BR (total útil: {total})"
         )
 
     except Exception as e:
@@ -537,17 +642,17 @@ def _termos_pautas_recentes(dias: int = 4) -> dict[str, set]:
     return usados
 
 
-def _termos_gt_recentes(dias: int = 4) -> dict[str, set]:
-    """Termos já mostrados em Variações/Subindo agora por nicho nos últimos `dias` dias."""
+def _termos_gt_recentes(dias: int = 30) -> dict[str, set]:
+    """FAMÍLIAS de termos já mostradas (rising/top/em alta) por nicho nos últimos `dias` dias.
+    Usa família (miolo do termo) p/ barrar variação morfológica e forçar novidade real."""
     usados: dict[str, set] = {}
     for dados in _dados_recentes(dias):
         for nicho_key, nicho_data in dados.get("nichos", {}).items():
             gt = nicho_data.get("google_trends", {})
             termos = usados.setdefault(nicho_key, set())
-            for item in gt.get("related_top", []):
-                termos.add(item["termo"])
-            for item in gt.get("related_rising", []):
-                termos.add(item["termo"])
+            for bucket in ("related_top", "related_rising", "trending"):
+                for item in gt.get(bucket, []):
+                    termos.add(_familia_termo(item["termo"]))
     return usados
 
 
@@ -562,22 +667,26 @@ def generate_pautas(result: dict) -> list:
 
         # Monta pool de termos com score
         pool = []
+        for item in gt.get("trending", []):
+            pool.append({"termo": item["termo"], "score": 75.0})   # em alta no BR hoje = prioridade
+        for item in gt.get("related_rising", []):
+            pool.append({"termo": item["termo"], "score": 65.0})   # rising = oportunidade
         for item in gt.get("related_top", []):
             pool.append({"termo": item["termo"], "score": float(item.get("valor", 50))})
-        for item in gt.get("related_rising", []):
-            pool.append({"termo": item["termo"], "score": 65.0})  # rising = oportunidade
         for item in gt.get("seeds", []):
             pool.append({"termo": item["termo"], "score": float(item.get("valor", 10))})
 
-        # Deduplica e ordena, pulando termos já sugeridos nos últimos 4 dias
+        # Deduplica por FAMÍLIA e ordena, pulando termos já sugeridos nos últimos 4 dias
         # (desce no ranking até achar o próximo termo com volume ainda não usado).
         # Não há fallback para reintroduzir termos usados: alguns nichos podem
         # gerar menos de 5 pautas em dias com pool pequeno — preferível a repetir.
+        usados_fam = {_familia_termo(t) for t in usados_nicho}
         seen = set()
         pool_uniq = []
         for it in sorted(pool, key=lambda x: x["score"], reverse=True):
-            if it["termo"] not in seen and it["termo"] not in usados_nicho:
-                seen.add(it["termo"])
+            fam = _familia_termo(it["termo"])
+            if fam not in seen and fam not in usados_fam:
+                seen.add(fam)
                 pool_uniq.append(it)
 
         for item in pool_uniq[:5]:
@@ -673,14 +782,31 @@ def main():
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--force", action="store_true", help="Sobrescreve dados do dia mesmo que já existam")
+    parser.add_argument("--refresh-if-stale", action="store_true",
+                        help="Se o arquivo de hoje existe mas o Google Trends veio vazio/stale, tenta de novo")
     args = parser.parse_args()
 
     today = date.today().isoformat()
     output_file = DATA_DIR / f"{today}.json"
 
+    dados_hoje = {}
     if output_file.exists() and not args.force:
-        log.info(f"Dados de {today} já existem. Use --force para sobrescrever.")
-        return
+        try:
+            dados_hoje = json.load(open(output_file, encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            dados_hoje = {}
+        gt_hoje_ok = any(
+            (nd.get("google_trends", {}).get("related_rising")
+             or nd.get("google_trends", {}).get("trending"))
+            and not nd.get("google_trends", {}).get("stale")
+            for nd in dados_hoje.get("nichos", {}).values()
+        )
+        if gt_hoje_ok or not args.refresh_if_stale:
+            log.info(f"Dados de {today} já existem"
+                     + ("" if gt_hoje_ok else " (stale, mas sem --refresh-if-stale)")
+                     + ". Use --force para sobrescrever.")
+            return
+        log.info(f"Dados de {today} existem mas o Trends está stale — refazendo a coleta")
 
     log.info(f"Iniciando coleta para {today}")
 
@@ -691,13 +817,32 @@ def main():
         "site_updates": [],
     }
 
-    termos_gt_recentes = _termos_gt_recentes(dias=4)
+    termos_gt_recentes = _termos_gt_recentes(dias=30)
+
+    # Último arquivo bom por nicho — p/ não sobrescrever dados úteis com coleta vazia (rate-limit).
+    # Considera primeiro o próprio arquivo de hoje (2ª rodada do dia), depois os 7 dias anteriores.
+    ultimo_gt_bom: dict[str, dict] = {}
+    fontes_fallback = [dados_hoje] if dados_hoje else []
+    fontes_fallback += list(_dados_recentes(7))
+    for dados_ant in fontes_fallback:
+        for nk, nd in dados_ant.get("nichos", {}).items():
+            if nk in ultimo_gt_bom:
+                continue
+            gt_ant = nd.get("google_trends", {})
+            if gt_ant.get("related_rising") or gt_ant.get("related_top") or gt_ant.get("trending"):
+                ultimo_gt_bom[nk] = gt_ant
 
     for key, nicho in NICHOS.items():
         log.info(f"── {nicho['label']} ──")
+        gt = collect_google_trends(key, nicho, termos_gt_recentes.get(key, set()))
+        if not (gt.get("related_rising") or gt.get("related_top") or gt.get("trending")):
+            fallback = ultimo_gt_bom.get(key)
+            if fallback:
+                log.warning(f"Google Trends [{key}] veio vazio — reaproveitando última coleta boa (stale)")
+                gt = {**fallback, "stale": True}
         result["nichos"][key] = {
             "label": nicho["label"],
-            "google_trends": collect_google_trends(key, nicho, termos_gt_recentes.get(key, set())),
+            "google_trends": gt,
             "reddit": collect_reddit(key, nicho),
             "youtube": collect_youtube(key, nicho),
         }

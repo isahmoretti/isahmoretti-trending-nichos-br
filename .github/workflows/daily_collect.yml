@@ -3,6 +3,7 @@ name: Coleta Diária de Tendências
 on:
   schedule:
     - cron: '0 10 * * *'  # 07h BRT (10h UTC)
+    - cron: '0 18 * * *'  # 15h BRT — 2ª tentativa se o Trends bloqueou de manhã
   workflow_dispatch:
     inputs:
       force:
@@ -38,7 +39,12 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python collect.py ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+        run: |
+          FLAGS=""
+          [ "${{ github.event.inputs.force }}" = "true" ] && FLAGS="--force"
+          [ "${{ github.event.schedule }}" = "0 18 * * *" ] && FLAGS="--refresh-if-stale"
+          echo "flags: $FLAGS"
+          python collect.py $FLAGS
 
       - name: Commit dos dados coletados
         run: |

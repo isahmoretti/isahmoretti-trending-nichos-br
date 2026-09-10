@@ -158,6 +158,16 @@ for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
         st.subheader("🔍 Google Trends")
         gt = nicho.get("google_trends", {})
 
+        if gt.get("stale"):
+            st.warning("⚠️ Google Trends bloqueou a coleta de hoje — exibindo a última coleta boa.")
+
+        alta = gt.get("trending", [])
+        if alta:
+            st.markdown("**🇧🇷 Em alta no Brasil hoje (relacionado ao nicho)**")
+            df_a = pd.DataFrame(alta).rename(columns={"termo": "Termo", "fonte": "Origem"})
+            cols_a = [c for c in ["Termo", "Origem"] if c in df_a.columns]
+            st.dataframe(df_a[cols_a], hide_index=True, use_container_width=True)
+
         c1, c2 = st.columns([3, 2])
 
         with c1:
