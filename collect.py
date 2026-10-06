@@ -36,9 +36,9 @@ NICHOS = {
             # Lote 3 — plantas para área externa
             "trepadeiras", "cerca viva", "jardim vertical", "muro verde", "plantas para área externa",
             # Lote 4 — lazer
-            "churrasqueira no quintal", "piscina pequena", "área gourmet", "fogo de chão", "rede no quintal",
+            "churrasqueira no quintal", "piscina pequena", "área gourmet", "fogueira no quintal", "rede no quintal",
             # Lote 5 — acabamento e paisagismo
-            "piso para área externa", "iluminação de jardim", "paisagismo", "grama", "horta no quintal",
+            "piso para área externa", "iluminação de jardim", "paisagismo", "grama para quintal", "horta no quintal",
         ],
         # Autocomplete do Google: cada semente é combinada com os modificadores
         # para trazer buscas reais de cauda longa (ex.: "como fazer pergolado de cano pvc").
@@ -46,8 +46,8 @@ NICHOS = {
             "quintal pequeno", "quintal simples", "área externa", "área de lazer", "jardim pequeno",
             "pergolado", "caramanchão", "deck", "gazebo", "cobertura área externa",
             "trepadeira", "cerca viva", "jardim vertical", "muro verde", "plantas para área externa",
-            "churrasqueira", "piscina pequena", "área gourmet", "fogo de chão", "piso área externa",
-            "iluminação jardim", "paisagismo quintal", "grama", "horta no quintal", "varanda",
+            "churrasqueira", "piscina pequena", "área gourmet", "fogueira quintal", "piso área externa",
+            "iluminação jardim", "paisagismo quintal", "grama para quintal", "horta no quintal", "varanda",
         ],
         "autocomplete_modificadores": ["", "como fazer", "ideias de", "barato"],
         # Termo só entra se tiver alguma palavra do campo semântico de quintal e área externa
@@ -55,11 +55,12 @@ NICHOS = {
             "quintal", "jardim", "jardin", "area externa", "area de lazer", "area gourmet", "lazer",
             "pergolado", "caramanchao", "deck", "gazebo", "cobertura", "toldo", "telhado",
             "trepadeira", "cerca viva", "cerca", "muro", "vertical", "planta", "flor", "grama",
-            "paisagismo", "churrasqueira", "piscina", "ofuro", "hidro", "fogo de chao", "fogueira",
+            "paisagismo", "churrasqueira", "piscina", "ofuro", "hidro", "fogueira", "lareira",
             "rede", "varanda", "edicula", "piso", "pedra", "seixo", "iluminacao", "luminaria",
             "horta", "vaso", "fonte", "lago", "banco", "espreguicadeira", "ombrelone", "externa",
         ],
-        "ruido": r"\b(aluguel|alugar|venda|vende|imovel|apartamento|condominio|bairro|hotel|pousada|clube|auditorio|ibirapuera|pobre)\b",
+        # "grama" e "fogo de chão" são ambíguos (preço do grama de ouro, churrascaria Fogo de Chão)
+        "ruido": r"\b(aluguel|alugar|venda|vende|imovel|apartamento|condominio|bairro|hotel|pousada|clube|auditorio|ibirapuera|pobre|ouro|18k|quilate|churrascaria|rodizio|clima em)\b",
         "reddit_subs": ["jardinagem", "brasil"],
         "reddit_queries": ["quintal", "área externa", "pergolado"],
         "youtube_queries": [
