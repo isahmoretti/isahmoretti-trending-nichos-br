@@ -6,6 +6,7 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent / "data"
 
 NICHOS = {
+    "quintal":       {"label": "⭐ Quintal e Área Externa",       "cor": "#588157"},
     "atividades":    {"label": "🔤 Alfabetização e Ed. Infantil", "cor": "#e76f51"},
     "jardinagem":    {"label": "🌱 Jardinagem",                   "cor": "#2d6a4f"},
     "decoracao":     {"label": "🏡 Decoração",                    "cor": "#b5838d"},
@@ -22,7 +23,7 @@ st.set_page_config(
 )
 
 st.title("📊 Tendências Diárias — Nichos BR")
-st.caption("Alfabetização · Matemática e Gestão · Jardinagem · Decoração · Pet · Desenvolvimento Infantil · Concursos para Professores")
+st.caption("⭐ Prioridade: Quintal e Área Externa · Alfabetização · Matemática e Gestão · Jardinagem · Decoração · Pet · Desenvolvimento Infantil · Concursos para Professores")
 
 
 @st.cache_data(ttl=3600)
@@ -55,11 +56,12 @@ st.caption(f"Coleta realizada em: {data.get('collected_at', '—')} UTC")
 # ── Métricas rápidas ──────────────────────────────────────────────────────────
 
 total_pautas = len(data.get("pautas", []))
-cols = st.columns(7)
+cols = st.columns(len(NICHOS))
 for col, (key, cfg) in zip(cols, NICHOS.items()):
     nicho = data["nichos"].get(key, {})
     gt = nicho.get("google_trends", {})
-    total_termos = len(gt.get("related_top", [])) + len(gt.get("trending", []))
+    total_termos = (len(gt.get("related_top", [])) + len(gt.get("related_rising", []))
+                    + len(nicho.get("cauda_longa", [])))
     total_yt = len(nicho.get("youtube", []))
     col.metric(cfg["label"], f"{total_termos} termos", f"{total_yt} vídeos")
 
@@ -91,8 +93,9 @@ with tabs[0]:
 
         for p in pautas_filtradas:
             cor = URGENCIA_COR.get(p["urgencia"], "#888")
+            destaque = "⭐ " if p.get("prioridade") else ""
             with st.expander(
-                f"{p['urgencia']}  ·  **{p['nicho']}**  ·  Score {p['score']}  —  _{p['termo_base']}_"
+                f"{destaque}{p['urgencia']}  ·  **{p['nicho']}**  ·  Score {p['score']}  —  _{p['termo_base']}_"
             ):
                 c1, c2 = st.columns([3, 2])
 
@@ -186,9 +189,16 @@ for tab, (key, cfg) in zip(nicho_tabs, NICHOS.items()):
 
             seeds = gt.get("seeds", [])
             if seeds:
-                st.markdown("**🌱 Seeds (interesse médio 3 meses)**")
+                st.markdown("**🌱 Seeds (interesse médio no último mês)**")
                 df_s = pd.DataFrame(seeds).rename(columns={"termo": "Seed", "valor": "Score"})
                 st.dataframe(df_s.head(10), hide_index=True, use_container_width=True)
+
+        cauda = nicho.get("cauda_longa", [])
+        if cauda:
+            st.markdown(f"**🧩 Cauda longa — buscas reais do autocomplete do Google** ({len(cauda)} termos novos)")
+            df_c = pd.DataFrame(cauda).rename(columns={"termo": "Busca", "base": "Semente"})
+            df_c["Palavras"] = df_c["Busca"].str.split().str.len()
+            st.dataframe(df_c[["Busca", "Palavras", "Semente"]], hide_index=True, use_container_width=True)
 
         st.divider()
 

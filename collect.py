@@ -6,7 +6,11 @@ Fontes: Google Trends, Reddit, YouTube Data API v3
 
 import json
 import os
+import re
 import time
+import unicodedata
+import urllib.parse
+import urllib.request
 import logging
 from datetime import datetime, timedelta, date
 from pathlib import Path
@@ -18,6 +22,54 @@ DATA_DIR = Path(__file__).parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
 NICHOS = {
+    "quintal": {
+        # PRIORIDADE: coletado primeiro (menos risco de bloqueio do Google Trends),
+        # gera mais pautas por dia e aparece em destaque no painel.
+        "label": "Quintal e Área Externa",
+        "prioridade": True,
+        "pautas_por_dia": 8,
+        "google_kw": [
+            # Lote 1 — quintal e área externa
+            "quintal pequeno", "quintal decorado", "área externa", "área de lazer", "jardim pequeno",
+            # Lote 2 — estruturas
+            "pergolado", "caramanchão", "deck de madeira", "gazebo", "cobertura para área externa",
+            # Lote 3 — plantas para área externa
+            "trepadeiras", "cerca viva", "jardim vertical", "muro verde", "plantas para área externa",
+            # Lote 4 — lazer
+            "churrasqueira no quintal", "piscina pequena", "área gourmet", "fogo de chão", "rede no quintal",
+            # Lote 5 — acabamento e paisagismo
+            "piso para área externa", "iluminação de jardim", "paisagismo", "grama", "horta no quintal",
+        ],
+        # Autocomplete do Google: cada semente é combinada com os modificadores
+        # para trazer buscas reais de cauda longa (ex.: "como fazer pergolado de cano pvc").
+        "autocomplete_seeds": [
+            "quintal pequeno", "quintal simples", "área externa", "área de lazer", "jardim pequeno",
+            "pergolado", "caramanchão", "deck", "gazebo", "cobertura área externa",
+            "trepadeira", "cerca viva", "jardim vertical", "muro verde", "plantas para área externa",
+            "churrasqueira", "piscina pequena", "área gourmet", "fogo de chão", "piso área externa",
+            "iluminação jardim", "paisagismo quintal", "grama", "horta no quintal", "varanda",
+        ],
+        "autocomplete_modificadores": ["", "como fazer", "ideias de", "barato"],
+        # Termo só entra se tiver alguma palavra do campo semântico de quintal e área externa
+        "filtro_semantico": [
+            "quintal", "jardim", "jardin", "area externa", "area de lazer", "area gourmet", "lazer",
+            "pergolado", "caramanchao", "deck", "gazebo", "cobertura", "toldo", "telhado",
+            "trepadeira", "cerca viva", "cerca", "muro", "vertical", "planta", "flor", "grama",
+            "paisagismo", "churrasqueira", "piscina", "ofuro", "hidro", "fogo de chao", "fogueira",
+            "rede", "varanda", "edicula", "piso", "pedra", "seixo", "iluminacao", "luminaria",
+            "horta", "vaso", "fonte", "lago", "banco", "espreguicadeira", "ombrelone", "externa",
+        ],
+        "ruido": r"\b(aluguel|alugar|venda|vende|imovel|apartamento|condominio|bairro|hotel|pousada|clube|auditorio|ibirapuera|pobre)\b",
+        "reddit_subs": ["jardinagem", "brasil"],
+        "reddit_queries": ["quintal", "área externa", "pergolado"],
+        "youtube_queries": [
+            "quintal pequeno decorado ideias",
+            "como fazer pergolado de madeira",
+            "área de lazer simples e barata",
+            "trepadeiras para muro",
+            "jardim vertical faça você mesmo",
+        ],
+    },
     "atividades": {
         # Cluster #1 em receita — RPM $1,82, 41% do tráfego do site
         # Prioridade: profundidade por ano escolar + bridge com necessidades especiais (RPM 3–5×)
@@ -52,13 +104,15 @@ NICHOS = {
             "rosa do deserto", "orquídea", "suculentas", "cactos", "jabuticaba",
             # Lote 2 — frutíferas e propagação
             "árvores frutíferas", "como fazer muda", "como plantar", "ervas e temperos", "plantas que",
-            # Lote 3 — temas gerais
-            "flores", "jardim", "horta", "o que plantar", "vegetais",
-            # Lote 4 — cuidados e jardim
-            "trepadeiras", "como regar", "como adubar", "folhagens", "paisagismo",
+            # Lote 3 — temas gerais ("jardim" passou para o nicho Quintal e Área Externa)
+            "flores", "plantas de sombra", "horta", "o que plantar", "vegetais",
+            # Lote 4 — cuidados ("trepadeiras" e "paisagismo" passaram para Quintal e Área Externa)
+            "plantas para vaso", "como regar", "como adubar", "folhagens", "plantas para apartamento",
             # Lote 5 — plantas populares adicionais
             "costela de adão", "antúrio", "bromélias", "babosa", "monstera",
         ],
+        # Nomes de bairros, cidades e pessoas que o Google Trends devolve para "flores", "horta" etc.
+        "ruido": r"(cidade jardim|bom jardim|belo jardim|jardim (paulista|europa|am[eé]rica|bot[aâ]nico|brasil|s[aã]o paulo|ms)|flores da cunha|rua das|bosque das|canto das|pousada|fascite|fabiano horta|marcelo horta|lucas flores)",
         "reddit_subs": ["jardinagem", "brasil"],
         "reddit_queries": ["jardinagem", "plantas em casa", "horta"],
         "youtube_queries": [
@@ -195,9 +249,77 @@ NICHOS = {
 }
 
 
+# ── Normalização, ruído e cauda longa ────────────────────────────────────────
+
+# Janela anti-repetição: termo (ou variação dele) mostrado/sugerido nesses dias não volta
+DIAS_SEM_REPETIR_TERMOS = 7
+DIAS_SEM_REPETIR_PAUTAS = 14
+# Pautas preferem cauda longa: termos com menos palavras só entram se faltar opção
+MIN_PALAVRAS_PAUTA = 3
+
+STOPWORDS = {"de", "da", "do", "das", "dos", "para", "pra", "com", "sem", "no", "na", "nos", "nas",
+             "em", "e", "a", "o", "as", "os", "um", "uma", "que", "por"}
+
+# Ruído que aparece em qualquer nicho (política, previsão do tempo, endereços)
+RUIDO_GLOBAL = re.compile(
+    r"\b(eleit[oa]|candidat[oa]|prefeit[oa]|vereador|deputad[oa]|governador|previs[aã]o do tempo|"
+    r"cep|shopping|motel|loteria|novela|resultado do jogo|perto de mim|room planner|minecraft|the sims)\b"
+)
+
+
+def _sem_acento(texto: str) -> str:
+    texto = unicodedata.normalize("NFKD", texto.lower())
+    return "".join(c for c in texto if not unicodedata.combining(c))
+
+
+def _palavras(termo: str) -> list[str]:
+    return re.findall(r"[a-z0-9]+", _sem_acento(termo))
+
+
+def _n_palavras(termo: str) -> int:
+    return len(_palavras(termo))
+
+
+def _chave(termo: str) -> str:
+    """Mesma chave para variações do mesmo termo.
+
+    "flor orquídea", "orquídea flor" e "flor de orquídea" → "flor orquidea";
+    "babosa no cabelo" e "babosa cabelo" → "babosa cabelo".
+    """
+    tokens = set()
+    for w in _palavras(termo):
+        if w in STOPWORDS:
+            continue
+        if len(w) > 3 and w.endswith("s"):
+            w = w[:-1]
+        tokens.add(w)
+    return " ".join(sorted(tokens))
+
+
+def _termo_valido(termo: str, nicho_data: dict) -> bool:
+    texto = _sem_acento(termo)
+    if RUIDO_GLOBAL.search(texto):
+        return False
+    ruido = nicho_data.get("ruido")
+    if ruido and re.search(_sem_acento(ruido), texto):
+        return False
+    filtro = nicho_data.get("filtro_semantico")
+    if filtro and not any(p in texto for p in filtro):
+        return False
+    return True
+
+
+def _priorizar_cauda_longa(termos: list[str]) -> list[str]:
+    """Reordena mantendo a ordem do Google entre termos do mesmo tamanho,
+    mas colocando primeiro os de 3+ palavras."""
+    return sorted(termos, key=lambda t: 0 if _n_palavras(t) >= MIN_PALAVRAS_PAUTA else 1)
+
+
 def collect_google_trends(nicho_key: str, nicho_data: dict, termos_recentes: set | None = None) -> dict:
     result = {"trending": [], "related_top": [], "related_rising": [], "seeds": []}
-    termos_recentes = termos_recentes or set()
+    termos_recentes = termos_recentes or set()  # chaves normalizadas (ver _chave)
+    max_top = 8 if nicho_data.get("prioridade") else 5
+    max_rising = 5 if nicho_data.get("prioridade") else 3
     try:
         from pytrends.request import TrendReq
         pt = TrendReq(hl="pt-BR", tz=180)
@@ -230,9 +352,30 @@ def collect_google_trends(nicho_key: str, nicho_data: dict, termos_recentes: set
         # Máx 5 resultados por seed → garante variedade entre tópicos
         # (evita que um único assunto domine, ex: rosa do deserto em jardinagem)
         seeds_order = [kw for kw, _ in seeds_ranked] if seeds_ranked else all_kws
-        seen_queries: set[str] = set()
+        # Chaves normalizadas: variações do mesmo termo ("orquídea flor" / "flor de orquídea")
+        # contam como repetição, dentro do dia e em relação aos últimos dias.
+        seen_chaves: set[str] = {_chave(kw) for kw in all_kws}
 
-        seeds_set = set(all_kws)
+        def selecionar(df, limite: int) -> list:
+            if df is None or df.empty:
+                return []
+            valores = {row["query"]: row["value"] for _, row in df.iterrows()}
+            candidatos = []
+            for q in valores:
+                ch = _chave(q)
+                if ch in seen_chaves or ch in termos_recentes or not _termo_valido(q, nicho_data):
+                    continue
+                candidatos.append(q)
+            escolhidos = []
+            for q in _priorizar_cauda_longa(candidatos):
+                ch = _chave(q)
+                if ch in seen_chaves:
+                    continue
+                seen_chaves.add(ch)
+                escolhidos.append((q, valores[q]))
+                if len(escolhidos) >= limite:
+                    break
+            return escolhidos
 
         for kw in seeds_order:
             try:
@@ -241,42 +384,14 @@ def collect_google_trends(nicho_key: str, nicho_data: dict, termos_recentes: set
                 related = pt.related_queries()
                 data_kw = related.get(kw, {})
 
-                top_df = data_kw.get("top")
-                rising_df = data_kw.get("rising")
+                # Desce no ranking do Google Trends (já vem ordenado por valor/crescimento),
+                # pulando ruído e termos (ou variações) usados nos últimos dias,
+                # e dá preferência aos de cauda longa (3+ palavras).
+                for q, valor in selecionar(data_kw.get("top"), max_top):
+                    result["related_top"].append({"termo": q, "valor": int(valor), "base": kw})
 
-                # Desce no ranking do Google Trends (já vem ordenado por valor/crescimento)
-                # até achar termos ainda não usados nos últimos 4 dias para este nicho.
-                if top_df is not None and not top_df.empty:
-                    adicionados = 0
-                    for _, row in top_df.iterrows():
-                        if adicionados >= 5:
-                            break
-                        q = row["query"]
-                        if q in seen_queries or q in seeds_set or q in termos_recentes:
-                            continue
-                        seen_queries.add(q)
-                        result["related_top"].append({
-                            "termo": q,
-                            "valor": int(row["value"]),
-                            "base": kw,
-                        })
-                        adicionados += 1
-
-                if rising_df is not None and not rising_df.empty:
-                    adicionados = 0
-                    for _, row in rising_df.iterrows():
-                        if adicionados >= 3:
-                            break
-                        q = row["query"]
-                        if q in seen_queries or q in seeds_set or q in termos_recentes:
-                            continue
-                        seen_queries.add(q)
-                        result["related_rising"].append({
-                            "termo": q,
-                            "valor": str(row["value"]),
-                            "base": kw,
-                        })
-                        adicionados += 1
+                for q, valor in selecionar(data_kw.get("rising"), max_rising):
+                    result["related_rising"].append({"termo": q, "valor": str(valor), "base": kw})
 
                 time.sleep(8)
             except Exception as e:
@@ -292,6 +407,68 @@ def collect_google_trends(nicho_key: str, nicho_data: dict, termos_recentes: set
         log.error(f"Google Trends [{nicho_key}] falhou: {e}")
 
     return result
+
+
+def collect_autocomplete(nicho_key: str, nicho_data: dict, termos_recentes: set | None = None) -> list:
+    """Buscas reais de cauda longa pelo autocomplete do Google (sem chave de API).
+
+    Guarda termos de 3+ palavras, sem ruído, dentro do campo semântico do nicho
+    (quando houver) e não mostrados nos últimos dias.
+    """
+    # Nichos sem lista própria usam as seeds do Google Trends de 2+ palavras, sem modificadores
+    # (seeds de 1 palavra, como "bolo" ou "molde", puxariam cauda longa fora do tema)
+    seeds = nicho_data.get("autocomplete_seeds") or [
+        kw for kw in nicho_data.get("google_kw", []) if _n_palavras(kw) >= 2
+    ]
+    if not seeds:
+        return []
+    termos_recentes = termos_recentes or set()
+    modificadores = nicho_data.get("autocomplete_modificadores", [""])
+    vistos = {_chave(kw) for kw in nicho_data.get("google_kw", [])}
+    termos = []
+    # Limites para manter variedade de assunto e o JSON enxuto
+    max_por_seed = 8      # soma de todos os modificadores
+    max_por_consulta = 3  # garante que "como fazer", "ideias de" e "barato" também apareçam
+    max_total = 200 if nicho_data.get("prioridade") else 50
+
+    for seed in seeds:
+        por_seed = 0
+        for mod in modificadores:
+            if por_seed >= max_por_seed:
+                break
+            consulta = f"{mod} {seed}".strip()
+            url = "https://suggestqueries.google.com/complete/search?" + urllib.parse.urlencode(
+                {"client": "firefox", "hl": "pt-BR", "gl": "br", "q": consulta}
+            )
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=10) as resp:
+                    bruto = resp.read()
+                try:
+                    sugestoes = json.loads(bruto.decode("utf-8"))[1]
+                except UnicodeDecodeError:
+                    sugestoes = json.loads(bruto.decode("latin-1"))[1]
+            except Exception as e:
+                log.warning(f"Autocomplete '{consulta}' [{nicho_key}]: {e}")
+                time.sleep(2)
+                continue
+
+            por_consulta = 0
+            for s in sugestoes:
+                if por_seed >= max_por_seed or por_consulta >= max_por_consulta:
+                    break
+                ch = _chave(s)
+                if (_n_palavras(s) < MIN_PALAVRAS_PAUTA or ch in vistos or ch in termos_recentes
+                        or not _termo_valido(s, nicho_data)):
+                    continue
+                vistos.add(ch)
+                termos.append({"termo": s, "base": seed})
+                por_seed += 1
+                por_consulta += 1
+            time.sleep(0.5)
+
+    log.info(f"Autocomplete [{nicho_key}]: {len(termos[:max_total])} termos de cauda longa")
+    return termos[:max_total]
 
 
 def collect_reddit(nicho_key: str, nicho_data: dict) -> list:
@@ -393,6 +570,17 @@ def collect_youtube(nicho_key: str, nicho_data: dict) -> list:
 
 
 TEMPLATES_NICHO = {
+    "quintal": {
+        "lista":      ["{n} ideias de {t} para transformar o quintal gastando pouco",
+                       "{T}: {n} inspirações reais para copiar neste fim de semana",
+                       "{n} erros em {t} que deixam a área externa sem graça (e como evitar)"],
+        "como_fazer": ["Como fazer {t}: passo a passo com materiais e custo estimado",
+                       "{T}: guia completo para planejar, montar e manter em {ano}",
+                       "{T} sem obra grande: como fazer em casa com pouco espaço"],
+        "tendencia":  ["Por que {t} virou tendência nas casas brasileiras em {ano}",
+                       "{T}: o que está em alta em quintais e áreas de lazer agora",
+                       "{T} em {ano}: ideias que estão bombando nas redes"],
+    },
     "atividades": {
         "lista":      ["{T} para imprimir: {n} fichas prontas para usar hoje",
                        "{n} atividades de {t} por nível — do mais fácil ao mais avançado",
@@ -481,6 +669,9 @@ DICAS_DISCOVER_BASE = [
 ]
 
 DICAS_POR_NICHO = {
+    "quintal":    ["Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+                   "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+                   "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"],
     "atividades": ["Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
                    "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"],
     "jardinagem": ["Foto do resultado final (planta/jardim bonito) gera mais cliques",
@@ -528,59 +719,89 @@ def _dados_recentes(dias: int):
             continue
 
 
-def _termos_pautas_recentes(dias: int = 4) -> dict[str, set]:
-    """Termos usados como pauta em cada nicho nos últimos `dias` dias."""
+def _termos_pautas_recentes(dias: int = DIAS_SEM_REPETIR_PAUTAS) -> dict[str, set]:
+    """Chaves normalizadas dos termos usados como pauta em cada nicho nos últimos `dias` dias."""
     usados: dict[str, set] = {}
     for dados in _dados_recentes(dias):
         for p in dados.get("pautas", []):
-            usados.setdefault(p["nicho_key"], set()).add(p["termo_base"])
+            usados.setdefault(p["nicho_key"], set()).add(_chave(p["termo_base"]))
     return usados
 
 
-def _termos_gt_recentes(dias: int = 4) -> dict[str, set]:
-    """Termos já mostrados em Variações/Subindo agora por nicho nos últimos `dias` dias."""
+def _termos_gt_recentes(dias: int = DIAS_SEM_REPETIR_TERMOS) -> dict[str, set]:
+    """Chaves normalizadas dos termos já mostrados (Variações, Subindo agora, Cauda longa)
+    por nicho nos últimos `dias` dias."""
     usados: dict[str, set] = {}
     for dados in _dados_recentes(dias):
         for nicho_key, nicho_data in dados.get("nichos", {}).items():
             gt = nicho_data.get("google_trends", {})
             termos = usados.setdefault(nicho_key, set())
-            for item in gt.get("related_top", []):
-                termos.add(item["termo"])
-            for item in gt.get("related_rising", []):
-                termos.add(item["termo"])
+            for item in gt.get("related_top", []) + gt.get("related_rising", []):
+                termos.add(_chave(item["termo"]))
+            for item in nicho_data.get("cauda_longa", []):
+                termos.add(_chave(item["termo"]))
     return usados
 
 
 def generate_pautas(result: dict) -> list:
     ano = datetime.utcnow().year
     pautas = []
-    termos_recentes = _termos_pautas_recentes(dias=4)
+    termos_recentes = _termos_pautas_recentes()
 
     for nicho_key, nicho_data in result.get("nichos", {}).items():
         gt = nicho_data.get("google_trends", {})
         usados_nicho = termos_recentes.get(nicho_key, set())
+        config = NICHOS.get(nicho_key, {})
+        n_pautas = config.get("pautas_por_dia", 5)
 
-        # Monta pool de termos com score
+        # Monta pool de termos com score. Seeds genéricas (1–2 palavras, como "jardim" ou
+        # "babosa") não entram: eram a principal fonte de pautas repetidas. Seeds específicas
+        # (3+ palavras, comuns em Educação e Concursos) entram com o score de interesse.
         pool = []
-        for item in gt.get("related_top", []):
-            pool.append({"termo": item["termo"], "score": float(item.get("valor", 50))})
-        for item in gt.get("related_rising", []):
-            pool.append({"termo": item["termo"], "score": 65.0})  # rising = oportunidade
         for item in gt.get("seeds", []):
-            pool.append({"termo": item["termo"], "score": float(item.get("valor", 10))})
+            if _n_palavras(item["termo"]) >= MIN_PALAVRAS_PAUTA:
+                pool.append({"termo": item["termo"], "score": float(item.get("valor", 10)), "base": item["termo"]})
+        for item in gt.get("related_top", []):
+            pool.append({"termo": item["termo"], "score": float(item.get("valor", 50)), "base": item.get("base")})
+        for item in gt.get("related_rising", []):
+            pool.append({"termo": item["termo"], "score": 65.0, "base": item.get("base")})  # rising = oportunidade
+        for item in nicho_data.get("cauda_longa", []):
+            pool.append({"termo": item["termo"], "score": 45.0, "base": item.get("base")})
 
-        # Deduplica e ordena, pulando termos já sugeridos nos últimos 4 dias
-        # (desce no ranking até achar o próximo termo com volume ainda não usado).
-        # Não há fallback para reintroduzir termos usados: alguns nichos podem
-        # gerar menos de 5 pautas em dias com pool pequeno — preferível a repetir.
-        seen = set()
-        pool_uniq = []
-        for it in sorted(pool, key=lambda x: x["score"], reverse=True):
-            if it["termo"] not in seen and it["termo"] not in usados_nicho:
-                seen.add(it["termo"])
-                pool_uniq.append(it)
+        # Filtro de ruído também aqui (protege contra termos coletados antes dos filtros)
+        pool = [it for it in pool if _termo_valido(it["termo"], config)]
 
-        for item in pool_uniq[:5]:
+        # Bônus de cauda longa: quanto mais específico o termo, maior a chance de virar pauta
+        for it in pool:
+            palavras = _n_palavras(it["termo"])
+            bonus = 15 if palavras >= 4 else 10 if palavras >= 3 else 0
+            it["score"] = round(min(100.0, it["score"] + bonus), 1)
+
+        # Ordem de escolha:
+        #   1) termos de 3+ palavras, no máximo 1 por seed (variedade de assunto);
+        #   2) se faltar, termos de 3+ palavras de seeds já usadas;
+        #   3) só então termos de 2 palavras. Termos de 1 palavra nunca viram pauta.
+        # Variações já sugeridas nos últimos 14 dias são puladas (comparação por _chave).
+        # Não há fallback para reintroduzir termos usados: preferível gerar menos pautas a repetir.
+        ordenado = sorted(pool, key=lambda x: x["score"], reverse=True)
+        escolhidos, chaves, bases = [], set(), set()
+        for etapa in (1, 2, 3):
+            for it in ordenado:
+                if len(escolhidos) >= n_pautas:
+                    break
+                ch = _chave(it["termo"])
+                palavras = _n_palavras(it["termo"])
+                if ch in chaves or ch in usados_nicho or palavras < 2:
+                    continue
+                if etapa < 3 and palavras < MIN_PALAVRAS_PAUTA:
+                    continue
+                if etapa == 1 and it.get("base") in bases:
+                    continue
+                chaves.add(ch)
+                bases.add(it.get("base"))
+                escolhidos.append(it)
+
+        for item in escolhidos:
             score = item["score"]
             n_itens = 20 if score >= 70 else 15 if score >= 30 else 10
             urgencia = "🔥 Alta" if score >= 70 else "⬆️ Média" if score >= 30 else "📈 Normal"
@@ -591,7 +812,9 @@ def generate_pautas(result: dict) -> list:
             pautas.append({
                 "nicho": nicho_data.get("label", nicho_key),
                 "nicho_key": nicho_key,
+                "prioridade": bool(config.get("prioridade")),
                 "termo_base": item["termo"],
+                "seed": item.get("base"),
                 "score": score,
                 "urgencia": urgencia,
                 "titulos": titulos,
@@ -601,7 +824,8 @@ def generate_pautas(result: dict) -> list:
                 "dicas_discover": dicas,
             })
 
-    pautas.sort(key=lambda x: x["score"], reverse=True)
+    # Nicho prioritário primeiro; dentro de cada grupo, maior score primeiro
+    pautas.sort(key=lambda x: (not x["prioridade"], -x["score"]))
     log.info(f"Pautas geradas: {len(pautas)}")
     return pautas
 
@@ -691,13 +915,16 @@ def main():
         "site_updates": [],
     }
 
-    termos_gt_recentes = _termos_gt_recentes(dias=4)
+    termos_gt_recentes = _termos_gt_recentes()
 
     for key, nicho in NICHOS.items():
         log.info(f"── {nicho['label']} ──")
+        recentes = termos_gt_recentes.get(key, set())
         result["nichos"][key] = {
             "label": nicho["label"],
-            "google_trends": collect_google_trends(key, nicho, termos_gt_recentes.get(key, set())),
+            "prioridade": bool(nicho.get("prioridade")),
+            "google_trends": collect_google_trends(key, nicho, recentes),
+            "cauda_longa": collect_autocomplete(key, nicho, recentes),
             "reddit": collect_reddit(key, nicho),
             "youtube": collect_youtube(key, nicho),
         }
