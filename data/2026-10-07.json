@@ -1,0 +1,4287 @@
+{
+  "date": "2026-10-07",
+  "collected_at": "2026-10-07T17:03:45.973386",
+  "nichos": {
+    "quintal": {
+      "label": "Quintal e Área Externa",
+      "prioridade": true,
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "cobertura de pergolado",
+            "valor": 21,
+            "base": "pergolado"
+          },
+          {
+            "termo": "pergolado de vidro",
+            "valor": 16,
+            "base": "pergolado"
+          },
+          {
+            "termo": "pergolado de policarbonato",
+            "valor": 12,
+            "base": "pergolado"
+          },
+          {
+            "termo": "pergolado de ferro",
+            "valor": 12,
+            "base": "pergolado"
+          },
+          {
+            "termo": "pergolado de bambu",
+            "valor": 9,
+            "base": "pergolado"
+          },
+          {
+            "termo": "telha para pergolado",
+            "valor": 8,
+            "base": "pergolado"
+          },
+          {
+            "termo": "modelos de pergolado",
+            "valor": 7,
+            "base": "pergolado"
+          },
+          {
+            "termo": "forro para pergolado",
+            "valor": 7,
+            "base": "pergolado"
+          },
+          {
+            "termo": "cerca viva sansão do campo",
+            "valor": 14,
+            "base": "cerca viva"
+          },
+          {
+            "termo": "cerca viva tumbergia",
+            "valor": 13,
+            "base": "cerca viva"
+          },
+          {
+            "termo": "tipos de cerca viva",
+            "valor": 13,
+            "base": "cerca viva"
+          },
+          {
+            "termo": "cerca viva para jardim",
+            "valor": 12,
+            "base": "cerca viva"
+          },
+          {
+            "termo": "aparador de cerca viva stihl",
+            "valor": 11,
+            "base": "cerca viva"
+          },
+          {
+            "termo": "cortador de cerca viva",
+            "valor": 10,
+            "base": "cerca viva"
+          },
+          {
+            "termo": "plantas para fazer cerca viva",
+            "valor": 6,
+            "base": "cerca viva"
+          },
+          {
+            "termo": "jardim vertical natural",
+            "valor": 21,
+            "base": "jardim vertical"
+          },
+          {
+            "termo": "jardim vertical preservado",
+            "valor": 4,
+            "base": "jardim vertical"
+          },
+          {
+            "termo": "piscina de fibra",
+            "valor": 86,
+            "base": "piscina pequena"
+          },
+          {
+            "termo": "piscina infantil pequena",
+            "valor": 54,
+            "base": "piscina pequena"
+          },
+          {
+            "termo": "piscina infantil",
+            "valor": 49,
+            "base": "piscina pequena"
+          },
+          {
+            "termo": "churrasqueira",
+            "valor": 100,
+            "base": "área gourmet"
+          },
+          {
+            "termo": "burle marx paisagismo",
+            "valor": 7,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "faculdade de paisagismo",
+            "valor": 5,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "rodrigo oliveira paisagismo",
+            "valor": 2,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "isabel duprat paisagismo",
+            "valor": 2,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "jardinagem",
+            "valor": 100,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "floricultura",
+            "valor": 32,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "paisagismo quintal",
+            "valor": 11,
+            "base": "paisagismo"
+          },
+          {
+            "termo": "paisagismo campinas",
+            "valor": 7,
+            "base": "paisagismo"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "como fazer um pergolado simples e barato",
+            "valor": "13700",
+            "base": "pergolado"
+          },
+          {
+            "termo": "esteira de bambu para pergolado",
+            "valor": "50",
+            "base": "pergolado"
+          },
+          {
+            "termo": "pergolado dwg",
+            "valor": "90",
+            "base": "pergolado"
+          },
+          {
+            "termo": "a que se refere o paisagismo",
+            "valor": "40",
+            "base": "paisagismo"
+          }
+        ],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "quintal pequeno com piscina e churrasqueira simples",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "quintal pequeno com churrasqueira",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "quintal pequeno com lavanderia",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "como fazer piscina em quintal pequeno",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "como fazer um lago no quintal pequeno",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "como fazer um galinheiro no quintal pequeno",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "ideias de quintal pequeno com churrasqueira",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "ideias de quintal pequeno com piscina e churrasqueira",
+          "base": "quintal pequeno"
+        },
+        {
+          "termo": "quintal simples com piscina",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "quintal simples e organizado",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "quintal simples com plantas",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "como fazer um jardim no quintal simples",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "como fazer uma horta no quintal simples",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "como fazer uma piscina no quintal simples",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "ideias de chuveiro no quintal simples",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "ideias de jardim no quintal simples",
+          "base": "quintal simples"
+        },
+        {
+          "termo": "área externa com churrasqueira",
+          "base": "área externa"
+        },
+        {
+          "termo": "área externa pequena",
+          "base": "área externa"
+        },
+        {
+          "termo": "área externa simples e aconchegante",
+          "base": "área externa"
+        },
+        {
+          "termo": "como fazer contrapiso area externa",
+          "base": "área externa"
+        },
+        {
+          "termo": "como fazer sofa area externa",
+          "base": "área externa"
+        },
+        {
+          "termo": "como fazer textura area externa",
+          "base": "área externa"
+        },
+        {
+          "termo": "ideias de area externa com churrasqueira",
+          "base": "área externa"
+        },
+        {
+          "termo": "ideias de area externa com piscina",
+          "base": "área externa"
+        },
+        {
+          "termo": "área de lazer simples no quintal",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "área de lazer com churrasqueira",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "área de lazer com piscina e churrasqueira simples",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "como fazer área de lazer em cima da laje",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "como fazer uma area de lazer simples e barata",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "como fazer uma area de lazer com piscina e churrasqueira",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "ideias de area de lazer com piscina",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "ideias de area de lazer pequena",
+          "base": "área de lazer"
+        },
+        {
+          "termo": "jardim pequeno com pedras",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "jardim pequeno e simples",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "jardim pequeno com grama artificial",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "como fazer pequeno jardim externo",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "como fazer um jardim pequeno na frente da casa",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "como fazer um jardim pequeno e bonito",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "ideias de jardim pequeno e simples",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "ideias de jardim pequeno com pedras",
+          "base": "jardim pequeno"
+        },
+        {
+          "termo": "pergolado de ferro",
+          "base": "pergolado"
+        },
+        {
+          "termo": "pergolado com policarbonato",
+          "base": "pergolado"
+        },
+        {
+          "termo": "pergolado de eucalipto tratado",
+          "base": "pergolado"
+        },
+        {
+          "termo": "como fazer pergolado barato",
+          "base": "pergolado"
+        },
+        {
+          "termo": "como fazer pergolado de cano pvc",
+          "base": "pergolado"
+        },
+        {
+          "termo": "como fazer pergolado de bambu",
+          "base": "pergolado"
+        },
+        {
+          "termo": "ideias de pergolado simples",
+          "base": "pergolado"
+        },
+        {
+          "termo": "ideias de pergolado na frente da casa",
+          "base": "pergolado"
+        },
+        {
+          "termo": "caramanchão de eucalipto",
+          "base": "caramanchão"
+        },
+        {
+          "termo": "como fazer caramanchão para uvas",
+          "base": "caramanchão"
+        },
+        {
+          "termo": "como fazer caramanchão para chuchu",
+          "base": "caramanchão"
+        },
+        {
+          "termo": "como fazer caramanchão de eucalipto",
+          "base": "caramanchão"
+        },
+        {
+          "termo": "deck de piscina",
+          "base": "deck"
+        },
+        {
+          "termo": "como fazer deck de madeira para piscina",
+          "base": "deck"
+        },
+        {
+          "termo": "como fazer deck para piscina de fibra",
+          "base": "deck"
+        },
+        {
+          "termo": "como fazer deck de piscina",
+          "base": "deck"
+        },
+        {
+          "termo": "ideias de deck de madeira",
+          "base": "deck"
+        },
+        {
+          "termo": "ideias de deck simples",
+          "base": "deck"
+        },
+        {
+          "termo": "ideias de deck para jardim",
+          "base": "deck"
+        },
+        {
+          "termo": "deck barato clash royale",
+          "base": "deck"
+        },
+        {
+          "termo": "gazebo mor 3x3",
+          "base": "gazebo"
+        },
+        {
+          "termo": "como fazer gazebo de cano pvc",
+          "base": "gazebo"
+        },
+        {
+          "termo": "como fazer gazebo de madeira para casamento",
+          "base": "gazebo"
+        },
+        {
+          "termo": "como fazer gazebo de ferro",
+          "base": "gazebo"
+        },
+        {
+          "termo": "gazebo barato e bom",
+          "base": "gazebo"
+        },
+        {
+          "termo": "gazebo barato 2x2",
+          "base": "gazebo"
+        },
+        {
+          "termo": "tenda gazebo barato",
+          "base": "gazebo"
+        },
+        {
+          "termo": "cobertura area externa retratil",
+          "base": "cobertura área externa"
+        },
+        {
+          "termo": "cobertura area externa pergolado",
+          "base": "cobertura área externa"
+        },
+        {
+          "termo": "cobertura area externa metalon",
+          "base": "cobertura área externa"
+        },
+        {
+          "termo": "trepadeira sapatinho de judia",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "trepadeira unha de gato",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "trepadeira sete leguas",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "como fazer trepadeira",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "como fazer trepadeira crescer rapido",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "como fazer trepadeira para maracuja",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "ideias de trepadeiras para muro",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "ideias de plantas trepadeiras",
+          "base": "trepadeira"
+        },
+        {
+          "termo": "cerca viva sansão do campo",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "cerca viva limãozinho bravo",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "cerca viva clusia",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "como fazer cerca viva de bougainville",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "como fazer cerca viva de ixora",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "como fazer cerca viva de podocarpus",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "ideias de cerca viva barata",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "ideias de cerca viva para piscina",
+          "base": "cerca viva"
+        },
+        {
+          "termo": "jardim vertical natural",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "jardim vertical com paletes",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "jardim vertical muro externo",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "como fazer jardim vertical natural",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "como fazer jardim vertical com paletes",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "como fazer jardim vertical barato",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "ideias de jardim vertical externo",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "ideias de jardim vertical artificial",
+          "base": "jardim vertical"
+        },
+        {
+          "termo": "muro verde plantas",
+          "base": "muro verde"
+        },
+        {
+          "termo": "muro verde escuro",
+          "base": "muro verde"
+        },
+        {
+          "termo": "muro verde natural exterior",
+          "base": "muro verde"
+        },
+        {
+          "termo": "como fazer muro verde artificial",
+          "base": "muro verde"
+        },
+        {
+          "termo": "como fazer muro verde com tela",
+          "base": "muro verde"
+        },
+        {
+          "termo": "como fazer um muro verde barato",
+          "base": "muro verde"
+        },
+        {
+          "termo": "muro verde barato",
+          "base": "muro verde"
+        },
+        {
+          "termo": "plantas para área externa da casa",
+          "base": "plantas para área externa"
+        },
+        {
+          "termo": "plantas para área externa com sombra",
+          "base": "plantas para área externa"
+        },
+        {
+          "termo": "plantas para área externa jardim",
+          "base": "plantas para área externa"
+        },
+        {
+          "termo": "churrasqueira a bafo",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "como fazer churrasqueira de tijolo no quintal",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "como fazer churrasqueira de tijolo comum",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "como fazer churrasqueira de tijolinho",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "ideias de churrasqueira com fogão a lenha",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "ideias de churrasqueira gourmet",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "ideias de churrasqueira no quintal simples",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "churrasqueira barato para comprar",
+          "base": "churrasqueira"
+        },
+        {
+          "termo": "piscina pequena infantil",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "piscina pequena de alvenaria",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "piscina pequena com hidro",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "como fazer piscina pequena e barata",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "como fazer piscina pequena no quintal",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "como fazer uma piscina pequena de tijolo",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "ideias de piscina pequena com deck",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "ideias de piscina pequena em casa",
+          "base": "piscina pequena"
+        },
+        {
+          "termo": "área gourmet com churrasqueira e balcão",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "área gourmet simples no quintal",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "área gourmet simples e bonita",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "como fazer área gourmet simples",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "como fazer uma área gourmet com piscina e churrasqueira",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "como fazer uma área gourmet simples e barata",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "ideias de área gourmet pequena",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "ideias de área gourmet com piscina",
+          "base": "área gourmet"
+        },
+        {
+          "termo": "fogueira quintal de casa",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "quintal fogueira jacaraipe",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "fogueira no quintal bobbie goods",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "como fazer fogueira quintal",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "como fazer fogueira no quintal de piso",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "como fazer fogueira no quintal de cimento",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "ideias de fogueira no quintal",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "ideias de bobbie goods fogueira no quintal",
+          "base": "fogueira quintal"
+        },
+        {
+          "termo": "piso área externa quintal",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "piso área externa varanda",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "piso área externa antiderrapante barato",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "como fazer piso de concreto para área externa",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "como fazer piso de cimento liso para área externa",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "ideias de piso para area externa piscina",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "ideias de piso rustico para area externa",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "ideias de piso para area gourmet externa",
+          "base": "piso área externa"
+        },
+        {
+          "termo": "iluminação jardim vertical",
+          "base": "iluminação jardim"
+        },
+        {
+          "termo": "iluminação jardim de inverno",
+          "base": "iluminação jardim"
+        },
+        {
+          "termo": "iluminação jardim parede",
+          "base": "iluminação jardim"
+        },
+        {
+          "termo": "paisagismo quintal residencial",
+          "base": "paisagismo quintal"
+        },
+        {
+          "termo": "paisagismo quintal com piscina",
+          "base": "paisagismo quintal"
+        },
+        {
+          "termo": "paisagismo quintal dos fundos",
+          "base": "paisagismo quintal"
+        },
+        {
+          "termo": "ideias de paisagismo para quintal com piscina",
+          "base": "paisagismo quintal"
+        },
+        {
+          "termo": "paisagismo barato para quintal",
+          "base": "paisagismo quintal"
+        },
+        {
+          "termo": "grama para quintal de casa",
+          "base": "grama para quintal"
+        },
+        {
+          "termo": "grama para quintal preço",
+          "base": "grama para quintal"
+        },
+        {
+          "termo": "grama para quintal com cachorro",
+          "base": "grama para quintal"
+        },
+        {
+          "termo": "como fazer grama no quintal",
+          "base": "grama para quintal"
+        },
+        {
+          "termo": "como fazer para plantar grama no quintal",
+          "base": "grama para quintal"
+        },
+        {
+          "termo": "horta no quintal pequeno",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "horta no quintal fotos",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "horta no quintal de cimento",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "como fazer uma horta no quintal cimentado",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "como fazer uma horta no quintal com tijolos",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "como fazer horta suspensa no quintal",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "ideias de horta no quintal suspensa",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "ideias de horta no quintal de casa",
+          "base": "horta no quintal"
+        },
+        {
+          "termo": "varandas espeto bar",
+          "base": "varanda"
+        },
+        {
+          "termo": "varanda da picanha",
+          "base": "varanda"
+        },
+        {
+          "termo": "varanda boi novo",
+          "base": "varanda"
+        },
+        {
+          "termo": "como fazer varanda de rede de crochê",
+          "base": "varanda"
+        },
+        {
+          "termo": "como fazer varanda em laje",
+          "base": "varanda"
+        },
+        {
+          "termo": "como fazer varanda em volta da casa",
+          "base": "varanda"
+        },
+        {
+          "termo": "ideias de varanda pequena",
+          "base": "varanda"
+        },
+        {
+          "termo": "ideias de varanda para casa",
+          "base": "varanda"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    },
+    "atividades": {
+      "label": "Alfabetização e Ed. Infantil",
+      "prioridade": false,
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "atividades de alfabetização 1 ano para imprimir grátis",
+          "base": "atividades de alfabetização 1 ano"
+        },
+        {
+          "termo": "atividades de alfabetização 1 ano pdf",
+          "base": "atividades de alfabetização 1 ano"
+        },
+        {
+          "termo": "atividades de alfabetização 1 ano com texto",
+          "base": "atividades de alfabetização 1 ano"
+        },
+        {
+          "termo": "atividades de alfabetização 2 ano para imprimir pdf grátis",
+          "base": "atividades de alfabetização 2 ano"
+        },
+        {
+          "termo": "atividades de alfabetização 2 ano matemática",
+          "base": "atividades de alfabetização 2 ano"
+        },
+        {
+          "termo": "atividades de alfabetização 2 anos de idade",
+          "base": "atividades de alfabetização 2 ano"
+        },
+        {
+          "termo": "atividades de alfabetização 3 ano leitura e interpretação de texto",
+          "base": "atividades de alfabetização 3 ano"
+        },
+        {
+          "termo": "sílabas para imprimir e colar em tampinhas",
+          "base": "sílabas para imprimir"
+        },
+        {
+          "termo": "sílabas para imprimir e colar em tampinhas gratis",
+          "base": "sílabas para imprimir"
+        },
+        {
+          "termo": "silabas para imprimir gratis",
+          "base": "sílabas para imprimir"
+        },
+        {
+          "termo": "atividades para berçário de 0 a 1 ano para imprimir",
+          "base": "atividades para berçário para imprimir"
+        },
+        {
+          "termo": "caderno de atividades maternal 1 para imprimir",
+          "base": "atividades para maternal 1 para imprimir"
+        },
+        {
+          "termo": "atividades para maternal 1 de acordo com a bncc para imprimir",
+          "base": "atividades para maternal 1 para imprimir"
+        },
+        {
+          "termo": "atividades para educação infantil maternal 2 para imprimir",
+          "base": "atividades para maternal 2 para imprimir"
+        },
+        {
+          "termo": "atividades de matemática maternal 2 para imprimir",
+          "base": "atividades para maternal 2 para imprimir"
+        },
+        {
+          "termo": "atividades jardim 1 para imprimir pdf",
+          "base": "atividades para jardim para imprimir"
+        },
+        {
+          "termo": "atividades jardim 3 para imprimir",
+          "base": "atividades para jardim para imprimir"
+        },
+        {
+          "termo": "atividades jardim 1 para imprimir vogais",
+          "base": "atividades para jardim para imprimir"
+        },
+        {
+          "termo": "atividades pré escola para imprimir numeros",
+          "base": "atividades para pré-escola para imprimir"
+        },
+        {
+          "termo": "atividades de artes para pré escola para imprimir",
+          "base": "atividades para pré-escola para imprimir"
+        },
+        {
+          "termo": "atividades de alfabetização para pré escola para imprimir",
+          "base": "atividades para pré-escola para imprimir"
+        },
+        {
+          "termo": "atividades de leitura alfabetização para imprimir",
+          "base": "atividades de leitura para imprimir"
+        },
+        {
+          "termo": "atividades de leitura infantil para imprimir",
+          "base": "atividades de leitura para imprimir"
+        },
+        {
+          "termo": "atividades de leitura 4 ano para imprimir",
+          "base": "atividades de leitura para imprimir"
+        },
+        {
+          "termo": "atividades de escrita 1 ano para imprimir",
+          "base": "atividades de escrita para imprimir"
+        },
+        {
+          "termo": "atividades de escrita 4 ano para imprimir",
+          "base": "atividades de escrita para imprimir"
+        },
+        {
+          "termo": "atividades de leitura e escrita para imprimir 5 ano",
+          "base": "atividades de escrita para imprimir"
+        },
+        {
+          "termo": "vogais para imprimir e colorir",
+          "base": "vogais para imprimir"
+        },
+        {
+          "termo": "vogais para imprimir pdf",
+          "base": "vogais para imprimir"
+        },
+        {
+          "termo": "vogais para imprimir autista",
+          "base": "vogais para imprimir"
+        },
+        {
+          "termo": "alfabeto para imprimir folha a4 pdf grátis",
+          "base": "alfabeto para imprimir"
+        },
+        {
+          "termo": "alfabeto para imprimir folha a4 pdf colorido",
+          "base": "alfabeto para imprimir"
+        },
+        {
+          "termo": "alfabeto para imprimir e recortar pdf",
+          "base": "alfabeto para imprimir"
+        },
+        {
+          "termo": "caligrafia para imprimir infantil",
+          "base": "caligrafia para imprimir"
+        },
+        {
+          "termo": "caligrafia para imprimir pdf adulto",
+          "base": "caligrafia para imprimir"
+        },
+        {
+          "termo": "caligrafia para imprimir letra cursiva pdf adulto",
+          "base": "caligrafia para imprimir"
+        },
+        {
+          "termo": "como ensinar a criança a ler e escrever em casa",
+          "base": "como ensinar a criança a ler em casa"
+        },
+        {
+          "termo": "como ensinar uma criança a ler em casa pdf",
+          "base": "como ensinar a criança a ler em casa"
+        },
+        {
+          "termo": "como ensinar uma criança de 6 anos a ler em casa",
+          "base": "como ensinar a criança a ler em casa"
+        },
+        {
+          "termo": "brincadeiras para alfabetização e letramento",
+          "base": "brincadeiras para alfabetização"
+        },
+        {
+          "termo": "brincadeiras para alfabetização 1 ano",
+          "base": "brincadeiras para alfabetização"
+        },
+        {
+          "termo": "brincadeiras para alfabetização educação infantil",
+          "base": "brincadeiras para alfabetização"
+        },
+        {
+          "termo": "jogos de alfabetização para imprimir pdf grátis",
+          "base": "jogos de alfabetização para imprimir"
+        },
+        {
+          "termo": "jogos de alfabetização para imprimir pdf",
+          "base": "jogos de alfabetização para imprimir"
+        },
+        {
+          "termo": "jogos de alfabetização para imprimir 1 ano",
+          "base": "jogos de alfabetização para imprimir"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    },
+    "jardinagem": {
+      "label": "Jardinagem",
+      "prioridade": false,
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "adubo para orquídea",
+            "valor": 20,
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea amarela",
+            "valor": 26,
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea preço",
+            "valor": 21,
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea significado",
+            "valor": 19,
+            "base": "orquídea"
+          },
+          {
+            "termo": "pendente jabuticaba",
+            "valor": 12,
+            "base": "jabuticaba"
+          },
+          {
+            "termo": "como plantar cebola",
+            "valor": 37,
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar pimenta",
+            "valor": 36,
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar alface",
+            "valor": 35,
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar manga",
+            "valor": 32,
+            "base": "como plantar"
+          },
+          {
+            "termo": "coroa de flores nazismo",
+            "valor": 15,
+            "base": "flores"
+          },
+          {
+            "termo": "julia zanatta",
+            "valor": 14,
+            "base": "flores"
+          },
+          {
+            "termo": "legumes",
+            "valor": 24,
+            "base": "vegetais"
+          },
+          {
+            "termo": "recursos vegetais",
+            "valor": 9,
+            "base": "vegetais"
+          },
+          {
+            "termo": "grupos vegetais",
+            "valor": 8,
+            "base": "vegetais"
+          },
+          {
+            "termo": "zamioculca",
+            "valor": 67,
+            "base": "plantas para apartamento"
+          },
+          {
+            "termo": "como tirar muda de costela de adão",
+            "valor": 3,
+            "base": "costela de adão"
+          },
+          {
+            "termo": "folha costela de adão desenho",
+            "valor": 3,
+            "base": "costela de adão"
+          },
+          {
+            "termo": "lirio",
+            "valor": 8,
+            "base": "antúrio"
+          },
+          {
+            "termo": "como cultivar bromélias",
+            "valor": 6,
+            "base": "bromélias"
+          },
+          {
+            "termo": "folha de babosa",
+            "valor": 33,
+            "base": "babosa"
+          },
+          {
+            "termo": "aloe vera",
+            "valor": 23,
+            "base": "babosa"
+          },
+          {
+            "termo": "dracena",
+            "valor": 4,
+            "base": "monstera"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "orquídea em inglês",
+            "valor": "70",
+            "base": "orquídea"
+          },
+          {
+            "termo": "orquídea com cheiro de chocolate",
+            "valor": "60",
+            "base": "orquídea"
+          },
+          {
+            "termo": "sabonete líquido lux orquídea negra",
+            "valor": "50",
+            "base": "orquídea"
+          },
+          {
+            "termo": "como plantar sementes de rosa do deserto",
+            "valor": "70",
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar beterraba",
+            "valor": "50",
+            "base": "como plantar"
+          },
+          {
+            "termo": "como plantar bananeira",
+            "valor": "40",
+            "base": "como plantar"
+          },
+          {
+            "termo": "tiara de flores nazista",
+            "valor": "1900",
+            "base": "flores"
+          },
+          {
+            "termo": "julia zanatta tiara de flores",
+            "valor": "1850",
+            "base": "flores"
+          },
+          {
+            "termo": "tiara de flores alemã",
+            "valor": "1500",
+            "base": "flores"
+          },
+          {
+            "termo": "foto de vegetais",
+            "valor": "60",
+            "base": "vegetais"
+          },
+          {
+            "termo": "escova secadora gama babosa",
+            "valor": "300",
+            "base": "babosa"
+          },
+          {
+            "termo": "aloe vera e babosa é a mesma coisa",
+            "valor": "120",
+            "base": "babosa"
+          },
+          {
+            "termo": "babosa é bom para espinha",
+            "valor": "100",
+            "base": "babosa"
+          }
+        ],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "rosa do deserto ferrari",
+          "base": "rosa do deserto"
+        },
+        {
+          "termo": "rosa do deserto céu estrelado",
+          "base": "rosa do deserto"
+        },
+        {
+          "termo": "árvores frutíferas stardew valley",
+          "base": "árvores frutíferas"
+        },
+        {
+          "termo": "árvores frutíferas que gostam de sombra",
+          "base": "árvores frutíferas"
+        },
+        {
+          "termo": "árvores frutíferas que gostam de solo encharcado",
+          "base": "árvores frutíferas"
+        },
+        {
+          "termo": "como fazer muda de manacá da serra",
+          "base": "como fazer muda"
+        },
+        {
+          "termo": "como plantar pitaya",
+          "base": "como plantar"
+        },
+        {
+          "termo": "como plantar gengibre",
+          "base": "como plantar"
+        },
+        {
+          "termo": "ervas e temperos com m",
+          "base": "ervas e temperos"
+        },
+        {
+          "termo": "ervas e temperos naturais",
+          "base": "ervas e temperos"
+        },
+        {
+          "termo": "ervas e temperos da amazônia",
+          "base": "ervas e temperos"
+        },
+        {
+          "termo": "plantas que não são tóxicas para gatos",
+          "base": "plantas que"
+        },
+        {
+          "termo": "plantas que espantam escorpião",
+          "base": "plantas que"
+        },
+        {
+          "termo": "plantas que florescem o ano todo",
+          "base": "plantas que"
+        },
+        {
+          "termo": "plantas de sombra para jardim",
+          "base": "plantas de sombra"
+        },
+        {
+          "termo": "plantas de sombra exterior",
+          "base": "plantas de sombra"
+        },
+        {
+          "termo": "plantas de sombra interior",
+          "base": "plantas de sombra"
+        },
+        {
+          "termo": "o que plantar na lua crescente",
+          "base": "o que plantar"
+        },
+        {
+          "termo": "plantas para vaso grande externo",
+          "base": "plantas para vaso"
+        },
+        {
+          "termo": "plantas para vasos pequenos",
+          "base": "plantas para vaso"
+        },
+        {
+          "termo": "plantas para vasos altos",
+          "base": "plantas para vaso"
+        },
+        {
+          "termo": "como regar suculentas",
+          "base": "como regar"
+        },
+        {
+          "termo": "como regar o lírio da paz",
+          "base": "como regar"
+        },
+        {
+          "termo": "como regar o bambu da sorte",
+          "base": "como regar"
+        },
+        {
+          "termo": "como adubar pé de jabuticaba",
+          "base": "como adubar"
+        },
+        {
+          "termo": "como adubar samambaia",
+          "base": "como adubar"
+        },
+        {
+          "termo": "como adubar rosa do deserto para dar muitas flores",
+          "base": "como adubar"
+        },
+        {
+          "termo": "plantas para apartamento fechado",
+          "base": "plantas para apartamento"
+        },
+        {
+          "termo": "plantas para apartamento que nao sao toxicas para gatos",
+          "base": "plantas para apartamento"
+        },
+        {
+          "termo": "plantas para apartamento com pouca luz",
+          "base": "plantas para apartamento"
+        },
+        {
+          "termo": "costela de adão gosta de sol",
+          "base": "costela de adão"
+        },
+        {
+          "termo": "costela de adão preço",
+          "base": "costela de adão"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    },
+    "decoracao": {
+      "label": "Decoração",
+      "prioridade": false,
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "saia festa junina",
+            "valor": 19,
+            "base": "festa junina"
+          },
+          {
+            "termo": "fogueira festa junina",
+            "valor": 15,
+            "base": "festa junina"
+          },
+          {
+            "termo": "bandeira festa junina",
+            "valor": 14,
+            "base": "festa junina"
+          },
+          {
+            "termo": "pescaria festa junina",
+            "valor": 14,
+            "base": "festa junina"
+          },
+          {
+            "termo": "balão de festa junina",
+            "valor": 13,
+            "base": "festa junina"
+          },
+          {
+            "termo": "quando foi o dia das mães",
+            "valor": 13,
+            "base": "dia das mães"
+          },
+          {
+            "termo": "que dia foi o dia dos namorados",
+            "valor": 21,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "quando foi o dia dos namorados",
+            "valor": 15,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "kit dia dos namorados",
+            "valor": 12,
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "brinquedo",
+            "valor": 26,
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "carnaval 2027 dias",
+            "valor": 2,
+            "base": "carnaval"
+          },
+          {
+            "termo": "carnaval 2025",
+            "valor": 2,
+            "base": "carnaval"
+          },
+          {
+            "termo": "calendario 2027",
+            "valor": 2,
+            "base": "carnaval"
+          },
+          {
+            "termo": "borboleta",
+            "valor": 35,
+            "base": "molde"
+          },
+          {
+            "termo": "molde aranha",
+            "valor": 16,
+            "base": "molde"
+          },
+          {
+            "termo": "etiquetas e adesivos",
+            "valor": 6,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "impressora de etiquetas elgin",
+            "valor": 6,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "etiquetas para temperos",
+            "valor": 3,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "etiquetadora",
+            "valor": 6,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "colacril etiquetas",
+            "valor": 5,
+            "base": "etiquetas"
+          },
+          {
+            "termo": "receita de bolo de chocolate",
+            "valor": 14,
+            "base": "bolo"
+          },
+          {
+            "termo": "bolo fofinho",
+            "valor": 26,
+            "base": "bolo"
+          },
+          {
+            "termo": "lembrancinha",
+            "valor": 44,
+            "base": "lembrança"
+          },
+          {
+            "termo": "lembrança formatura",
+            "valor": 18,
+            "base": "lembrança"
+          },
+          {
+            "termo": "aranha para imprimir",
+            "valor": 18,
+            "base": "para imprimir"
+          },
+          {
+            "termo": "doritos para imprimir",
+            "valor": 4,
+            "base": "para imprimir"
+          }
+        ],
+        "related_rising": [
+          {
+            "termo": "directa natal",
+            "valor": "70",
+            "base": "natal"
+          },
+          {
+            "termo": "padre de festa junina debate",
+            "valor": "97200",
+            "base": "festa junina"
+          },
+          {
+            "termo": "como fazer um balão de festa junina",
+            "valor": "22800",
+            "base": "festa junina"
+          },
+          {
+            "termo": "estalinho festa junina",
+            "valor": "180",
+            "base": "festa junina"
+          },
+          {
+            "termo": "quando se comemora o dia das mães",
+            "valor": "9300",
+            "base": "dia das mães"
+          },
+          {
+            "termo": "promoção dia dos namorados",
+            "valor": "150",
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "hoje é dia dos namorados",
+            "valor": "110",
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "google qual é o dia dos namorados",
+            "valor": "80",
+            "base": "dia dos namorados"
+          },
+          {
+            "termo": "dia dos pais 2033",
+            "valor": "4850",
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "frases para o dia dos pais",
+            "valor": "60",
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "dia dos pais 2031",
+            "valor": "60",
+            "base": "dia dos pais"
+          },
+          {
+            "termo": "feliz dia das crianças para imprimir pdf",
+            "valor": "250",
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "pintura dia das crianças",
+            "valor": "110",
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "dia das crianças para colorir",
+            "valor": "100",
+            "base": "dia das crianças"
+          },
+          {
+            "termo": "molde do sonic para imprimir",
+            "valor": "600",
+            "base": "molde"
+          },
+          {
+            "termo": "molde de casquinha de sorvete para imprimir",
+            "valor": "500",
+            "base": "molde"
+          },
+          {
+            "termo": "molde mascara batman",
+            "valor": "450",
+            "base": "molde"
+          },
+          {
+            "termo": "letras diferentes cursivas",
+            "valor": "50",
+            "base": "letras"
+          },
+          {
+            "termo": "como imprimir etiquetas pimaco no word",
+            "valor": "300",
+            "base": "etiquetas"
+          },
+          {
+            "termo": "rebobinador de etiquetas",
+            "valor": "160",
+            "base": "etiquetas"
+          },
+          {
+            "termo": "maquina de imprimir etiquetas",
+            "valor": "50",
+            "base": "etiquetas"
+          },
+          {
+            "termo": "como fazer convite de aniversário virtual",
+            "valor": "50",
+            "base": "convite"
+          },
+          {
+            "termo": "convite cha de fraldas",
+            "valor": "40",
+            "base": "convite"
+          },
+          {
+            "termo": "lembrança de natal para equipe",
+            "valor": "150",
+            "base": "lembrança"
+          },
+          {
+            "termo": "bolas de futebol para imprimir",
+            "valor": "750",
+            "base": "para imprimir"
+          },
+          {
+            "termo": "planetas para imprimir",
+            "valor": "190",
+            "base": "para imprimir"
+          }
+        ],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "festa junina sorocaba",
+          "base": "festa junina"
+        },
+        {
+          "termo": "festa junina brasilia",
+          "base": "festa junina"
+        },
+        {
+          "termo": "festa junina hoje",
+          "base": "festa junina"
+        },
+        {
+          "termo": "dia das mães brasil",
+          "base": "dia das mães"
+        },
+        {
+          "termo": "dia dos namorados no mundo",
+          "base": "dia dos namorados"
+        },
+        {
+          "termo": "dia dos pais data 2026",
+          "base": "dia dos pais"
+        },
+        {
+          "termo": "ano novo lunar",
+          "base": "ano novo"
+        },
+        {
+          "termo": "ano novo em inglês",
+          "base": "ano novo"
+        },
+        {
+          "termo": "dia das crianças data",
+          "base": "dia das crianças"
+        },
+        {
+          "termo": "dia das crianças cai quando",
+          "base": "dia das crianças"
+        },
+        {
+          "termo": "para imprimir ctrl",
+          "base": "para imprimir"
+        },
+        {
+          "termo": "para imprimir prancha de comunicação alternativa pdf",
+          "base": "para imprimir"
+        },
+        {
+          "termo": "para imprimir e montar",
+          "base": "para imprimir"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    },
+    "pet": {
+      "label": "Pet",
+      "prioridade": false,
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "suplemento para cachorro com dermatite",
+          "base": "suplemento para cachorro"
+        },
+        {
+          "termo": "suplemento para cachorro em pó",
+          "base": "suplemento para cachorro"
+        },
+        {
+          "termo": "suplemento para cachorro coceira",
+          "base": "suplemento para cachorro"
+        },
+        {
+          "termo": "vitamina para cachorro filhote",
+          "base": "vitamina para cachorro"
+        },
+        {
+          "termo": "ômega 3 para cachorro idoso",
+          "base": "ômega 3 para cachorro"
+        },
+        {
+          "termo": "ômega 3 para cachorro como dar",
+          "base": "ômega 3 para cachorro"
+        },
+        {
+          "termo": "ômega 3 para cachorro 500mg",
+          "base": "ômega 3 para cachorro"
+        },
+        {
+          "termo": "probiótico para cachorro como usar",
+          "base": "probiótico para cachorro"
+        },
+        {
+          "termo": "probiótico para cachorro em comprimido",
+          "base": "probiótico para cachorro"
+        },
+        {
+          "termo": "probiótico para cachorro vetnil",
+          "base": "probiótico para cachorro"
+        },
+        {
+          "termo": "colágeno para cachorro com pé de galinha",
+          "base": "colágeno para cachorro"
+        },
+        {
+          "termo": "colágeno para cachorro para que serve",
+          "base": "colágeno para cachorro"
+        },
+        {
+          "termo": "colageno para cachorro como fazer",
+          "base": "colágeno para cachorro"
+        },
+        {
+          "termo": "cachorro perdendo pelo o que fazer",
+          "base": "cachorro perdendo pelo"
+        },
+        {
+          "termo": "cachorro perdendo pelo na orelha",
+          "base": "cachorro perdendo pelo"
+        },
+        {
+          "termo": "cachorro perdendo pelo nas costas",
+          "base": "cachorro perdendo pelo"
+        },
+        {
+          "termo": "queda de pelo cachorro filhote",
+          "base": "queda de pelo cachorro"
+        },
+        {
+          "termo": "queda de pelo cachorro vira lata",
+          "base": "queda de pelo cachorro"
+        },
+        {
+          "termo": "queda de pelo cachorro causas",
+          "base": "queda de pelo cachorro"
+        },
+        {
+          "termo": "displasia em cachorro sintomas",
+          "base": "displasia em cachorro"
+        },
+        {
+          "termo": "displasia em cachorro pastor alemão",
+          "base": "displasia em cachorro"
+        },
+        {
+          "termo": "displasia em cachorro remedio",
+          "base": "displasia em cachorro"
+        },
+        {
+          "termo": "cachorro sem apetite e com diarreia",
+          "base": "cachorro sem apetite"
+        },
+        {
+          "termo": "cachorro sem apetite e vomitando",
+          "base": "cachorro sem apetite"
+        },
+        {
+          "termo": "cachorro sem apetite pode ser verme",
+          "base": "cachorro sem apetite"
+        },
+        {
+          "termo": "ração natural para cachorro como fazer",
+          "base": "ração natural para cachorro"
+        },
+        {
+          "termo": "ração natural para cachorro porte pequeno",
+          "base": "ração natural para cachorro"
+        },
+        {
+          "termo": "ração natural para cachorro porte grande",
+          "base": "ração natural para cachorro"
+        },
+        {
+          "termo": "dieta barf para cachorros pdf",
+          "base": "dieta barf cachorro"
+        },
+        {
+          "termo": "calculadora dieta barf cachorros",
+          "base": "dieta barf cachorro"
+        },
+        {
+          "termo": "cachorro dieta barf perros",
+          "base": "dieta barf cachorro"
+        },
+        {
+          "termo": "nutrição canina e felina manual para profissionais",
+          "base": "nutrição canina"
+        },
+        {
+          "termo": "nutrição canina e felina",
+          "base": "nutrição canina"
+        },
+        {
+          "termo": "premier nutrição canina",
+          "base": "nutrição canina"
+        },
+        {
+          "termo": "cálcio para cachorro dosagem",
+          "base": "cálcio para cachorro"
+        },
+        {
+          "termo": "cálcio para cachorro para que serve",
+          "base": "cálcio para cachorro"
+        },
+        {
+          "termo": "calcio para cachorro adulto",
+          "base": "cálcio para cachorro"
+        },
+        {
+          "termo": "proteina para cachorro engordar",
+          "base": "proteína para cachorro"
+        },
+        {
+          "termo": "proteina para cachorro renal",
+          "base": "proteína para cachorro"
+        },
+        {
+          "termo": "proteina hidrolisada para cachorro",
+          "base": "proteína para cachorro"
+        },
+        {
+          "termo": "suplemento para cachorro idoso ganhar massa muscular",
+          "base": "suplemento para cachorro idoso"
+        },
+        {
+          "termo": "suplemento para cachorro idoso em po",
+          "base": "suplemento para cachorro idoso"
+        },
+        {
+          "termo": "suplemento para cachorro idoso magro",
+          "base": "suplemento para cachorro idoso"
+        },
+        {
+          "termo": "melhor suplemento para filhote de cachorro",
+          "base": "suplemento para filhote de cachorro"
+        },
+        {
+          "termo": "pode dar suplemento para filhote de cachorro",
+          "base": "suplemento para filhote de cachorro"
+        },
+        {
+          "termo": "suplemento para crescimento de filhote de cachorro",
+          "base": "suplemento para filhote de cachorro"
+        },
+        {
+          "termo": "cachorro pode tomar vitamina c humana",
+          "base": "cachorro pode tomar vitamina humana"
+        },
+        {
+          "termo": "remedio articulação cachorro",
+          "base": "articulação cachorro"
+        },
+        {
+          "termo": "problema articulação cachorro",
+          "base": "articulação cachorro"
+        },
+        {
+          "termo": "suplemento articulações cachorro",
+          "base": "articulação cachorro"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    },
+    "educacao": {
+      "label": "Matemática e Gestão Escolar",
+      "prioridade": false,
+      "google_trends": {
+        "trending": [],
+        "related_top": [
+          {
+            "termo": "tabuada de multiplicação",
+            "valor": 84,
+            "base": "tabuada para imprimir"
+          },
+          {
+            "termo": "tabuada de divisão",
+            "valor": 23,
+            "base": "tabuada para imprimir"
+          },
+          {
+            "termo": "tabuada de adição para imprimir",
+            "valor": 11,
+            "base": "tabuada para imprimir"
+          },
+          {
+            "termo": "tabuada de pitágoras para imprimir",
+            "valor": 8,
+            "base": "tabuada para imprimir"
+          },
+          {
+            "termo": "tabuada multiplicação para imprimir pdf",
+            "valor": 8,
+            "base": "tabuada para imprimir"
+          }
+        ],
+        "related_rising": [],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "boletim escolar para preencher e imprimir",
+          "base": "boletim escolar para imprimir"
+        },
+        {
+          "termo": "boletim escolar ensino fundamental para imprimir",
+          "base": "boletim escolar para imprimir"
+        },
+        {
+          "termo": "boletim de notas escolar para imprimir",
+          "base": "boletim escolar para imprimir"
+        },
+        {
+          "termo": "ficha de avaliação educação infantil creche",
+          "base": "ficha de avaliação educação infantil"
+        },
+        {
+          "termo": "ficha de avaliação educação infantil 4 e 5 anos",
+          "base": "ficha de avaliação educação infantil"
+        },
+        {
+          "termo": "ficha de avaliação educação infantil 5 anos",
+          "base": "ficha de avaliação educação infantil"
+        },
+        {
+          "termo": "plano de aula para imprimir educação infantil",
+          "base": "plano de aula pronto para imprimir"
+        },
+        {
+          "termo": "plano de aula para imprimir 3 ano fundamental",
+          "base": "plano de aula pronto para imprimir"
+        },
+        {
+          "termo": "plano de aula para imprimir 2 ano fundamental",
+          "base": "plano de aula pronto para imprimir"
+        },
+        {
+          "termo": "diário de classe para imprimir pdf 2026",
+          "base": "diário de classe para imprimir"
+        },
+        {
+          "termo": "diário de classe para imprimir doc",
+          "base": "diário de classe para imprimir"
+        },
+        {
+          "termo": "baixar diário de classe para imprimir",
+          "base": "diário de classe para imprimir"
+        },
+        {
+          "termo": "relatório descritivo do aluno da educação infantil",
+          "base": "relatório descritivo do aluno"
+        },
+        {
+          "termo": "relatório descritivo individual do aluno",
+          "base": "relatório descritivo do aluno"
+        },
+        {
+          "termo": "relatorio descritivo individual do aluno educação infantil",
+          "base": "relatório descritivo do aluno"
+        },
+        {
+          "termo": "ata de reunião de associação de pais e mestres",
+          "base": "ata de reunião de pais e mestres"
+        },
+        {
+          "termo": "como fazer uma ata de reunião de pais e mestres",
+          "base": "ata de reunião de pais e mestres"
+        },
+        {
+          "termo": "ata da primeira reunião de pais e mestres",
+          "base": "ata de reunião de pais e mestres"
+        },
+        {
+          "termo": "plano de aula bncc educação infantil história",
+          "base": "plano de aula bncc educação infantil"
+        },
+        {
+          "termo": "plano de aula bncc educação infantil matemática",
+          "base": "plano de aula bncc educação infantil"
+        },
+        {
+          "termo": "plano de aula bncc educação infantil música",
+          "base": "plano de aula bncc educação infantil"
+        },
+        {
+          "termo": "ficha de observação do aluno em sala de aula",
+          "base": "ficha de observação do aluno"
+        },
+        {
+          "termo": "portfólio educação infantil 2 anos",
+          "base": "portfólio educação infantil"
+        },
+        {
+          "termo": "portfólio educação infantil pronto para editar",
+          "base": "portfólio educação infantil"
+        },
+        {
+          "termo": "portfólio educação infantil bncc",
+          "base": "portfólio educação infantil"
+        },
+        {
+          "termo": "relatório individual de aluno indisciplinado educação infantil",
+          "base": "relatório individual de aluno educação infantil"
+        },
+        {
+          "termo": "relatório individual aluno educação infantil maternal",
+          "base": "relatório individual de aluno educação infantil"
+        },
+        {
+          "termo": "relatorio individual aluno educação infantil com dificuldade na fala",
+          "base": "relatório individual de aluno educação infantil"
+        },
+        {
+          "termo": "atividades de matematica 1 ano para imprimir subtração",
+          "base": "atividades de matemática 1 ano para imprimir"
+        },
+        {
+          "termo": "atividades de alfabetização matematica 1 ano para imprimir",
+          "base": "atividades de matemática 1 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 1 ano fundamental para imprimir",
+          "base": "atividades de matemática 1 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 2 ano para imprimir tudo sala de aula",
+          "base": "atividades de matemática 2 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matematica 2 ano para imprimir sequencia numerica",
+          "base": "atividades de matemática 2 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matematica 2 ano para imprimir pinterest",
+          "base": "atividades de matemática 2 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 3 ano para imprimir pdf problemas",
+          "base": "atividades de matemática 3 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matematica 3 ano para imprimir divisão e multiplicação",
+          "base": "atividades de matemática 3 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matematica 3 ano para imprimir e colorir",
+          "base": "atividades de matemática 3 ano para imprimir"
+        },
+        {
+          "termo": "tabuada para imprimir colorida",
+          "base": "tabuada para imprimir"
+        },
+        {
+          "termo": "tabuada para imprimir do 1 ao 10",
+          "base": "tabuada para imprimir"
+        },
+        {
+          "termo": "contas de adição simples para imprimir",
+          "base": "contas de adição para imprimir"
+        },
+        {
+          "termo": "contas armadas de adição para imprimir",
+          "base": "contas de adição para imprimir"
+        },
+        {
+          "termo": "contas de adição 4 ano para imprimir",
+          "base": "contas de adição para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 4 ano para imprimir divisão",
+          "base": "atividades de matemática 4 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 4 ano para imprimir com resposta",
+          "base": "atividades de matemática 4 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 4 ano para imprimir tudo sala de aula",
+          "base": "atividades de matemática 4 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 5 ano para imprimir tudo sala de aula",
+          "base": "atividades de matemática 5 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 5 ano para imprimir divisão",
+          "base": "atividades de matemática 5 ano para imprimir"
+        },
+        {
+          "termo": "atividades de matemática 5 ano para imprimir multiplicação",
+          "base": "atividades de matemática 5 ano para imprimir"
+        },
+        {
+          "termo": "contas de subtração para imprimir 3 ano",
+          "base": "contas de subtração para imprimir"
+        },
+        {
+          "termo": "contas de subtração para imprimir 2 ano",
+          "base": "contas de subtração para imprimir"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    },
+    "desenvolvimento": {
+      "label": "Desenvolvimento Infantil",
+      "prioridade": false,
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "tdah em crianças de 3 anos",
+          "base": "tdah em crianças"
+        },
+        {
+          "termo": "tdah em crianças de 7 anos",
+          "base": "tdah em crianças"
+        },
+        {
+          "termo": "tdah em crianças de 2 anos",
+          "base": "tdah em crianças"
+        },
+        {
+          "termo": "atividades para criança com tdah 7 anos",
+          "base": "atividades para criança com tdah"
+        },
+        {
+          "termo": "atividades para criança com tdah 10 anos",
+          "base": "atividades para criança com tdah"
+        },
+        {
+          "termo": "atividades para criança com tdah e tod",
+          "base": "atividades para criança com tdah"
+        },
+        {
+          "termo": "sinais de autismo em crianças de 1 ano",
+          "base": "sinais de autismo em crianças"
+        },
+        {
+          "termo": "sinais de autismo em crianças de 2 a 3 anos",
+          "base": "sinais de autismo em crianças"
+        },
+        {
+          "termo": "sinais de autismo em crianças de 6 anos",
+          "base": "sinais de autismo em crianças"
+        },
+        {
+          "termo": "dislexia em crianças de 8 anos",
+          "base": "dislexia em crianças"
+        },
+        {
+          "termo": "dislexia em crianças de 5 anos",
+          "base": "dislexia em crianças"
+        },
+        {
+          "termo": "dislexia em crianças de 7 anos",
+          "base": "dislexia em crianças"
+        },
+        {
+          "termo": "atraso na fala criança de 2 anos",
+          "base": "atraso na fala"
+        },
+        {
+          "termo": "atraso na fala e irritabilidade",
+          "base": "atraso na fala"
+        },
+        {
+          "termo": "atraso na fala pode ser autismo",
+          "base": "atraso na fala"
+        },
+        {
+          "termo": "como estimular a fala da criança de 3 anos",
+          "base": "como estimular a fala da criança"
+        },
+        {
+          "termo": "como estimular a fala da criança de 1 ano",
+          "base": "como estimular a fala da criança"
+        },
+        {
+          "termo": "como estimular a fala de uma criança de 4 anos",
+          "base": "como estimular a fala da criança"
+        },
+        {
+          "termo": "desenvolvimento da linguagem infantil fonoaudiologia",
+          "base": "desenvolvimento da linguagem infantil"
+        },
+        {
+          "termo": "desenvolvimento da linguagem infantil de 0 a 6 anos pdf",
+          "base": "desenvolvimento da linguagem infantil"
+        },
+        {
+          "termo": "desenvolvimento da linguagem infantil pdf",
+          "base": "desenvolvimento da linguagem infantil"
+        },
+        {
+          "termo": "fonoaudiologia infantil gratuita sp",
+          "base": "fonoaudiologia infantil"
+        },
+        {
+          "termo": "fonoaudiologia infantil osasco",
+          "base": "fonoaudiologia infantil"
+        },
+        {
+          "termo": "fonoaudiologia infantil curitiba",
+          "base": "fonoaudiologia infantil"
+        },
+        {
+          "termo": "estimulação precoce df",
+          "base": "estimulação precoce"
+        },
+        {
+          "termo": "estimulação precoce fonoaudiologia",
+          "base": "estimulação precoce"
+        },
+        {
+          "termo": "estimulação precoce terapia ocupacional",
+          "base": "estimulação precoce"
+        },
+        {
+          "termo": "marcos do desenvolvimento infantil pdf",
+          "base": "marcos do desenvolvimento infantil"
+        },
+        {
+          "termo": "marcos do desenvolvimento infantil 0 a 1 ano",
+          "base": "marcos do desenvolvimento infantil"
+        },
+        {
+          "termo": "marcos do desenvolvimento infantil tabela ministério da saúde",
+          "base": "marcos do desenvolvimento infantil"
+        },
+        {
+          "termo": "desenvolvimento motor infantil até 2 anos",
+          "base": "desenvolvimento motor infantil"
+        },
+        {
+          "termo": "desenvolvimento motor infantil artigo",
+          "base": "desenvolvimento motor infantil"
+        },
+        {
+          "termo": "desenvolvimento motor infantil de 0 a 1 ano",
+          "base": "desenvolvimento motor infantil"
+        },
+        {
+          "termo": "desenvolvimento cognitivo infantil 4 anos",
+          "base": "desenvolvimento cognitivo infantil"
+        },
+        {
+          "termo": "desenvolvimento cognitivo infantil pdf",
+          "base": "desenvolvimento cognitivo infantil"
+        },
+        {
+          "termo": "desenvolvimento cognitivo infantil 3 a 4 anos",
+          "base": "desenvolvimento cognitivo infantil"
+        },
+        {
+          "termo": "ansiedade em crianças de 11 anos",
+          "base": "ansiedade em crianças"
+        },
+        {
+          "termo": "ansiedade em crianças como tratar",
+          "base": "ansiedade em crianças"
+        },
+        {
+          "termo": "ansiedade em crianças de 8 anos",
+          "base": "ansiedade em crianças"
+        },
+        {
+          "termo": "criança hiperativa oq fazer",
+          "base": "criança hiperativa o que fazer"
+        },
+        {
+          "termo": "o que fazer para acalmar criança hiperativa",
+          "base": "criança hiperativa o que fazer"
+        },
+        {
+          "termo": "o que fazer para uma criança hiperativa dormir",
+          "base": "criança hiperativa o que fazer"
+        },
+        {
+          "termo": "choro excessivo bebe 2 meses",
+          "base": "choro excessivo bebê"
+        },
+        {
+          "termo": "choro excessivo bebe 4 meses",
+          "base": "choro excessivo bebê"
+        },
+        {
+          "termo": "choro excessivo bebe 5 meses",
+          "base": "choro excessivo bebê"
+        },
+        {
+          "termo": "brinquedos educativos para crianças de 4 anos",
+          "base": "brinquedos educativos para crianças"
+        },
+        {
+          "termo": "brinquedos educativos para crianças de 5 anos",
+          "base": "brinquedos educativos para crianças"
+        },
+        {
+          "termo": "brinquedos educativos para crianças autistas",
+          "base": "brinquedos educativos para crianças"
+        },
+        {
+          "termo": "atividades montessori para fazer em.casa",
+          "base": "atividades montessori em casa"
+        },
+        {
+          "termo": "como brincar com bebê de 2 meses",
+          "base": "como brincar com bebê"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    },
+    "concursos": {
+      "label": "Concursos e Formação Docente",
+      "prioridade": false,
+      "google_trends": {
+        "trending": [],
+        "related_top": [],
+        "related_rising": [],
+        "seeds": []
+      },
+      "cauda_longa": [
+        {
+          "termo": "concurso público professor 2026 são paulo",
+          "base": "concurso público professor 2026"
+        },
+        {
+          "termo": "concurso público professor jundiaí 2026",
+          "base": "concurso público professor 2026"
+        },
+        {
+          "termo": "concurso público professor universitário 2026",
+          "base": "concurso público professor 2026"
+        },
+        {
+          "termo": "edital concurso professor ifce 2026",
+          "base": "edital concurso professor 2026"
+        },
+        {
+          "termo": "edital concurso professor ceara 2026",
+          "base": "edital concurso professor 2026"
+        },
+        {
+          "termo": "edital concurso professor bahia 2026",
+          "base": "edital concurso professor 2026"
+        },
+        {
+          "termo": "processo seletivo professor 2026 rj",
+          "base": "processo seletivo professor 2026"
+        },
+        {
+          "termo": "processo seletivo professor 2026 rs",
+          "base": "processo seletivo professor 2026"
+        },
+        {
+          "termo": "processo seletivo professor 2026 es",
+          "base": "processo seletivo professor 2026"
+        },
+        {
+          "termo": "concurso prefeitura professor 2025",
+          "base": "concurso prefeitura professor"
+        },
+        {
+          "termo": "concurso prefeitura professor sjc",
+          "base": "concurso prefeitura professor"
+        },
+        {
+          "termo": "concurso prefeitura professor rj",
+          "base": "concurso prefeitura professor"
+        },
+        {
+          "termo": "modelo de plano de aula para concurso de professor universitário",
+          "base": "plano de aula para concurso professor"
+        },
+        {
+          "termo": "exemplo de plano de aula para concurso de professor",
+          "base": "plano de aula para concurso professor"
+        },
+        {
+          "termo": "plano de estudo para concurso professor",
+          "base": "plano de aula para concurso professor"
+        },
+        {
+          "termo": "questões de concurso pedagogia grátis",
+          "base": "questões de concurso professor pedagogia"
+        },
+        {
+          "termo": "questões de concurso pedagogia com gabarito pdf 2023",
+          "base": "questões de concurso professor pedagogia"
+        },
+        {
+          "termo": "questoes de concurso pedagogia com gabarito",
+          "base": "questões de concurso professor pedagogia"
+        },
+        {
+          "termo": "apostila concurso professor de história pdf grátis",
+          "base": "apostila concurso professor"
+        },
+        {
+          "termo": "apostila concurso professor diadema",
+          "base": "apostila concurso professor"
+        },
+        {
+          "termo": "apostila concurso professor de história pdf",
+          "base": "apostila concurso professor"
+        },
+        {
+          "termo": "concurso professor educação infantil rj",
+          "base": "concurso professor educação infantil"
+        },
+        {
+          "termo": "concurso professor educação infantil sp",
+          "base": "concurso professor educação infantil"
+        },
+        {
+          "termo": "concurso professor educação infantil foz do iguaçu",
+          "base": "concurso professor educação infantil"
+        },
+        {
+          "termo": "curso de psicopedagogia gratuito reconhecido pelo mec",
+          "base": "curso de psicopedagogia gratuito"
+        },
+        {
+          "termo": "curso de psicopedagogia ead gratuito",
+          "base": "curso de psicopedagogia gratuito"
+        },
+        {
+          "termo": "curso de aperfeiçoamento em psicopedagogia gratuito",
+          "base": "curso de psicopedagogia gratuito"
+        },
+        {
+          "termo": "formação continuada de professores pdf",
+          "base": "formação continuada professores"
+        },
+        {
+          "termo": "formação continuada de professores imbernón pdf",
+          "base": "formação continuada professores"
+        },
+        {
+          "termo": "formação continuada de professores mec",
+          "base": "formação continuada professores"
+        },
+        {
+          "termo": "curso de especialização em docência na educação infantil ufscar",
+          "base": "curso de especialização em educação infantil"
+        },
+        {
+          "termo": "curso de especialização em docência na educação infantil cedei",
+          "base": "curso de especialização em educação infantil"
+        }
+      ],
+      "reddit": [],
+      "youtube": []
+    }
+  },
+  "site_updates": [
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Projeto abre inscrições para formação gratuita de docentes sobre audiovisual e educação",
+      "url": "https://infoeducacao.com.br/projeto-abre-inscricoes-para-formacao-gratuita-de-docentes-sobre-audiovisual-e-educacao/",
+      "data": "Wed, 07 Oct 2026 16:57:59 +0000",
+      "resumo": "A segunda edição do projeto cultural e educativo Semeando Consciência está com as inscrições abertas para uma formação on-line e The post Projeto abre inscrições para formação gratuita de docentes sob"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "USP abre vagas gratuitas no curso online ‘Da Origem ao Mercado: como Valorizar Produtos e Territórios com a D.O.P Economy’",
+      "url": "https://infoeducacao.com.br/usp-abre-vagas-gratuitas-no-curso-online-da-origem-ao-mercado-como-valorizar-produtos-e-territorios-com-a-d-o-p-economy/",
+      "data": "Wed, 07 Oct 2026 14:14:25 +0000",
+      "resumo": "Estão abertas as inscrições para participar do curso gratuito e 100% online “Da Origem ao Mercado: como Valorizar Produtos e The post USP abre vagas gratuitas no curso online &#8216;Da Origem ao Merca"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Cursos de especialização gratuitos 100% online UERN recebem inscrições até 08/10",
+      "url": "https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-100-online-uern-recebem-inscricoes-ate-08-10/",
+      "data": "Wed, 07 Oct 2026 13:07:11 +0000",
+      "resumo": "Terminam no dia 8 de outubro de 2026 as inscrições para os processos seletivos, que visam preencher vagas em três The post Cursos de especialização gratuitos 100% online UERN recebem inscrições até 08"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Curso de graduação gratuito em Ciência e Tecnologia abre 1000 vagas",
+      "url": "https://infoeducacao.com.br/curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-abre-1000-vagas/",
+      "data": "Wed, 07 Oct 2026 09:31:40 +0000",
+      "resumo": "A Universidade Federal de Mato Grosso (UFMT) abriu 1000 vagas no curso de graduação gratuito em Ciência e Tecnologia, bacharelado, The post Curso de graduação gratuito em Ciência e Tecnologia abre 100"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "Uesb abre mais de 1.100 vagas para transferência de curso de graduação",
+      "url": "https://infoeducacao.com.br/uesb-abre-mais-de-1-100-vagas-para-transferencia-de-curso-de-graduacao/",
+      "data": "Tue, 06 Oct 2026 14:39:47 +0000",
+      "resumo": "Por meio do Edital 310/2026, a Uesb abre o Processo Seletivo de Transferência Interna e Externa do primeiro período letivo The post Uesb abre mais de 1.100 vagas para transferência de curso de graduaç"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFSP Capivari abre inscrições para Pós-Graduação gratuita em Ensino de Línguas para 2027",
+      "url": "https://infoeducacao.com.br/ifsp-capivari-abre-inscricoes-para-pos-graduacao-gratuita-em-ensino-de-linguas-para-2027/",
+      "data": "Tue, 06 Oct 2026 12:27:34 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), Campus Capivari, está com inscrições abertas para a The post IFSP Capivari abre inscrições para Pós-Graduação gratuita em Ens"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFG abre vagas para portadores de diploma para nova graduação gratuita",
+      "url": "https://infoeducacao.com.br/ifg-abre-vagas-para-portadores-de-diploma-que-querem-fazer-um-novo-curso/",
+      "data": "Tue, 06 Oct 2026 12:04:45 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) está selecionando portadores de diploma que têm interesse em The post IFG abre vagas para portadores de diploma para nova graduação"
+    },
+    {
+      "fonte": "InfoEducação",
+      "foco": "Cursos EAD gratuitos e especializações para professores",
+      "titulo": "IFMG abre 350 vagas em curso gratuito a distância de Gestor de Manutenção",
+      "url": "https://infoeducacao.com.br/ifmg-abre-350-vagas-em-curso-gratuito-a-distancia-de-gestor-de-manutencao/",
+      "data": "Tue, 06 Oct 2026 11:25:35 +0000",
+      "resumo": "O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas (IFMG) abriu 350 vagas para o curso gratuito The post IFMG abre 350 vagas em curso gratuito a distância de Gestor de Manutenção ap"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "IFSP abre 75 vagas em cursos gratuitos de fotovoltaica e segurança com gases combustíveis",
+      "url": "https://www.pebsp.com/ifsp-abre-75-vagas-em-cursos-gratuitos-de-fotovoltaica-e-seguranca-com-gases-combustiveis/",
+      "data": "Wed, 07 Oct 2026 17:45:24 +0000",
+      "resumo": "IFSP abre 75 vagas gratuitas em dois cursos de extensão: instalação de sistemas fotovoltaicos e fundamentação da segurança para gases combustíveis, com inscrições até 5 e 21 de outubro de 2026. O post"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UNILAB abre Especialização em Literaturas Africanas de Língua Portuguesa EAD",
+      "url": "https://www.pebsp.com/unilab-abre-especializacao-em-literaturas-africanas-de-lingua-portuguesa-ead/",
+      "data": "Wed, 07 Oct 2026 15:12:13 +0000",
+      "resumo": "UNILAB abre 30 vagas em Especialização Interdisciplinar em Literaturas Africanas de Língua Portuguesa, 100% gratuita, EaD com encontros síncronos. Inscrições até 16 de outubro de 2026. O post UNILAB a"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Fundaj abre 80 vagas em 2 cursos de cultura, arte e patrimônio; inscrições até 25 de outubro",
+      "url": "https://www.pebsp.com/fundaj-cursos-cultura-arte-patrimonio-2026/",
+      "data": "Wed, 07 Oct 2026 12:45:17 +0000",
+      "resumo": "Fundaj oferece 2 cursos EaD gratuitos em audiovisual afro-indígena e educação patrimonial. Inscrições até 25/out; veja vagas, prazos e cronograma. O post Fundaj abre 80 vagas em 2 cursos de cultura, a"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Prefeitura de Curitiba abre mais de 1.400 vagas para professores sem aplicação de prova",
+      "url": "https://www.pebsp.com/prefeitura-de-curitiba-abre-mais-de-1-400-vagas-para-professores-sem-aplicacao-de-prova/",
+      "data": "Wed, 07 Oct 2026 10:52:15 +0000",
+      "resumo": "A Prefeitura de Curitiba abriu um processo seletivo simplificado para contratar 1.443 profissionais da Educação. São 835 vagas para Profissional do Magistério – Docência I e 608 para Professor de Educ"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "4 Universidades abrem 96 vagas para Professores e Tutores EAD",
+      "url": "https://www.pebsp.com/selecoes-ead-bolsas-professores-tutores-outubro-2026/",
+      "data": "Wed, 07 Oct 2026 08:05:55 +0000",
+      "resumo": "Quatro processos seletivos estão com inscrições abertas ou prestes a abrir para profissionais que desejam atuar na educação a distância. As oportunidades reúnem vagas para professores regentes, tutore"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "ProfAlfa: MEC tem seleção aberta para mestrado em Alfabetização — inscrições encerram nesta semana",
+      "url": "https://www.pebsp.com/profalfa-mec-tem-selecao-aberta-para-mestrado-em-alfabetizacao-inscricoes-encerram-nesta-semana/",
+      "data": "Wed, 07 Oct 2026 06:03:44 +0000",
+      "resumo": "ProfAlfa 2027: 75 vagas em mestrado profissional gratuito para professores alfabetizadores. Inscrições encerram em 13 de outubro — últimas dias para se candidatar! O post ProfAlfa: MEC tem seleção abe"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "Uso da Inteligência Artificial nas escolas terá limites; entenda a proposta do CNE",
+      "url": "https://www.pebsp.com/uso-da-inteligencia-artificial-nas-escolas-tera-limites-entenda-a-proposta-do-cne/",
+      "data": "Wed, 07 Oct 2026 04:22:03 +0000",
+      "resumo": "O Conselho Nacional de Educação (CNE) aprovou diretrizes nacionais para orientar o uso da Inteligência Artificial na educação brasileira. O parecer alcança escolas e universidades, públicas e privadas"
+    },
+    {
+      "fonte": "PEBSP",
+      "foco": "Concursos e processos seletivos para professores de SP",
+      "titulo": "UNILAB abre inscrições para Especialização em Gênero, Diversidade e Direitos Humanos EAD",
+      "url": "https://www.pebsp.com/unilab-abre-inscricoes-para-especializacao-em-genero-diversidade-e-direitos-humanos-ead/",
+      "data": "Tue, 06 Oct 2026 21:08:00 +0000",
+      "resumo": "UNILAB abre 180 vagas em Especialização em Gênero, Diversidade e Direitos Humanos, modalidade EaD, 6 polos no Nordeste. Inscrições até 16/10; veja cronograma. O post UNILAB abre inscrições para Especi"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado gratuito pelo MEC: confira as oportunidades disponíveis neste mês de outubro",
+      "url": "https://conectaprofessores.com/2026/10/07/mestrado-gratuito-pelo-mec-confira-as-oportunidades-disponiveis-neste-mes-de-outubro/",
+      "data": "Wed, 07 Oct 2026 17:04:26 +0000",
+      "resumo": "O Portal Formação do MEC oferece oportunidades de mestrado disponíveis em outubro, com um mapa que permite a pesquisa por região. Além dos mestrados, a plataforma também disponibiliza cursos para prof"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Quer cursar Pedagogia? FURG oferece 36 vagas gratuitas no Vestibular 2027",
+      "url": "https://conectaprofessores.com/2026/10/07/quer-cursar-pedagogia-furg-oferece-36-vagas-gratuitas-no-vestibular-2027/",
+      "data": "Wed, 07 Oct 2026 14:59:51 +0000",
+      "resumo": "A Universidade Federal do Rio Grande (FURG) está com inscrições abertas para o Vestibular 2027, com 36 vagas para o curso de Pedagogia – Licenciatura, divididas entre os turnos diurno e noturno. As in"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Universidade oferece vaga para tutor de Pedagogia com bolsa de R$ 1,1 mil; inscrições pela internet",
+      "url": "https://conectaprofessores.com/2026/10/07/universidade-oferece-vaga-para-tutor-de-pedagogia-com-bolsa-de-r-11-mil-inscricoes-pela-internet/",
+      "data": "Wed, 07 Oct 2026 13:40:47 +0000",
+      "resumo": "A Universidade do Estado de Minas Gerais (UEMG) está com inscrições abertas para uma vaga de tutor do curso de Licenciatura em Pedagogia a distância, com carga de 20 horas semanais e bolsa mensal de R"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Curitiba oferece 1.443 vagas para professores em novo processo seletivo; inscrições estão abertas",
+      "url": "https://conectaprofessores.com/2026/10/07/curitiba-oferece-1-443-vagas-para-professores-em-novo-processo-seletivo-inscricoes-estao-abertas/",
+      "data": "Wed, 07 Oct 2026 12:55:44 +0000",
+      "resumo": "A Prefeitura de Curitiba abriu inscrições para um processo seletivo simplificado visando a contratação temporária de 1.443 professores, com vagas para docentes de educação infantil e do magistério. In"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Professores ganham descontos em tablets, TVs e eletrônicos Samsung e Positivo pelo #TôComProf",
+      "url": "https://conectaprofessores.com/2026/10/06/professores-ganham-descontos-em-tablets-tvs-e-eletronicos-samsung-e-positivo-pelo-tocomprof/",
+      "data": "Wed, 07 Oct 2026 01:24:01 +0000",
+      "resumo": "Professores de todo o Brasil podem obter descontos em produtos tecnológicos através da iniciativa #TôComProf, do MEC. Empresas como Samsung e Positivo oferecem até 10% de desconto em itens como smartp"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Unemat abre inscrições para seis mestrados e três doutorados em Mato Grosso",
+      "url": "https://conectaprofessores.com/2026/10/06/unemat-abre-inscricoes-para-seis-mestrados-e-tres-doutorados-em-mato-grosso/",
+      "data": "Tue, 06 Oct 2026 23:39:51 +0000",
+      "resumo": "A Universidade do Estado de Mato Grosso (Unemat) está com inscrições abertas para seis mestrados e três doutorados, com oportunidades em várias áreas e municípios. Os prazos de inscrição vão até novem"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Mestrado e Doutorado em Ciências Naturais: Uece e Embrapa abrem seleção",
+      "url": "https://conectaprofessores.com/2026/10/06/mestrado-e-doutorado-em-ciencias-naturais-uece-e-embrapa-abrem-selecao/",
+      "data": "Tue, 06 Oct 2026 22:13:25 +0000",
+      "resumo": "A Universidade Estadual do Ceará (Uece) e a Embrapa Agroindústria Tropical abrem seleção para Mestrado e Doutorado em Ciências Naturais, com oito vagas disponíveis. As inscrições ocorrem de 10 a 23 de"
+    },
+    {
+      "fonte": "Conecta Professores",
+      "foco": "Oportunidades, cursos gratuitos e recursos para professores",
+      "titulo": "Secretaria de Educação do Recife abre seleção com 60 vagas para professores e salário de até R$ 6,9 mil",
+      "url": "https://conectaprofessores.com/2026/10/06/secretaria-de-educacao-do-recife-abre-selecao-com-60-vagas-para-professores-e-salario-de-ate-r-69-mil/",
+      "data": "Tue, 06 Oct 2026 21:50:44 +0000",
+      "resumo": "A Secretaria de Educação do Recife está com uma seleção simplificada aberta para 60 vagas de professores nas áreas de Língua Portuguesa, Matemática e Ciências, com atuação nos anos finais do Ensino Fu"
+    }
+  ],
+  "pautas": [
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "piscina de fibra",
+      "seed": "piscina pequena",
+      "score": 96.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de piscina de fibra para transformar o quintal gastando pouco",
+          "Piscina de fibra: 20 inspirações reais para copiar neste fim de semana",
+          "20 erros em piscina de fibra que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer piscina de fibra: passo a passo com materiais e custo estimado",
+          "Piscina de fibra: guia completo para planejar, montar e manter em 2026",
+          "Piscina de fibra sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que piscina de fibra virou tendência nas casas brasileiras em 2026",
+          "Piscina de fibra: o que está em alta em quintais e áreas de lazer agora",
+          "Piscina de fibra em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'piscina de fibra' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "como fazer um pergolado simples e barato",
+      "seed": "pergolado",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de como fazer um pergolado simples e barato para transformar o quintal gastando pouco",
+          "Como fazer um pergolado simples e barato: 20 inspirações reais para copiar neste fim de semana",
+          "20 erros em como fazer um pergolado simples e barato que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer como fazer um pergolado simples e barato: passo a passo com materiais e custo estimado",
+          "Como fazer um pergolado simples e barato: guia completo para planejar, montar e manter em 2026",
+          "Como fazer um pergolado simples e barato sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que como fazer um pergolado simples e barato virou tendência nas casas brasileiras em 2026",
+          "Como fazer um pergolado simples e barato: o que está em alta em quintais e áreas de lazer agora",
+          "Como fazer um pergolado simples e barato em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como fazer um pergolado simples e barato' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "a que se refere o paisagismo",
+      "seed": "paisagismo",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de a que se refere o paisagismo para transformar o quintal gastando pouco",
+          "A que se refere o paisagismo: 20 inspirações reais para copiar neste fim de semana",
+          "20 erros em a que se refere o paisagismo que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer a que se refere o paisagismo: passo a passo com materiais e custo estimado",
+          "A que se refere o paisagismo: guia completo para planejar, montar e manter em 2026",
+          "A que se refere o paisagismo sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que a que se refere o paisagismo virou tendência nas casas brasileiras em 2026",
+          "A que se refere o paisagismo: o que está em alta em quintais e áreas de lazer agora",
+          "A que se refere o paisagismo em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'a que se refere o paisagismo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "quintal pequeno com piscina e churrasqueira simples",
+      "seed": "quintal pequeno",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de quintal pequeno com piscina e churrasqueira simples para transformar o quintal gastando pouco",
+          "Quintal pequeno com piscina e churrasqueira simples: 15 inspirações reais para copiar neste fim de semana",
+          "15 erros em quintal pequeno com piscina e churrasqueira simples que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer quintal pequeno com piscina e churrasqueira simples: passo a passo com materiais e custo estimado",
+          "Quintal pequeno com piscina e churrasqueira simples: guia completo para planejar, montar e manter em 2026",
+          "Quintal pequeno com piscina e churrasqueira simples sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que quintal pequeno com piscina e churrasqueira simples virou tendência nas casas brasileiras em 2026",
+          "Quintal pequeno com piscina e churrasqueira simples: o que está em alta em quintais e áreas de lazer agora",
+          "Quintal pequeno com piscina e churrasqueira simples em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'quintal pequeno com piscina e churrasqueira simples' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "quintal simples com piscina",
+      "seed": "quintal simples",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de quintal simples com piscina para transformar o quintal gastando pouco",
+          "Quintal simples com piscina: 15 inspirações reais para copiar neste fim de semana",
+          "15 erros em quintal simples com piscina que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer quintal simples com piscina: passo a passo com materiais e custo estimado",
+          "Quintal simples com piscina: guia completo para planejar, montar e manter em 2026",
+          "Quintal simples com piscina sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que quintal simples com piscina virou tendência nas casas brasileiras em 2026",
+          "Quintal simples com piscina: o que está em alta em quintais e áreas de lazer agora",
+          "Quintal simples com piscina em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'quintal simples com piscina' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "área externa com churrasqueira",
+      "seed": "área externa",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de área externa com churrasqueira para transformar o quintal gastando pouco",
+          "Área externa com churrasqueira: 15 inspirações reais para copiar neste fim de semana",
+          "15 erros em área externa com churrasqueira que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer área externa com churrasqueira: passo a passo com materiais e custo estimado",
+          "Área externa com churrasqueira: guia completo para planejar, montar e manter em 2026",
+          "Área externa com churrasqueira sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que área externa com churrasqueira virou tendência nas casas brasileiras em 2026",
+          "Área externa com churrasqueira: o que está em alta em quintais e áreas de lazer agora",
+          "Área externa com churrasqueira em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'área externa com churrasqueira' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "área de lazer simples no quintal",
+      "seed": "área de lazer",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de área de lazer simples no quintal para transformar o quintal gastando pouco",
+          "Área de lazer simples no quintal: 15 inspirações reais para copiar neste fim de semana",
+          "15 erros em área de lazer simples no quintal que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer área de lazer simples no quintal: passo a passo com materiais e custo estimado",
+          "Área de lazer simples no quintal: guia completo para planejar, montar e manter em 2026",
+          "Área de lazer simples no quintal sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que área de lazer simples no quintal virou tendência nas casas brasileiras em 2026",
+          "Área de lazer simples no quintal: o que está em alta em quintais e áreas de lazer agora",
+          "Área de lazer simples no quintal em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'área de lazer simples no quintal' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Quintal e Área Externa",
+      "nicho_key": "quintal",
+      "prioridade": true,
+      "termo_base": "jardim pequeno com pedras",
+      "seed": "jardim pequeno",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 ideias de jardim pequeno com pedras para transformar o quintal gastando pouco",
+          "Jardim pequeno com pedras: 15 inspirações reais para copiar neste fim de semana",
+          "15 erros em jardim pequeno com pedras que deixam a área externa sem graça (e como evitar)"
+        ],
+        "como_fazer": [
+          "Como fazer jardim pequeno com pedras: passo a passo com materiais e custo estimado",
+          "Jardim pequeno com pedras: guia completo para planejar, montar e manter em 2026",
+          "Jardim pequeno com pedras sem obra grande: como fazer em casa com pouco espaço"
+        ],
+        "tendencia": [
+          "Por que jardim pequeno com pedras virou tendência nas casas brasileiras em 2026",
+          "Jardim pequeno com pedras: o que está em alta em quintais e áreas de lazer agora",
+          "Jardim pequeno com pedras em 2026: ideias que estão bombando nas redes"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'jardim pequeno com pedras' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de quintal ou área de lazer (antes/depois) tem CTR muito maior que render",
+        "Inclua custo e tamanho no título (ex: 'quintal de 20 m² por menos de R$ 1.000')",
+        "Liste materiais e medidas — quem busca cauda longa quer executar, não só se inspirar"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "prioridade": false,
+      "termo_base": "tabuada de multiplicação",
+      "seed": "tabuada para imprimir",
+      "score": 94.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "Tabuada de multiplicação para imprimir: 20 modelos prontos para usar hoje",
+          "20 atividades de tabuada de multiplicação por ano escolar — do 1° ao 5° ano",
+          "20 recursos de tabuada de multiplicação que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar tabuada de multiplicação do zero: modelo completo e editável",
+          "Tabuada de multiplicação: passo a passo para professores e coordenadores",
+          "Tudo sobre tabuada de multiplicação em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que tabuada de multiplicação está entre os materiais mais baixados por educadores",
+          "Tabuada de multiplicação: o recurso que escolas inteiras adotaram em 2026",
+          "Tabuada de multiplicação em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tabuada de multiplicação' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "prioridade": false,
+      "termo_base": "orquídea com cheiro de chocolate",
+      "seed": "orquídea",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de orquídea com cheiro de chocolate para quem está começando do zero",
+          "20 erros em orquídea com cheiro de chocolate que matam suas plantas (evite estes)",
+          "20 ideias de orquídea com cheiro de chocolate baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer orquídea com cheiro de chocolate em casa: passo a passo para iniciantes",
+          "Orquídea com cheiro de chocolate: o guia definitivo para 2026",
+          "Tudo sobre orquídea com cheiro de chocolate: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que orquídea com cheiro de chocolate virou febre nas redes sociais",
+          "Orquídea com cheiro de chocolate: a tendência que domina os jardins em 2026",
+          "Orquídea com cheiro de chocolate em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'orquídea com cheiro de chocolate' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "prioridade": false,
+      "termo_base": "como plantar sementes de rosa do deserto",
+      "seed": "como plantar",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de como plantar sementes de rosa do deserto para quem está começando do zero",
+          "20 erros em como plantar sementes de rosa do deserto que matam suas plantas (evite estes)",
+          "20 ideias de como plantar sementes de rosa do deserto baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer como plantar sementes de rosa do deserto em casa: passo a passo para iniciantes",
+          "Como plantar sementes de rosa do deserto: o guia definitivo para 2026",
+          "Tudo sobre como plantar sementes de rosa do deserto: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que como plantar sementes de rosa do deserto virou febre nas redes sociais",
+          "Como plantar sementes de rosa do deserto: a tendência que domina os jardins em 2026",
+          "Como plantar sementes de rosa do deserto em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'como plantar sementes de rosa do deserto' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "prioridade": false,
+      "termo_base": "tiara de flores nazista",
+      "seed": "flores",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de tiara de flores nazista para quem está começando do zero",
+          "20 erros em tiara de flores nazista que matam suas plantas (evite estes)",
+          "20 ideias de tiara de flores nazista baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer tiara de flores nazista em casa: passo a passo para iniciantes",
+          "Tiara de flores nazista: o guia definitivo para 2026",
+          "Tudo sobre tiara de flores nazista: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que tiara de flores nazista virou febre nas redes sociais",
+          "Tiara de flores nazista: a tendência que domina os jardins em 2026",
+          "Tiara de flores nazista em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tiara de flores nazista' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "prioridade": false,
+      "termo_base": "escova secadora gama babosa",
+      "seed": "babosa",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de escova secadora gama babosa para quem está começando do zero",
+          "20 erros em escova secadora gama babosa que matam suas plantas (evite estes)",
+          "20 ideias de escova secadora gama babosa baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer escova secadora gama babosa em casa: passo a passo para iniciantes",
+          "Escova secadora gama babosa: o guia definitivo para 2026",
+          "Tudo sobre escova secadora gama babosa: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que escova secadora gama babosa virou febre nas redes sociais",
+          "Escova secadora gama babosa: a tendência que domina os jardins em 2026",
+          "Escova secadora gama babosa em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'escova secadora gama babosa' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "prioridade": false,
+      "termo_base": "padre de festa junina debate",
+      "seed": "festa junina",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de padre de festa junina debate para fazer em casa (com molde grátis)",
+          "20 modelos de padre de festa junina debate para imprimir e usar agora",
+          "20 inspirações de padre de festa junina debate que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer padre de festa junina debate: passo a passo fácil para iniciantes",
+          "Padre de festa junina debate: como criar em casa sem gastar muito",
+          "Tudo sobre padre de festa junina debate em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que padre de festa junina debate está entre as buscas mais quentes do Brasil",
+          "Padre de festa junina debate: as tendências que dominam em 2026",
+          "Padre de festa junina debate em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'padre de festa junina debate' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "prioridade": false,
+      "termo_base": "quando se comemora o dia das mães",
+      "seed": "dia das mães",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de quando se comemora o dia das mães para fazer em casa (com molde grátis)",
+          "20 modelos de quando se comemora o dia das mães para imprimir e usar agora",
+          "20 inspirações de quando se comemora o dia das mães que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer quando se comemora o dia das mães: passo a passo fácil para iniciantes",
+          "Quando se comemora o dia das mães: como criar em casa sem gastar muito",
+          "Tudo sobre quando se comemora o dia das mães em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que quando se comemora o dia das mães está entre as buscas mais quentes do Brasil",
+          "Quando se comemora o dia das mães: as tendências que dominam em 2026",
+          "Quando se comemora o dia das mães em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'quando se comemora o dia das mães' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "prioridade": false,
+      "termo_base": "promoção dia dos namorados",
+      "seed": "dia dos namorados",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de promoção dia dos namorados para fazer em casa (com molde grátis)",
+          "20 modelos de promoção dia dos namorados para imprimir e usar agora",
+          "20 inspirações de promoção dia dos namorados que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer promoção dia dos namorados: passo a passo fácil para iniciantes",
+          "Promoção dia dos namorados: como criar em casa sem gastar muito",
+          "Tudo sobre promoção dia dos namorados em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que promoção dia dos namorados está entre as buscas mais quentes do Brasil",
+          "Promoção dia dos namorados: as tendências que dominam em 2026",
+          "Promoção dia dos namorados em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'promoção dia dos namorados' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "prioridade": false,
+      "termo_base": "dia dos pais 2033",
+      "seed": "dia dos pais",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de dia dos pais 2033 para fazer em casa (com molde grátis)",
+          "20 modelos de dia dos pais 2033 para imprimir e usar agora",
+          "20 inspirações de dia dos pais 2033 que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer dia dos pais 2033: passo a passo fácil para iniciantes",
+          "Dia dos pais 2033: como criar em casa sem gastar muito",
+          "Tudo sobre dia dos pais 2033 em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que dia dos pais 2033 está entre as buscas mais quentes do Brasil",
+          "Dia dos pais 2033: as tendências que dominam em 2026",
+          "Dia dos pais 2033 em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dia dos pais 2033' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Decoração",
+      "nicho_key": "decoracao",
+      "prioridade": false,
+      "termo_base": "feliz dia das crianças para imprimir pdf",
+      "seed": "dia das crianças",
+      "score": 80.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 ideias de feliz dia das crianças para imprimir pdf para fazer em casa (com molde grátis)",
+          "20 modelos de feliz dia das crianças para imprimir pdf para imprimir e usar agora",
+          "20 inspirações de feliz dia das crianças para imprimir pdf que todo mundo está buscando"
+        ],
+        "como_fazer": [
+          "Como fazer feliz dia das crianças para imprimir pdf: passo a passo fácil para iniciantes",
+          "Feliz dia das crianças para imprimir pdf: como criar em casa sem gastar muito",
+          "Tudo sobre feliz dia das crianças para imprimir pdf em 2026: moldes, ideias e tutoriais"
+        ],
+        "tendencia": [
+          "Por que feliz dia das crianças para imprimir pdf está entre as buscas mais quentes do Brasil",
+          "Feliz dia das crianças para imprimir pdf: as tendências que dominam em 2026",
+          "Feliz dia das crianças para imprimir pdf em 2026: o que está em alta e como aproveitar"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'feliz dia das crianças para imprimir pdf' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Imagem antes/depois tem CTR 40% maior no Discover",
+        "Mostre ambiente real, não renderização — mais engajamento"
+      ]
+    },
+    {
+      "nicho": "Jardinagem",
+      "nicho_key": "jardinagem",
+      "prioridade": false,
+      "termo_base": "foto de vegetais",
+      "seed": "vegetais",
+      "score": 75.0,
+      "urgencia": "🔥 Alta",
+      "titulos": {
+        "lista": [
+          "20 dicas de foto de vegetais para quem está começando do zero",
+          "20 erros em foto de vegetais que matam suas plantas (evite estes)",
+          "20 ideias de foto de vegetais baratas para fazer neste fim de semana"
+        ],
+        "como_fazer": [
+          "Como fazer foto de vegetais em casa: passo a passo para iniciantes",
+          "Foto de vegetais: o guia definitivo para 2026",
+          "Tudo sobre foto de vegetais: dicas, cuidados e erros comuns"
+        ],
+        "tendencia": [
+          "Por que foto de vegetais virou febre nas redes sociais",
+          "Foto de vegetais: a tendência que domina os jardins em 2026",
+          "Foto de vegetais em alta: como aproveitar essa onda agora"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'foto de vegetais' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto do resultado final (planta/jardim bonito) gera mais cliques",
+        "Inclua custo estimado (ex: 'por menos de R$30') — alto CTR"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "prioridade": false,
+      "termo_base": "atividades de alfabetização 1 ano para imprimir grátis",
+      "seed": "atividades de alfabetização 1 ano",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Atividades de alfabetização 1 ano para imprimir grátis para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de atividades de alfabetização 1 ano para imprimir grátis por nível — do mais fácil ao mais avançado",
+          "15 fichas de atividades de alfabetização 1 ano para imprimir grátis alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades de alfabetização 1 ano para imprimir grátis em casa: guia passo a passo para pais e professores",
+          "Atividades de alfabetização 1 ano para imprimir grátis: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades de alfabetização 1 ano para imprimir grátis: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades de alfabetização 1 ano para imprimir grátis está entre as buscas mais quentes de pais e professores",
+          "Atividades de alfabetização 1 ano para imprimir grátis em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades de alfabetização 1 ano para imprimir grátis: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de alfabetização 1 ano para imprimir grátis' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "prioridade": false,
+      "termo_base": "atividades de alfabetização 2 ano para imprimir pdf grátis",
+      "seed": "atividades de alfabetização 2 ano",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Atividades de alfabetização 2 ano para imprimir pdf grátis para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de atividades de alfabetização 2 ano para imprimir pdf grátis por nível — do mais fácil ao mais avançado",
+          "15 fichas de atividades de alfabetização 2 ano para imprimir pdf grátis alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades de alfabetização 2 ano para imprimir pdf grátis em casa: guia passo a passo para pais e professores",
+          "Atividades de alfabetização 2 ano para imprimir pdf grátis: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades de alfabetização 2 ano para imprimir pdf grátis: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades de alfabetização 2 ano para imprimir pdf grátis está entre as buscas mais quentes de pais e professores",
+          "Atividades de alfabetização 2 ano para imprimir pdf grátis em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades de alfabetização 2 ano para imprimir pdf grátis: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de alfabetização 2 ano para imprimir pdf grátis' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "prioridade": false,
+      "termo_base": "atividades de alfabetização 3 ano leitura e interpretação de texto",
+      "seed": "atividades de alfabetização 3 ano",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Atividades de alfabetização 3 ano leitura e interpretação de texto para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de atividades de alfabetização 3 ano leitura e interpretação de texto por nível — do mais fácil ao mais avançado",
+          "15 fichas de atividades de alfabetização 3 ano leitura e interpretação de texto alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades de alfabetização 3 ano leitura e interpretação de texto em casa: guia passo a passo para pais e professores",
+          "Atividades de alfabetização 3 ano leitura e interpretação de texto: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades de alfabetização 3 ano leitura e interpretação de texto: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades de alfabetização 3 ano leitura e interpretação de texto está entre as buscas mais quentes de pais e professores",
+          "Atividades de alfabetização 3 ano leitura e interpretação de texto em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades de alfabetização 3 ano leitura e interpretação de texto: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades de alfabetização 3 ano leitura e interpretação de texto' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "prioridade": false,
+      "termo_base": "sílabas para imprimir e colar em tampinhas",
+      "seed": "sílabas para imprimir",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Sílabas para imprimir e colar em tampinhas para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de sílabas para imprimir e colar em tampinhas por nível — do mais fácil ao mais avançado",
+          "15 fichas de sílabas para imprimir e colar em tampinhas alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar sílabas para imprimir e colar em tampinhas em casa: guia passo a passo para pais e professores",
+          "Sílabas para imprimir e colar em tampinhas: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em sílabas para imprimir e colar em tampinhas: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que sílabas para imprimir e colar em tampinhas está entre as buscas mais quentes de pais e professores",
+          "Sílabas para imprimir e colar em tampinhas em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Sílabas para imprimir e colar em tampinhas: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sílabas para imprimir e colar em tampinhas' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Alfabetização e Ed. Infantil",
+      "nicho_key": "atividades",
+      "prioridade": false,
+      "termo_base": "atividades para berçário de 0 a 1 ano para imprimir",
+      "seed": "atividades para berçário para imprimir",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Atividades para berçário de 0 a 1 ano para imprimir para imprimir: 15 fichas prontas para usar hoje",
+          "15 atividades de atividades para berçário de 0 a 1 ano para imprimir por nível — do mais fácil ao mais avançado",
+          "15 fichas de atividades para berçário de 0 a 1 ano para imprimir alinhadas à BNCC (baixe grátis em PDF)"
+        ],
+        "como_fazer": [
+          "Como trabalhar atividades para berçário de 0 a 1 ano para imprimir em casa: guia passo a passo para pais e professores",
+          "Atividades para berçário de 0 a 1 ano para imprimir: atividades práticas para cada fase do aprendizado",
+          "Como ajudar a criança com dificuldade em atividades para berçário de 0 a 1 ano para imprimir: dicas comprovadas em 2026"
+        ],
+        "tendencia": [
+          "Por que atividades para berçário de 0 a 1 ano para imprimir está entre as buscas mais quentes de pais e professores",
+          "Atividades para berçário de 0 a 1 ano para imprimir em 2026: novos recursos, fichas e o que os especialistas recomendam",
+          "Atividades para berçário de 0 a 1 ano para imprimir: o que mudou na abordagem pedagógica e como aplicar hoje"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para berçário de 0 a 1 ano para imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o ano escolar no título (ex: '1° ano') — filtra tráfego qualificado",
+        "Adicione 'para imprimir' ou 'em PDF' no título — dobra CTR neste nicho"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "prioridade": false,
+      "termo_base": "suplemento para cachorro com dermatite",
+      "seed": "suplemento para cachorro",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de suplemento para cachorro com dermatite",
+          "15 benefícios de suplemento para cachorro com dermatite que todo tutor deveria conhecer",
+          "15 dúvidas sobre suplemento para cachorro com dermatite respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar suplemento para cachorro com dermatite no seu cachorro: guia completo para tutores",
+          "Suplemento para cachorro com dermatite: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre suplemento para cachorro com dermatite: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que suplemento para cachorro com dermatite está entre as buscas mais quentes de tutores de pets",
+          "Suplemento para cachorro com dermatite: o que os veterinários estão recomendando em 2026",
+          "Suplemento para cachorro com dermatite em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'suplemento para cachorro com dermatite' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "prioridade": false,
+      "termo_base": "ômega 3 para cachorro idoso",
+      "seed": "ômega 3 para cachorro",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de ômega 3 para cachorro idoso",
+          "15 benefícios de ômega 3 para cachorro idoso que todo tutor deveria conhecer",
+          "15 dúvidas sobre ômega 3 para cachorro idoso respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar ômega 3 para cachorro idoso no seu cachorro: guia completo para tutores",
+          "Ômega 3 para cachorro idoso: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre ômega 3 para cachorro idoso: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que ômega 3 para cachorro idoso está entre as buscas mais quentes de tutores de pets",
+          "Ômega 3 para cachorro idoso: o que os veterinários estão recomendando em 2026",
+          "Ômega 3 para cachorro idoso em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ômega 3 para cachorro idoso' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "prioridade": false,
+      "termo_base": "probiótico para cachorro como usar",
+      "seed": "probiótico para cachorro",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de probiótico para cachorro como usar",
+          "15 benefícios de probiótico para cachorro como usar que todo tutor deveria conhecer",
+          "15 dúvidas sobre probiótico para cachorro como usar respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar probiótico para cachorro como usar no seu cachorro: guia completo para tutores",
+          "Probiótico para cachorro como usar: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre probiótico para cachorro como usar: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que probiótico para cachorro como usar está entre as buscas mais quentes de tutores de pets",
+          "Probiótico para cachorro como usar: o que os veterinários estão recomendando em 2026",
+          "Probiótico para cachorro como usar em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'probiótico para cachorro como usar' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "prioridade": false,
+      "termo_base": "colágeno para cachorro com pé de galinha",
+      "seed": "colágeno para cachorro",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de colágeno para cachorro com pé de galinha",
+          "15 benefícios de colágeno para cachorro com pé de galinha que todo tutor deveria conhecer",
+          "15 dúvidas sobre colágeno para cachorro com pé de galinha respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar colágeno para cachorro com pé de galinha no seu cachorro: guia completo para tutores",
+          "Colágeno para cachorro com pé de galinha: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre colágeno para cachorro com pé de galinha: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que colágeno para cachorro com pé de galinha está entre as buscas mais quentes de tutores de pets",
+          "Colágeno para cachorro com pé de galinha: o que os veterinários estão recomendando em 2026",
+          "Colágeno para cachorro com pé de galinha em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'colágeno para cachorro com pé de galinha' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Pet",
+      "nicho_key": "pet",
+      "prioridade": false,
+      "termo_base": "cachorro perdendo pelo o que fazer",
+      "seed": "cachorro perdendo pelo",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de que seu cachorro precisa de cachorro perdendo pelo o que fazer",
+          "15 benefícios de cachorro perdendo pelo o que fazer que todo tutor deveria conhecer",
+          "15 dúvidas sobre cachorro perdendo pelo o que fazer respondidas por veterinários"
+        ],
+        "como_fazer": [
+          "Como usar cachorro perdendo pelo o que fazer no seu cachorro: guia completo para tutores",
+          "Cachorro perdendo pelo o que fazer: o que é, para que serve e como escolher o melhor",
+          "Tudo sobre cachorro perdendo pelo o que fazer: dosagem, benefícios e cuidados em 2026"
+        ],
+        "tendencia": [
+          "Por que cachorro perdendo pelo o que fazer está entre as buscas mais quentes de tutores de pets",
+          "Cachorro perdendo pelo o que fazer: o que os veterinários estão recomendando em 2026",
+          "Cachorro perdendo pelo o que fazer em alta: como isso pode transformar a saúde do seu cachorro"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'cachorro perdendo pelo o que fazer' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto de cachorro real (não ilustração) aumenta CTR significativamente",
+        "Mencione raça ou porte no título quando possível — aumenta clique qualificado"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "prioridade": false,
+      "termo_base": "boletim escolar para preencher e imprimir",
+      "seed": "boletim escolar para imprimir",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Boletim escolar para preencher e imprimir para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de boletim escolar para preencher e imprimir por ano escolar — do 1° ao 5° ano",
+          "15 recursos de boletim escolar para preencher e imprimir que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar boletim escolar para preencher e imprimir do zero: modelo completo e editável",
+          "Boletim escolar para preencher e imprimir: passo a passo para professores e coordenadores",
+          "Tudo sobre boletim escolar para preencher e imprimir em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que boletim escolar para preencher e imprimir está entre os materiais mais baixados por educadores",
+          "Boletim escolar para preencher e imprimir: o recurso que escolas inteiras adotaram em 2026",
+          "Boletim escolar para preencher e imprimir em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'boletim escolar para preencher e imprimir' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "prioridade": false,
+      "termo_base": "ficha de avaliação educação infantil creche",
+      "seed": "ficha de avaliação educação infantil",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Ficha de avaliação educação infantil creche para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de ficha de avaliação educação infantil creche por ano escolar — do 1° ao 5° ano",
+          "15 recursos de ficha de avaliação educação infantil creche que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar ficha de avaliação educação infantil creche do zero: modelo completo e editável",
+          "Ficha de avaliação educação infantil creche: passo a passo para professores e coordenadores",
+          "Tudo sobre ficha de avaliação educação infantil creche em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que ficha de avaliação educação infantil creche está entre os materiais mais baixados por educadores",
+          "Ficha de avaliação educação infantil creche: o recurso que escolas inteiras adotaram em 2026",
+          "Ficha de avaliação educação infantil creche em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'ficha de avaliação educação infantil creche' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "prioridade": false,
+      "termo_base": "plano de aula para imprimir educação infantil",
+      "seed": "plano de aula pronto para imprimir",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Plano de aula para imprimir educação infantil para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de plano de aula para imprimir educação infantil por ano escolar — do 1° ao 5° ano",
+          "15 recursos de plano de aula para imprimir educação infantil que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar plano de aula para imprimir educação infantil do zero: modelo completo e editável",
+          "Plano de aula para imprimir educação infantil: passo a passo para professores e coordenadores",
+          "Tudo sobre plano de aula para imprimir educação infantil em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que plano de aula para imprimir educação infantil está entre os materiais mais baixados por educadores",
+          "Plano de aula para imprimir educação infantil: o recurso que escolas inteiras adotaram em 2026",
+          "Plano de aula para imprimir educação infantil em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'plano de aula para imprimir educação infantil' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Matemática e Gestão Escolar",
+      "nicho_key": "educacao",
+      "prioridade": false,
+      "termo_base": "diário de classe para imprimir pdf 2026",
+      "seed": "diário de classe para imprimir",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "Diário de classe para imprimir pdf 2026 para imprimir: 15 modelos prontos para usar hoje",
+          "15 atividades de diário de classe para imprimir pdf 2026 por ano escolar — do 1° ao 5° ano",
+          "15 recursos de diário de classe para imprimir pdf 2026 que todo professor precisa ter em 2026"
+        ],
+        "como_fazer": [
+          "Como criar diário de classe para imprimir pdf 2026 do zero: modelo completo e editável",
+          "Diário de classe para imprimir pdf 2026: passo a passo para professores e coordenadores",
+          "Tudo sobre diário de classe para imprimir pdf 2026 em 2026: modelos, exemplos e como aplicar na prática"
+        ],
+        "tendencia": [
+          "Por que diário de classe para imprimir pdf 2026 está entre os materiais mais baixados por educadores",
+          "Diário de classe para imprimir pdf 2026: o recurso que escolas inteiras adotaram em 2026",
+          "Diário de classe para imprimir pdf 2026 em 2026: o que mudou e os melhores modelos atualizados"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'diário de classe para imprimir pdf 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Para gestão escolar: mencione 'editável' ou 'pronto para preencher' no título — RPM mais alto",
+        "Para matemática: mencione o ano escolar e 'para imprimir' — busca muito específica"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "prioridade": false,
+      "termo_base": "tdah em crianças de 3 anos",
+      "seed": "tdah em crianças",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de tdah em crianças de 3 anos que todo pai precisa conhecer",
+          "15 atividades para estimular tdah em crianças de 3 anos em casa (sem precisar de terapeuta)",
+          "15 formas de ajudar seu filho com tdah em crianças de 3 anos a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com tdah em crianças de 3 anos: guia completo para pais",
+          "Tdah em crianças de 3 anos: o que é, como identificar e o que fazer em 2026",
+          "Como estimular tdah em crianças de 3 anos no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre tdah em crianças de 3 anos",
+          "Tdah em crianças de 3 anos: o que as pesquisas mais recentes dizem em 2026",
+          "Tdah em crianças de 3 anos em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'tdah em crianças de 3 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "prioridade": false,
+      "termo_base": "atividades para criança com tdah 7 anos",
+      "seed": "atividades para criança com tdah",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de atividades para criança com tdah 7 anos que todo pai precisa conhecer",
+          "15 atividades para estimular atividades para criança com tdah 7 anos em casa (sem precisar de terapeuta)",
+          "15 formas de ajudar seu filho com atividades para criança com tdah 7 anos a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com atividades para criança com tdah 7 anos: guia completo para pais",
+          "Atividades para criança com tdah 7 anos: o que é, como identificar e o que fazer em 2026",
+          "Como estimular atividades para criança com tdah 7 anos no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre atividades para criança com tdah 7 anos",
+          "Atividades para criança com tdah 7 anos: o que as pesquisas mais recentes dizem em 2026",
+          "Atividades para criança com tdah 7 anos em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atividades para criança com tdah 7 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "prioridade": false,
+      "termo_base": "sinais de autismo em crianças de 1 ano",
+      "seed": "sinais de autismo em crianças",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de sinais de autismo em crianças de 1 ano que todo pai precisa conhecer",
+          "15 atividades para estimular sinais de autismo em crianças de 1 ano em casa (sem precisar de terapeuta)",
+          "15 formas de ajudar seu filho com sinais de autismo em crianças de 1 ano a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com sinais de autismo em crianças de 1 ano: guia completo para pais",
+          "Sinais de autismo em crianças de 1 ano: o que é, como identificar e o que fazer em 2026",
+          "Como estimular sinais de autismo em crianças de 1 ano no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre sinais de autismo em crianças de 1 ano",
+          "Sinais de autismo em crianças de 1 ano: o que as pesquisas mais recentes dizem em 2026",
+          "Sinais de autismo em crianças de 1 ano em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'sinais de autismo em crianças de 1 ano' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "prioridade": false,
+      "termo_base": "dislexia em crianças de 8 anos",
+      "seed": "dislexia em crianças",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de dislexia em crianças de 8 anos que todo pai precisa conhecer",
+          "15 atividades para estimular dislexia em crianças de 8 anos em casa (sem precisar de terapeuta)",
+          "15 formas de ajudar seu filho com dislexia em crianças de 8 anos a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com dislexia em crianças de 8 anos: guia completo para pais",
+          "Dislexia em crianças de 8 anos: o que é, como identificar e o que fazer em 2026",
+          "Como estimular dislexia em crianças de 8 anos no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre dislexia em crianças de 8 anos",
+          "Dislexia em crianças de 8 anos: o que as pesquisas mais recentes dizem em 2026",
+          "Dislexia em crianças de 8 anos em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'dislexia em crianças de 8 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Desenvolvimento Infantil",
+      "nicho_key": "desenvolvimento",
+      "prioridade": false,
+      "termo_base": "atraso na fala criança de 2 anos",
+      "seed": "atraso na fala",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 sinais de atraso na fala criança de 2 anos que todo pai precisa conhecer",
+          "15 atividades para estimular atraso na fala criança de 2 anos em casa (sem precisar de terapeuta)",
+          "15 formas de ajudar seu filho com atraso na fala criança de 2 anos a partir de hoje"
+        ],
+        "como_fazer": [
+          "Como ajudar seu filho com atraso na fala criança de 2 anos: guia completo para pais",
+          "Atraso na fala criança de 2 anos: o que é, como identificar e o que fazer em 2026",
+          "Como estimular atraso na fala criança de 2 anos no seu filho: passo a passo para pais"
+        ],
+        "tendencia": [
+          "Por que cada vez mais pais estão buscando sobre atraso na fala criança de 2 anos",
+          "Atraso na fala criança de 2 anos: o que as pesquisas mais recentes dizem em 2026",
+          "Atraso na fala criança de 2 anos em 2026: novas descobertas e como isso afeta seu filho"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'atraso na fala criança de 2 anos' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Foto real de pai/mãe com filho tem CTR maior que ilustração",
+        "Mencione a faixa etária no título — pais buscam por idade específica do filho"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "prioridade": false,
+      "termo_base": "concurso público professor 2026 são paulo",
+      "seed": "concurso público professor 2026",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Concurso público professor 2026 são paulo: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em concurso público professor 2026 são paulo está movimentando educadores em 2026",
+          "Concurso público professor 2026 são paulo: edital aberto e o que você precisa saber antes de se inscrever",
+          "Concurso público professor 2026 são paulo em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'concurso público professor 2026 são paulo' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "prioridade": false,
+      "termo_base": "edital concurso professor ifce 2026",
+      "seed": "edital concurso professor 2026",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Edital concurso professor ifce 2026: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em edital concurso professor ifce 2026 está movimentando educadores em 2026",
+          "Edital concurso professor ifce 2026: edital aberto e o que você precisa saber antes de se inscrever",
+          "Edital concurso professor ifce 2026 em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'edital concurso professor ifce 2026' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "prioridade": false,
+      "termo_base": "processo seletivo professor 2026 rj",
+      "seed": "processo seletivo professor 2026",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Processo seletivo professor 2026 rj: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em processo seletivo professor 2026 rj está movimentando educadores em 2026",
+          "Processo seletivo professor 2026 rj: edital aberto e o que você precisa saber antes de se inscrever",
+          "Processo seletivo professor 2026 rj em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'processo seletivo professor 2026 rj' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "prioridade": false,
+      "termo_base": "concurso prefeitura professor 2025",
+      "seed": "concurso prefeitura professor",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Concurso prefeitura professor 2025: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em concurso prefeitura professor 2025 está movimentando educadores em 2026",
+          "Concurso prefeitura professor 2025: edital aberto e o que você precisa saber antes de se inscrever",
+          "Concurso prefeitura professor 2025 em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'concurso prefeitura professor 2025' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    },
+    {
+      "nicho": "Concursos e Formação Docente",
+      "nicho_key": "concursos",
+      "prioridade": false,
+      "termo_base": "modelo de plano de aula para concurso de professor universitário",
+      "seed": "plano de aula para concurso professor",
+      "score": 60.0,
+      "urgencia": "⬆️ Média",
+      "titulos": {
+        "lista": [
+          "15 concursos para professores com inscrições abertas em 2026",
+          "15 dicas para passar na prova didática de concurso público",
+          "15 editais de concurso professor que você não pode perder em 2026"
+        ],
+        "como_fazer": [
+          "Como montar plano de aula para concurso público: modelo completo 2026",
+          "Modelo de plano de aula para concurso de professor universitário: como se preparar e o que cai na prova em 2026",
+          "Como se inscrever em concurso para professor: passo a passo completo"
+        ],
+        "tendencia": [
+          "Por que o concurso de professor em modelo de plano de aula para concurso de professor universitário está movimentando educadores em 2026",
+          "Modelo de plano de aula para concurso de professor universitário: edital aberto e o que você precisa saber antes de se inscrever",
+          "Modelo de plano de aula para concurso de professor universitário em 2026: vagas, salário e como se preparar em tempo recorde"
+        ]
+      },
+      "formato_recomendado": "Lista",
+      "tamanho": "1.800 a 2.500 palavras",
+      "imagem": "Foto real relacionada a 'modelo de plano de aula para concurso de professor universitário' — sem texto, alta resolução",
+      "dicas_discover": [
+        "Publique de manhã (7h–9h BRT) — pico de abertura do Discover",
+        "Imagem mínima 1200×628 px, sem texto sobreposto",
+        "Título entre 50–70 caracteres — ideal para o cartão do Discover",
+        "Mencione o estado ou cidade no título quando houver edital específico aberto",
+        "Inclua o ano no título — candidatos buscam informação atualizada",
+        "Artigos sobre prova didática têm RPM alto (anunciante = curso preparatório)"
+      ]
+    }
+  ]
+}
